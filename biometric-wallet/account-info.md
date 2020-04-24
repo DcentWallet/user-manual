@@ -1,9 +1,9 @@
-# \[번역필요\] Checking account info on Biometric Wallet
+# Checking account info on Biometric Wallet
 
-콜드월렛에서 모바일 앱과 동기화되어 있는 계정 정보를 확인할 수 있습니다.
+From the Biometric Wallet, you can check the account information that is synchronized with the mobile app.
 
 {% hint style="info" %}
-콜드월렛이 모바일 앱과 동기화되지 않더라도 각 코인별 기본 계정 정보를 콜드월렛에서 확인할 수 있습니다.
+Even if the Biometric Wallet is not synchronized with the mobile app, the basic account information for each coin can be checked from the Biometric Wallet.
 {% endhint %}
 
 ## Check account info
@@ -14,11 +14,11 @@ The main screen of the device lists various coin accounts. Select and choose an 
 
 For more information on **how to create an account**, please see [here](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5_Ki1mqW-3bIz0qsbC/mobile-app/create-account/@drafts).
 
-모바일 앱과 콜드월렛 동기화와 관련된 내용은 [여기](synch-with-app.md)를 참조해 주세요
+For more information on synchronizing between Biometric Wallet and mobile app, please see [here](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5f_xELUeAYlf4Fxqwo/biometric-wallet/synch-with-app/@drafts).
 
-## 계정 주소 확인
+## Check account address
 
-모바일 앱을 사용하지 않고도 콜드월렛에서 계정 주소와 계정 주소의 QR 코드를 확인할 수 있습니다.
+Without the mobile app, you can also check coin account address and QR code form of the address from the Biometric Wallet.
 
 ![](../.gitbook/assets/image%20%28158%29.png)
 

@@ -1,4 +1,4 @@
-# \[번역필요\] Biometric Wallet "Setting" menu
+# Biometric Wallet "Setting" menu
 
 ## Bluetooth Menu
 
@@ -55,9 +55,9 @@ To perform Device Wipe, you must enter your 4-digit PIN, read the warning messag
 When you confirm \[OK&OFF\] to Device Wipe, all information will be deleted including private keys. Make sure you have your Mnemonic Codes before you perform Device Wipe.
 {% endhint %}
 
-## 언어 메뉴 <a id="undefined-2"></a>
+## Language Menu <a id="undefined-2"></a>
 
-콜드월렛의 언어 설정을 변경할 수 있습니다.
+You can change the language used on the Biometric Wallet.
 
 ## 기기 정보 메뉴 <a id="undefined-3"></a>
 

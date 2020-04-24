@@ -16,8 +16,8 @@
   * [Troubleshooting Guide](biometric-wallet/firmware-update/firmware-trouble-shooting.md)
 * [Synchronizing the Biometric Wallet with the Mobile App](biometric-wallet/synch-with-app.md)
 * [Recovering your wallet](biometric-wallet/recovery.md)
-* [\[번역필요\] Checking account info on Biometric Wallet](biometric-wallet/account-info.md)
-* [\[번역필요\] Biometric Wallet "Setting" menu](biometric-wallet/setting-menu.md)
+* [Checking account info on Biometric Wallet](biometric-wallet/account-info.md)
+* [Biometric Wallet "Setting" menu](biometric-wallet/setting-menu.md)
 
 ## Card type Wallet <a id="card-wallet"></a>
 
