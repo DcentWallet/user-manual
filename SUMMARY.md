@@ -28,7 +28,7 @@
 
 ## Mobile App
 
-* [\[번역필요\] Mobile App introduction](mobile-app/intro.md)
+* [Mobile App introduction](mobile-app/intro.md)
 * [Mobile App download](mobile-app/mobile-app-download.md)
 * [How to create a coin account](mobile-app/create-account.md)
 * [D'CENT Manager Menu](mobile-app/mobile-app-dcent-manager/README.md)
