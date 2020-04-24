@@ -37,7 +37,7 @@ While on this screen, the Bluetooth LED will be lit which is located on the top 
 ### Connecting from the Android phone
 
 1\) From your Android phone, go to the Bluetooth menu.  
-For more information on how to find the Bluetooth menu, please refer to this [document](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5RjIBHlHmvuyqJ_EoT/biometric-wallet/android-connect/android-bluetooth-menu/@drafts).  
+For more information on how to find the Bluetooth menu, please refer to this [document](android-bluetooth-menu.md).  
 
 2\) If Bluetooth is disabled, please enable it.
 
@@ -84,7 +84,7 @@ If running the mobile app for the first time, you must choose a wallet mode. Cho
 Register mobile app password for access protection. To set the password, enter the same 6-digit number twice. Mobile App password is required every time you run the D'CENT mobile app. Make sure to remember it.
 
 {% hint style="info" %}
-Mobile App password can be changed from the [App "Setting" menu](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5Rt7L-CaxjrPtCMV6p/mobile-app/mobile-app-setting-menu/@drafts) at any time. Instead of password, you can also use biometric authentication to protect access to your wallet if your mobile phone supports the feature.
+Mobile App password can be changed from the [App "Setting" menu](../../mobile-app/mobile-app-setting-menu.md) at any time. Instead of password, you can also use biometric authentication to protect access to your wallet if your mobile phone supports the feature.
 {% endhint %}
 
 ### Completing the basic setup on mobile app
