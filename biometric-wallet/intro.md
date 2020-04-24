@@ -8,11 +8,11 @@
 
 {% page-ref page="iphone-connect.md" %}
 
-## 지갑 복구
+## Recover Wallet
 
 {% page-ref page="recovery.md" %}
 
-## 펌웨어 관리
+## Firmware management
 
 {% page-ref page="firmware-update/" %}
 
