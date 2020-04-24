@@ -40,7 +40,7 @@ To create a new wallet, select "Create Wallet" from the menu.
 
 {% hint style="info" %}
 Selecting "Create Wallet" will create a wallet from a new private key.   
-If you wish to recover an existing wallet, please refer [here](https://app.gitbook.com/@dcentwallet/s/userguide-kr/~/drafts/-M5QpSwrEQXTBhgKRvHm/biometric-wallet/recovery/@drafts).
+If you wish to recover an existing wallet, please refer [here](recovery.md).
 {% endhint %}
 
 ## Step-2 : Register PIN & Fingerprint
@@ -62,7 +62,7 @@ Re-enter the same 4-digit PIN to verify.
  ※ If the PIN numbers do not match, you will have to restart the PIN registration.
 
 {% hint style="info" %}
-After setting up your cold wallet, you can change the PIN value from the [Setting](setting-menu.md) menu.
+After setting up your cold wallet, you can change the PIN value from the Biometric Wallet [Setting](setting-menu.md) menu.
 {% endhint %}
 
 ### Register Fingerprint
@@ -72,7 +72,7 @@ After setting up your cold wallet, you can change the PIN value from the [Settin
 ![](../.gitbook/assets/image%20%28178%29.png)
 
 Fingerprint sensor is located in the middle of where the navigational buttons are located.   
-Check the location of [fingerprint sensor](https://app.gitbook.com/@dcentwallet/s/userguide-kr/~/drafts/-M5Qs_uj9Y25IL7IhVGE/biometric-wallet/setting-up#before-start/@drafts).
+Check the location of [fingerprint sensor](setting-up.md#before-start).
 
 2\) Slightly change the angular positioning of the same finger when scanning and repeat until 100% \(8 correct scans\) is reached.
 
@@ -88,7 +88,7 @@ Scan your fingerprint one last time to verify registered fingerprint.
 
 ※ If re-registering fingerprint, try using a different finger instead.
 
-※ If unable to register your fingerprint for any reason, you will be given an option to skip the fingerprint registration. Fingerprint can be registered from the [Setting](https://app.gitbook.com/@dcentwallet/s/userguide-kr/~/drafts/-M5Qs_uj9Y25IL7IhVGE/biometric-wallet/setting-menu/@drafts) menu at a later time.
+※ If unable to register your fingerprint for any reason, you will be given an option to skip the fingerprint registration. Fingerprint can be registered from the [Setting](setting-menu.md#enroll-finger) menu at a later time.
 
 ※ If fingerprint verification fails, your fingerprint will not be saved.
 
