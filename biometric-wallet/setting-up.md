@@ -154,11 +154,11 @@ From the list of words available, select the correct word using ∧/∨ buttons 
 
 Congratulation, you have passed the quiz and your new wallet is created. From your cold wallet, you can check the lists of coin accounts available. You are now ready to use your new wallet together with the mobile application.
 
-* [How to connect with Android phone](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5RVUx4Ks0Msuq1t7Eo/biometric-wallet/android-connect/@drafts)
-* [How to connect with iOS phone](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5RVUx4Ks0Msuq1t7Eo/biometric-wallet/iphone-connect/@drafts)
+* [How to connect with Android phone](android-connect/)
+* [How to connect with iOS phone](iphone-connect.md)
 
 {% hint style="info" %}
-You can find the complete list of cryptocurrency assets supported on D'CENT Biometric Wallet from [here](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5RVUx4Ks0Msuq1t7Eo/supported-coin-list/@drafts).
+You can find the complete list of cryptocurrency assets supported on D'CENT Biometric Wallet from [here](../supported-coin-list/).
 {% endhint %}
 
 ### Check for the latest Firmware
