@@ -59,9 +59,9 @@ When you confirm \[OK&OFF\] to Device Wipe, all information will be deleted incl
 
 You can change the language used on the Biometric Wallet.
 
-## 기기 정보 메뉴 <a id="undefined-3"></a>
+## Device Info Menu <a id="undefined-3"></a>
 
-콜드월렛의 기기 정보를 확인할 수 있습니다.  
+You can check the Biometric Wallet device information from this menu.  
 
 
 ![](../.gitbook/assets/image%20%2826%29.png)
