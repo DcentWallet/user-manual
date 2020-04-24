@@ -1,4 +1,4 @@
-# \[번역필요\] Recovering your wallet
+# Recovering your wallet
 
 ## Before you begin <a id="before-start"></a>
 
@@ -81,17 +81,17 @@ Scan your fingerprint one last time to verify registered fingerprint.
 
 ※ If fingerprint verification fails, your fingerprint will not be saved.
 
-## 3단계 : 복구 단어 입력 <a id="3"></a>
+## Step-3 : enter the recovery words <a id="3"></a>
 
-1\) 복구 카드에 기록해 둔 24개의 복구 단어를 1번부터 차례대로 24번까지 입력합니다.
+1\) Enter the 24 recovery words recorded on the recovery card, numbered 1 through 24.
 
 ![](../.gitbook/assets/image%20%28176%29.png)
 
-2\) 아래\(∨\) 버튼을 눌러 24개의 복구단어를 순서대로 잘 입력하였는지 검토합니다.
+2\) Press the Down \(∨\) button to review whether the 24 recovery words were entered correctly in order.
 
 ![](../.gitbook/assets/image%20%28199%29.png)
 
-3\) 모든 단어가 올바르게 입력되었다면 검토 메뉴 가장 아래에 있는 "I am ready"를 선택합니다.
+3\) If all words are entered correctly, select "I am ready" at the bottom of the review menu.
 
 ![](../.gitbook/assets/image%20%28103%29.png)
 
