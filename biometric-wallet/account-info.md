@@ -12,9 +12,9 @@ The main screen of the device lists various coin accounts. Select and choose an 
 
 ![](../.gitbook/assets/image%20%2828%29.png)
 
-For more information on **how to create an account**, please see [here](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5_Ki1mqW-3bIz0qsbC/mobile-app/create-account/@drafts).
+For more information on **how to create an account**, please see [here](../mobile-app/create-account.md).
 
-For more information on synchronizing between Biometric Wallet and mobile app, please see [here](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5f_xELUeAYlf4Fxqwo/biometric-wallet/synch-with-app/@drafts).
+For more information on synchronizing between Biometric Wallet and mobile app, please see [here](synch-with-app.md).
 
 ## Check account address
 

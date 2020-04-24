@@ -109,7 +109,7 @@ Special care is required for safe storage \(away from fire, water, sunlight or p
 
 You have completed wallet recovery. From your cold wallet, you can check the lists of coin accounts available. You are now ready to use your new wallet together with the mobile application.
 
-* [How to connect with Android phone](android-connect/)
+* [How to connect with Android phone](android-connect/) 
 * [How to connect with iOS phone](iphone-connect.md)
 
 {% hint style="info" %}

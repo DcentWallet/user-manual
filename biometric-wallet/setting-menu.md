@@ -4,8 +4,9 @@
 
 This menu is for connecting Biometric Wallet via Bluetooth with Android phone or iOS phone. 
 
-For connecting Bluetooth for Android, more information can be found [here](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5W7C7PEKtmQu9cFPQE/biometric-wallet/android-connect/@drafts).  
-For connecting Bluetooth for iOS, more information can be found [here](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5W7C7PEKtmQu9cFPQE/biometric-wallet/iphone-connect/@drafts). 
+For connecting Bluetooth for Android, more information can be found [here](android-connect/).  
+  
+For connecting Bluetooth for iOS, more information can be found [here](iphone-connect.md). 
 
 ## Security Menu
 
