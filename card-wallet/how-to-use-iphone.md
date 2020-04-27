@@ -1,5 +1,9 @@
 # 아이폰에서 사용하기
 
+{% hint style="success" %}
+동영상 강좌: [카드월렛 초기 설정하기](https://youtu.be/TceAtOhUVy0) 
+{% endhint %}
+
 ## 아이폰에서 NFC 기능 사용하기
 
 아이폰에서 NFC기능은 아이폰7 이후 버전과 iOS 13 이후 버전에서만 사용할 수 있습니다. 

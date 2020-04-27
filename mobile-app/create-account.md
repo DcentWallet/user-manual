@@ -2,6 +2,10 @@
 
 ## 계정 생성하기
 
+{% hint style="success" %}
+동영상 강좌: [코인 계정 생성하기](https://youtu.be/5GPi3GUE7jY) 
+{% endhint %}
+
 계정 탭\(Account\)의 `+` 버튼을 눌러 계정을 생성할 수 있습니다.
 
 ![](../.gitbook/assets/image%20%28112%29.png)

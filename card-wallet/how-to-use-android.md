@@ -1,5 +1,9 @@
 # 안드로이드에서 사용하기
 
+{% hint style="success" %}
+동영상 강좌: [카드월렛 초기 설정하기](https://youtu.be/TceAtOhUVy0) 
+{% endhint %}
+
 ## NFC 활성화
 
 먼저 안드로이드 폰의 NFC 기능을 "기본모드"로 활성화해주세요.
