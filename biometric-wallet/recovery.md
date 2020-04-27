@@ -113,7 +113,7 @@ You have completed wallet recovery. From your cold wallet, you can check the lis
 * [How to connect with iOS phone](iphone-connect.md)
 
 {% hint style="info" %}
-You can find the complete list of cryptocurrency assets supported on D'CENT Biometric Wallet from [here](../supported-coin-list/).
+You can find the complete list of cryptocurrency assets supported on D'CENT Biometric Wallet from [here]().
 {% endhint %}
 
 ### Check for the latest Firmware

@@ -8,7 +8,5 @@ D'CENT Card type Wallet is enabled with NFC technology for simple and convenient
 
 {% page-ref page="how-to-use-iphone.md" %}
 
-{% page-ref page="../supported-coin-list/" %}
-
 
 

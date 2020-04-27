@@ -16,5 +16,3 @@
 
 {% page-ref page="firmware-update/" %}
 
-{% page-ref page="../supported-coin-list/" %}
-

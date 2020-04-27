@@ -22,8 +22,6 @@ description: Welcome to D'CENT User Guide.
 
 {% page-ref page="coin-send-receive/send/" %}
 
-{% page-ref page="supported-coin-list/" %}
-
 ## D'CENT Card type Wallet
 
 {% page-ref page="card-wallet/how-to-use-android.md" %}

@@ -19,7 +19,7 @@ Select the coin you want to add from the list. You can also search by coin name 
 ![](../.gitbook/assets/image%20%2866%29.png)
 
 {% hint style="info" %}
-Click [here](../supported-coin-list/) for a full list of cryptocurrencies supported by D'CENT Wallet.
+Click [here]() for a full list of cryptocurrencies supported by D'CENT Wallet.
 {% endhint %}
 
 ### What if the Coin/Token you want to add is not on the list?

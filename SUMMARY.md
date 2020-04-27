@@ -2,6 +2,7 @@
 
 * [Getting Started](README.md)
 * [Frequently asked questions \(FAQ\)](faq.md)
+* [Supported Coins & Tokens](https://dcentwallet.com/SupportedCoin)
 
 ## Biometric Wallet
 
@@ -46,8 +47,6 @@
   * [Software Wallet mode](coin-send-receive/send/mode_appwallet.md)
 * [How to use XRP account](coin-send-receive/ripple-xrp/README.md)
   * [Sending XRP using D'CENT Wallet](coin-send-receive/ripple-xrp/xrp_send.md)
-* [Supported Coins & Tokens](supported-coin-list/README.md)
-  * [Token Type](supported-coin-list/token-type.md)
 
 ## Cryptocurrency Basics <a id="cryptocurrency-basic"></a>
 
