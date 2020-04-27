@@ -2,7 +2,7 @@
 
 ### Enter the recipient address and the Destination Tag
 
-![](../../.gitbook/assets/dcent_send_xrp.png)
+![](../../.gitbook/assets/dcent_send_xrp_en.png)
 
 1\) From mobile app, press the “**Send**” button of the Ripple \(XRP\) account to be used for the transaction.
 
