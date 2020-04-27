@@ -31,9 +31,9 @@ This is the factory\(default\) PIN for the hardware wallet. Factory PIN is conce
 
 One address for your Ethereum, ERC20 Token, ERC721 \(NFT\) Token.
 
-Curious about ERC20 Tokens? Read more from [ERC20 basics](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5WGuJ-_4SqNkNoTnIi/cryptocurrency-basic/erc20/@drafts).
+Curious about ERC20 Tokens? Read more from [ERC20 basics](../cryptocurrency-basic/erc20.md).
 
-Curious about ERC721 \(NFT\) Tokens? Read more from [ERC721 basics](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5WGuJ-_4SqNkNoTnIi/cryptocurrency-basic/erc721-nft/@drafts).
+Curious about ERC721 \(NFT\) Tokens? Read more from [ERC721 basics](../cryptocurrency-basic/erc721-nft.md).
 
 ### Address in QR Code
 

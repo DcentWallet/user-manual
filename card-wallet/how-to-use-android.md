@@ -59,14 +59,14 @@ When the mobile app basic setup is completed, you will see Ethereum as the defau
 
 ![](../.gitbook/assets/image%20%2822%29.png)
 
-Now, you can add ERC20 Token account. More information on how to add new token accounts can be found [here](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5a--0HVH7TTIqrWDKL/mobile-app/create-account/@drafts).
+Now, you can add ERC20 Token account. More information on how to add new token accounts can be found [here](../mobile-app/create-account.md).
 
 For the ERC721 \(NFT\) Tokens, you do not need to create any separate accounts. You can receive any NFT tokens directly to your Ethereum address.
 
-* What is ERC20? To learn more about the basics of ERC20, please visit this [link](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5a--0HVH7TTIqrWDKL/cryptocurrency-basic/erc20/@drafts).
-* What is ERC721? To learn more about the basics of ERC721, please visit this [link](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5a--0HVH7TTIqrWDKL/cryptocurrency-basic/erc721-nft/@drafts).
+* What is ERC20? To learn more about the basics of ERC20, please visit this [link](../cryptocurrency-basic/erc20.md).
+* What is ERC721? To learn more about the basics of ERC721, please visit this [link](../cryptocurrency-basic/erc721-nft.md).
 
-Card type Wallet supports the following [list of coins](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5a--0HVH7TTIqrWDKL/supported-coin-list/@drafts).
+Card type Wallet supports the following : [https://dcentwallet.com/SupportedCoin](https://dcentwallet.com/SupportedCoin)
 
 ## Basic Usage Guide
 

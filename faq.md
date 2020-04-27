@@ -22,17 +22,17 @@ IoTrust does not operate a server that manages customer's private key and person
 
 ## Which cryptocurrency assets are supported on D'CENT Biometric Wallet?
 
-You can see the full list of all the coins supported [here]().
+You can see the full list of all the coins supported: [https://dcentwallet.com/SupportedCoin](https://dcentwallet.com/SupportedCoin) 
 
 ## How do I connect D'CENT Biometric Wallet to the mobile app?
 
 D'CENT Biometric Wallet and mobile app connects primarily using Bluetooth.   
   
-If you are using Android, please refer [here](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5en72SJaoZPrQDBwSw/biometric-wallet/android-connect/android-bluetooth-menu/@drafts).   
+If you are using Android, please refer [here](biometric-wallet/android-connect/).   
   
-If you are using iPhone, please refer [here](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5en72SJaoZPrQDBwSw/biometric-wallet/iphone-connect/@drafts).   
+If you are using iPhone, please refer [here](biometric-wallet/iphone-connect.md).   
   
-On Android phones, you can also connect via a USB cable. Click [here](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5en72SJaoZPrQDBwSw/biometric-wallet/android-connect/android-otg/@drafts) for how to connect USB cable with an Android phone. 
+On Android phones, you can also connect via a USB cable. Click [here](biometric-wallet/android-connect/android-otg.md) for how to connect USB cable with an Android phone. 
 
 ## Why does my Bitcoin Address keeps on changing? 
 
@@ -83,7 +83,7 @@ With exception to the publicly disclosed transaction data from the blockchain, *
 
 ## Can I use my mobile phone and D'CENT Biometric Wallet using the wired connection?
 
-For Android phones, you can use it by connecting with an OTG cable. Please click [here](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5en72SJaoZPrQDBwSw/biometric-wallet/android-connect/android-otg/@drafts) for more information.
+For Android phones, you can use it by connecting with an OTG cable. Please click [here](biometric-wallet/android-connect/android-otg.md) for more information.
 
 ## Can I send coins using only the Biometric Wallet without the mobile app or a PC software?
 
@@ -110,7 +110,7 @@ Currently, only the PC environment supports firmware update. The firmware update
 
 ## Firmware update stopped in the middle. What should I do? 
 
-Firmware update usually takes around 5 minutes. It may take up to 10 minutes. If there is no progress after this time, please press and hold both the "Down button" + "Power button" to force shutdown and try again. Detailed guide can be found [here](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5en72SJaoZPrQDBwSw/biometric-wallet/firmware-update/firmware-trouble-shooting/@drafts).
+Firmware update usually takes around 5 minutes. It may take up to 10 minutes. If there is no progress after this time, please press and hold both the "Down button" + "Power button" to force shutdown and try again. Detailed guide can be found [here](biometric-wallet/firmware-update/firmware-trouble-shooting.md).
 
 ## Will I be able to continue managing my assets if D'CENT \(IoTrust\) goes broke?
 
@@ -152,5 +152,5 @@ If you use a backup card, you can create a copy of the original Card type Wallet
 ## Can I use the Card type Wallet on the iPhone? 
 
 For iPhone 7 or higher and iOS 13 or higher, you can use the Card type Wallet.   
-You can find out more [here](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5fMPfpBiLhM76qe3Qa/card-wallet/how-to-use-iphone/@drafts).
+You can find out more [here](card-wallet/how-to-use-iphone.md).
 

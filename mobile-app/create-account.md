@@ -10,7 +10,7 @@ From the Account tab, click the `+` button to create an account.
 In the case of using the **Biometric Wallet mode**, your Biometric Wallet must also be connect in order to create an account.
 {% endhint %}
 
-Please refer to the [D'CENT Manager Menu](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5a9H7XuWafnCYSGpwc/mobile-app/mobile-app-dcent-manager/@drafts) to change the wallet mode of the mobile app.
+Please refer to the [D'CENT Manager Menu](mobile-app-dcent-manager/) to change the wallet mode of the mobile app.
 
 ## Select the Coin/Token
 
@@ -19,7 +19,7 @@ Select the coin you want to add from the list. You can also search by coin name 
 ![](../.gitbook/assets/image%20%2866%29.png)
 
 {% hint style="info" %}
-Click [here]() for a full list of cryptocurrencies supported by D'CENT Wallet.
+Click [https://dcentwallet.com/SupportedCoin](https://dcentwallet.com/SupportedCoin) for a full list of cryptocurrencies supported by D'CENT Wallet.
 {% endhint %}
 
 ### What if the Coin/Token you want to add is not on the list?
@@ -59,5 +59,5 @@ Now you can try SEND or RECEIVE from your account.
 
 ## When an account is created in the Biometric Wallet mode
 
-When an account is created in the Biometric Wallet mode, the created account information is also updated in the Biometric Wallet. For more information, refer to [Synchronizing the Biometric Wallet with the Mobile App](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5aIdhP7XlxzGdW1Jw3/biometric-wallet/synch-with-app/@drafts).
+When an account is created in the Biometric Wallet mode, the created account information is also updated in the Biometric Wallet. For more information, refer to [Synchronizing the Biometric Wallet with the Mobile App](../biometric-wallet/synch-with-app.md).
 

@@ -97,7 +97,7 @@ You are few steps away from start using the Biometric Wallet. First, you will ne
 
 After completing the basic setup on your mobile app, you will now proceed with synchronizing with the Biometric Wallet.
 
-While your mobile app is opened, power on your Biometric Wallet. If you have already completed the step of [Bluetooth pairing](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5Uv9zuROTGj8v0C1vk/biometric-wallet/android-connect#bluetooth-paring/@drafts), synchronization will begin automatically. Synchronization will take few seconds to complete.
+While your mobile app is opened, power on your Biometric Wallet. If you have already completed the step of [Bluetooth pairing](./#bluetooth-paring), synchronization will begin automatically. Synchronization will take few seconds to complete.
 
 ![](../../.gitbook/assets/image%20%2819%29.png)
 
@@ -109,5 +109,5 @@ When the synchronization is complete, you will notice the Bluetooth icon\(mint c
 
 ![](../../.gitbook/assets/image%20%28145%29.png)
 
-You can now add a coin account to manage using your Biometric Wallet. More information on how to add coin account can be found [here](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5Uv9zuROTGj8v0C1vk/mobile-app/create-account/@drafts).
+You can now add a coin account to manage using your Biometric Wallet. More information on how to add coin account can be found [here](../../mobile-app/create-account.md).
 

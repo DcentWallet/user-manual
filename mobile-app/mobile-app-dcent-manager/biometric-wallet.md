@@ -10,7 +10,7 @@ You can check the Biometric Wallet firmware version in D'CENT Manager. If the fi
 Firmware update is currently supported only from PC. It is strongly recommended to use the Chrome browser to perform the firmware update from your PC.
 {% endhint %}
 
-Click [here](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5aIdhP7XlxzGdW1Jw3/biometric-wallet/firmware-update/@drafts) for more information on firmware updates.
+Click [here](../../biometric-wallet/firmware-update/) for more information on firmware updates.
 
 ## Changing the name of your Biometric Wallet
 

@@ -54,7 +54,10 @@ From a single D'CENT mobile app, users are given the choices of using Biometric 
         <p>v3.0.4 or later</p>
         <p>2020.03</p>
         </td>
-        <td style="text-align:center">Coming Soon</td>
+        <td style="text-align:center">
+          <p>v3.0.2 or later</p>
+          <p>2020.04</p>
+        </td>
     </tr>
     <tr>
       <td style="text-align:center">&quot;All4One&quot; service</td>
@@ -64,7 +67,10 @@ From a single D'CENT mobile app, users are given the choices of using Biometric 
         <p>v3.0.4 or later</p>
         <p>2020.03</p>
         </td>
-        <td style="text-align:center">Coming Soon</td>
+        <td style="text-align:center">
+          <p>v3.0.2 or later</p>
+          <p>2020.04</p>
+        </td>
     </tr>
   </tbody>
 </table>## Next Features

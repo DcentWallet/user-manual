@@ -15,6 +15,6 @@ If you delete the D'CENT mobile app or lose your mobile phone without backing up
 {% hint style="info" %}
 The mnemonic code of your software wallet can be used to recover your wallet on the Biometric Wallet.   
   
-Click here for more information about[ recovering your wallet](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M5aVZ0M6BV1BafjdkGZ/biometric-wallet/recovery/@drafts) on Biometric Wallet.
+Click here for more information about [recovering your wallet](../../biometric-wallet/recovery.md) on Biometric Wallet.
 {% endhint %}
 
