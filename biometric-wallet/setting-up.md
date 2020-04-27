@@ -4,6 +4,10 @@ description: 콜드월렛에 새로운 지갑 생성하기
 
 # 콜드월렛 초기 설정
 
+{% hint style="success" %}
+동영상 강좌: [버튼 사용법](https://youtu.be/rul6kKoX_Lc) 
+{% endhint %}
+
 ## 시작하기 전에 <a id="before-start"></a>
 
 ![&#xB514;&#xC13C;&#xD2B8; &#xC9C0;&#xBB38;&#xC778;&#xC99D;&#xD615; &#xCF5C;&#xB4DC;&#xC6D4;&#xB81B; &#xC0AC;&#xC6A9;&#xC790; &#xC778;&#xD130;&#xD398;&#xC774;&#xC2A4;](../.gitbook/assets/img-howtouse-dongle-ko.png)
@@ -15,6 +19,10 @@ description: 콜드월렛에 새로운 지갑 생성하기
 * 백버튼 : 선택을 취소합니다.
 
 ## 1단계 : 언어 선택 및 지갑 생성
+
+{% hint style="success" %}
+동영상 강좌: [콜드월렛 초기 설정](https://youtu.be/iUwj1L_8F8c) 
+{% endhint %}
 
 ### 전원 켜기
 

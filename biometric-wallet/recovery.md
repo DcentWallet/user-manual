@@ -16,6 +16,10 @@
 
 ## 1단계 : 언어 선택 및 지갑 복구
 
+{% hint style="success" %}
+동영상 강좌: [지갑 복구하는 방법](https://youtu.be/RraO7qeiWww) 
+{% endhint %}
+
 ### 전원 켜기
 
 기기 옆 파워 버튼을 3초 이상 눌러 전원을 켭니다.
