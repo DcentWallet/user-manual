@@ -6,7 +6,7 @@ If you are using the Biometric Wallet mode, you can send coins only when your Bi
 
 ### Enter the Recipient address
 
-![](../../.gitbook/assets/mode_biometric_send_01.png)
+![](../../.gitbook/assets/mode_biometric_send_01_en.png)
 
 1\) From the mobile app, press the “Send” button of the coin account to be used for the transaction.
 
@@ -19,7 +19,7 @@ If you are using the Biometric Wallet mode, you can send coins only when your Bi
 
 ### Enter the amount to send and set the fee
 
-![](../../.gitbook/assets/mode_biometric_send_02.png)
+![](../../.gitbook/assets/mode_biometric_send_02_en.png)
 
 1\) Enter the number of cryptocurrency you want to send, or enter the amount in local currency.
 
@@ -33,7 +33,7 @@ By setting it to "fast" and paying more fees, it is likely that the processing t
 
 ### Final confirmation from your Biometric Wallet
 
-![](../../.gitbook/assets/mode_biometric_send_03.png)
+![](../../.gitbook/assets/mode_biometric_send_03_en.png)
 
 1\) Check the transaction information displayed on the Biometric Wallet again. If the information is correct, click the "**OK**" button.
 
