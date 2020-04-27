@@ -4,64 +4,15 @@ description: 디센트 월렛에서 지원하는 코인 및 토큰 리스트
 
 # 지원코인 리스트
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:center">&#xC544;&#xC774;&#xCF58;</th>
-      <th style="text-align:center">&#xC2EC;&#xBCFC;</th>
-      <th style="text-align:center">&#xCF54;&#xC778; &#xC774;&#xB984;</th>
-      <th style="text-align:center"><a href="token-type.md">&#xD1A0;&#xD070; &#xD0C0;&#xC785;</a>
-      </th>
-      <th style="text-align:center">
-        <p>&#xC9C0;&#xBB38;&#xC778;&#xC99D;&#xD615;</p>
-        <p>&#xCF5C;&#xB4DC;&#xC6D4;&#xB81B;</p>
-      </th>
-      <th style="text-align:center">
-        <p>&#xCE74;&#xB4DC;&#xD0C0;&#xC785;</p>
-        <p>&#xCF5C;&#xB4DC;&#xC6D4;&#xB81B;</p>
-      </th>
-      <th style="text-align:center">
-        <p>&#xC18C;&#xD504;&#xD2B8;&#xC6E8;&#xC5B4;</p>
-        <p>&#xC6D4;&#xB81B;</p>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:center">
-        <img src="../.gitbook/assets/image (127).png" alt/>
-      </td>
-      <td style="text-align:center">BTC</td>
-      <td style="text-align:center">Bitcoin</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center">V</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <img src="../.gitbook/assets/image (161).png" alt/>
-      </td>
-      <td style="text-align:center">ETH</td>
-      <td style="text-align:center">Ethereum</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center">V</td>
-      <td style="text-align:center">V</td>
-      <td style="text-align:center">V</td>
-    </tr>
-    <tr>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
-    </tr>
-  </tbody>
-</table>
-
-
-
-
+| 아이콘                                                                                               | 심볼          | 코인 이름                               | 토큰 타입 | 지문인증형 콜드월렛                                                                                                                   | 카드타입 콜드월렛                                                                                                                    | 소프트웨어 월렛                                                                                                                     |
+| ------------------------------------------------------------------------------------------------- | ----------- | ----------------------------------- | ----- | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                   | BTC         | Bitcoin Segwit                      |       | ![check](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feedbin-Icon-check.svg/1200px-Feedbin-Icon-check.svg.png) |                                                                                                                              | ![check](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feedbin-Icon-check.svg/1200px-Feedbin-Icon-check.svg.png) |
+| ![Ethereum](https://s2.coinmarketcap.com/static/img/coins/32x32/1027.png)                         | ETH         | Ethereum                            |       | ![check](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feedbin-Icon-check.svg/1200px-Feedbin-Icon-check.svg.png) |                                                                                                                              | ![check](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feedbin-Icon-check.svg/1200px-Feedbin-Icon-check.svg.png) |
+| ![RSK Smart Bitcoin](https://s2.coinmarketcap.com/static/img/coins/32x32/3626.png)                | RBTC        | RSK Smart Bitcoin                   |       | ![check](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feedbin-Icon-check.svg/1200px-Feedbin-Icon-check.svg.png) |                                                                                                                              | ![check](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feedbin-Icon-check.svg/1200px-Feedbin-Icon-check.svg.png) |
+| ![XRP](https://s2.coinmarketcap.com/static/img/coins/32x32/52.png)                                | XRP         | XRP                                 |       | ![check](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feedbin-Icon-check.svg/1200px-Feedbin-Icon-check.svg.png) |                                                                                                                              | ![check](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feedbin-Icon-check.svg/1200px-Feedbin-Icon-check.svg.png) |
+| ![MonaCoin](https://s2.coinmarketcap.com/static/img/coins/32x32/213.png)                          | MONA        | MonaCoin                            |       | ![check](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feedbin-Icon-check.svg/1200px-Feedbin-Icon-check.svg.png) |                                                                                                                              | ![check](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feedbin-Icon-check.svg/1200px-Feedbin-Icon-check.svg.png) |
+| ![Klaytn](https://s2.coinmarketcap.com/static/img/coins/32x32/4256.png)                           | KLAY        | Klaytn                              |       | ![check](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feedbin-Icon-check.svg/1200px-Feedbin-Icon-check.svg.png) |                                                                                                                              | ![check](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feedbin-Icon-check.svg/1200px-Feedbin-Icon-check.svg.png) |
+| ![Bitcoin Cash](https://s2.coinmarketcap.com/static/img/coins/32x32/1831.png)                     | BCH         | Bitcoin Cash                        |       | ![check](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feedbin-Icon-check.svg/1200px-Feedbin-Icon-check.svg.png) |                                                                                                                              | ![check](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feedbin-Icon-check.svg/1200px-Feedbin-Icon-check.svg.png) |
+| ![Zcash](https://s2.coinmarketcap.com/static/img/coins/32x32/1437.png)                            | ZEC         | Zcash                               |       | ![check](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feedbin-Icon-check.svg/1200px-Feedbin-Icon-check.svg.png) |                                                                                                                              | ![check](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feedbin-Icon-check.svg/1200px-Feedbin-Icon-check.svg.png) |
+| ![Litecoin](https://s2.coinmarketcap.com/static/img/coins/32x32/2.png)                            | LTC         | Litecoin                            |       | ![check](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feedbin-Icon-check.svg/1200px-Feedbin-Icon-check.svg.png) |                                                                                                                              | ![check](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feedbin-Icon-check.svg/1200px-Feedbin-Icon-check.svg.png) |
 
