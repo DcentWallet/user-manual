@@ -22,7 +22,7 @@
 
 ## 디센트 지문인증형 콜월렛은 어떤 코인을 지원하나요?
 
-[여기]()에서 지원하는 모든 코인을 확인하실 수 있습니다.
+[https://dcentwallet.com/SupportedCoin](https://dcentwallet.com/SupportedCoin) 에서 지원하는 모든 코인을 확인하실 수 있습니다.
 
 ## 디센트 지문인증형 콜드월렛과 앱을 어떻게 연결해야 하나요?
 

@@ -4,7 +4,8 @@ ERC20 토큰은 이더리움 위에서 사용되는 토큰입니다. 이더리�
 
 현재 이더리움 위에서 동작하는 거의 대부분의 토큰이 ERC20 표준을 따르고 있습니다.
 
-디센트 월렛에서 지원하는 ERC20 토큰의 리스트는 다음 항목을 참고하세요.
+디센트 월렛에서 지원하는 ERC20 토큰의 리스트는 다음 항목을 참고하세요.  
+[https://dcentwallet.com/SupportedCoin](https://dcentwallet.com/SupportedCoin)
 
 
 

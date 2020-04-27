@@ -58,7 +58,10 @@
         <p>v3.0.4 &#xC774;&#xC0C1;</p>
         <p>2020.03</p>
         </td>
-        <td style="text-align:center">Coming Soon</td>
+        <td style="text-align:center">
+          <p>v3.0.2 &#xC774;&#xC0C1;</p>
+          <p>2020.04</p>
+        </td>
     </tr>
     <tr>
       <td style="text-align:center">&#xBAB0;&#xC544;&#xBC1B;&#xAE30; &#xC11C;&#xBE44;&#xC2A4;</td>
@@ -69,7 +72,10 @@
         <p>v3.0.4 &#xC774;&#xC0C1;</p>
         <p>2020.03</p>
       </td>
-      <td style="text-align:center">Coming Soon</td>
+      <td style="text-align:center">
+        <p>v3.0.2 &#xC774;&#xC0C1;</p>
+        <p>2020.04</p>
+      </td>
     </tr>
   </tbody>
 </table>## 출시 예정 기능
