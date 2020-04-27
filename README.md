@@ -22,8 +22,6 @@ description: 디센트 사용자 가이드에 오신 것을 환영합니다.
 
 {% page-ref page="coin-send-receive/send/" %}
 
-{% page-ref page="supported-coin-list/" %}
-
 ## 디센트 카드타입 콜드월렛
 
 {% page-ref page="card-wallet/how-to-use-android.md" %}

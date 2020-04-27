@@ -53,5 +53,5 @@ ERC721 토큰\(NFT\)은 계정 추가 없이 바로 사용할 수 있습니다.
 * ERC20 토큰이란? [여기](../cryptocurrency-basic/erc20.md)를 참고하세요.
 * ERC721 토큰이란? [여기](../cryptocurrency-basic/erc721-nft.md)를 참고하세요.
 
-카드타입 콜드월렛에서 지원하는 코인 리스트는 [여기](../supported-coin-list/)에서 확인할 수 있습니다.
+카드타입 콜드월렛에서 지원하는 코인 리스트는 [여기]()에서 확인할 수 있습니다.
 

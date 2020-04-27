@@ -8,7 +8,5 @@
 
 {% page-ref page="how-to-use-iphone.md" %}
 
-{% page-ref page="../supported-coin-list/" %}
-
 
 

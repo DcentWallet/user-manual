@@ -2,6 +2,7 @@
 
 * [시작하기](README.md)
 * [자주 묻는 질문 \(FAQ\)](faq.md)
+* [지원코인 리스트](https://dcentwallet.com/SupportedCoin)
 
 ## 지문인증형 콜드월렛 <a id="biometric-wallet"></a>
 
@@ -46,8 +47,6 @@
   * [앱 월렛 사용](coin-send-receive/send/mode_appwallet.md)
 * [리플 \(XRP\) 지갑 계정 사용법](coin-send-receive/ripple-xrp/README.md)
   * [디센트 월렛으로 리플 \(XRP\) 보내기](coin-send-receive/ripple-xrp/xrp_send.md)
-* [지원코인 리스트](supported-coin-list/README.md)
-  * [토큰 타입](supported-coin-list/token-type.md)
 
 ## 암호화폐 기초지식 <a id="cryptocurrency-basic"></a>
 
