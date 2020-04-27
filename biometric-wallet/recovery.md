@@ -16,6 +16,10 @@ To perform wallet recovery, you must first [reset the Biometric Wallet through "
 
 ## Step-1 : Select Language & Recover Wallet
 
+{% hint style="success" %}
+Video Tutorial: [How to recover your wallet](https://youtu.be/1N98S70ujFM)
+{% endhint %}
+
 ### Power on D'CENT Biometric Wallet
 
 To power on the device, press and hold the power button for 3 seconds, which is located on the right-side.

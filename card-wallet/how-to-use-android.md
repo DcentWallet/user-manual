@@ -1,5 +1,9 @@
 # Using Android mobile phone
 
+{% hint style="success" %}
+Video Tutorial : [Card type Wallet Initial Setup](https://youtu.be/XbVdPgtfvjk)
+{% endhint %}
+
 ## Enable NFC
 
 First, you must enable NFC feature and set it to the "Standard mode" on your Android phone.

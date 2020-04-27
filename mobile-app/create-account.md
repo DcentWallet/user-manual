@@ -2,6 +2,10 @@
 
 ## How to create an account
 
+{% hint style="success" %}
+Video Tutorial: [How to add an account](https://youtu.be/qmmkNcK_GFg)
+{% endhint %}
+
 From the Account tab, click the `+` button to create an account.
 
 ![](../.gitbook/assets/image%20%2812%29.png)

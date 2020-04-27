@@ -1,5 +1,9 @@
 # Using iOS mobile phone
 
+{% hint style="success" %}
+Video Tutorial: [Card type Wallet Initial Setup](https://youtu.be/XbVdPgtfvjk)
+{% endhint %}
+
 ## Using NFC feature on iOS
 
 NFC feature is supported from iPhone7 and newer models. Your iPhone MUST be running iOS 13 or higher.
