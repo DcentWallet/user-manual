@@ -8,7 +8,7 @@ Whenever new coin support is added or bug fix has been made, a new firmware will
 Firmware update can be done only from the PC.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28195%29.png)
+![](../../.gitbook/assets/image%20%28197%29.png)
 
 ## Before you update the firmware
 
@@ -69,7 +69,7 @@ When installation is complete, click the "Refresh page" button at the bottom of 
 
 3\) After connecting, you should see the following screen appears, click the "Retry to find device" button.
 
-![](../../.gitbook/assets/image%20%28181%29.png)
+![](../../.gitbook/assets/image%20%28182%29.png)
 
 ### Check firmware version
 
@@ -105,7 +105,7 @@ Firmware update from the webpage will take approximately 3 minutes to reach 100%
 
 From the Biometric Wallet, you can also check the progress of firmware update.
 
-![](../../.gitbook/assets/image%20%28174%29.png)
+![](../../.gitbook/assets/image%20%28175%29.png)
 
 ### Completing the firmware update
 

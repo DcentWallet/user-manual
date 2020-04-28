@@ -16,5 +16,5 @@ Click [here](../../biometric-wallet/firmware-update/) for more information on fi
 
 You can change the name of your Biometric Wallet through the "Device Information" menu. The device name is the name that appears when you boot the Biometric Wallet.
 
-![](../../.gitbook/assets/image%20%28175%29.png)
+![](../../.gitbook/assets/image%20%28176%29.png)
 

@@ -8,7 +8,7 @@ Video Tutorial : [Card type Wallet Initial Setup](https://youtu.be/XbVdPgtfvjk)
 
 First, you must enable NFC feature and set it to the "Standard mode" on your Android phone.
 
-![](../.gitbook/assets/image%20%28193%29.png)
+![](../.gitbook/assets/image%20%28195%29.png)
 
 ## Mobile App download
 
@@ -53,7 +53,7 @@ To protect access to your mobile app, please register password. Your password wi
 
 Tag your card wallet against the reader on the back of your mobile phone. The position of the RFID reader on the phone varies by models.
 
-![](../.gitbook/assets/image%20%28165%29.png)
+![](../.gitbook/assets/image%20%28166%29.png)
 
 After tagging your card wallet, you are finished with the mobile app basic setup.
 

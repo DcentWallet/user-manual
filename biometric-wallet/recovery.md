@@ -89,11 +89,11 @@ Scan your fingerprint one last time to verify registered fingerprint.
 
 1\) Enter the 24 recovery words recorded on the recovery card, numbered 1 through 24.
 
-![](../.gitbook/assets/image%20%28176%29.png)
+![](../.gitbook/assets/image%20%28177%29.png)
 
 2\) Press the Down \(∨\) button to review whether the 24 recovery words were entered correctly in order.
 
-![](../.gitbook/assets/image%20%28199%29.png)
+![](../.gitbook/assets/image%20%28201%29.png)
 
 3\) If all words are entered correctly, select "I am ready" at the bottom of the review menu.
 

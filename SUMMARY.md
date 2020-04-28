@@ -48,6 +48,10 @@
 * [How to use XRP account](coin-send-receive/ripple-xrp/README.md)
   * [Sending XRP using D'CENT Wallet](coin-send-receive/ripple-xrp/xrp_send.md)
 
+## D'CENT Services
+
+* [All4One - No loss lottery service](dcent-services/all4one.md)
+
 ## Cryptocurrency Basics <a id="cryptocurrency-basic"></a>
 
 * [ERC20 Token](cryptocurrency-basic/erc20.md)

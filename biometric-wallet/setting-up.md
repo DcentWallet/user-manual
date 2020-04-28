@@ -77,7 +77,7 @@ After setting up your cold wallet, you can change the PIN value from the Biometr
 
 1\) To register your fingerprint, touch your finger on the sensor to scan.
 
-![](../.gitbook/assets/image%20%28178%29.png)
+![](../.gitbook/assets/image%20%28179%29.png)
 
 Fingerprint sensor is located in the middle of where the navigational buttons are located.   
 Check the location of [fingerprint sensor](setting-up.md#before-start).
@@ -90,7 +90,7 @@ Check the location of [fingerprint sensor](setting-up.md#before-start).
 
 Scan your fingerprint one last time to verify registered fingerprint. 
 
-![](../.gitbook/assets/image%20%28179%29.png)
+![](../.gitbook/assets/image%20%28180%29.png)
 
 ※ If the fingerprint does not match, you will have to restart the Fingerprint registration..
 

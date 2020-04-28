@@ -47,7 +47,7 @@ Before you perform the "Delete Account", make sure you keep track of which coin 
 
 Device Wipe is for resetting your Biometric Wallet to factory state. This means the Biometric Wallet will be in the same condition as if newly purchased.
 
-![](../.gitbook/assets/image%20%28197%29.png)
+![](../.gitbook/assets/image%20%28199%29.png)
 
 If you perform the Device Wipe, your whole wallet will be deleted including all your private keys.   
 To perform Device Wipe, you must enter your 4-digit PIN, read the warning message displayed and press OK button to confirm \[OK & OFF\]. When device is powered on, you will notice that your Biometric Wallet is in the factory state.

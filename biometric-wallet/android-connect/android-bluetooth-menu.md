@@ -6,7 +6,7 @@ Depending on your Android phone model, finding the Bluetooth menu may be differe
 
 On your Android phone, touch the top portion of the main screen and drag the screen down to find the Bluetooth menu.
 
-![](../../.gitbook/assets/image%20%28164%29.png)
+![](../../.gitbook/assets/image%20%28165%29.png)
 
 ## Find Bluetooth menu from the "Settings"
 

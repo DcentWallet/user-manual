@@ -41,7 +41,7 @@ To protect access to your mobile app, please register password. Your password wi
 
 Tag your card wallet against the reader on the back of your mobile phone. The position of the RFID reader on the phone varies by models but usually located on the top as shown in the picture.
 
-![](../.gitbook/assets/image%20%28171%29.png)
+![](../.gitbook/assets/image%20%28172%29.png)
 
 After tagging your card wallet, you are finished with the mobile app basic setup.
 

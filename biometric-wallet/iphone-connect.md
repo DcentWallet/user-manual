@@ -18,7 +18,7 @@ Search for "**D'CENT wallet**" from the App store.
 
 If running the mobile app for the first time, you must choose a wallet mode. Choose "**Biometric Wallet**" as your choice.
 
-![](../.gitbook/assets/image%20%28189%29.png)
+![](../.gitbook/assets/image%20%28191%29.png)
 
 ### Register password for Mobile App
 

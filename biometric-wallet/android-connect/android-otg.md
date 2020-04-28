@@ -42,7 +42,7 @@ Below is a picture showing that there is no connection to with the Biometric Wal
 
 Connect the Biometric Wallet and the Android device as shown in the figure below.
 
-![](../../.gitbook/assets/image%20%28183%29.png)
+![](../../.gitbook/assets/image%20%28184%29.png)
 
 ### Allow USB access <a id="usb"></a>
 
@@ -52,5 +52,5 @@ Connect the Biometric Wallet and the Android device as shown in the figure below
 
 2\) When connection is made, Synchronization will begin with the Biometric Wallet and you can start using it when it finishes.
 
-![](../../.gitbook/assets/image%20%28163%29.png)
+![](../../.gitbook/assets/image%20%28164%29.png)
 
