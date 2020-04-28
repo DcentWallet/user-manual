@@ -1,8 +1,6 @@
 # Using Android mobile phone
 
-{% hint style="success" %}
-Video Tutorial : [Card type Wallet Initial Setup](https://youtu.be/XbVdPgtfvjk)
-{% endhint %}
+{% embed url="https://www.youtube.com/watch?v=XbVdPgtfvjk&feature=youtu.be" %}
 
 ## Enable NFC
 

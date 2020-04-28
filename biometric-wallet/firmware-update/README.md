@@ -34,9 +34,7 @@ It is recommended that the D'CENT mobile app is not running during the firmware 
 
 ## How to update firmware
 
-{% hint style="success" %}
-Video Tutorial: [How to update firmware on Biometric Wallet](https://youtu.be/Hhq4KmA6Ezw)
-{% endhint %}
+{% embed url="https://www.youtube.com/watch?v=Hhq4KmA6Ezw&feature=youtu.be" %}
 
 Firmware update is available only from PC, and it is recommended to use Google Chrome browser.
 

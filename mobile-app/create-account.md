@@ -2,9 +2,7 @@
 
 ## How to create an account
 
-{% hint style="success" %}
-Video Tutorial: [How to add an account](https://youtu.be/qmmkNcK_GFg)
-{% endhint %}
+{% embed url="https://www.youtube.com/watch?v=qmmkNcK\_GFg&feature=youtu.be" %}
 
 From the Account tab, click the `+` button to create an account.
 

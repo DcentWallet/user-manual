@@ -6,9 +6,9 @@ description: Creating new wallet on the Biometric Wallet
 
 ## Before you begin <a id="before-start"></a>
 
-{% hint style="success" %}
-Video Tutorial: [How to use the buttons](https://youtu.be/-j2pI_IA3Z4)
-{% endhint %}
+{% embed url="https://www.youtube.com/watch?v=-j2pI\_IA3Z4&feature=youtu.be" %}
+
+
 
 ![D&apos;CENT Biometric Wallet user interfaces](../.gitbook/assets/img-howtouse-dongle.png)
 
@@ -20,9 +20,7 @@ D'CENT Biometric Wallet is equipped with 4-buttons for navigation.
 
 ## Step-1 : Select Language & Create Wallet
 
-{% hint style="success" %}
-Video Tutorial: [How to setup Biometric Wallet](https://youtu.be/rpVFENz8H_0)
-{% endhint %}
+{% embed url="https://www.youtube.com/watch?v=rpVFENz8H\_0&feature=youtu.be" %}
 
 ### Power on D'CENT Biometric Wallet
 
