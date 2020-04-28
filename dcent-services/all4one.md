@@ -21,5 +21,5 @@ More details about All4One service : [https://dcentwallet.com/event/All4one](htt
 
 {% page-ref page="../mobile-app/mobile-app-download.md" %}
 
-![](../.gitbook/assets/image%20%28185%29.png)
+![](../.gitbook/assets/image%20%28189%29.png)
 

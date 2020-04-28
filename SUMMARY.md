@@ -47,6 +47,7 @@
   * [Software Wallet mode](coin-send-receive/send/mode_appwallet.md)
 * [How to use XRP account](coin-send-receive/ripple-xrp/README.md)
   * [Sending XRP using D'CENT Wallet](coin-send-receive/ripple-xrp/xrp_send.md)
+* [How to use KLAY account](coin-send-receive/klaytn-klay.md)
 
 ## D'CENT Services
 

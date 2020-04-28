@@ -12,11 +12,11 @@ Before you use the wallet, you must check the product is authentic.
 
 #### Normal package
 
-![](../.gitbook/assets/image%20%2892%29.png)
+![](../.gitbook/assets/image%20%2894%29.png)
 
 #### Abnormal package
 
-![](../.gitbook/assets/image%20%2885%29.png)
+![](../.gitbook/assets/image%20%2887%29.png)
 
 {% hint style="warning" %}
 Double-check that the package is not damaged and make sure that the Seal is not torn or missing. 

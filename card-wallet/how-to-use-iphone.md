@@ -23,7 +23,7 @@ You can install D'CENT mobile app by searching for the app directly from the App
 
 Search for the keyword "**D'CENT Wallet**".
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 ## Mobile App basic setting
 
@@ -31,7 +31,7 @@ Search for the keyword "**D'CENT Wallet**".
 
 When D'CENT mobile app is run for the first time, please make your selection as "**D'CENT Card Wallet**".
 
-![](../.gitbook/assets/image%20%2872%29.png)
+![](../.gitbook/assets/image%20%2873%29.png)
 
 ### Register Mobile App password
 
@@ -41,7 +41,7 @@ To protect access to your mobile app, please register password. Your password wi
 
 Tag your card wallet against the reader on the back of your mobile phone. The position of the RFID reader on the phone varies by models but usually located on the top as shown in the picture.
 
-![](../.gitbook/assets/image%20%28172%29.png)
+![](../.gitbook/assets/image%20%28176%29.png)
 
 After tagging your card wallet, you are finished with the mobile app basic setup.
 

@@ -12,7 +12,7 @@ You can install D'CENT mobile app by searching for the app directly from the Goo
 
 Search for the keyword "**D'CENT Wallet**".
 
-![](../.gitbook/assets/image%20%2852%29.png)
+![](../.gitbook/assets/image%20%2853%29.png)
 
 ## Mobile App download for iOS
 

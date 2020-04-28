@@ -18,7 +18,7 @@ Search for "**D'CENT wallet**" from the App store.
 
 If running the mobile app for the first time, you must choose a wallet mode. Choose "**Biometric Wallet**" as your choice.
 
-![](../.gitbook/assets/image%20%28191%29.png)
+![](../.gitbook/assets/image%20%28195%29.png)
 
 ### Register password for Mobile App
 
@@ -32,7 +32,7 @@ Mobile App password can be changed from the [App "Setting" menu](../mobile-app/m
 
 From the iPhone Setting menu, turn on Bluetooth.
 
-![](../.gitbook/assets/image%20%28157%29.png)
+![](../.gitbook/assets/image%20%28161%29.png)
 
 ## Bluetooth connection with Biometric Wallet
 
@@ -40,15 +40,15 @@ From the iPhone Setting menu, turn on Bluetooth.
 
 1\) Go to the main tab\(Account\) of D'CENT mobile app. Notice the Bluetooth icon \(red color\) located on the top right corner of the screen. Red color indicates Bluetooth connection is not established. Click on this icon to connect with Biometric Wallet.
 
-![](../.gitbook/assets/image%20%28123%29.png)
+![](../.gitbook/assets/image%20%28126%29.png)
 
 2\) When you clicked on the icon, you will see a list of devices available to connect via Bluetooth. Find your D'CENT device and click to initiate Bluetooth pairing.
 
-![](../.gitbook/assets/image%20%2888%29.png)
+![](../.gitbook/assets/image%20%2890%29.png)
 
 3\) When your D'CENT device is selected, your wallet will start the synchronization automatically. Synchronization will take few seconds to complete. You will notice that the Bluetooth icon is now in mint color, which indicates the Bluetooth connection is now established with your Biometric Wallet.
 
-![](../.gitbook/assets/image%20%2898%29.png)
+![](../.gitbook/assets/image%20%28100%29.png)
 
 You can now add a coin account to manage using your Biometric Wallet. More information on how to add coin account can be found [here](../mobile-app/create-account.md).
 

@@ -35,7 +35,7 @@ If there are 2 fingerprint data saved, both of them will be deleted at once.
 
 Delete Account menu is for erasing all **public** information of your wallet accounts. However, this will not delete any of the private keys associated to the wallet accounts you have created. When you synchronize your Biometric Wallet and with the Mobile App, you will notice that there is no account showing under the "Account" Tab. If you re-add a coin account from the Mobile App, your existing account will reappear.
 
-![](../.gitbook/assets/image%20%28104%29.png)
+![](../.gitbook/assets/image%20%28106%29.png)
 
 {% hint style="info" %}
 This feature is useful if you have previously added many wallet accounts but they are no longer used or you do not wish to see them appear on the Mobile App. 
@@ -47,7 +47,7 @@ Before you perform the "Delete Account", make sure you keep track of which coin 
 
 Device Wipe is for resetting your Biometric Wallet to factory state. This means the Biometric Wallet will be in the same condition as if newly purchased.
 
-![](../.gitbook/assets/image%20%28199%29.png)
+![](../.gitbook/assets/image%20%28203%29.png)
 
 If you perform the Device Wipe, your whole wallet will be deleted including all your private keys.   
 To perform Device Wipe, you must enter your 4-digit PIN, read the warning message displayed and press OK button to confirm \[OK & OFF\]. When device is powered on, you will notice that your Biometric Wallet is in the factory state.

@@ -8,7 +8,7 @@ Whenever new coin support is added or bug fix has been made, a new firmware will
 Firmware update can be done only from the PC.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28197%29.png)
+![](../../.gitbook/assets/image%20%28201%29.png)
 
 ## Before you update the firmware
 
@@ -50,7 +50,7 @@ Download and install the program for your OS.
 
 If there is no D'CENT bridge program on your PC, download the bridge program. Download and install the program for your OS.
 
-![](../../.gitbook/assets/image%20%28144%29.png)
+![](../../.gitbook/assets/image%20%28147%29.png)
 
 The D'CENT bridge program is a program used for communication between your PC and Biometric Wallet.
 
@@ -59,7 +59,7 @@ If the latest version of D'CENT Bridge program is already installed, the downloa
 When installation is complete, click the "Refresh page" button at the bottom of the screen.  
 
 
-![](../../.gitbook/assets/image%20%2853%29.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
 
 ### Connect Biometric Wallet to your PC
 
@@ -69,19 +69,19 @@ When installation is complete, click the "Refresh page" button at the bottom of 
 
 3\) After connecting, you should see the following screen appears, click the "Retry to find device" button.
 
-![](../../.gitbook/assets/image%20%28182%29.png)
+![](../../.gitbook/assets/image%20%28186%29.png)
 
 ### Check firmware version
 
 1\) Check if the connected Biometric Wallet has the latest version. If it is not the latest version, the following screen appears.
 
-![](../../.gitbook/assets/image%20%28111%29.png)
+![](../../.gitbook/assets/image%20%28114%29.png)
 
 2\) Press "Update to version ..." button.
 
 ### Changing to bootloader mode
 
-![](../../.gitbook/assets/image%20%2863%29.png)
+![](../../.gitbook/assets/image%20%2864%29.png)
 
 Follow the instructions and proceed as described.
 
@@ -105,7 +105,7 @@ Firmware update from the webpage will take approximately 3 minutes to reach 100%
 
 From the Biometric Wallet, you can also check the progress of firmware update.
 
-![](../../.gitbook/assets/image%20%28175%29.png)
+![](../../.gitbook/assets/image%20%28179%29.png)
 
 ### Completing the firmware update
 

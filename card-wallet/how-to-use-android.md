@@ -8,7 +8,7 @@ Video Tutorial : [Card type Wallet Initial Setup](https://youtu.be/XbVdPgtfvjk)
 
 First, you must enable NFC feature and set it to the "Standard mode" on your Android phone.
 
-![](../.gitbook/assets/image%20%28195%29.png)
+![](../.gitbook/assets/image%20%28199%29.png)
 
 ## Mobile App download
 
@@ -23,7 +23,7 @@ To download the D'CENT mobile app for Android, please click [here](https://play.
 
 If your NFC is enabled on your phone, tag the card type wallet against the back of your phone. If the tagging was read correctly,  you will be directed to the mobile app download site.
 
-![](../.gitbook/assets/image%20%28109%29.png)
+![](../.gitbook/assets/image%20%28112%29.png)
 
 {% hint style="info" %}
 If D'CENT mobile app is already installed on your phone, tagging the card type wallet will automatically run the D'CENT mobile app.
@@ -35,7 +35,7 @@ You can install D'CENT mobile app by searching for the app directly from the Goo
 
 Search for the keyword "**D'CENT Wallet**".
 
-![](../.gitbook/assets/image%20%28135%29.png)
+![](../.gitbook/assets/image%20%28138%29.png)
 
 ## Mobile App basic setting
 
@@ -43,7 +43,7 @@ Search for the keyword "**D'CENT Wallet**".
 
 When D'CENT mobile app is run for the first time, please make your selection as "**D'CENT Card Wallet**".
 
-![](../.gitbook/assets/image%20%2873%29.png)
+![](../.gitbook/assets/image%20%2874%29.png)
 
 ### Register Mobile App password
 
@@ -53,7 +53,7 @@ To protect access to your mobile app, please register password. Your password wi
 
 Tag your card wallet against the reader on the back of your mobile phone. The position of the RFID reader on the phone varies by models.
 
-![](../.gitbook/assets/image%20%28166%29.png)
+![](../.gitbook/assets/image%20%28170%29.png)
 
 After tagging your card wallet, you are finished with the mobile app basic setup.
 

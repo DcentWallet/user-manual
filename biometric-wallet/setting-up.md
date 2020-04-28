@@ -32,7 +32,7 @@ To power on the device, press and hold the power button for 3 seconds, which is 
 
 Use ∧\(Up**\)** or ∨\(Down**\)** button to select your language and press **OK** button.
 
-![](../.gitbook/assets/image%20%28146%29.png)
+![](../.gitbook/assets/image%20%28149%29.png)
 
 Language support : English, Korean, Chinese, Japanese, Spanish
 
@@ -44,7 +44,7 @@ After setting up your cold wallet, you can change the Language from the [Setting
 
 To create a new wallet, select "Create Wallet" from the menu.
 
-![](../.gitbook/assets/image%20%2867%29.png)
+![](../.gitbook/assets/image%20%2868%29.png)
 
 {% hint style="info" %}
 Selecting "Create Wallet" will create a wallet from a new private key.   
@@ -59,13 +59,13 @@ To protect accessing your wallet, register new PIN and your fingerprint.
 
 Use ∧\(Up, increase number value\) or ∨\(Down, decrease number value\) button to input 4-digit PIN.
 
-![](../.gitbook/assets/image%20%2846%29.png)
+![](../.gitbook/assets/image%20%2847%29.png)
 
 ### Verify 4-digit PIN
 
 Re-enter the same 4-digit PIN to verify.
 
-![](../.gitbook/assets/image%20%28148%29.png)
+![](../.gitbook/assets/image%20%28152%29.png)
 
  ※ If the PIN numbers do not match, you will have to restart the PIN registration.
 
@@ -77,20 +77,20 @@ After setting up your cold wallet, you can change the PIN value from the Biometr
 
 1\) To register your fingerprint, touch your finger on the sensor to scan.
 
-![](../.gitbook/assets/image%20%28179%29.png)
+![](../.gitbook/assets/image%20%28183%29.png)
 
 Fingerprint sensor is located in the middle of where the navigational buttons are located.   
 Check the location of [fingerprint sensor](setting-up.md#before-start).
 
 2\) Slightly change the angular positioning of the same finger when scanning and repeat until 100% \(8 correct scans\) is reached.
 
-![](../.gitbook/assets/image%20%28132%29.png)
+![](../.gitbook/assets/image%20%28135%29.png)
 
 ### Verify Fingerprint
 
 Scan your fingerprint one last time to verify registered fingerprint. 
 
-![](../.gitbook/assets/image%20%28180%29.png)
+![](../.gitbook/assets/image%20%28184%29.png)
 
 ※ If the fingerprint does not match, you will have to restart the Fingerprint registration..
 
@@ -120,29 +120,29 @@ If you lose your recovery card, there is no other way to recover your existing w
 
 1\) Press **OK** button only when you have fully understood the WARNING notice.
 
-![](../.gitbook/assets/image%20%28155%29.png)
+![](../.gitbook/assets/image%20%28159%29.png)
 
 2\) Write down all the recovery seeds \(words\) shown on the screen of your cold wallet. Press OK button to see the next list of words. 
 
 There are 6 lists with total of 24 words and each list has 4 words shown. Make sure you write them down correctly and in the exact same order as shown.
 
-![](../.gitbook/assets/image%20%28101%29.png)
+![](../.gitbook/assets/image%20%28103%29.png)
 
 3\) When you have written down all 24 words, press OK button to continue.
 
-![](../.gitbook/assets/image%20%2890%29.png)
+![](../.gitbook/assets/image%20%2892%29.png)
 
 ### Recovery Seeds Verification
 
 You will be asked to take a simple quiz. From the 24 words listed, you will be asked to enter 2 randomly selected words to complete the verification.
 
-![Quiz example](../.gitbook/assets/image%20%2848%29.png)
+![Quiz example](../.gitbook/assets/image%20%2849%29.png)
 
 Enter the correct word that corresponds to the question asked.
 
 #### Enter the first 3 characters
 
-![](../.gitbook/assets/image%20%28119%29.png)
+![](../.gitbook/assets/image%20%28122%29.png)
 
 ※ How to input : Use the Up/Down buttons - ∧\(increase value from a to z\) or ∨\(decrease value z to a\) 
 
@@ -152,13 +152,13 @@ When you have selected the first character, press "OK" button to enter the value
 
 From the list of words available, select the correct word using ∧/∨ buttons and press "OK" to choose as the answer.
 
-![](../.gitbook/assets/image%20%2855%29.png)
+![](../.gitbook/assets/image%20%2856%29.png)
 
 ※ If you find yourself having written down the words incorrectly, you can press "Back" button to revisit the recovery seeds from the lists for review.
 
 ## Step-4 : Completing the Initial Setup
 
-![](../.gitbook/assets/image%20%2864%29.png)
+![](../.gitbook/assets/image%20%2865%29.png)
 
 Congratulation, you have passed the quiz and your new wallet is created. From your cold wallet, you can check the lists of coin accounts available. You are now ready to use your new wallet together with the mobile application.
 

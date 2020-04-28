@@ -2,7 +2,7 @@
 
 You can change various settings of the mobile app from the "Setting" menu.
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 ## Local Currency
 

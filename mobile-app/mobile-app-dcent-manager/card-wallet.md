@@ -18,5 +18,5 @@ You can change the current PIN of your Card Wallet. Please proceed in the follow
   
 4\) Tag the Card Wallet on your mobile phone
 
-![](../../.gitbook/assets/image%20%2875%29.png)
+![](../../.gitbook/assets/image%20%2876%29.png)
 

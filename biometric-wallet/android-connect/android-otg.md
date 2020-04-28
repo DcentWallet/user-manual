@@ -10,7 +10,7 @@ If you are using the OTG cable to connect, it is recommended to disable the Blue
 
 This is a device that allows you to connect a USB device to a smartphone. One side is a micro 5 pin or USB C type, and the other side is a cable with a standard USB port. Just connect the OTG cable to your Android device.
 
-![Example of OTG cable](../../.gitbook/assets/image%20%2886%29.png)
+![Example of OTG cable](../../.gitbook/assets/image%20%2888%29.png)
 
 {% hint style="info" %}
 The OTG cable is not included in the D'CENT Biometric Wallet package and must be purchased separately. Please purchase and use the OTG cable suitable for your mobile phone.
@@ -36,21 +36,21 @@ Please launch the descent mobile app first. \(Biometric Wallet mode\)
   
 Below is a picture showing that there is no connection to with the Biometric Wallet.
 
-![](../../.gitbook/assets/image%20%2856%29.png)
+![](../../.gitbook/assets/image%20%2857%29.png)
 
 ### Connect Android device and Biometric Wallet with OTG cable <a id="otg-2"></a>
 
 Connect the Biometric Wallet and the Android device as shown in the figure below.
 
-![](../../.gitbook/assets/image%20%28184%29.png)
+![](../../.gitbook/assets/image%20%28188%29.png)
 
 ### Allow USB access <a id="usb"></a>
 
 1\) When an OTG cable is connected, you will see the following pop-up. Press "OK".
 
-![](../../.gitbook/assets/image%20%28110%29.png)
+![](../../.gitbook/assets/image%20%28113%29.png)
 
 2\) When connection is made, Synchronization will begin with the Biometric Wallet and you can start using it when it finishes.
 
-![](../../.gitbook/assets/image%20%28164%29.png)
+![](../../.gitbook/assets/image%20%28168%29.png)
 
