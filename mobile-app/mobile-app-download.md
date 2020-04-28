@@ -26,5 +26,5 @@
 
 앱 스토어에서 "디센트" 혹은 "D'CENT" 검색하세요.
 
-![](../.gitbook/assets/image%20%28184%29.png)
+![](../.gitbook/assets/image%20%28186%29.png)
 

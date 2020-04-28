@@ -8,7 +8,7 @@
 
 먼저 안드로이드 폰의 NFC 기능을 "기본모드"로 활성화해주세요.
 
-![](../.gitbook/assets/image%20%28180%29.png)
+![](../.gitbook/assets/image%20%28181%29.png)
 
 ## 모바일 앱 다운로드
 

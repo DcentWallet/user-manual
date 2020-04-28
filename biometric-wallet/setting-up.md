@@ -64,7 +64,7 @@ description: 콜드월렛에 새로운 지갑 생성하기
 
 위에서 설정한 값과 같은 PIN을 입력합니다.
 
-![](../.gitbook/assets/image%20%28182%29.png)
+![](../.gitbook/assets/image%20%28183%29.png)
 
  ※ 입력한 두 개의 PIN이 다른 경우 PIN 설정을 다시 해야 됩니다.
 
@@ -154,7 +154,7 @@ PIN 값은 초기화가 끝난 이후에 [설정 메뉴](setting-menu.md)를 통
 
 3개 알파벳 기반 단어 리스트에서 ∧/∨ 버튼을 이용하여 맞는 단어를 찾은 후 ‘OK’버튼을 누릅니다.
 
-![](../.gitbook/assets/image%20%28172%29.png)
+![](../.gitbook/assets/image%20%28173%29.png)
 
 ※ 복구 단어와 입력 단어가 틀린 경우, BACK 버튼을 눌러 복구 단어를 다시 검토할 수 있습니다.
 

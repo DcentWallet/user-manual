@@ -48,6 +48,10 @@
 * [리플 \(XRP\) 지갑 계정 사용법](coin-send-receive/ripple-xrp/README.md)
   * [디센트 월렛으로 리플 \(XRP\) 보내기](coin-send-receive/ripple-xrp/xrp_send.md)
 
+## 디센트 서비스 <a id="service"></a>
+
+* [디센트 이자 몰아받기 - 무손실 로또 서비스](service/all4one.md)
+
 ## 암호화폐 기초지식 <a id="cryptocurrency-basic"></a>
 
 * [ERC20 토큰](cryptocurrency-basic/erc20.md)
