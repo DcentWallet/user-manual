@@ -14,7 +14,7 @@ More details about All4One service : [https://dcentwallet.com/event/All4one](htt
 
 ## How to join
 
-1. Please install “D’CENT Wallet” Application at Google Play Store.  
+1. Please install “D’CENT Wallet” Application at Google Play Store or App Store.  
 2. If you do not have D’CENT hardware wallets \(Biometric or Card\), please select “App Wallet”.  
 3. Please register PIN number.  
 4. Under Event menu, just click “Apply” button. That’s all.
