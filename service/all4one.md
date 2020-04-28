@@ -21,5 +21,5 @@ D'CENT가 대신 예치하고, 만약 당첨되었을 시 상금을 사용자의
 
 {% page-ref page="../mobile-app/mobile-app-download.md" %}
 
-![](../.gitbook/assets/image%20%28161%29.png)
+![](../.gitbook/assets/image%20%28165%29.png)
 

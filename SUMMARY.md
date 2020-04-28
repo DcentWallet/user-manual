@@ -47,6 +47,7 @@
   * [앱 월렛 사용](coin-send-receive/send/mode_appwallet.md)
 * [리플 \(XRP\) 지갑 계정 사용법](coin-send-receive/ripple-xrp/README.md)
   * [디센트 월렛으로 리플 \(XRP\) 보내기](coin-send-receive/ripple-xrp/xrp_send.md)
+* [클레이튼 지갑 계정 사용법](coin-send-receive/klaytn-klay.md)
 
 ## 디센트 서비스 <a id="service"></a>
 

@@ -12,11 +12,11 @@ description: 디센트 콜드 월렛을 받았을 때 체크리스트
 
 #### 정상 패키지
 
-![](../.gitbook/assets/image%20%28125%29.png)
+![](../.gitbook/assets/image%20%28128%29.png)
 
 #### 비정상 패키지
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../.gitbook/assets/image%20%2841%29.png)
 
 {% hint style="warning" %}
 Seal이 뜯어져 있거나 없는 경우 제품에 훼손이 있을 수 있습니다. 패키지 상태를 꼭 확인하세요.

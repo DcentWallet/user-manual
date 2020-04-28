@@ -8,7 +8,7 @@
 
 계정 탭\(Account\)의 `+` 버튼을 눌러 계정을 생성할 수 있습니다.
 
-![](../.gitbook/assets/image%20%28112%29.png)
+![](../.gitbook/assets/image%20%28115%29.png)
 
 {% hint style="info" %}
 지문인증형 콜드월렛 모드에서는 콜드월렛과 연결이 되어 있어야 계정 생성이 가능합니다.
@@ -20,7 +20,7 @@
 
 리스트에서 추가하려는 코인을 선택하세요. 코인 이름이나 심볼 이름으로 검색도 가능합니다.
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2848%29.png)
 
 {% hint style="info" %}
 디센트 월렛에서 지원하는 전체 코인 리스트는 [https://dcentwallet.com/SupportedCoin](https://dcentwallet.com/SupportedCoin) 를 참고하세요.
@@ -30,7 +30,7 @@
 
 추가하고자 하는 코인이나 토큰이 없는 경우에는 "토큰 추가 요청" 링크를 클릭하여, 코인이나 토큰 추가를 요청해주세요. 디센트 팀에서는 최대한 빠르게 지원할 수 있도록 노력하고 있습니다.
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../.gitbook/assets/image%20%2837%29.png)
 
 ### 수수료 계정이 없는 상태에서 토큰을 추가하려 하는 경우
 
@@ -40,19 +40,19 @@ ERC20, RRC20, KCT와 같은 토큰 계정을 생성하기 위해서는 해당 �
 * RRC20 토큰 계정 생성시 : RSK 계정 필
 * KCT 토큰 계정 생성시 : 클레이튼 계정 필
 
-![](../.gitbook/assets/image%20%2859%29.png)
+![](../.gitbook/assets/image%20%2860%29.png)
 
 ## 계정 이름 설정
 
 추가하려는 코인/토큰을 선택한 후에는 계정 이름을 설정해주세요. 기본으로 설정되어 있는 계정 이름을 사용하셔도 됩니다. 계정이름은 각 계정이 가지고 있는 별명이며, 모바일 앱의 계정 정보와 지문인증형 콜드월렛의 계정 정보에 표시됩니다.
 
-![](../.gitbook/assets/image%20%28100%29.png)
+![](../.gitbook/assets/image%20%28102%29.png)
 
 ## 계정 생성 완료
 
 계정 생성이 완료되면 계정의 잔액 정보를 읽어오고 메인 화면에 계정 정보가 표시됩니다.
 
-![](../.gitbook/assets/image%20%28198%29.png)
+![](../.gitbook/assets/image%20%28202%29.png)
 
 이제 코인을 보내거나 받아보세요.
 

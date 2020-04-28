@@ -12,7 +12,7 @@
 
 구글 플레이 스토어에서 "디센트 월렛"을 검색하세요.
 
-![&#xAD6C;&#xAE00; &#xD50C;&#xB808;&#xC774;&#xC2A4;&#xD1A0;&#xC5B4; &#xB514;&#xC13C;&#xD2B8; &#xC6D4;&#xB81B; &#xAC80;&#xC0C9; &#xD654;&#xBA74;](../.gitbook/assets/image%20%2882%29.png)
+![&#xAD6C;&#xAE00; &#xD50C;&#xB808;&#xC774;&#xC2A4;&#xD1A0;&#xC5B4; &#xB514;&#xC13C;&#xD2B8; &#xC6D4;&#xB81B; &#xAC80;&#xC0C9; &#xD654;&#xBA74;](../.gitbook/assets/image%20%2884%29.png)
 
 ## 아이폰 앱 다운로드 <a id="iphone"></a>
 
@@ -26,5 +26,5 @@
 
 앱 스토어에서 "디센트" 혹은 "D'CENT" 검색하세요.
 
-![](../.gitbook/assets/image%20%28186%29.png)
+![](../.gitbook/assets/image%20%28190%29.png)
 

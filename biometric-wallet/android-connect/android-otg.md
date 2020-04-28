@@ -10,7 +10,7 @@ OTG 케이블로 연결하여 사용하시는 경우, 안드로이드 기기의 
 
 스마트폰에 USB기기를 연결하게 해주는 장치로 한쪽은 마이크로 5핀 혹은 USB C 타입으로 되어 있으며 반대쪽은 표준 USB포트가 있는 케이블입니다. 사용하는 안드로이드 기기에 맞는 OTG 케이블을 연결하면 됩니다.
 
-![OTG &#xCF00;&#xC774;&#xBE14; &#xC608;&#xC2DC;](../../.gitbook/assets/image%20%2865%29.png)
+![OTG &#xCF00;&#xC774;&#xBE14; &#xC608;&#xC2DC;](../../.gitbook/assets/image%20%2866%29.png)
 
 {% hint style="info" %}
 OTG 케이블은 디센트 콜드월렛 패키지에 포함되어 있지 않으며, 별도로 구매하셔야 합니다. 본인의 휴대폰에 맞는 OTG 케이블을 구매하여 사용하세요.
@@ -26,7 +26,7 @@ OTG 케이블은 디센트 콜드월렛 패키지에 포함되어 있지 않으�
 
 사용하고 있는 안드로이드 기기의 충전 포트가 USB C 타입으로 되어 있다면 USB C 타입 OTG 케이블을 사용해야 합니다.
 
-![USB C &#xD0C0;&#xC785; OTG &#xCF00;&#xC774;&#xBE14; &#xC608;&#xC2DC;](../../.gitbook/assets/image%20%2894%29.png)
+![USB C &#xD0C0;&#xC785; OTG &#xCF00;&#xC774;&#xBE14; &#xC608;&#xC2DC;](../../.gitbook/assets/image%20%2896%29.png)
 
 ## OTG 케이블로 연결하여 콜드월렛 사용하
 
@@ -36,21 +36,21 @@ OTG 케이블은 디센트 콜드월렛 패키지에 포함되어 있지 않으�
 
 콜드월렛과 연결되지 않았다는 표시가 나타납니다.
 
-![](../../.gitbook/assets/image%20%28200%29.png)
+![](../../.gitbook/assets/image%20%28204%29.png)
 
 ### 안드로이드 기기와 콜드월렛 OTG 케이블로 연결
 
 다음 그림과 같이 콜드월렛과 안드로이드 기기를 연결해주세요.
 
-![](../../.gitbook/assets/image%20%28168%29.png)
+![](../../.gitbook/assets/image%20%28172%29.png)
 
 ### USB 접근 확인
 
 1\) OTG 케이블이 연결되면 다음과 같은 팝업이 나타납니다. "확인"을 눌러주세요.
 
-![](../../.gitbook/assets/image%20%28142%29.png)
+![](../../.gitbook/assets/image%20%28145%29.png)
 
 2\) 연결이 완료되면 콜드월렛과 동기화가 진행되고, 월렛을 사용할 수 있습니다.
 
-![](../../.gitbook/assets/image%20%2895%29.png)
+![](../../.gitbook/assets/image%20%2897%29.png)
 
