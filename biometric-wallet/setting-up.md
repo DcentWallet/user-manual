@@ -4,9 +4,7 @@ description: 콜드월렛에 새로운 지갑 생성하기
 
 # 콜드월렛 초기 설정
 
-{% hint style="success" %}
-동영상 강좌: [버튼 사용법](https://youtu.be/rul6kKoX_Lc) 
-{% endhint %}
+{% embed url="https://www.youtube.com/watch?v=rul6kKoX\_Lc&feature=youtu.be" %}
 
 ## 시작하기 전에 <a id="before-start"></a>
 

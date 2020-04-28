@@ -16,9 +16,7 @@
 
 ## 1단계 : 언어 선택 및 지갑 복구
 
-{% hint style="success" %}
-동영상 강좌: [지갑 복구하는 방법](https://youtu.be/RraO7qeiWww) 
-{% endhint %}
+{% embed url="https://www.youtube.com/watch?v=RraO7qeiWww&feature=youtu.be" %}
 
 ### 전원 켜기
 

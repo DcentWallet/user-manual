@@ -32,9 +32,7 @@
 
 ## 펌웨어 업데이트 방법
 
-{% hint style="success" %}
-동영상 강좌: [펌웨어 업데이트 방법](https://youtu.be/yP-4rNniqio) 
-{% endhint %}
+{% embed url="https://www.youtube.com/watch?v=yP-4rNniqio&feature=youtu.be" %}
 
 펌웨어 업데이트는 PC에서만 사용 가능하며, 구글 크롬 브라우저를 이용하시길 권장합니다. 
 

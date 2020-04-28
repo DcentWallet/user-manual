@@ -2,9 +2,7 @@
 
 ## 계정 생성하기
 
-{% hint style="success" %}
-동영상 강좌: [코인 계정 생성하기](https://youtu.be/5GPi3GUE7jY) 
-{% endhint %}
+{% embed url="https://www.youtube.com/watch?v=5GPi3GUE7jY&feature=youtu.be" %}
 
 계정 탭\(Account\)의 `+` 버튼을 눌러 계정을 생성할 수 있습니다.
 
