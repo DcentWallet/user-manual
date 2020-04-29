@@ -18,9 +18,7 @@ description: 콜드월렛에 새로운 지갑 생성하기
 
 ## 1단계 : 언어 선택 및 지갑 생성
 
-{% hint style="success" %}
-동영상 강좌: [콜드월렛 초기 설정](https://youtu.be/iUwj1L_8F8c) 
-{% endhint %}
+{% embed url="https://www.youtube.com/watch?v=iUwj1L\_8F8c&feature=youtu.be" %}
 
 ### 전원 켜기
 
