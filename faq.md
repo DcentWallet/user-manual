@@ -46,7 +46,7 @@ Since the D'CENT mobile app maintains a transaction record for all addresses, th
 
 ## Why does it take long to transfer a large amount of Bitcoin?
 
-In the case of Bitcoin, fragments of bitcoins from several blocks are collected and transmitted. If Bitcoin is fragmented in too many blocks, it will take a lot of time to collect and send them all. This isn't always the case, but the larger the number of Bitcoins you send, the more likely it will be to collected from multiple places, which will usually take more time.   
+When transferring Bitcoin, fragments\(small amounts\) of bitcoins from many blocks are collected and transmitted. If your Bitcoin balance is fragmented in too many blocks, it will take a lot of time to collect and to send them all. This isn't always the case, but the larger the number of Bitcoins you send, the more likely it will be to collected from multiple blocks, which will usually take more time.   
   
 If a transaction takes too much time, it can have multiple side effects. Customers may think that the Wallet function has stopped working and it actually increases the chances of an error. For this reason, D'CENT provides a method for dividing and transmitting multiple transactions if the bitcoin account balance is highly fragmentation. For example, a large sum of single bitcoin transfer request may be divided into 2 transactions, thus the customer will confirm twice.
 
