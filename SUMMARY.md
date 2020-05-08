@@ -48,6 +48,7 @@
 * [How to use XRP account](coin-send-receive/ripple-xrp/README.md)
   * [Sending XRP using D'CENT Wallet](coin-send-receive/ripple-xrp/xrp_send.md)
 * [How to use KLAY account](coin-send-receive/klaytn-klay.md)
+* [How to view all the BTC public addresses](coin-send-receive/how-to-view-all-the-btc-public-addresses.md)
 
 ## D'CENT Services
 
