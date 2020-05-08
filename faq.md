@@ -38,7 +38,8 @@ On Android phones, you can also connect via a USB cable. Click [here](biometric-
 
 In the case of Bitcoin, it is recommended to change the address once it is used to protect a certain level of privacy because anyone can see the transaction details and balance when the address is exposed. This is proposed in the BIP-32 and BIP-44 specifications related to Bitcoin, and many hardware wallet companies support this function. 
 
-In the case of D'CENT, we provide a function that shows the list of used addresses from the mobile app to mitigate the discomfort of not knowing the previously used Bitcoin addresses. 
+In the case of D'CENT, we provide a function that shows the list of used addresses from the mobile app to mitigate the discomfort of not knowing the previously used Bitcoin addresses.   
+To find out how to check all your BTC public addresses, please click [here](coin-send-receive/how-to-view-all-the-btc-public-addresses.md).
 
 ## Can I continue to use my Bitcoin address before the change?
 
