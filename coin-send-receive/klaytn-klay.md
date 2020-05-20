@@ -1,5 +1,5 @@
 ---
-description: Send and Receive KLAY coin
+description: Send and Receive Klaytn (KLAY) coin
 ---
 
 # How to use KLAY account

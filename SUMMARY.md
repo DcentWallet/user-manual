@@ -45,10 +45,11 @@
   * [Biometric Wallet mode](coin-send-receive/send/mode_biometric.md)
   * [Card type Wallet mode](coin-send-receive/send/mode_cardtype.md)
   * [Software Wallet mode](coin-send-receive/send/mode_appwallet.md)
+* [How to view all the BTC public addresses](coin-send-receive/how-to-view-all-the-btc-public-addresses.md)
 * [How to use XRP account](coin-send-receive/ripple-xrp/README.md)
   * [Sending XRP using D'CENT Wallet](coin-send-receive/ripple-xrp/xrp_send.md)
 * [How to use KLAY account](coin-send-receive/klaytn-klay.md)
-* [How to view all the BTC public addresses](coin-send-receive/how-to-view-all-the-btc-public-addresses.md)
+* [How to use MONA account](coin-send-receive/how-to-use-mona-account.md)
 
 ## D'CENT Services
 

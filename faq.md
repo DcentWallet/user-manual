@@ -43,7 +43,7 @@ To find out how to check all your BTC public addresses, please click [here](coin
 
 ## Can I continue to use my Bitcoin address before the change?
 
-Since the D'CENT mobile app maintains a transaction record for all addresses, there is no problem to continue using the bitcoin address before the change.
+Since the D'CENT mobile app maintains a transaction record for all addresses, there is no problem to continue using the bitcoin address before the change. For more information about bitcoin address, please click [here](coin-send-receive/how-to-view-all-the-btc-public-addresses.md).
 
 ## Why does it take long to transfer a large amount of Bitcoin?
 
