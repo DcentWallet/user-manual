@@ -34,7 +34,7 @@ Run the D'CENT mobile app on your phone and make sure you connect your phone tog
   
 4\) Press '**Next**' button to continue.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 If the **'Next' button is disabled** while a red text message 'Address format is incorrect' is shown, this means that the address is incorrectly entered. Notice that there is extra '**bitcoin:**' text in the beginning of the address. If this ever happens, just delete the extra text and the 'Next' button will be enabled.
 {% endhint %}
 
