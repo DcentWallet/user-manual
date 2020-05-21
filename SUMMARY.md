@@ -50,6 +50,7 @@
   * [Sending XRP using D'CENT Wallet](coin-send-receive/ripple-xrp/xrp_send.md)
 * [How to use KLAY account](coin-send-receive/klaytn-klay.md)
 * [How to use MONA account](coin-send-receive/how-to-use-mona-account.md)
+* [Using Coinbase for transfers \(Bitcoin example\)](coin-send-receive/using-coinbase-for-transfers-bitcoin-example.md)
 
 ## D'CENT Services
 
