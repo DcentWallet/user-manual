@@ -97,7 +97,7 @@ Below are the screenshots of Coinbase wallet interface.
 
 ![](../.gitbook/assets/coinbase12.png)
 
-6\) Enter the 2-step verification from SMS that you received.
+6\) Enter the 2-step verification code from SMS that you received.
 
 7\) Press '**Confirm**' button to submit the Send transaction request.
 
