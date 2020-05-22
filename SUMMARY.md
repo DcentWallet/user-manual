@@ -51,6 +51,7 @@
 * [클레이튼 지갑 계정 사용법](coin-send-receive/klaytn-klay.md)
 * [모나코인 지갑 계정 사용법](coin-send-receive/monacoin.md)
 * [코인베이스 거래소 사용법 \(비트코인 예시\)](coin-send-receive/undefined.md)
+* [바이낸스 거래소 사용법 \(리플 예시\)](coin-send-receive/undefined-1.md)
 
 ## 디센트 서비스 <a id="service"></a>
 
