@@ -1,4 +1,4 @@
-# Using Coinbase for transfers \(Bitcoin example\)
+# Using Coinbase exchange for transfers \(Bitcoin example\)
 
 ## Sending fund to your Coinbase wallet account
 
