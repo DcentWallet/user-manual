@@ -2,7 +2,7 @@
 
 ## 바이낸스 월렛 주소로 입금 받기 
 
-### 바이낸스 월렛에서 송금받을 주소 확인
+### 바이낸스 월렛에서 송금 받을 주소 확인
 
 ![](../.gitbook/assets/binance1.png)
 
@@ -65,7 +65,7 @@ Option2\) **공유** - 주소를 복사하여 스마트폰에 설치된 특정 S
 
 ![](../.gitbook/assets/binance1.png)
 
-바이낸스 계정에 로그인 후 사용할 지갑을\(예: '**Spot Wallet**'\) 선택하싶시.
+바이낸스 계정에 로그인 후 사용할 지갑을\(예: '**Spot Wallet**'\) 선택하십시오.
 
 ![](../.gitbook/assets/binance8.png)
 
