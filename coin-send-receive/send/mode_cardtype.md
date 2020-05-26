@@ -30,8 +30,11 @@ By setting it to "fast" and paying more fees, it is likely that the processing t
 
 4\) Check if the transaction details displayed on the screen are correct and click the "**Send**" button.  
   
-5\) Enter the password for your Card Wallet  
+5\) Enter the password for your Card Wallet
 
+{% hint style="danger" %}
+If the password is not matched, you can try 10 times. If all 10 times trials are over, Card Wallet will be locked and you can never use the Card Wallet. Remember carefully your password for Card Wallet.
+{% endhint %}
 
 ### Final confirmation from your Card Wallet
 
