@@ -16,7 +16,7 @@ For more details of creating an account, click below link.
 
 From your coin account, click "Receive" to view your account address.
 
-![](../.gitbook/assets/image%20%28214%29.png)
+![](../.gitbook/assets/image%20%28218%29.png)
 
 For more details of receiving coin, click below link.
 
@@ -30,7 +30,7 @@ The procedures to send ETH coin are same as sending general coin. You can see in
 
 ### Set the fee for Ethereum
 
-![](../.gitbook/assets/image%20%28212%29.png)
+![](../.gitbook/assets/image%20%28215%29.png)
 
 The fee of Ethereum is automatically calculated after setting the sending amount. The calculated fee is based on current average transaction fee on Ethereum blockchain network.
 
