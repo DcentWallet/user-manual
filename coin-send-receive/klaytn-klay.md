@@ -8,7 +8,9 @@ description: Send and Receive Klaytn (KLAY) coin
 
 If you don't have Klaytn account, create new account. Coin name for KLAY is "Klaytn \(KLAY\)".
 
-For more details of creating an account, see [here](../mobile-app/create-account.md).
+For more details of creating an account, click below link.
+
+{% page-ref page="../mobile-app/create-account.md" %}
 
 ## Receive KLAY coin
 
@@ -16,11 +18,15 @@ From your coin account, click "Receive" to view your account address.
 
 ![](../.gitbook/assets/image%20%28110%29.png)
 
-For more details of receiving coin, see [here](receive.md).
+For more details of receiving coin, click below link.
+
+{% page-ref page="receive.md" %}
 
 ## Sending KLAY Coin
 
-The procedures to send KLAY coin are same as sending general coin. You can see [here](send/) to check how to send coin.
+The procedures to send KLAY coin are same as sending general coin. You can see in the below link to check how to send coin.
+
+{% page-ref page="send/" %}
 
 ### Set the fee for Klaytn
 
