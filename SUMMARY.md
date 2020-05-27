@@ -47,7 +47,7 @@
   * [카드 타입 콜드월렛 사용](coin-send-receive/send/mode_cardtype.md)
   * [앱 월렛 사용](coin-send-receive/send/mode_appwallet.md)
 * [비트코인 지갑 계정 - 모든 공개 주소 확인하기](coin-send-receive/how-to-view-all-the-btc-public-addresses.md)
-* [이더리움 계정 지갑 사용법](coin-send-receive/undefined.md)
+* [이더리움 계정 지갑 사용법](coin-send-receive/ethereum.md)
 * [리플 \(XRP\) 지갑 계정 사용법](coin-send-receive/ripple-xrp/README.md)
   * [디센트 월렛으로 리플 \(XRP\) 보내기](coin-send-receive/ripple-xrp/xrp_send.md)
 * [클레이튼 지갑 계정 사용법](coin-send-receive/klaytn-klay.md)
