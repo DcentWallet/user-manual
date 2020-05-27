@@ -51,6 +51,7 @@
 * [리플 \(XRP\) 지갑 계정 사용법](coin-send-receive/ripple-xrp/README.md)
   * [디센트 월렛으로 리플 \(XRP\) 보내기](coin-send-receive/ripple-xrp/xrp_send.md)
 * [클레이튼 지갑 계정 사용법](coin-send-receive/klaytn-klay.md)
+* [RSK \(RBTC\) 지갑 계정 사용법](coin-send-receive/rsk-rbtc.md)
 * [모나코인 지갑 계정 사용법](coin-send-receive/monacoin.md)
 * [코인베이스 거래소 사용법 \(비트코인 예시\)](coin-send-receive/coinbase.md)
 * [바이낸스 거래소 사용법 \(리플 예시\)](coin-send-receive/binance.md)
