@@ -46,6 +46,7 @@
   * [Biometric Wallet mode](coin-send-receive/send/mode_biometric.md)
   * [Card type Wallet mode](coin-send-receive/send/mode_cardtype.md)
   * [Software Wallet mode](coin-send-receive/send/mode_appwallet.md)
+* [Checking transaction status and history](coin-send-receive/checking-transaction-status-and-history.md)
 * [How to view all the BTC public addresses](coin-send-receive/how-to-view-all-the-btc-public-addresses.md)
 * [How to use Ethereum account](coin-send-receive/how-to-use-ethereum-account.md)
 * [How to use XRP account](coin-send-receive/ripple-xrp/README.md)
