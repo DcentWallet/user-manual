@@ -16,6 +16,8 @@ For more details of creating an account, click below link.
 
 From your coin account, click "Receive" to view your account address.
 
+![](../.gitbook/assets/image%20%28224%29.png)
+
 For more details of receiving coin, click below link.
 
 {% page-ref page="receive.md" %}
@@ -29,4 +31,6 @@ The procedures to send BNB coin are same as sending general coin. You can see in
 ### The fee for Binance
 
 The fee of BNB is fixed as "0.000375 BNB" per transaction.
+
+![](../.gitbook/assets/image%20%28223%29.png)
 
