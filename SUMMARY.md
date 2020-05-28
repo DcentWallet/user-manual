@@ -53,6 +53,7 @@
   * [Sending XRP using D'CENT Wallet](coin-send-receive/ripple-xrp/xrp_send.md)
 * [How to use KLAY account](coin-send-receive/klaytn-klay.md)
 * [How to use RSK account](coin-send-receive/how-to-use-rsk-account.md)
+* [How to use Binance account](coin-send-receive/how-to-use-binance-account.md)
 * [How to use MONA account](coin-send-receive/how-to-use-mona-account.md)
 * [Using Coinbase exchange for transfers \(Bitcoin example\)](coin-send-receive/using-coinbase-for-transfers-bitcoin-example.md)
 * [Using Binance exchange for transfers \(XRP example\)](coin-send-receive/using-binance-exchange-for-transfers-xrp-example.md)
