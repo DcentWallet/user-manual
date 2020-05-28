@@ -30,7 +30,7 @@ description: Binance 계정에서 BNB 코인 보내기 받기
 
 ### 바이낸스 코인 수수료
 
-![](../.gitbook/assets/image%20%28221%29.png)
+![](../.gitbook/assets/image%20%28222%29.png)
 
 바이낸스 코인의 수수료는 고정 값을 사용합니다. 바이낸스 코인 보내기를 할 때마다 “0.000375 BNB” 가 발생합니다.
 
