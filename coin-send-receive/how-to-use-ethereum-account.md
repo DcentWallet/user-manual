@@ -40,3 +40,15 @@ You can change the fee by sliding the bar or by directly entering the fee value 
 If the fee is set too low, the transaction may not get confirmed in the blockchain network.
 {% endhint %}
 
+### Advanced Fee Setting
+
+The fee of ethereum is consist of "GAS fee" and "GAS Limit". The unit of GAS fee is "gwei" which is one of ETH's sub unit.
+
+`1 ETH = 1,000,000,000 gwei`
+
+The real fee to be paid is calculated as `“Used GAS amount” x “GAS fee”` .
+
+You can set the maximum amount of GAS as setting GAS Limit. Transaction can be confirmed faster if GAS fee is higher. You can manually set the GAS Limit and GAS fee on "Advanced" fee setting option.
+
+![](../.gitbook/assets/image%20%28221%29.png)
+
