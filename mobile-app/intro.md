@@ -73,7 +73,9 @@ From a single D'CENT mobile app, users are given the choices of using Biometric 
         </td>
     </tr>
   </tbody>
-</table>## Next Features
+</table>
+
+## Next Features
 
 | Feature | Description |
 | :--- | :--- |
