@@ -67,6 +67,7 @@
 
 * [ERC20 토큰](cryptocurrency-basic/erc20.md)
 * [ERC721 토큰 \(NFT\)](cryptocurrency-basic/erc721-nft.md)
+* [세그윗 \(SegWit\)](cryptocurrency-basic/segwit.md)
 
 ## 디센트 공식 사이트 <a id="official-sites"></a>
 
