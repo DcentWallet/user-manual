@@ -67,6 +67,7 @@
 
 * [ERC20 Token](cryptocurrency-basic/erc20.md)
 * [ERC721 Token \(NFT\)](cryptocurrency-basic/erc721-nft.md)
+* [SegWit](cryptocurrency-basic/segwit.md)
 
 ## D'CENT official sites <a id="official-sites"></a>
 
