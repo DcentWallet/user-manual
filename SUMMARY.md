@@ -3,6 +3,7 @@
 * [시작하기](README.md)
 * [자주 묻는 질문 \(FAQ\)](faq.md)
 * [지원코인 리스트](https://dcentwallet.com/SupportedCoin)
+* [디센트 공식 홈페이지](https://dcentwallet.com/)
 
 ## 지문인증형 콜드월렛 <a id="biometric-wallet"></a>
 
@@ -68,8 +69,4 @@
 * [ERC20 토큰](cryptocurrency-basic/erc20.md)
 * [ERC721 토큰 \(NFT\)](cryptocurrency-basic/erc721-nft.md)
 * [세그윗 \(SegWit\)](cryptocurrency-basic/segwit.md)
-
-## 디센트 공식 사이트 <a id="official-sites"></a>
-
-* [디센트 공식 홈페이지](https://dcentwallet.com/)
 
