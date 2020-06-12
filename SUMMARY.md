@@ -3,6 +3,7 @@
 * [Getting Started](README.md)
 * [Frequently asked questions \(FAQ\)](faq.md)
 * [Supported Coins & Tokens](https://dcentwallet.com/SupportedCoin)
+* [D'CENT Wallet Homepage](https://dcentwallet.com/)
 
 ## Biometric Wallet
 
@@ -68,8 +69,4 @@
 * [ERC20 Token](cryptocurrency-basic/erc20.md)
 * [ERC721 Token \(NFT\)](cryptocurrency-basic/erc721-nft.md)
 * [SegWit](cryptocurrency-basic/segwit.md)
-
-## D'CENT official sites <a id="official-sites"></a>
-
-* [D'CENT Wallet Homepage](https://dcentwallet.com/)
 
