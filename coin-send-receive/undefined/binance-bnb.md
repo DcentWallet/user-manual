@@ -12,7 +12,7 @@ description: Binance 계정에서 BNB 코인 보내기 받기
 
 {% page-ref page="../../mobile-app/create-account.md" %}
 
-## BNB 코 받기
+## BNB 코인 받기
 
 생성된 바이낸스 코인 계정의 “받기”를 클릭하면 바이낸스 코인 주소를 확인 할 수 있습니다.
 
