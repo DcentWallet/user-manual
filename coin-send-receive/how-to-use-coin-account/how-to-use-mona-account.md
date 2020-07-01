@@ -4,7 +4,7 @@ description: Send and Receive Monacoin (MONA)
 
 # How to use MONA account
 
-## How to create an MONA account
+## How to create a MONA account
 
 If you don't have Monacoin account, create a new account. Coin name for Monacoin is "Monacoin \(MONA\)".
 
