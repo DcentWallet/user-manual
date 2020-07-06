@@ -18,3 +18,7 @@ description: '각 코인/토큰별 보내기, 받기 사용법'
 
 {% page-ref page="monacoin.md" %}
 
+{% page-ref page="xlm.md" %}
+
+
+
