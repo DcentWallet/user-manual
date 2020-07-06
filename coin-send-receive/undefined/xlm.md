@@ -28,7 +28,7 @@
 
 1\) 하드웨어 지갑을 기기 초기화하는 방법은 [여기](https://userguide.dcentwallet.com/v/kr/biometric-wallet/setting-menu#undefined-8)를 참고해주시기 바랍니다.
 
-2\) 콜드월렛을 복구하는 방법은 [여기](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-M9vHvXkuogj4FrTcbiG/v/kr/biometric-wallet/recovery)를 참고해주시기 바랍니다. 
+2\) 콜드월렛을 복구하는 방법은 [여기](https://userguide.dcentwallet.com/v/kr/biometric-wallet/recovery)를 참고해주시기 바랍니다. 
 
 {% hint style="danger" %}
 주의!! 복구단어 분실 상태에서 절대로 기기를 초기화 하지 마세요! 
