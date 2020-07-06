@@ -18,3 +18,7 @@ description: How to send and receive each coin
 
 {% page-ref page="how-to-use-mona-account.md" %}
 
+{% page-ref page="how-to-use-stellar-lumen-xlm-account.md" %}
+
+
+
