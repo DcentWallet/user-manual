@@ -28,6 +28,7 @@
 * [안드로이드에서 사용하기](card-wallet/how-to-use-android.md)
 * [아이폰에서 사용하기](card-wallet/how-to-use-iphone.md)
 * [카드 타입 콜드월렛 사용시 주의 사항](card-wallet/caution-on-using-the-card-type-wallet.md)
+* [디센트 백업카드](card-wallet/backupcard.md)
 
 ## 모바일 앱 <a id="mobile-app"></a>
 
