@@ -17,7 +17,7 @@ D'CENT Biometric Wallet offers a convenient feature of showing the account addre
 
 Run the mobile app and you will see your accounts in the main screen.
 
-![](../.gitbook/assets/mobileapp-account-address.png)
+![](../.gitbook/assets/mobileapp-account-address_en.png)
 
 * From your coin account, click "**Receive**" to view your account address.
 * Your account address in QR code can be scanned by the sender's camera.
