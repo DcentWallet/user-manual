@@ -24,7 +24,7 @@ From the Klaystation, users can stake KLAY using Kaikas wallet and D'CENT Biomet
 
 ![](../.gitbook/assets/klaystation-4_en.png)
 
-**Step 5\)** From the dashboard, press the **Stake Now** button and a new pop-up will open. From the pop-up, set the amount to stake and press the **Confirm** button.
+**Step 5\)** From the dashboard, press the **STAKE NOW** button and a new pop-up will open. From the pop-up, set the amount to stake and press the **Confirm** button.
 
 ![](../.gitbook/assets/klaystation-6_en.png)
 
