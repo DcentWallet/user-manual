@@ -69,6 +69,7 @@
 ## D'CENT EXTERNAL SERVICES <a id="external-service"></a>
 
 * [Connect with Kaikas wallet extension](external-service/kaikas.md)
+* [Klaystation Staking](external-service/klaystation.md)
 
 ## Cryptocurrency Basics <a id="cryptocurrency-basic"></a>
 
