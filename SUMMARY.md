@@ -62,9 +62,13 @@
 * [코인베이스 거래소 사용법 \(비트코인 예시\)](coin-send-receive/coinbase.md)
 * [바이낸스 거래소 사용법 \(리플 예시\)](coin-send-receive/binance.md)
 
-## 디센트 서비스 <a id="service"></a>
+## 디센트 내부 서비스 <a id="native-service"></a>
 
-* [디센트 이자 몰아받기 - 무손실 로또 서비스](service/all4one.md)
+* [디센트 이자 몰아받기 - 무손실 로또 서비스](native-service/all4one.md)
+
+## 디센트 외부 서비스 <a id="external-service"></a>
+
+* [Untitled](external-service/untitled.md)
 
 ## 암호화폐 기초지식 <a id="cryptocurrency-basic"></a>
 
