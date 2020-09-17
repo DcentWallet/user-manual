@@ -62,9 +62,13 @@
 * [Using Coinbase exchange for transfers \(Bitcoin example\)](coin-send-receive/using-coinbase-for-transfers-bitcoin-example.md)
 * [Using Binance exchange for transfers \(XRP example\)](coin-send-receive/using-binance-exchange-for-transfers-xrp-example.md)
 
-## D'CENT Services
+## D'CENT Native Services <a id="dcent-services"></a>
 
 * [All4One - No loss lottery service](dcent-services/all4one.md)
+
+## D'CENT EXTERNAL SERVICES
+
+* [Connect with Kaikas wallet extension](dcent-external-services/kaikas.md)
 
 ## Cryptocurrency Basics <a id="cryptocurrency-basic"></a>
 
