@@ -69,6 +69,7 @@
 ## 디센트 외부 서비스 <a id="external-service"></a>
 
 * [카이카스 월렛과 연결하기](external-service/kaikas.md)
+* [클레이스테이션 Staking](external-service/klaystation.md)
 
 ## 암호화폐 기초지식 <a id="cryptocurrency-basic"></a>
 
