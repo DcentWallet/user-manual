@@ -12,18 +12,18 @@
 
 **Step 1\)** 먼저 디센트 브릿지 프로그램을 PC에 다운로드하여 설치하시기 바랍니다. 브릿지 프로그램을 설치하면 PC의 브라우저와 하드웨어 지갑 간의 통신을 가능하게 합니다.
 
-\[**D’CENT bridge program**\]  
+\[**디센트 브릿지 프로그램 다운로**\]  
 [Download D’CENT bridge program](https://bridge.dcentwallet.com/v2/download)\*\*\*\*
 
-**Step 2\)** PC의 USB 포트에 디센트 지문인증형 지갑을 연결하고 사용자 인증을 통해 하드웨어 지갑을 unlock합니다.
+**Step 2\)** PC의 USB 포트에 디센트 지문인증형 지갑을 연결하고 사용자 인증을 통해 하드웨어 지갑을 언락\(unlock\)합니다.
 
 ![](../.gitbook/assets/connect-biometric-to-pc.png)
 
-**Step 3\)** 브라우저에 설치된 **카이카스 지갑 icon**을 클릭합니다.
+**Step 3\)** 브라우저에 설치된 **카이카스 지갑 아이**을 클릭합니다.
 
 ![](../.gitbook/assets/kaikas-extension-on-pc.png)
 
-**Step 4\)** 비밀번호를 입력하여 카이카스에 접속하고 상단 메뉴에 위치한 **Manage Accounts\(계정 관리\)** icon을 클릭합니다.
+**Step 4\)** 비밀번호를 입력하여 카이카스에 접속하고 상단 메뉴에 위치한 **Manage Accounts\(계정 관리\)** 아이을 클릭합니다.
 
 ![](../.gitbook/assets/kaikas-1.png)
 
@@ -36,6 +36,6 @@
 ![](../.gitbook/assets/kaikas-3.png)
 
 {% hint style="info" %}
- **계정 관리** icon을 통해 여러개의 클레이튼 계정을 바꿔가며 관리가 가능합니다.
+ **계정 관리** 아이을 통해 여러개의 클레이튼 계정을 바꿔가며 관리가 가능합니다.
 {% endhint %}
 
