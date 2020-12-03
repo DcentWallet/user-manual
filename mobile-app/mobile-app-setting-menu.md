@@ -1,3 +1,7 @@
+---
+description: D'CENT Mobile App Setting
+---
+
 # Mobile App "Setting" menu
 
 You can change various settings of the mobile app from the "Setting" menu.
@@ -13,6 +17,10 @@ You can change various settings of the mobile app from the "Setting" menu.
 * JPY : Japanese YEN
 * CNY : Chinese YUAN
 * EUR : European EURO
+* GBP : British Pound Sterling
+* AUD : Australian Dollar
+* BTC : Bitcoin
+* ETH : Ethereum
 
 ## Set additional authentication methods for mobile app
 
