@@ -43,7 +43,7 @@
 ![](../../.gitbook/assets/xlm-send-all_kr.jpg)
 
 {% hint style="info" %}
-경우에 따라 락업 금액이 상이 할 수 있습니다. 보다 자세한 사은 아래 링크를 참고하세요.  
+경우에 따라 락업 금액이 상이 할 수 있습니다. 보다 자세한 사항은 아래 링크를 참고하세요.  
 [https://www.stellar.org/developers/guides/concepts/fees.html\#minimum-account-balance](https://www.stellar.org/developers/guides/concepts/fees.html#minimum-account-balance)
 {% endhint %}
 
