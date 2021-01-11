@@ -52,6 +52,9 @@ Right Mouse Click on this device and select **Properties**.
 * Under Property, choose **Hardware Ids**.
 * Correct device ID for D'CENT is PID\_2130.
 
-From the **Device Manager**, Right Mouse Click on the error marked device and select **Uninstall device**.  
+From the **Device Manager**, Right Mouse Click on the error marked device and select **Uninstall device**.
+
+![](../../.gitbook/assets/troubleshooot_remove-error-device.png)
+
 On the top menu of Device Manager, press **Action** then select **Scan for hardware changes**. This will scan for any new devices attached and will automatically install the driver to detect your Biometric Wallet.
 
