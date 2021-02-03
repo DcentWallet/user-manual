@@ -8,7 +8,7 @@ WalletConnect를 지원하는 DApp의 전체 목록은 여기에서 찾을 수 �
 
 WalletConnect는 QR 코드를 스캔을 사용하여 브라우저의 DApp을 모바일 지갑에 연결할때 end-to-end 암호화를 사용하는 개방형 프로토콜입니다. 사용자는 브라우저에서 웹 사이트 \(DApp\)에 연결하고 거래를 수행 할때는 디센트 지갑을 통해 승인을 요청할 수 있습니다. 이때 인터넷에 비밀 정보를 공개하지않고 안전하게 서비스를 사용할 수 있습니다.
 
-![Image for post](https://miro.medium.com/max/2008/1*CEAbRRVwW-YHZPkG7R84RQ.png)
+![](../../.gitbook/assets/2.png)
 
 ### PC 브라우저에서 디센트 지갑을 DApps에 연결하는 방법 <a id="f730"></a>
 
@@ -16,27 +16,27 @@ WalletConnect는 QR 코드를 스캔을 사용하여 브라우저의 DApp을 모
 
 **Step 1\)** 브라우저에서 PoolTogether 웹 사이트로 이동하여 **Account**를 클릭합니다.
 
-![Image for post](https://miro.medium.com/max/1233/1*UfFV4TYVA9T7CBmHZK7yXg.png)
+![](../../.gitbook/assets/3.png)
 
 **Step 2\)** 사이트에서 **Connect Wallet** 버튼을 클릭합니다.
 
-![Image for post](https://miro.medium.com/max/1405/1*KatOalNtNnpJCKOgAmvKkg.png)
+![](../../.gitbook/assets/4.png)
 
 **Step 3\)** 리스트에서 **WalletConnect** 를 선택하면 **QRCODE**가 표시됩니다.
 
-![Image for post](https://miro.medium.com/max/1722/1*AQhUiqpyO5KgJU0Seikrjg.png)
+![](../../.gitbook/assets/5.png)
 
 **Step 4\)** 핸드폰에서 디센트 모바일앱을 실행하고 ‘Discovery’ 탭으로 이동합니다. 상단 좌측 모서리에는 WalletConnect **스캔** icon이 있습니다. 아이콘을 클릭하고 QRCODE를 스캔합니다.
 
-![Image for post](https://miro.medium.com/max/361/1*WR1WjrpTd6RLWA5R4bLvSA.png)
+![](../../.gitbook/assets/6.png)
 
 **Step 5\)** QRCODE를 스캔하면 다음과 같이 승인 요청 화면이 표시됩니다. **OK**버튼을 클릭하면 PoolTogether DApp에 지갑 주소를 사용하여 연결됩니다.
 
-![Image for post](https://miro.medium.com/max/363/1*kKbm-tO_Q7p6HGh7BJVvpQ.png)
+![](../../.gitbook/assets/7.png)
 
 **Step 6\)** 디센트 지갑이 DApp 서비스에 연결되면 다음과 같은 화면을 디센트앱과 PC화면에서 표시됩니다. PoolTogether DApp에서 오른쪽 상단에는 서비스와 연결된 디센트 지갑 주소를 확인할 수 있습니다.
 
-![Image for post](https://miro.medium.com/max/1830/1*RREBrFgEY_O3bQMCPzAtVw.png)
+![](../../.gitbook/assets/8.png)
 
 **Step 7\)** DApp 서비스에서 거래를 진행하시는 경우 디센트 지갑으로 거래의 승인을 요청하게 됩니다.
 
@@ -50,7 +50,7 @@ WalletConnect는 QR 코드를 스캔을 사용하여 브라우저의 DApp을 모
 
 **Step 3\)** **Mobile**이 선택된 상태로 **Connect** 버튼을 클릭합니다.
 
-![Image for post](https://miro.medium.com/max/2021/1*HsRZN9XcGG4nieTLv6JPfw.png)
+![](../../.gitbook/assets/9.png)
 
 **Step 4\)** 핸드폰에 디센트 모바일 앱이 설치되어있는 경우 선택이 가능한 옵션으로 표시됩니다. **D’CENT**를 선택합니다.
 
@@ -58,7 +58,7 @@ WalletConnect는 QR 코드를 스캔을 사용하여 브라우저의 DApp을 모
 
 **Step 6\)** **OK** 버튼을 클릭하면 DApp에서 지갑 주소와 연결하는 요청을 승인합니다.
 
-![Image for post](https://miro.medium.com/max/2021/1*tG8XnEFF3-con8tr5u3srQ.png)
+![](../../.gitbook/assets/10.png)
 
 **Step 7\)** 디센트 지갑 주소와 DApp 서비스가 연결된것을 확인할 수 있습니다.
 
@@ -66,7 +66,7 @@ WalletConnect는 QR 코드를 스캔을 사용하여 브라우저의 DApp을 모
 
 **NOTE :** DApp 서비스에서 사용이 끝나면 **disconnect** 버튼을 클릭해 주시기 바랍니다.
 
-![Image for post](https://miro.medium.com/max/1352/1*AvPYRbseexp5kdzNBeFqjQ.png)
+![](../../.gitbook/assets/11.png)
 
 ### 디센트 지갑의 댑 브라우저를 사용해서 DApp에 연결하는 방법 <a id="a08d"></a>
 
@@ -74,5 +74,5 @@ WalletConnect는 QR 코드를 스캔을 사용하여 브라우저의 DApp을 모
 
 DApp 서비스가 Web3 인터페이스를 지원하지 않는 경우 WalletConnect를 선택하여 DApp에 연결할 수 있습니다. 연결 방법은 위 섹션에서 설명한 이전 방식과 유사합니다.
 
-![Image for post](https://miro.medium.com/max/2153/1*vRWKEbn4UGLlq1ST4CK-FA.png)
+![](../../.gitbook/assets/12.png)
 
