@@ -64,7 +64,8 @@
 
 ## 디센트 내부 서비스 <a id="native-service"></a>
 
-* [디센트 이자 몰아받기 - 무손실 로또 서비스](native-service/all4one.md)
+* [댑 브라우저 \(Discovery\)](native-service/discovery/README.md)
+  * [Wallet Connect 사용법](native-service/discovery/wallet-connect.md)
 
 ## 디센트 외부 서비스 <a id="external-service"></a>
 
