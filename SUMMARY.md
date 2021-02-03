@@ -64,7 +64,8 @@
 
 ## D'CENT Native Services <a id="native-service"></a>
 
-* [All4One - No loss lottery service](native-service/all4one.md)
+* [DApp browser \(Discovery\)](native-service/dapp-browser/README.md)
+  * [Using Wallet Connect](native-service/dapp-browser/using-wallet-connect.md)
 
 ## D'CENT EXTERNAL SERVICES <a id="external-service"></a>
 
