@@ -24,7 +24,7 @@ In this example, we will access a DApp called **PoolTogether**. You will need yo
 
 ![Image for post](https://miro.medium.com/max/1405/1*KatOalNtNnpJCKOgAmvKkg.png)
 
-**Step 3\)** Select **WalletConnect** from the list and you will get a **QRCODE**.
+**Step 3\)** Select **WalletConnect** from the list and you will get a **QRCODE**. 
 
 ![Image for post](https://miro.medium.com/max/1722/1*AQhUiqpyO5KgJU0Seikrjg.png)
 
