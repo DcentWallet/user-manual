@@ -28,7 +28,10 @@
 * [Using Android mobile phone](card-wallet/how-to-use-android.md)
 * [Using iOS mobile phone](card-wallet/how-to-use-iphone.md)
 * [Caution on using the Card type Wallet](card-wallet/caution-on-using-the-card-type-wallet.md)
-* [D'CENT Backup Card](card-wallet/backupcard.md)
+* [D'CENT Backup Card Guide \(Old version\)](card-wallet/backupcard-old.md)
+* [D'CENT Backup Card Guide \(New version\)](card-wallet/backupcard-new/README.md)
+  * [Create backup image](card-wallet/backupcard-new/create-backup-image.md)
+  * [Recover backup image](card-wallet/backupcard-new/recover-backup-image.md)
 
 ## Mobile App
 
