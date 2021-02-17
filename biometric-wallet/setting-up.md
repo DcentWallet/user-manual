@@ -51,19 +51,27 @@ If you wish to recover an existing wallet, please refer [here](recovery.md).
 
 ## Step-2 : Register PIN & Fingerprint
 
-To protect accessing your wallet, register new PIN and your fingerprint.
+To protect accessing your wallet, register a new PIN and your fingerprint.
 
-### Register new 4-digit PIN
+### Register a new PIN \(4 to 8 digits\)
 
-Use ∧\(Up, increase number value\) or ∨\(Down, decrease number value\) button to input 4-digit PIN.
+Use **∧**\(Up, increase number value\) or **∨**\(Down, decrease number value\) button to input your PIN. Pressing the OK button on the hardware wallet will confirm the input.
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/1%20%283%29.png)
 
-### Verify 4-digit PIN
+When you have entered 4 digits, you will see '**OK'** text on the screen. If you wish to set your PIN to 4-digits long, then press the OK button on the hardware wallet. 
 
-Re-enter the same 4-digit PIN to verify.
+If you wish to set the PIN to a longer digit, you can change the '**OK**' text value on the screen by pressing the Up or Down button. **Your PIN can be set to 4, 5, 6, 7, or 8 digits long**.    
 
-![](../.gitbook/assets/image%20%28152%29.png)
+![](../.gitbook/assets/2%20%284%29.png)
+
+If you ever see a screen with a warning on '**Security level is low**', this means the PIN you have entered is a weak password. If you wish to use such a PIN, press the 'OK' button on the hardware wallet to continue. 
+
+### Verify your PIN
+
+Re-enter the same PIN you have set in the previous step to verify for correctness.
+
+![](../.gitbook/assets/3%20%283%29.png)
 
  ※ If the PIN numbers do not match, you will have to restart the PIN registration.
 

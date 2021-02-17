@@ -12,7 +12,7 @@ For connecting Bluetooth for iOS, more information can be found [here](iphone-co
 
 ### Change PIN
 
-The 4-digit PIN is used for authentication if fingerprint authentication fails, and the 4-digit PIN is required when adding or deleting fingerprint data. You can change PIN by entering the old PIN and entering the new PIN twice. Carefully choose your PIN and remember them. 
+The \(4 to 8 digits\) PIN is used for authentication if fingerprint authentication fails, and your PIN is also required when adding or deleting fingerprint data. You can change your PIN by entering the old PIN and entering the new PIN twice. Carefully choose your PIN and remember them. For instructions on how to change PIN, please refer [here](https://app.gitbook.com/@dcentwallet/s/userguide/~/drafts/-MTjH0Km7YeFkylwDbkU/biometric-wallet/setting-up#register-a-new-pin-4-to-8-digits). 
 
 ### Enroll Finger
 
@@ -50,7 +50,7 @@ Device Wipe is for resetting your Biometric Wallet to factory state. This means 
 ![](../.gitbook/assets/image%20%28203%29.png)
 
 If you perform the Device Wipe, your whole wallet will be deleted including all your private keys.   
-To perform Device Wipe, you must enter your 4-digit PIN, read the warning message displayed and press OK button to confirm \[OK & OFF\]. When device is powered on, you will notice that your Biometric Wallet is in the factory state.
+To perform Device Wipe, you must enter your PIN, read the warning message displayed and press OK button to confirm \[OK & OFF\]. When device is powered on, you will notice that your Biometric Wallet is in the factory state.
 
 {% hint style="danger" %}
 When you confirm \[OK&OFF\] to Device Wipe, all information will be deleted including private keys. Make sure you have your Mnemonic Codes before you perform Device Wipe.
