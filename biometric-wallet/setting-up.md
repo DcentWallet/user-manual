@@ -61,7 +61,7 @@ Use **∧**\(Up, increase number value\) or **∨**\(Down, decrease number value
 
 When you have entered 4 digits, you will see '**OK'** text on the screen. If you wish to set your PIN to 4-digits long, then press the OK button on the hardware wallet. 
 
-If you wish to set the PIN to a longer digit, you can change the '**OK**' text value on the screen by pressing the Up or Down button. **Your PIN can be set to 4, 5, 6, 7, or 8 digits long**.    
+If you wish to set the PIN to a longer digit, you can change the \('**OK**' text\) value on the screen by pressing the Up or Down button. **Your PIN can be set to 4, 5, 6, 7, or 8 digits long**.    
 
 ![](../.gitbook/assets/2%20%284%29.png)
 
