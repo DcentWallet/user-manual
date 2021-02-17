@@ -14,7 +14,7 @@ If you delete the D'CENT mobile app or lose your mobile phone without backing up
 
 1\) Select '**App Wallet backup**' from the Manager tab.
 
-2\) Press the '**Start backup**' button.
+2\) Read the warning and press the '**Start backup**' button.
 
 3\) **Write down all 24 words** in the exact order as shown on your screen.  You can also use the '**Copy**' button to save temporarily in the clipboard. Press '**Backup is complete**' to continue. 
 
