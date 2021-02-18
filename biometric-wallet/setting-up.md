@@ -51,7 +51,8 @@ If you wish to recover an existing wallet, please refer [here](recovery.md).
 
 ## Step-2 : Register PIN & Fingerprint
 
-To protect accessing your wallet, register a new PIN and your fingerprint.
+To protect accessing your wallet, register a new PIN and your fingerprint.   
+Firmware below v.2.5.5 only supports 4-digit PIN length.
 
 ### Register a new PIN \(4 to 8 digits\)
 
