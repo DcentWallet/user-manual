@@ -8,34 +8,68 @@ Before you begin, make sure you have changed the initial PIN on your Backup Card
 You can change the initial PIN by selecting '**Change card PIN**' from the Manager tab.
 {% endhint %}
 
+### Changing Backup Card initial PIN
+
+In order to use the Backup Card, the initial PIN must be changed first. If you have not done so already, please follow the guideline below to change the initial PIN.
+
+![](../../.gitbook/assets/14%20%281%29.png)
+
+**Step 1\)** Go to the **Manager** tab and select '**Change card PIN**'. 
+
+**Step 2\)** Press '**Start**' to begin.
+
+**Step 3\)** Find the initial PIN by removing masking on the surface of the card. Enter the 6-digit initial PIN.
+
+![](../../.gitbook/assets/15.png)
+
+**Step 4\)** Tag your **Backup Card** wallet. 
+
+**Step 5\)** Enter a new PIN to set to your Backup Card wallet.
+
+**Step 6\)** Re-enter the same PIN from **Step 5** above.
+
+![](../../.gitbook/assets/16.png)
+
+**Step 7\)** Tag your **Backup Card** wallet. 
+
+**Step 8\)** Press '**OK**' to finish the PIN setup.
+
+
+
+### How to recover your backup image on a Backup Card
+
 To recover a backup image,  please have your Backup Card ready.  
 Follow the steps carefully as described in the instructions.
 
-![](../../.gitbook/assets/4%20%281%29.png)
+![](../../.gitbook/assets/17.png)
 
 **Step 1\)** Go to the **Manager** tab and select '**Backup and Recover Card**'. 
 
-**Step 2\)** Select '**Recover Card**' and press '**Start**' to begin.
+**Step 2\)** Select '**Recover backup image**'.
 
-![](../../.gitbook/assets/5%20%281%29.png)
+**Step 3\)** Press '**Start**' to begin.
 
-**Step 3\)** Tag your **Backup Card** and press '**Next**' to continue. 
+![](../../.gitbook/assets/18.png)
 
-**Step 4\)** Press the 'Paste' to paste in the backup image you have created. 
+**Step 4\)** Tag your **Backup Card**. 
 
-**Step 5\)** Press '**Next**' to continue.
+**Step 5\)** If the Backup Card is usable for recovery, you will see this screen. Press '**Next**' and continue the setup from **Step 7**.  
 
-![](../../.gitbook/assets/6%20%281%29.png)
+**Step 6\)** If the Backup Card is detected as '**Unrecoverable card**' after tagging from **Step 4**, you will need to change the initial PIN on the Backup Card first.
 
-**Step 6\)** Enter the password you have set to the backup image. You may want to double-check by clicking on the EYE to see the password you have entered.
+![](../../.gitbook/assets/19.png)
 
-**Step 7\)** Press '**Next**' to continue.
+**Step 7\)** Paste the encrypted backup image data that you have created. Press '**Next**' to continue.
 
-![](../../.gitbook/assets/7%20%281%29.png)
+**Step 8\)** Enter the password you have set to the backup image. Press '**Next**' to continue.
 
-**Step 8\)** Enter the Backup Card PIN and tag your **Backup Card**.
+**Step 9\)** Enter the PIN of your Backup Card wallet.
 
-**Step 9\)** Press '**Finish**' to complete the process.
+![](../../.gitbook/assets/20.png)
+
+**Step 10\)** Tag your **Backup Card**.
+
+**Step 11\)** Press '**Finish**' to complete the process.
 
 {% hint style="success" %}
 Make sure to double-check that the Backup Card has been recovered normally. 
