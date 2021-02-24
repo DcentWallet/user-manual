@@ -34,7 +34,17 @@ If you are using iPhone, please refer [here](biometric-wallet/iphone-connect.md)
   
 On Android phones, you can also connect via a USB cable. Click [here](biometric-wallet/android-connect/android-otg.md) for how to connect USB cable with an Android phone. 
 
-## Why does my Bitcoin Address keeps on changing? 
+## I have multiple phones. Can I download the D'CENT Mobile App on my other phone to use my Biometric wallet?
+
+You can use the Biometric wallet with more than one phone. However, you can only use the Biometric wallet with a phone that is currently connected via Bluetooth. If you intend to use the Biometric wallet with multiple phones, make sure you disable or disconnect the Bluetooth connection on the first phone then establish Bluetooth connection on the secondary phone that you will use.
+
+## I lost my phone / I am changing my phone. Can I use the Biometric Wallet on the new phone if I download the D'CENT Mobile App?
+
+You can certainly use it on a new phone. The D'CENT Mobile App \(Biometric wallet mode\) only holds publicly available information such as the cryptocurrency accounts\(public addresses\) that you have added for management.   
+  
+D'CENT Mobile App only provides user interface so that you can get a view of accounts information. Notice that every time that you run D'CENT Mobile App, it synchronizes with the Biometric Wallet. During the synchronization, the Biometric wallet provides the correct account information \(public address\) to the D'CENT Mobile App, making sure that what you see on the Mobile App is the correct account address.
+
+## Why does my Bitcoin Address keep on changing? 
 
 In the case of Bitcoin, it is recommended to change the address once it is used to protect a certain level of privacy because anyone can see the transaction details and balance when the address is exposed. This is proposed in the BIP-32 and BIP-44 specifications related to Bitcoin, and many hardware wallet companies support this function. 
 
@@ -43,7 +53,7 @@ To find out how to check all your BTC public addresses, please click [here](coin
 
 ## Can I continue to use my Bitcoin address before the change?
 
-Since the D'CENT mobile app maintains a transaction record for all addresses, there is no problem to continue using the bitcoin address before the change. For more information about bitcoin address, please click [here](coin-send-receive/how-to-use-coin-account/how-to-view-all-the-btc-public-addresses.md).
+Since the D'CENT mobile app maintains a transaction record for all addresses, there is no problem to continue using the bitcoin address before the change. For more information about the Bitcoin address, please click [here](coin-send-receive/how-to-use-coin-account/how-to-view-all-the-btc-public-addresses.md).
 
 ## Why does it take long to transfer a large amount of Bitcoin?
 
@@ -57,7 +67,7 @@ If a transaction takes too much time, it can have multiple side effects. Custome
 * Balance before remittance-\(remittance amount + commission\)&gt; = 20 XRP.  
 * Many exchanges require a Destination Tag when depositing XRP as an exchange. When sending money to an exchange, please make sure that the Destination Tag is required before sending money. If you do not fill in the Tag, your money may get lost forever or it may take a very long time for the Exchange to recover your fund. 
 
-## Coin was sent to my wallet but balance is not showing. What should I do?
+## Coin was sent to my wallet, but the balance is not showing. What should I do?
 
 In most cases, it is the case that you entered the address incorrectly or it takes a long time due to low transaction fee paid.
 
