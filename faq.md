@@ -67,6 +67,10 @@ If a transaction takes too much time, it can have multiple side effects. Custome
 * Balance before remittance-\(remittance amount + commission\)&gt; = 20 XRP.  
 * Many exchanges require a Destination Tag when depositing XRP as an exchange. When sending money to an exchange, please make sure that the Destination Tag is required before sending money. If you do not fill in the Tag, your money may get lost forever or it may take a very long time for the Exchange to recover your fund. 
 
+## Why is the remaining 20 XRP in my wallet not transferrable?
+
+[Ripple's policy](https://xrpl.org/reserves.html) **requires a transfer of Ripple of 20 XRP or higher** to convert a newly created XRP wallet address to an **activated** state. The cost of address activation is 20 XRP and it will be locked-up to the XRP account, this means that the reserve amount of 20 XRP cannot be withdrawn. 
+
 ## Coin was sent to my wallet, but the balance is not showing. What should I do?
 
 In most cases, it is the case that you entered the address incorrectly or it takes a long time due to low transaction fee paid.
