@@ -12,7 +12,7 @@ The main screen of the device lists various coin accounts. Select and choose an 
 
 ![](../.gitbook/assets/image%20%2828%29.png)
 
-For more information on **how to create an account**, please see [here](../mobile-app/create-account.md).
+For more information on **how to create an account**, please see [here](../mobile-app/create-account/).
 
 For more information on synchronizing between Biometric Wallet and mobile app, please see [here](synch-with-app.md).
 

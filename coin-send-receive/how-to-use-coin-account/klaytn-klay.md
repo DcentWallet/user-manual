@@ -10,7 +10,7 @@ If you don't have Klaytn account, create new account. Coin name for KLAY is "Kla
 
 For more details of creating an account, click below link.
 
-{% page-ref page="../../mobile-app/create-account.md" %}
+{% page-ref page="../../mobile-app/create-account/" %}
 
 ## Receive KLAY coin
 

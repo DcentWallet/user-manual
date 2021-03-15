@@ -10,7 +10,7 @@ If you don't have Ethereum account, create new account. Coin name for Ethereum i
 
 For more details of creating an account, click below link.
 
-{% page-ref page="../../mobile-app/create-account.md" %}
+{% page-ref page="../../mobile-app/create-account/" %}
 
 ## Receive Ethereum coin
 

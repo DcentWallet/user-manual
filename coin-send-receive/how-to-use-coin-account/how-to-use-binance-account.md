@@ -10,7 +10,7 @@ If you don't have Binance account, create new account. Coin name for Binance is 
 
 For more details of creating an account, click below link.
 
-{% page-ref page="../../mobile-app/create-account.md" %}
+{% page-ref page="../../mobile-app/create-account/" %}
 
 ## Receive BNB coin
 

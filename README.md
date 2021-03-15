@@ -16,7 +16,7 @@ description: Welcome to D'CENT User Guide.
 
 ## How to use D'CENT Wallet
 
-{% page-ref page="mobile-app/create-account.md" %}
+{% page-ref page="mobile-app/create-account/" %}
 
 {% page-ref page="coin-send-receive/receive.md" %}
 

@@ -109,5 +109,5 @@ When the synchronization is complete, you will notice the Bluetooth icon\(mint c
 
 ![](../../.gitbook/assets/image%20%28148%29.png)
 
-You can now add a coin account to manage using your Biometric Wallet. More information on how to add coin account can be found [here](../../mobile-app/create-account.md).
+You can now add a coin account to manage using your Biometric Wallet. More information on how to add coin account can be found [here](../../mobile-app/create-account/).
 

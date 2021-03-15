@@ -4,7 +4,7 @@ From a single D'CENT mobile app, users are given the choices of using Biometric 
 
 {% page-ref page="mobile-app-download.md" %}
 
-{% page-ref page="create-account.md" %}
+{% page-ref page="create-account/" %}
 
 {% page-ref page="../coin-send-receive/receive.md" %}
 

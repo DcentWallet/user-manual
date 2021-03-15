@@ -37,7 +37,8 @@
 
 * [Mobile App introduction](mobile-app/intro.md)
 * [Mobile App download](mobile-app/mobile-app-download.md)
-* [How to create a coin account](mobile-app/create-account.md)
+* [How to create a coin account](mobile-app/create-account/README.md)
+  * [How to add a custom token account](mobile-app/create-account/how-to-add-a-custom-token-account.md)
 * [D'CENT Manager Menu](mobile-app/mobile-app-dcent-manager/README.md)
   * [Biometric Wallet Manager](mobile-app/mobile-app-dcent-manager/biometric-wallet.md)
   * [Card type Wallet Manager](mobile-app/mobile-app-dcent-manager/card-wallet.md)

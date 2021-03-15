@@ -10,7 +10,7 @@ If you don't have Monacoin account, create a new account. Coin name for Monacoin
 
 For more details of creating an account, click below link.
 
-{% page-ref page="../../mobile-app/create-account.md" %}
+{% page-ref page="../../mobile-app/create-account/" %}
 
 ## Receive Monacoin
 

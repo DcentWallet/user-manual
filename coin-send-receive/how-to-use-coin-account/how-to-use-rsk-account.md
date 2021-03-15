@@ -10,7 +10,7 @@ If you don't have RSK account, create new account. Coin name for RSK is "RSK Sma
 
 For more details of creating an account, click below link.
 
-{% page-ref page="../../mobile-app/create-account.md" %}
+{% page-ref page="../../mobile-app/create-account/" %}
 
 ## Receive RSK \(RBTC\) coin
 

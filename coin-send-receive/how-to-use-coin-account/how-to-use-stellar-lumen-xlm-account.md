@@ -12,7 +12,7 @@ If you don't have a Stellar Lumen account, create a new account. The coin name f
 
 For more details on how to create an account, click the link below.
 
-{% page-ref page="../../mobile-app/create-account.md" %}
+{% page-ref page="../../mobile-app/create-account/" %}
 
 ## If you can't create a Stellar account
 

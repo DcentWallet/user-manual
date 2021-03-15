@@ -49,7 +49,7 @@ When the mobile app basic setup is completed, you will see Ethereum as the defau
 
 ![](../.gitbook/assets/image%20%2813%29.png)
 
-Now, you can add ERC20 Token account. More information on how to add new token accounts can be found [here](../mobile-app/create-account.md).
+Now, you can add ERC20 Token account. More information on how to add new token accounts can be found [here](../mobile-app/create-account/).
 
 For the ERC721 \(NFT\) Tokens, you do not need to create any separate accounts. You can receive any NFT tokens directly to your Ethereum address.
 
