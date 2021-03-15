@@ -8,7 +8,7 @@ description: Monacoin 계정에서 코인 보내기 받기
 
 모나코인 계정이 없다면 생성해 주세요. 코인 이름은 “Monacoin\(MONA\)”로 되어 있습니다. 계정 생성에 대한 자세한 내용은 다음 항목을 참고하세요.
 
-{% page-ref page="../../mobile-app/create-account.md" %}
+{% page-ref page="../../mobile-app/create-account/" %}
 
 ## MONA 코인 받기
 

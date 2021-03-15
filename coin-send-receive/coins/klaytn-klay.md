@@ -8,7 +8,7 @@ description: KLAY 코인 보내기/받기 기본 사용법
 
 클레이튼 계정이 없다면 생성해 주세요. 코인 이름은 "Klaytn \(KLAY\)"로 되어 있습니다.
 
-계정 생성에 대한 자세한 내용이 필요하다면 [여기](../../mobile-app/create-account.md)를 참고하세요.
+계정 생성에 대한 자세한 내용이 필요하다면 [여기](../../mobile-app/create-account/)를 참고하세요.
 
 ## KLAY 코인 받기
 

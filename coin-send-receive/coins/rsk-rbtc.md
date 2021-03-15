@@ -10,7 +10,7 @@ RSK 계정이 없다면 생성해 주세요. 코인 이름은 "RSK Smart Bitcoin
 
 계정 생성에 대한 자세한 내용은 다음 항목을 참고하세요.
 
-{% page-ref page="../../mobile-app/create-account.md" %}
+{% page-ref page="../../mobile-app/create-account/" %}
 
 ## RSK 코인\(RBTC\) 받기
 

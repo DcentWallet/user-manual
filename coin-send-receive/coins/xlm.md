@@ -10,7 +10,7 @@
 
 스텔라 계정이 없다면 생성해 주세요. 코인 이름은 "Stellar \(XLM\)"로 되어 있습니다.  계정을 생성하는 방법은 아래 링크를 참고해주세요.
 
-{% page-ref page="../../mobile-app/create-account.md" %}
+{% page-ref page="../../mobile-app/create-account/" %}
 
 ## 스텔라 계정을 생성할 수 없는 경우 
 

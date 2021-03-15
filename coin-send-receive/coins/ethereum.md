@@ -10,7 +10,7 @@ description: ETH 코인 보내기/받기 기본 사용법
 
 계정 생성에 대한 자세한 내용은 다음 항목을 참고하세요.
 
-{% page-ref page="../../mobile-app/create-account.md" %}
+{% page-ref page="../../mobile-app/create-account/" %}
 
 ## 이더리움 코인\(ETH\) 받기
 

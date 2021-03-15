@@ -48,7 +48,7 @@
 
 ![](../.gitbook/assets/image%20%28137%29.png)
 
-이제 ERC20 토큰 계정을 추가할 수 있습니다. 계정 추가에 대한 자세한 내용은 [여기](../mobile-app/create-account.md)를 참고하세요.
+이제 ERC20 토큰 계정을 추가할 수 있습니다. 계정 추가에 대한 자세한 내용은 [여기](../mobile-app/create-account/)를 참고하세요.
 
 ERC721 토큰\(NFT\)은 계정 추가 없이 바로 사용할 수 있습니다.
 

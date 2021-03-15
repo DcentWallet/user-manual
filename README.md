@@ -16,7 +16,7 @@ description: 디센트 사용자 가이드에 오신 것을 환영합니다.
 
 ## 디센트 지갑 사용 가이드
 
-{% page-ref page="mobile-app/create-account.md" %}
+{% page-ref page="mobile-app/create-account/" %}
 
 {% page-ref page="coin-send-receive/receive.md" %}
 

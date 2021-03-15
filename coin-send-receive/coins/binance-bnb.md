@@ -10,7 +10,7 @@ description: Binance 계정에서 BNB 코인 보내기 받기
 
 계정 생성에 대한 자세한 내용은 다음 항목을 참고하세요.
 
-{% page-ref page="../../mobile-app/create-account.md" %}
+{% page-ref page="../../mobile-app/create-account/" %}
 
 ## BNB 코인 받기
 
