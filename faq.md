@@ -61,6 +61,12 @@ When transferring Bitcoin, fragments\(small amounts\) of bitcoins from many bloc
   
 If a transaction takes too much time, it can have multiple side effects. Customers may think that the Wallet function has stopped working and it actually increases the chances of an error. For this reason, D'CENT provides a method for dividing and transmitting multiple transactions if the bitcoin account balance is highly fragmentation. For example, a large sum of single bitcoin transfer request may be divided into 2 transactions, thus the customer will confirm twice.
 
+## Can I cancel a pending transaction?
+
+Due to the nature of blockchain cryptocurrency protocol, a transaction cannot be canceled or changed once the transaction is broadcasted to the blockchain network. The only option you have is to wait for the pending transaction to complete. If a pending transaction is not validated by the blockchain network for an extended period of time, the pending transaction will get dropped.  
+  
+However, for an Ethereum transaction, a pending transaction can be canceled by sending a new transaction with a small amount of Ethereum and a higher transaction fee to your own Ethereum address. If the newly sent transaction gets validated first before the previous pending transaction, the pending transaction will be canceled. 
+
 ## Ripple \(XRP\) remittance is not working. What are the precautions when sending to an Exchange?
 
 * After the transfer, the remaining balance in your account must be at least 20 XRP.   
