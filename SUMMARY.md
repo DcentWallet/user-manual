@@ -61,6 +61,7 @@
   * [클레이튼 지갑 계정 사용법](coin-send-receive/coins/klaytn-klay.md)
   * [RSK \(RBTC\) 지갑 계정 사용법](coin-send-receive/coins/rsk-rbtc.md)
   * [바이낸스 지갑 계정 사용법](coin-send-receive/coins/binance-bnb.md)
+  * [바이낸스 스마트 체인 계정 사용법](coin-send-receive/coins/how-to-use-binance-smart-chain-account.md)
   * [모나코인 지갑 계정 사용법](coin-send-receive/coins/monacoin.md)
   * [스텔라루멘 \(XLM\) 지갑 계정 사용법](coin-send-receive/coins/xlm.md)
 * [코인베이스 거래소 사용법 \(비트코인 예시\)](coin-send-receive/coinbase.md)
