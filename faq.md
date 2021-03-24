@@ -160,9 +160,7 @@ Since each wallet is a separate wallet, they all use different keys. Assuming th
 
 ## How to back up Card type Wallet? 
 
-Currently, the Card type Wallet does not have a backup function. When initially designing the Card type Wallet, the product was developed under the thought of delivering similar experience of using a gift card. However, customers are requesting a backup function, so we are currently developing a backup card. 
-
-If you use a backup card, you can create a copy of the original Card type Wallet and use it. If you use multiple backup cards, you can also create more than one copy.  
+The original Card type wallet can be backed up using a BACKUP Card wallet. More information on a BACKUP Card can be found [here](https://userguide.dcentwallet.com/card-wallet/backupcard-new).
 
 ## Can I use the Card type Wallet on the iPhone? 
 

@@ -61,6 +61,7 @@
   * [How to use KLAY account](coin-send-receive/how-to-use-coin-account/klaytn-klay.md)
   * [How to use RSK account](coin-send-receive/how-to-use-coin-account/how-to-use-rsk-account.md)
   * [How to use Binance account](coin-send-receive/how-to-use-coin-account/how-to-use-binance-account.md)
+  * [How to use Binance Smart Chain account](coin-send-receive/how-to-use-coin-account/how-to-use-binance-smart-chain-account.md)
   * [How to use MONA account](coin-send-receive/how-to-use-coin-account/how-to-use-mona-account.md)
   * [How to use Stellar Lumens \(XLM\) account](coin-send-receive/how-to-use-coin-account/how-to-use-stellar-lumen-xlm-account.md)
 * [Using Coinbase exchange for transfers \(Bitcoin example\)](coin-send-receive/using-coinbase-for-transfers-bitcoin-example.md)
