@@ -1,111 +1,113 @@
-# Firmware Update
+# Mise à jour du micrologiciel
 
-## Firmware update indicator
+## **Indicateur de mise à jour du micrologiciel \(Firmware\)**
 
-Whenever new coin support is added or bug fix has been made, a new firmware will be available for installation. Your mobile app will show an indication when a new firmware is released.
+Chaque fois qu'une nouvelle prise en charge des pièces est ajoutée ou qu'un bogue a été corrigé, un nouveau firmware sera disponible pour l'installation. Votre application mobile affichera une indication lorsqu'un nouveau micrologiciel sera disponible.
 
 {% hint style="info" %}
-Firmware update can be done only from the PC.
+La mise à jour du micrologiciel ne peut être effectuée que depuis le PC.
 {% endhint %}
 
 ![](../../.gitbook/assets/image%20%28201%29.png)
 
-## Before you update the firmware
+## **Avant de mettre à jour le micrologiciel \(firmware\)**
 
 {% hint style="info" %}
-Make sure you have your Mnemonic Code \(24 seeds/words\) for recovery
+Assurez-vous d'avoir votre code mnémonique \(24 seeds/mots\) pour la récupération.
 {% endhint %}
 
-24 words were provided during the Initial Setup of your Biometric Wallet and you have written them down on the recovery card. Make sure you still have the recovery card.   
-  
-Unlike other products, your wallet will still remain safely intact inside the secure chip even after updating the firmware. This means that you don't need to recover your wallet every time you update the firmware as other products requires you to do.   
-  
-\(Keep your recovery card secured and ready just in case your Biometric Wallet is no longer accessible, possibly due to "brick"ed device or something went wrong during the update process.\)   
+24 mots ont été fournis lors de la configuration initiale de votre porte-monnaie biométrique et vous les avez notés sur la carte de récupération. Vérifiez que vous avez toujours la carte de récupération. 
+
+Contrairement à d'autres produits, votre porte-monnaie reste intact dans la puce sécurisée, même après la mise à jour du micrologiciel. Cela signifie que vous n'avez pas besoin de récupérer votre portefeuille à chaque fois que vous mettez à jour le micrologiciel comme d'autres produits vous obligent à le faire. 
+
+
+
+\(Conservez votre carte de récupération en lieu sûr et prête à l'emploi, au cas où votre portefeuille biométrique ne serait plus accessible, peut-être à cause d'un appareil défectueux ou d'un problème survenu au cours du processus de mise à jour\).  
 
 {% hint style="info" %}
-After you update the firmware, you cannot roll-back to the previous version
+Après avoir mis à jour le micrologiciel, vous ne pourrez pas revenir à la version précédente.
 {% endhint %}
 
-To perform the firmware update, use the USB cable that came included inside the original D'CENT package. Firmware update will take approximately 10 minutes to complete. 
+Pour effectuer la mise à jour du micrologiciel, utilisez le câble USB qui était inclus dans l'emballage d'origine de D'CENT. La mise à jour du micrologiciel prendra environ 10 minutes. 
 
 {% hint style="info" %}
-It is recommended that the D'CENT mobile app is not running during the firmware update.
+Il est recommandé que l'application mobile D'CENT ne fonctionne pas pendant la mise à jour du micrologiciel.
 {% endhint %}
 
-## How to update firmware
+## **Comment mettre à jour le firmware**
 
 {% embed url="https://www.youtube.com/watch?v=Hhq4KmA6Ezw&feature=youtu.be" %}
 
-Firmware update is available only from PC, and it is recommended to use Google Chrome browser.
+La mise à jour du micrologiciel n'est disponible que depuis un PC, et il est recommandé d'utiliser le navigateur Google Chrome.
 
-Click [here](https://fwu.dcentwallet.com/) to update the firmware. It is recommended to make the screen of the Internet browser the maximum size and proceed with the update. Firmware update proceeds in the following order.
+Cliquez ici\([here](https://fwu.dcentwallet.com/)\) pour mettre à jour le micrologiciel. Il est recommandé de donner à l'écran du navigateur Internet la taille maximale et de procéder à la mise à jour. La mise à jour du micrologiciel se déroule dans l'ordre suivant.
 
- If there is no descent bridge program on your PC, download the bridge program.
+S'il n'y a pas de programme Bridge de D’cent sur votre PC, téléchargez le bridge.
 
-Download and install the program for your OS.
+Téléchargez et installez le programme correspondant à votre système d'exploitation.
 
-### Download D'CENT bridge program
+### **Télécharger le programme de bridge D'CENT**
 
-If there is no D'CENT bridge program on your PC, download the bridge program. Download and install the program for your OS.
+S'il n'y a pas de programme de bridge D'CENT sur votre PC, téléchargez le programme de bridge. Téléchargez et installez le programme pour votre OS.Télécharger le programme de bridge D'CENT.
 
 ![](../../.gitbook/assets/image%20%28147%29.png)
 
-The D'CENT bridge program is a program used for communication between your PC and Biometric Wallet.
+Le programme D'CENT bridge est un programme utilisé pour la communication entre votre PC et le porte-monnaie biométrique. 
 
-If the latest version of D'CENT Bridge program is already installed, the download window will not appear.
+Si la dernière version du programme D'CENT Bridge est déjà installée, la fenêtre de téléchargement n'apparaîtra pas.
 
-When installation is complete, click the "Refresh page" button at the bottom of the screen.  
+Lorsque l'installation est terminée, cliquez sur le bouton "Rafraîchir la page" en bas de l'écran.  
 
 
 ![](../../.gitbook/assets/image%20%2854%29.png)
 
-### Connect Biometric Wallet to your PC
+### **Connectez le portefeuille biométrique à votre PC**
 
-1\) Connect the PC and the Biometric Wallet using the USB cable included in the original package
+1\) Connectez le PC et le porte-monnaie biométrique à l'aide du câble USB inclus dans       l'emballage d'origine.
 
-2\) Authenticate with fingerprint or PIN to unlock your Biometric Wallet
+2\) Authentifiez-vous avec votre empreinte digitale ou votre code PIN pour déverrouiller votre porte-monnaie biométrique.
 
-3\) After connecting, you should see the following screen appears, click the "Retry to find device" button.
+3\) Après la connexion, vous devriez voir l'écran suivant apparaître, cliquez sur le bouton "Re-tenter de trouver l'appareil"  "Retry to find device" bouton.
 
 ![](../../.gitbook/assets/image%20%28186%29.png)
 
-### Check firmware version
+### **Vérifier la version du firmware.**
 
-1\) Check if the connected Biometric Wallet has the latest version. If it is not the latest version, the following screen appears.
+1\) Vérifier si le porte-monnaie biométrique est connecté à la dernière version. S'il ne s'agit pas de la dernière version, l'écran suivant apparaît.
 
 ![](../../.gitbook/assets/image%20%28114%29.png)
 
-2\) Press "Update to version ..." button.
+2\) Appuyez sur le bouton "Update to version ...".
 
-### Changing to bootloader mode
+### **Passage en mode bootloader.**
 
 ![](../../.gitbook/assets/image%20%2864%29.png)
 
-Follow the instructions and proceed as described.
+Suivez les instructions et procédez comme indiqué.
 
-1\) Separate your Biometric Wallet from the PC.
+1\) Séparez votre porte-monnaie biométrique du PC. 
 
-2\) Power off your Biometric Wallet.
+2\) Éteignez votre porte-monnaie biométrique.
 
-3\) To enter bootloader mode, press and hold both the "OK" button and "Power" button on the Biometric Wallet for 10 seconds. When entering bootload mode, the following screen appears on the display of the Biometric Wallet.
+3\) Pour entrer dans le mode bootloader, appuyez sur le bouton "OK" et le bouton "Power" de la Biometric Wallet pendant 10 secondes. En entrant dans le mode bootloader, l'écran suivant apparaît sur l'écran du porte-monnaie biométrique.
 
 ![](../../.gitbook/assets/image%20%2818%29.png)
 
-4\) Plug the Biometric Wallet to the USB cable to reconnect with your PC.
+4\) Branchez le porte-monnaie biométrique au câble USB pour le reconnecter à votre ordinateur PC.
 
-5\) Press "Update Firmware" button.
+5\) Appuyez sur le bouton "Update Firmware".
 
-### Start the firmware update
+### **Démarrer la mise à jour du micrologiciel**
 
-Firmware update from the webpage will take approximately 3 minutes to reach 100%. Please wait. 
+La mise à jour du micrologiciel à partir de la page Web prendra environ 3 minutes pour atteindre 100%. Veuillez patienter. 
 
 ![](../../.gitbook/assets/image%20%2810%29.png)
 
-From the Biometric Wallet, you can also check the progress of firmware update.
+Depuis le portefeuille biométrique, vous pouvez également vérifier la progression de la mise à jour du micrologiciel.
 
 ![](../../.gitbook/assets/image%20%28179%29.png)
 
-### Completing the firmware update
+### **Terminer la mise à jour de l’update du micrologiciel**
 
-When the firmware update is completed, reboot your Biometric Wallet.
+Lorsque la mise à jour du firmware est terminée, redémarrez votre Biometric Wallet.
 

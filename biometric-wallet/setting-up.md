@@ -2,183 +2,187 @@
 description: Creating new wallet on the Biometric Wallet
 ---
 
-# Initial Setup
+# Configuration initiale
 
-## Before you begin <a id="before-start"></a>
+## **Avant de commencer** <a id="before-start"></a>
 
 {% embed url="https://www.youtube.com/watch?v=-j2pI\_IA3Z4&feature=youtu.be" %}
 
 
 
-![D&apos;CENT Biometric Wallet user interfaces](../.gitbook/assets/img-howtouse-dongle.png)
+![D&#x2019;CENT biom&#xE9;trique l&#x2019;Interfaces utilisateur du porte-monnaie](../.gitbook/assets/img-howtouse-dongle.png)
 
-D'CENT Biometric Wallet is equipped with 4-buttons for navigation.
+Le porte-monnaie biométrique D'CENT est équipé de 4 boutons pour la navigation.
 
-* Up\(∧\)/Down\(∨\) buttons : move between selectable items  or change value of numbers or characters.
-* OK button : confirm selected item or input value.
-* Back button : move to previous menu or cancel the current input value.
+* **Boutons haut\(∧\)/bas\(∨\)** : se déplacer entre les éléments sélectionnables ou modifier la valeur des chiffres ou des caractères.
+* **Bouton OK** : confirme l'élément sélectionné ou la valeur saisie.
+* **Bouton de retour** : passer au menu précédent ou annuler l'entrée en cours.
 
-## Step-1 : Select Language & Create Wallet
+## Step-1 : Select Language & Create Wallet \(**Sélectionner la langue et créer un portefeuille\)**
 
 {% embed url="https://www.youtube.com/watch?v=rpVFENz8H\_0&feature=youtu.be" %}
 
-### Power on D'CENT Biometric Wallet
+### **Allumez D'CENT Biometric**
 
-To power on the device, press and hold the power button for 3 seconds, which is located on the right-side.
+Pour allumer l'appareil, appuyez sur le bouton d'alimentation pendant 3 secondes, situé sur le côté droit.
 
-### Select Language
+### **Sélectionner la langue \(**Select Language\)
 
-Use ∧\(Up**\)** or ∨\(Down**\)** button to select your language and press **OK** button.
+Utilisez le bouton ∧\(Up\) ou ∨\(Down\) pour sélectionner votre langue et appuyez sur le bouton **OK**.
 
 ![](../.gitbook/assets/image%20%28149%29.png)
 
-Language support : English, Korean, Chinese, Japanese, Spanish
+Langues prises en charge : anglais, coréen, chinois, japonais, espagnol.
 
 {% hint style="info" %}
-After setting up your cold wallet, you can change the Language from the [Setting](setting-menu.md) menu.
+Après avoir configuré votre portefeuille froid, vous pouvez modifier la langue à partir de l'onglet "Langue" [Setting](setting-menu.md) menu.
 {% endhint %}
 
-### Select "Create Wallet"
+### **Sélectionner "Create Wallet"**
 
-To create a new wallet, select "Create Wallet" from the menu.
+Pour créer un nouveau porte-monnaie, sélectionnez "Create Wallet" dans le menu.
 
 ![](../.gitbook/assets/image%20%2868%29.png)
 
 {% hint style="info" %}
-Selecting "Create Wallet" will create a wallet from a new private key.   
-If you wish to recover an existing wallet, please refer [here](recovery.md).
+En sélectionnant "Create Wallet", un portefeuille sera créé à partir d'une nouvelle clé privée.  
+Si vous souhaitez récupérer un porte-monnaie existant, veuillez vous reporter à la rubrique ici \([here](recovery.md)\).
 {% endhint %}
 
-## Step-2 : Register PIN & Fingerprint
+## Step-2 : **Enregistrer le PIN et l'empreinte digitale**
 
-To protect accessing your wallet, register a new PIN and your fingerprint.   
-Firmware below v.2.5.5 only supports 4-digit PIN length.
+Pour protéger l'accès à votre portefeuille, enregistrez un nouveau code PIN et votre empreinte digitale. Les micrologiciels inférieurs à la version 2.5.5 ne prennent en charge que les codes PIN à 4 chiffres.
 
-### Register a new PIN \(4 to 8 digits\)
+### **Enregistrer un nouveau code PIN \(4 à 8 chiffres\)**
 
-Use **∧**\(Up, increase number value\) or **∨**\(Down, decrease number value\) button to input your PIN. Pressing the OK button on the hardware wallet will confirm the input.
+Utilisez le bouton ∧\(Haut, augmenter la valeur numérique\) ou ∨\(Bas, diminuer la valeur numérique\) pour saisir votre code PIN. En appuyant sur le bouton OK du portefeuille matériel, vous confirmez la saisie.
 
 ![](../.gitbook/assets/1%20%283%29.png)
 
-When you have entered 4 digits, you will see '**OK'** text on the screen. If you wish to set your PIN to 4-digits long, then press the OK button on the hardware wallet. 
+Lorsque vous avez saisi 4 chiffres, le texte "OK" s'affiche à l'écran. Si vous souhaitez que votre code PIN soit composé de 4 chiffres, appuyez sur le bouton OK du porte-monnaie électronique. 
 
-If you wish to set the PIN to a longer digit, you can change the \('**OK**' text\) value on the screen by pressing the Up or Down button. **Your PIN can be set to 4, 5, 6, 7, or 8 digits long**.    
+Si vous souhaitez définir le code PIN sur un chiffre plus long, vous pouvez modifier la valeur \(texte '**OK**'\) à l'écran en appuyant sur le bouton Haut ou Bas. **Votre code PIN peut être défini sur 4, 5, 6, 7 ou 8 chiffres**.
 
 ![](../.gitbook/assets/2%20%284%29.png)
 
-If you ever see a screen with a warning on '**Security level is low**', this means the PIN you have entered is a weak password. If you wish to use such a PIN, press the 'OK' button on the hardware wallet to continue. 
+Si un écran affiche l'avertissement "**Niveau de sécurité faible**", cela signifie que le code PIN que vous avez saisi est un mot de passe faible. Si vous souhaitez utiliser un tel code PIN, appuyez sur le bouton "OK" du porte-monnaie électronique pour continuer.
 
-### Verify your PIN
+### **Vérifiez votre** PIN
 
-Re-enter the same PIN you have set in the previous step to verify for correctness.
+Saisissez à nouveau le même code PIN que vous avez défini à l'étape précédente pour en vérifier l'exactitude.
 
 ![](../.gitbook/assets/3%20%283%29.png)
 
- ※ If the PIN numbers do not match, you will have to restart the PIN registration.
+ ※ Si les numéros PIN ne correspondent pas, vous devrez recommencer l'enregistrement du PIN.
 
 {% hint style="info" %}
-After setting up your cold wallet, you can change the PIN value from the Biometric Wallet [Setting](setting-menu.md) menu.
+Après avoir configuré votre porte-monnaie électronique, vous pouvez modifier la valeur du code PIN à partir du porte-monnaie biométrique menu [Setting](setting-menu.md).
 {% endhint %}
 
-### Register Fingerprint
+### **Enregistrer l'empreinte digitale \(Register Fingerprint\)**
 
-1\) To register your fingerprint, touch your finger on the sensor to scan.
+1\) Pour enregistrer votre empreinte digitale, touchez votre doigt sur le capteur pour le scanner.
 
 ![](../.gitbook/assets/image%20%28183%29.png)
 
-Fingerprint sensor is located in the middle of where the navigational buttons are located.   
-Check the location of [fingerprint sensor](setting-up.md#before-start).
+Le capteur d'empreintes digitales est situé au milieu, là où se trouvent les boutons de navigation.Vérifiez l'emplacement du capteur d'empreinte digitale \([fingerprint sensor](setting-up.md#before-start)\). 
 
-2\) Slightly change the angular positioning of the same finger when scanning and repeat until 100% \(8 correct scans\) is reached.
+2\) Modifiez légèrement le positionnement angulaire du même doigt lors du balayage et répétez l'opération jusqu'à atteindre 100 % \(8 balayages corrects\).
 
 ![](../.gitbook/assets/image%20%28135%29.png)
 
-### Verify Fingerprint
+### **Vérifier l'empreinte digitale \(**Verify Fingerprint\)
 
-Scan your fingerprint one last time to verify registered fingerprint. 
+Scannez votre empreinte digitale une dernière fois pour vérifier l'empreinte digitale enregistrée.
 
 ![](../.gitbook/assets/image%20%28184%29.png)
 
-※ If the fingerprint does not match, you will have to restart the Fingerprint registration..
+※ Si l'empreinte digitale ne correspond pas, vous devrez recommencer l'enregistrement des empreintes digitales.
 
-※ If re-registering fingerprint, try using a different finger instead.
+※ Si vous réenregistrez votre empreinte digitale, essayez d'utiliser un autre doigt à la place.
 
-※ If unable to register your fingerprint for any reason, you will be given an option to skip the fingerprint registration. Fingerprint can be registered from the [Setting](setting-menu.md#enroll-finger) menu at a later time.
+※ Si vous ne pouvez pas enregistrer vos empreintes digitales pour une raison quelconque, vous aurez la possibilité de ne pas le faire. Les empreintes digitales peuvent être enregistrées à partir du menu [Setting](setting-menu.md#enroll-finger) plus tard.
 
-※ If fingerprint verification fails, your fingerprint will not be saved.
+※ Si la vérification des empreintes digitales échoue, votre empreinte digitale ne sera pas enregistrée. 
 
-## Step-3 : Write down the recovery seeds
+## Step-3 : **Notez les séquences de mots de récupération \(**Write down the recovery seeds\)
 
-### Before you begin - What are recovery seeds\(Mnemonic code\)?
+### **Avant de commencer - Que sont les séquences de mots de récupération, recovery seeds \(code mnémonique\)** ?
 
-Recovery seeds are the codes that you use to recover your wallet.
+Les graines de récupération sont les codes que vous utilisez pour récupérer votre portefeuille.
 
-If your D'CENT Cold Wallet is ever lost, stolen, damage, or wiped and you no longer have any access to your wallet, **using recovery seeds is the only method of recovering your existing wallet**.
+Si votre portefeuille D'CENT Cold Wallet est perdu, volé, endommagé ou effacé et que vous n'avez plus accès à votre portefeuille, l'utilisation des graines de récupération \(**les séquences de mots de récupération est la seule méthode pour récupérer votre portefeuille existant**\).
 
-> **You MUST write down all the recovery seeds on the Recovery Card and keep it secured in a safe place.**
 
-Recovery seeds required for recovering your existing wallet is shown only once during initial setup. If you lose your recovery card, there is nothing we can do to help you recover your funds. You are solely responsible to secure your recovery card in all events.
+
+> **Vous DEVEZ noter tous les mots de récupération sur la carte de récupération et la conserver en lieu sûr \( 24 mots \).**
+
+les Recovery seeds \( 24 mots\) nécessaires à la récupération de votre portefeuille existant n'est affichée qu'une seule fois lors de la configuration initiale.
+
+Si vous perdez votre carte de récupération, nous ne pouvons rien faire pour vous aider à récupérer vos fonds. 
+
+Vous êtes seul responsable de la sécurité de votre carte de récupération dans tous les cas.
 
 {% hint style="danger" %}
-If you lose your recovery card, there is no other way to recover your existing wallet and your funds will be lost.
+Si vous perdez votre carte de récupération, il n'y a aucun autre moyen de récupérer votre portefeuille existant et vos fonds seront perdus.
 {% endhint %}
 
-### Write down the recovery seeds from the lists
+### **Notez les recovery seeds \(24 mots de récupération\) dans les listes.**
 
-1\) Press **OK** button only when you have fully understood the WARNING notice.
+1\) Appuyez sur le bouton **OK** uniquement lorsque vous avez bien compris l'avis d'AVERTISSEMENT.
 
 ![](../.gitbook/assets/image%20%28159%29.png)
 
-2\) Write down all the recovery seeds \(words\) shown on the screen of your cold wallet. Press OK button to see the next list of words. 
+2\) Notez toutes les graines de récupération \(**mots**\) dans l’ordre affiché sur l'écran de votre portefeuille froid **cold wallet**. Appuyez sur le bouton **OK** pour voir la liste de mots suivante.
 
-There are 6 lists with total of 24 words and each list has 4 words shown. Make sure you write them down correctly and in the exact same order as shown.
+Il y a 6 listes avec un total de 24 mots et chaque liste a 4 mots montrés. **Assurez-vous que vous les écrivez correctement et dans le même ordre que celui indiqué**. 
 
 ![](../.gitbook/assets/image%20%28103%29.png)
 
-3\) When you have written down all 24 words, press OK button to continue.
+3\) Lorsque vous avez noté les 24 mots, appuyez sur le bouton **OK** pour continuer.
 
 ![](../.gitbook/assets/image%20%2892%29.png)
 
-### Recovery Seeds Verification
+### **Vérification des 24 mots de récupération \(**Recovery Seeds Verification\)
 
-You will be asked to take a simple quiz. From the 24 words listed, you will be asked to enter 2 randomly selected words to complete the verification.
+Il vous sera demandé de répondre à un simple quiz. Parmi les 24 mots de la liste, il vous sera demandé de saisir 2 mots choisis au hasard pour compléter la vérification.
 
 ![Quiz example](../.gitbook/assets/image%20%2849%29.png)
 
-Enter the correct word that corresponds to the question asked.
+Saisissez le mot correct qui correspond à la question posée.
 
-#### Enter the first 3 characters
+#### **Entrez les 3 premiers caractères**
 
 ![](../.gitbook/assets/image%20%28122%29.png)
 
-※ How to input : Use the Up/Down buttons - ∧\(increase value from a to z\) or ∨\(decrease value z to a\) 
+※ Comment saisir : Utilisez les boutons Haut/Bas - ∧\(augmentez la valeur de a à z\) ou ∨\(diminuer la valeur de z à a\).
 
-When you have selected the first character, press "OK" button to enter the value. Repeat entering second and third characters.
+Lorsque vous avez sélectionné le premier caractère, appuyez sur le bouton "OK" pour entrer la valeur. Répétez la saisie des deuxième et troisième caractères.
 
-#### Finding suggestion from the list shown
+#### **Recherche d'une suggestion dans la liste affichée**
 
-From the list of words available, select the correct word using ∧/∨ buttons and press "OK" to choose as the answer.
+Dans la liste des mots disponibles, sélectionnez le mot correct à l'aide des boutons ∧/∨ et appuyez sur "OK" pour le choisir comme réponse.
 
 ![](../.gitbook/assets/image%20%2856%29.png)
 
-※ If you find yourself having written down the words incorrectly, you can press "Back" button to revisit the recovery seeds from the lists for review.
+※ Si vous vous apercevez que vous avez noté les mots de manière incorrecte, vous pouvez appuyer sur le bouton "Retour" pour revenir sur les graines de récupération des listes pour les réviser.
 
-## Step-4 : Completing the Initial Setup
+## Step-4 : **Terminer la configuration initiale \(Initial setup\)**
 
 ![](../.gitbook/assets/image%20%2865%29.png)
 
-Congratulation, you have passed the quiz and your new wallet is created. From your cold wallet, you can check the lists of coin accounts available. You are now ready to use your new wallet together with the mobile application.
+Félicitations, vous avez réussi le quiz et votre nouveau porte-monnaie est créé. À partir de votre portefeuille froid, vous pouvez consulter la liste des comptes de pièces disponibles. Vous êtes maintenant prêt à utiliser votre nouveau porte-monnaie avec l'application mobile.
 
-* [How to connect with Android phone](android-connect/)
-* [How to connect with iOS phone](iphone-connect.md)
+* Comment se connecter avec un téléphone Android \([How to connect with Android phone](android-connect/)\)
+* Comment se connecter avec un téléphone iOS \([How to connect with iOS phone](iphone-connect.md)\)
 
 {% hint style="info" %}
-You can find the complete list of cryptocurrency assets supported on D'CENT Biometric Wallet from [https://dcentwallet.com/SupportedCoin](https://dcentwallet.com/SupportedCoin)
+Vous pouvez trouver la liste complète des crypto-monnaies supportées par D'CENT Biometric Wallet sur le site suivant: [https://dcentwallet.com/SupportedCoin](https://dcentwallet.com/SupportedCoin)
 {% endhint %}
 
-### Check for the latest Firmware
+### **Vérifier le dernier firmware**
 
-Once you have completed the Initial Setup, make sure to visit D'CENT Wallet homepage and check for the latest firmware available. Newer version of firmware may include additional support for cryptocurrency assets and new wallet features.
+Une fois que vous avez terminé la configuration initiale, assurez-vous de visiter la page d'accueil de D'CENT Wallet et de vérifier la dernière version du firmware disponible. Une version plus récente du firmware peut inclure un support supplémentaire pour les actifs de cryptocurrency et de nouvelles fonctionnalités du portefeuille.
 
-More information on firmware update can be found from [here](firmware-update/).
+Pour plus d'informations sur la mise à jour du micrologiciel\(firmware\), consultez le site suivant ici\([here](firmware-update/)\).
 

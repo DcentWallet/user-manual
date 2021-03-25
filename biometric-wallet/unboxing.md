@@ -2,34 +2,34 @@
 description: Checklist for newly purchased D'CENT Biometric Wallet
 ---
 
-# Unboxing
+# Unboxing \(Déballage\)
 
-## Check external package
+## **Vérifier l'emballage externe**
 
-### Make sure the package Seal\(Authenticity Sticker\) is intact on both sides
+### **Assurez-vous que le sceau de l'emballage \(autocollant d'authenticité\) est intact des deux côtés.**
 
-Before you use the wallet, you must check the product is authentic.
+Avant d'utiliser le portefeuille, vous devez vérifier que le produit est authentique.
 
-#### Normal package
+**Paquet normal**
 
 ![](../.gitbook/assets/image%20%2894%29.png)
 
-#### Abnormal package
+#### **Paquet anormal**
 
 ![](../.gitbook/assets/image%20%2887%29.png)
 
 {% hint style="warning" %}
-Double-check that the package is not damaged and make sure that the Seal is not torn or missing. 
+Vérifiez que l'emballage n'est pas endommagé et assurez-vous que les sceaux ne soient pas déchirés ou manquants. 
 {% endhint %}
 
-## Inside the package
+## **A l'intérieur du paquet**
 
-A package with D'CENT Wallet contains the following:
+Un paquet avec un D'CENT Wallet contient les éléments suivants : 
 
-* D'CENT Biometric Wallet \(main device\)
-* USB cable \(USB 5-pin\)
-* Mnemonic code card for Recovery
-* User Manual
+* Portefeuille biométrique D'CENT \(dispositif principal\)
+* Câble USB \(USB 5 broches\)
+* Carte de code mnémonique pour la récupération
+* Manuel de l'utilisateur
 
-![Contents of D&apos;CENT Wallet package](../.gitbook/assets/img-products-box.png)
+![Contenu de l&apos;emballage de D&apos;CENT Wallet](../.gitbook/assets/img-products-box.png)
 

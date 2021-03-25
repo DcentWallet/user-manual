@@ -1,60 +1,66 @@
-# Troubleshooting Guide
+# Guide de dépannage \(Troubleshooting\)
 
-## My D’CENT wallet was disconnected while the firmware was being updated. The device is stuck on a screen and it won’t turn off. What should I do?
+## **Mon wallet D'CENT a été déconnecté pendant la mise à jour du micrologiciel. L'appareil est bloqué sur un écran et il ne veut pas s'éteindre. Que dois-je faire** ?
 
-First, disconnect your D’CENT wallet from your PC. 
+Tout d'abord, déconnectez votre porte-monnaie D'CENT de votre PC.
 
-Press and hold both the "Down button" + "Power button" for few seconds to force the device to power off.  
-  
-If your device is "brick"ed during the firmware update, you can still access the bootloader mode by pressing and holding both "OK button" + "Power button" for 10 seconds. 
+Appuyez et maintenez enfoncés les deux boutons "Down" + "Power" pendant quelques secondes pour forcer l'appareil à s'éteindre.  
 
-From the bootloader mode, you can try updating the firmware to recover your Biometric Wallet.
+Si votre appareil est endommagé pendant la mise à jour du micrologiciel, vous pouvez toujours accéder au mode bootloader en maintenant enfoncés les deux boutons "OK" et "Power" pendant 10 secondes. 
 
-## From the D'CENT firmware update webpage, I pressed "Update Firmware" button, but I get the following message; "Your D'CENT is disconnected. Firmware Update process is cancelled". What should I do?
+Depuis le mode bootloader, vous pouvez essayer de mettre à jour le firmware pour récupérer votre portefeuille biométrique. 
 
-In rare cases, Windows system fails to recognize the D’CENT wallet even though it was recognized before. This issue can be solved by uninstalling the device driver and reinstalling it again from the Windows Device Manager.
+## **Sur la page Web de mise à jour du micrologiciel de D'CENT, j'ai appuyé sur le bouton "Update Firmware", mais j'ai reçu le message suivant : "Votre D'CENT est déconnecté. Le processus de mise à jour du micrologiciel est annulé". Que dois-je faire** ?
 
-### How to access Device Manager \(method \#1\)
+Dans de rares cas, le système Windows ne reconnaît pas le porte-monnaie D'CENT même s'il a été reconnu auparavant. Ce problème peut être résolu en désinstallant le pilote de périphérique et en le réinstallant à nouveau à partir du gestionnaire de périphériques de Windows.
 
-Press **Windows+R** on your keyboard.
+### **Comment accéder au Gestionnaire de périphériques \(méthode n° 1\)**
 
-Type in "**control panel"** and press **Enter** to access the Control Panel. 
+Appuyez sur **Windows+R** sur votre clavier.
 
-* For Windows 10 or Windows 8, choose **Hardware and Sound**.
-* For Windows 7, choose **System and Security**.
+Tapez "**control panel**" et appuyez sur **Enter** pour accéder au Panneau de configuration          \(control panel\).
 
-From this Control Panel screen, look for and choose **Device Manager**.
+Pour Windows 10 ou Windows 8, choisissez Matériel et son, recherchez et choisissez Gestionnaire de périphériques. \(**Device Manager**\) 
 
-* For Windows 10 or Windows 8, check under the **Devices and Printers**.
-* For Windows 7, check under **System**.
+Pour Windows 10 ou Windows 8, vérifiez sous **Périphériques et imprimantes**. 
 
-### How to quickly access Device Manager \(method \#2\)
+Pour Windows 7, vérifiez sous **Système**.
 
-Press **Windows+R** on your keyboard.
+### **Comment accéder rapidement au Gestionnaire de périphériques \(méthode \#2\)**
 
-Type in "**cmd**" and press **Enter** to run the Command Prompt \(a black window\).
+Appuyez sur **Windows+R** sur votre clavier.  
 
-Type in "**devmgmt.msc"** and press **Enter**.
+Tapez "**cmd**" et appuyez sur **Enter** pour lancer l'invite de commande 
 
-### What should I do from the Device Manager?
+\(une fenêtre noire\).
 
-From the Device Manager screen, look for **Human Interface Devices**.
 
-Check if there is a **USB Input Device** marked as **error** \(yellow triangle with exclamation mark\). You will need to check if this is indeed a D'CENT device.
+
+Tapez "**devmgmt**.**msc**" et appuyez sur Enter.
+
+### **Que dois-je faire à partir du Gestionnaire de périphériques** ?
+
+Dans l'écran du gestionnaire de périphériques, recherchez les dispositifs d'interface humaine \(**Human Interface Devices**\)
+
+Vérifiez s'il y a un **périphérique d'entrée USB \(USB Input Device\)** marqué comme étant en erreur \(triangle jaune avec point d'exclamation\). Vous devrez vérifier s'il s'agit bien d'un périphérique D'CENT.
 
 ![](../../.gitbook/assets/image%20%28143%29.png)
 
-Right Mouse Click on this device and select **Properties**.
+Cliquez avec le bouton droit de la souris sur ce dispositif et sélectionnez Propriétés \(**Properties**\).
 
 ![](../../.gitbook/assets/image%20%2839%29.png)
 
-* From the USB Input Device Properties window, select **Details**.
-* Under Property, choose **Hardware Ids**.
-* Correct device ID for D'CENT is PID\_2130.
+* Dans la fenêtre Propriétés du périphérique d'entrée USB, sélectionnez **Détails**.
+* Sous Propriété, sélectionnez **Hardware Ids**.
+* L'ID correct du dispositif pour D'CENT est **PID\_2130**.
 
-From the **Device Manager**, Right Mouse Click on the error marked device and select **Uninstall device**.
+  \( Correct device ID for D'CENT is **PID\_2130** \)
+
+Depuis le **Device Manager**, Cliquez avec le bouton droit de la souris sur le périphérique marqué d'une erreur et sélectionnez **Uninstall device**.
 
 ![](../../.gitbook/assets/troubleshooot_remove-error-device.png)
 
-On the top menu of Device Manager, press **Action** then select **Scan for hardware changes**. This will scan for any new devices attached and will automatically install the driver to detect your Biometric Wallet.
+Dans le menu supérieur du Gestionnaire de périphériques, appuyez sur **Action** puis sélectionnez Analyser les changements de matériel\(**Scan for hardware changes**\). 
+
+Cela permettra de rechercher tout nouveau périphérique connecté et d'installer automatiquement le pilote pour détecter votre porte-monnaie biométrique.
 

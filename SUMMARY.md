@@ -1,25 +1,25 @@
 # Table of contents
 
-* [Getting Started](README.md)
-* [Frequently asked questions \(FAQ\)](faq.md)
+* [Pour commencer](README.md)
+* [Questions fréquentes \(FAQ\) Vais-je perdre](faq.md)
 * [Supported Coins & Tokens](https://dcentwallet.com/SupportedCoin)
 * [D'CENT Wallet Homepage](https://dcentwallet.com/)
 
 ## Biometric Wallet
 
-* [Biometric Wallet](biometric-wallet/intro.md)
-* [Unboxing](biometric-wallet/unboxing.md)
-* [Initial Setup](biometric-wallet/setting-up.md)
-* [Connect with Android phone](biometric-wallet/android-connect/README.md)
-  * [Finding the Bluetooth menu on your Android phone](biometric-wallet/android-connect/android-bluetooth-menu.md)
-  * [Using OTG cable for physical connection](biometric-wallet/android-connect/android-otg.md)
-* [Connect with iOS phone](biometric-wallet/iphone-connect.md)
-* [Firmware Update](biometric-wallet/firmware-update/README.md)
-  * [Troubleshooting Guide](biometric-wallet/firmware-update/firmware-trouble-shooting.md)
-* [Synchronizing the Biometric Wallet with the Mobile App](biometric-wallet/synch-with-app.md)
-* [Recovering your wallet](biometric-wallet/recovery.md)
-* [Checking account info on Biometric Wallet](biometric-wallet/account-info.md)
-* [Biometric Wallet "Setting" menu](biometric-wallet/setting-menu.md)
+* [Biometric Wallet \(Portefeuille biométrique\)](biometric-wallet/intro.md)
+* [Unboxing \(Déballage\)](biometric-wallet/unboxing.md)
+* [Configuration initiale](biometric-wallet/setting-up.md)
+* [Connexion avec un téléphone Android](biometric-wallet/android-connect/README.md)
+  * [Trouver le menu Bluetooth sur votre téléphone Android](biometric-wallet/android-connect/android-bluetooth-menu.md)
+  * [Utilisation du câble OTG pour la connexion physique](biometric-wallet/android-connect/android-otg.md)
+* [Connexion avec le téléphone iOS](biometric-wallet/iphone-connect.md)
+* [Mise à jour du micrologiciel](biometric-wallet/firmware-update/README.md)
+  * [Guide de dépannage \(Troubleshooting\)](biometric-wallet/firmware-update/firmware-trouble-shooting.md)
+* [Synchronisation du porte-monnaie biométrique avec l'application mobile](biometric-wallet/synch-with-app.md)
+* [Récupérer votre portefeuille \(Wallet recovery\)](biometric-wallet/recovery.md)
+* [Vérification des informations de compte sur le portefeuille](biometric-wallet/account-info.md)
+* [Portefeuille biométrique "Setting" menu](biometric-wallet/setting-menu.md)
 
 ## Card type Wallet <a id="card-wallet"></a>
 

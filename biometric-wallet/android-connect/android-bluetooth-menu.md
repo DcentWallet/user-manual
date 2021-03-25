@@ -1,16 +1,16 @@
-# Finding the Bluetooth menu on your Android phone
+# Trouver le menu Bluetooth sur votre téléphone Android
 
-Depending on your Android phone model, finding the Bluetooth menu may be different.
+Selon le modèle de votre téléphone Android, la recherche du menu Bluetooth peut être différente.
 
-## Find Bluetooth menu from the upper drag down menu
+## Trouvez le menu Bluetooth dans le menu déroulant supérieur
 
-On your Android phone, touch the top portion of the main screen and drag the screen down to find the Bluetooth menu.
+Sur votre téléphone Android, touchez la partie supérieure de l'écran principal et faites glisser l'écran vers le bas pour trouver le menu Bluetooth.
 
 ![](../../.gitbook/assets/image%20%28169%29.png)
 
-## Find Bluetooth menu from the "Settings"
+## **Trouvez le menu Bluetooth à partir de "Paramètres".**
 
-Settings &gt; Connections &gt; Bluetooth, you can enable and enter the Bluetooth menu from here.
+Réglages &gt; Connexions &gt; Bluetooth, vous pouvez activer et entrer dans le menu Bluetooth à partir d'ici.
 
 ![](../../.gitbook/assets/image%20%28131%29.png)
 

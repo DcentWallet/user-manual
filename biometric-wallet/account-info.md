@@ -1,39 +1,39 @@
-# Checking account info on Biometric Wallet
+# Vérification des informations de compte sur le portefeuille
 
-From the Biometric Wallet, you can check the account information that is synchronized with the mobile app.
+Depuis le portefeuille biométrique, vous pouvez vérifier les informations du compte qui sont synchronisées avec l'application mobile.
 
 {% hint style="info" %}
-Even if the Biometric Wallet is not synchronized with the mobile app, the basic account information for each coin can be checked from the Biometric Wallet.
+Même si le porte-monnaie biométrique n'est pas synchronisé avec l'application mobile, les informations de base sur le compte de chaque pièce peuvent être vérifiées à partir du porte-monnaie biométrique. 
 {% endhint %}
 
-## Check account info
+## **Vérifier les informations du compte \(Check account info\)**
 
-The main screen of the device lists various coin accounts. Select and choose an account to view the details.
+L'écran principal de l'appareil répertorie différents comptes de pièces. Sélectionnez et choisissez un compte pour en afficher les détails. 
 
 ![](../.gitbook/assets/image%20%2828%29.png)
 
-For more information on **how to create an account**, please see [here](../mobile-app/create-account/).
+Pour plus d'informations sur la création d'un compte, veuillez consulter le site suivant ici\([here](../mobile-app/create-account/)\).
 
 For more information on synchronizing between Biometric Wallet and mobile app, please see [here](synch-with-app.md).
 
-## Check account address
+## **Vérifiez l’adresse d'un compte \(Check account address\)**
 
-Without the mobile app, you can also check coin account address and QR code form of the address from the Biometric Wallet.
+Sans l'application mobile, vous pouvez également vérifier l'adresse des comptes Cryptocoin et code QR de leur adresse à partir du porte-monnaie biométrique.
 
 ![](../.gitbook/assets/image%20%28162%29.png)
 
-## Deleting account info on the Biometric Wallet
+## **Suppression des informations de compte sur le porte-monnaie biométrique.**
 
-If there are too many unused accounts and you want to delete account information, you can do the following. **In this case, all account information is deleted**.  
+S'il y a trop de comptes inutilisés et que vous souhaitez supprimer les informations relatives aux comptes, vous pouvez procéder comme suit. **Dans ce cas, toutes les informations de compte sont supprimées**.  
   
-1\) On your Biometric Wallet, navigate to **Setting** -&gt; **Security** -&gt; **Delete Account**
+1\) Sur votre porte-monnaie biométrique, naviguez jusqu'à **Setting -&gt; Security -&gt; Delete Account** 
 
-2\) ****Enter your PIN and when you confirm the warning message by OK button, all your account info will be deleted.  
+2\) ****Saisissez votre code PIN et lorsque vous confirmez le message d'avertissement en cliquant sur le bouton OK, toutes vos informations de compte seront supprimées.  
   
-3\) Synchronize with your mobile app and you will notice that there is no account shown on the mobile app screen.
+3\) Synchronisez avec votre application mobile et vous remarquerez qu'il n'y a pas de compte affiché sur l'écran de l'application mobile.
 
 {% hint style="info" %}
-When Delete Wipe is performed, the private keys for the coin accounts are NOT deleted and will remain protected inside the Biometric Wallet. 
+Lorsque l'effacement est effectué, les clés privées des cryptocoin ne sont PAS effacées et restent protégées dans le portefeuille biométrique.
 {% endhint %}
 
 From the mobile app, you can re-add the accounts that you would like to see again.

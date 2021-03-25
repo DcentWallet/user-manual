@@ -2,9 +2,9 @@
 description: Welcome to D'CENT User Guide.
 ---
 
-# Getting Started
+# Pour commencer
 
-## D'CENT Biometric Wallet
+## **Portefeuille biométrique D'CENT**
 
 {% page-ref page="biometric-wallet/setting-up.md" %}
 
@@ -14,7 +14,7 @@ description: Welcome to D'CENT User Guide.
 
 {% page-ref page="biometric-wallet/firmware-update/" %}
 
-## How to use D'CENT Wallet
+## **Comment utiliser D'CENT Wallet**
 
 {% page-ref page="mobile-app/create-account/" %}
 
@@ -22,7 +22,7 @@ description: Welcome to D'CENT User Guide.
 
 {% page-ref page="coin-send-receive/send/" %}
 
-## D'CENT Card type Wallet
+## **Portefeuille de type carte D'CENT**
 
 {% page-ref page="card-wallet/how-to-use-android.md" %}
 

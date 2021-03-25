@@ -1,28 +1,28 @@
-# Synchronizing the Biometric Wallet with the Mobile App
+# Synchronisation du porte-monnaie biométrique avec l'application mobile
 
-When the Biometric Wallet and the Mobile App are connected, synchronization will start automatically. 
+Lorsque le porte-monnaie biométrique et l'application mobile sont connectés, la synchronisation démarre automatiquement. 
 
-Please refer to the following sections on how to connect the Biometric Wallet with the Mobile App.
+Veuillez vous reporter aux sections suivantes pour savoir comment connecter le porte-monnaie biométrique à l'application mobile
 
 {% page-ref page="android-connect/" %}
 
 {% page-ref page="iphone-connect.md" %}
 
-## Synchronization process
+## **Processus de synchronisation**
 
-The purpose of synchronization is to hold the same correct information between the Biometric Wallet and the mobile app. Following processes will occur during the synchronization:
+Le but de la synchronisation est de conserver les mêmes informations correctes entre le porte-monnaie biométrique et l'application mobile. Les processus suivants se produisent pendant la synchronisation :
 
-### Verify previously synchronized information
+### **Vérifier les informations précédemment synchronisées**
 
-Check whether there is a history of ever been synchronized with the Biometric Wallet. If there is no history, the synchronization process adds additional process of creating accounts by looking up the address information.
+Vérifiez s'il existe un historique de synchronisation avec le porte-monnaie biométrique. S'il n'y a pas d'historique, le processus de synchronisation ajoute un processus supplémentaire de création de comptes en recherchant les informations d'adresse.
 
-### Synchronize account information
+### **Synchroniser les informations du compte**
 
-1\) Search the account information of the Biometric Wallet and compare it with the account information registered in the mobile app.   
+1\) Recherchez les informations de compte du porte-monnaie biométrique et comparez-les aux informations de compte enregistrées dans l'application mobile..   
   
-2\) Create an account that is not registered in the mobile app among the account information available from the Biometric Wallet.   
+2\) Créer un compte qui n'est pas enregistré dans l'application mobile parmi les informations de compte disponibles dans le portefeuille biométrique.   
   
-If you have account information in the Biometric Wallet, the existing accounts will be retrieved even if you delete the mobile app and reinstall it.   
+Si vous avez des informations sur vos comptes dans le porte-monnaie biométrique, les comptes existants seront récupérés même si vous supprimez l'application mobile et la réinstallez.   
   
-3\) If the balance has been updated, it will update the account information on the mobile app and the balance information on the Biometric Wallet.
+3\) Si le solde a été mis à jour, les informations relatives au compte sur l'application mobile et le solde sur le porte-monnaie biométrique seront mis à jour.
 

@@ -1,134 +1,133 @@
-# Recovering your wallet
+# Récupérer votre portefeuille \(Wallet recovery\)
 
-## Before you begin <a id="before-start"></a>
+## **Avant de commencer** <a id="before-start"></a>
 
-When a new Biometric Wallet is purchased or the device you've been using is reset to factory, you can recover your existing wallet. 
+Lorsque vous achetez un nouveau portefeuille biométrique ou que l'appareil que vous utilisez est réinitialisé en usine, vous pouvez récupérer votre portefeuille existant. 
 
-Your existing wallet can be recovered by entering all 24 words written down on the Recovery Card which was generated when you first performed the Initial Setup. 
+Votre portefeuille existant peut être récupéré en saisissant les 24 mots inscrits sur la carte de récupération qui a été générée lorsque vous avez effectué la configuration initiale.
 
-### Recovering wallet after deleting data on D'CENT device 
+### **Récupération du portefeuille après la suppression des données sur l'appareil D'CENT**
 
-To perform wallet recovery, you must first [reset the Biometric Wallet through "**Device Wipe**" menu](setting-menu.md#device-wipe). Once the device has been reset to the factory condition, follow the instructions from the section below to recover your wallet. 
+Pour effectuer la récupération du portefeuille, vous devez d'abord réinitialiser le portefeuille biométrique par le biais du menu "**Device Wipe**"\([reset the Biometric Wallet through "**Device Wipe**" menu](setting-menu.md#device-wipe)\). Une fois que l'appareil a été remis à l'état d'usine, suivez les instructions de la section ci-dessous pour récupérer votre porte-monnaie. 
 
 {% hint style="warning" %}
-**"Device Wipe"** will delete all data inside your Biometric Wallet. Before you decide to wipe your device, make sure to check that you have your Recovery Card.
+**"Device Wipe"** supprimera toutes les données contenues dans votre porte-monnaie biométrique. Avant de décider d'effacer votre appareil, vérifiez que vous avez bien votre carte de récupération.
 {% endhint %}
 
-## Step-1 : Select Language & Recover Wallet
+## Step-1 : **Selectionner Language & Recover Wallet**
 
 {% embed url="https://www.youtube.com/watch?v=1N98S70ujFM&feature=youtu.be" %}
 
-### Power on D'CENT Biometric Wallet
+### **Power on D'CENT Biométrique Wallet**
 
-To power on the device, press and hold the power button for 3 seconds, which is located on the right-side.
+Pour allumer l'appareil, appuyez sur le bouton d'alimentation pendant 3 secondes, situé sur le côté droit.
 
-### Select Language
+### **Sélectionner la langue \(Select Language\)**
 
-Use ∧\(Up**\)** or ∨\(Down**\)** button to select your language and press **OK** button.
+Utilisez le bouton ∧\(Up\) ou ∨\(Down\) pour sélectionner votre langue et appuyez sur le bouton **OK**.
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
-### Select "Recover Wallet"
+### **Sélectionner "Recover Wallet"**
 
-To recover wallet, select "Recover Wallet" from the menu.
+Pour récupérer le portefeuille, sélectionnez "**Recover** **Wallet**" dans le menu.
 
 ![](../.gitbook/assets/image%20%2859%29.png)
 
-## Step-2 : Register PIN & Fingerprint
+## Step-2 : **Enregistrer le PIN et l'empreinte digitale          \(Register PIN & Fingerprint\)**
 
-To protect accessing your wallet, register a new PIN and your fingerprint.
+Pour protéger l'accès à votre portefeuille, enregistrez un nouveau code PIN et votre empreinte digitale. 
 
-### Register a new PIN \(4 to 8 digits\)
+### **Enregistrer un nouveau PIN \(4 à 8 digits\)**
 
-Use **∧**\(Up, increase number value\) or **∨**\(Down, decrease number value\) button to input your PIN. Pressing the OK button on the hardware wallet will confirm the input.
+Utilisez le bouton ∧\(Haut, augmenter la valeur numérique\) ou ∨\(Bas, diminuer la valeur numérique\) pour saisir votre code PIN. En appuyant sur le bouton OK du portefeuille matériel, vous confirmez la saisie.
 
 ![](../.gitbook/assets/1%20%283%29.png)
 
-When you have entered 4 digits, you will see '**OK'** text on the screen. If you wish to set your PIN to 4-digits long, then press the OK button on the hardware wallet. 
+Lorsque vous avez saisi 4 chiffres, le texte "**OK**" s'affiche à l'écran. Si vous souhaitez que votre code PIN soit composé de 4 chiffres, appuyez sur le bouton OK du porte-monnaie électronique.
 
-If you wish to set the PIN to a longer digit, you can change the \('**OK**' text\) value on the screen by pressing the Up or Down button. **Your PIN can be set to 4, 5, 6, 7, or 8 digits long**.    
+Si vous souhaitez définir le code PIN sur un chiffre plus long, vous pouvez modifier la valeur \(texte '**OK**'\) à l'écran en appuyant sur le bouton Haut ou Bas. **Votre code PIN peut être défini sur 4, 5, 6, 7 ou 8 chiffres**.
 
 ![](../.gitbook/assets/2%20%284%29.png)
 
-If you ever see a screen with a warning on '**Security level is low**', this means the PIN you have entered is a weak password. If you wish to use such a PIN, press the 'OK' button on the hardware wallet to continue. 
+Si un écran affiche l'avertissement "Niveau de sécurité faible" \(Security level is low\), cela signifie que le code PIN que vous avez saisi est un mot de passe faible. Si vous souhaitez utiliser un tel code PIN, appuyez sur le bouton "OK" du porte-monnaie électronique pour continuer.
 
-### Verify your PIN
+### **Vérifiez votre code PIN  \(Verify your PIN\)**
 
-Re-enter the same PIN you have set in the previous step to verify for correctness.
+Saisissez à nouveau le même code PIN que vous avez défini à l'étape précédente pour en vérifier l'exactitude.
 
 ![](../.gitbook/assets/3%20%283%29.png)
 
- ※ If the PIN numbers do not match, you will have to restart the PIN registration.
+ ※ Si les numéros PIN ne correspondent pas, vous devrez recommencer l'enregistrement du code PIN.
 
 {% hint style="info" %}
-After setting up your cold wallet, you can change the PIN value from the [Setting](setting-menu.md) menu.
+Après avoir configuré votre cold wallet, vous pouvez modifier la valeur du code PIN à partir de la page [Setting](setting-menu.md) menu.
 {% endhint %}
 
-### Register Fingerprint
+### **Enregistrer l'empreinte digitale \(Register Fingerprint\)**
 
-1\) To register your fingerprint, touch your finger on the sensor to scan.
+1\) Pour enregistrer votre empreinte digitale, touchez votre doigt sur le capteur pour sensor to scan.
 
 ![](../.gitbook/assets/image%20%2855%29.png)
 
-Fingerprint sensor is located in the middle of where the navigational buttons are located.   
-Check the location of [fingerprint sensor](setting-up.md#before-start).
+Le capteur d'empreintes digitales est situé au milieu de l'endroit où se trouvent les boutons de navigation. Vérifiez l'emplacement du capteur d'empreintes digitales. [fingerprint sensor](setting-up.md#before-start).
 
-2\) Slightly change the angular positioning of the same finger when scanning and repeat until 100% \(8 correct scans\) is reached.
+2\) Modifiez légèrement le positionnement angulaire du même doigt lors du balayage et répétez l'opération jusqu'à atteindre 100 % \(8 balayages corrects\).
 
 ![](../.gitbook/assets/image%20%28111%29.png)
 
-### Verify Fingerprint
+### **Vérifier l'empreinte digitale \(Verify Fingerprint\)**
 
-Scan your fingerprint one last time to verify registered fingerprint.
+Scannez votre empreinte digitale une dernière fois pour vérifier l'empreinte digitale enregistrée.
 
 ![](../.gitbook/assets/image%20%28133%29.png)
 
-※ If the fingerprint does not match, you will have to restart the Fingerprint registration..
+※ Si l'empreinte digitale ne correspond pas, vous devrez recommencer l'enregistrement des empreintes digitales.
 
-※ If re-registering fingerprint, try using a different finger instead.
+※ Si vous réenregistrez votre empreinte digitale, essayez d'utiliser un autre doigt à la place.
 
-※ If unable to register your fingerprint for any reason, you will be given an option to skip the fingerprint registration. Fingerprint can be registered from the [Setting](setting-menu.md) menu at a later time.
+※ Si vous ne pouvez pas enregistrer votre empreinte digitale pour une raison quelconque, vous aurez la possibilité d'ignorer l'enregistrement de l'empreinte digitale. L'empreinte digitale peut être enregistrée ultérieurement à partir du menu [Setting](setting-menu.md).
 
-※ If fingerprint verification fails, your fingerprint will not be saved.
+※ Si la vérification des empreintes digitales échoue, votre empreinte digitale ne sera pas enregistrée. 
 
-## Step-3 : enter the recovery words <a id="3"></a>
+## Step-3 : **entrez les mots de récupération \(recovery words\)** <a id="3"></a>
 
-1\) Enter the 24 recovery words recorded on the recovery card, numbered 1 through 24.
+1\) Entrez les 24 mots de récupération enregistrés sur la carte de récupération, numérotés de 1 à 24.
 
 ![](../.gitbook/assets/image%20%28181%29.png)
 
-2\) Press the Down \(∨\) button to review whether the 24 recovery words were entered correctly in order.
+2\) Appuyez sur le bouton Bas \(∨\) pour vérifier si les 24 mots de récupération ont été saisis correctement dans l'ordre.
 
 ![](../.gitbook/assets/image%20%28205%29.png)
 
-3\) If all words are entered correctly, select "I am ready" at the bottom of the review menu.
+3\) Si tous les mots sont entrés correctement, sélectionnez "Je suis prêt" en bas du menu de révision.
 
 ![](../.gitbook/assets/image%20%28105%29.png)
 
 {% hint style="info" %}
-Do not take a photo or save the recovery word or recovery card as an image. The user is responsible for handling the recovery word safely. 
+Ne prenez pas de photo et n'enregistrez pas le mot de récupération ou la carte de récupération sous forme d'image. L'utilisateur est responsable de la manipulation du mot de récupération en toute sécurité. 
 
-D'CENT is not responsible for any damage or loss of cryptocurrency assets caused by the user's negligence, such as theft of recovery cards or storage of image files. 
+D'CENT n'est pas responsable des dommages ou des pertes d'actifs en crypto-monnaies causés par la négligence de l'utilisateur, tels que le vol de cartes de récupération ou le stockage de fichiers d'images. 
 
-Special care is required for safe storage \(away from fire, water, sunlight or pets\).
+Une attention particulière est requise pour un stockage sûr \(**à l'abri du feu, de l'eau, du soleil ou des animaux domestiques**\).
 {% endhint %}
 
-## Step-4 : Completing the Wallet Recovery
+## Step-4 : **Terminer la récupération du portefeuille            \(Completing the Wallet Recovery\)**
 
 ![](../.gitbook/assets/image%20%28109%29.png)
 
-You have completed wallet recovery. From your cold wallet, you can check the lists of coin accounts available. You are now ready to use your new wallet together with the mobile application.
+Vous avez terminé la récupération du portefeuille. Depuis votre portefeuille froid, vous pouvez vérifier les listes des comptes de pièces disponibles. Vous êtes maintenant prêt à utiliser votre nouveau porte-monnaie avec l'application mobile.
 
-* [How to connect with Android phone](android-connect/) 
-* [How to connect with iOS phone](iphone-connect.md)
+* Comment se connecter avec un téléphone Android\([How to connect with Android phone](android-connect/)\) 
+* Comment se connecter avec un téléphone iOS\([How to connect with iOS phone](iphone-connect.md)\)
 
 {% hint style="info" %}
-You can find the complete list of cryptocurrency assets supported on D'CENT Biometric Wallet from [https://dcentwallet.com/SupportedCoin](https://dcentwallet.com/SupportedCoin)
+Vous pouvez trouver la liste complète des crypto-monnaies supportées par D'CENT Biometric Wallet sur le site suivant [https://dcentwallet.com/SupportedCoin](https://dcentwallet.com/SupportedCoin)
 {% endhint %}
 
-### Check for the latest Firmware
+### **Vérifier le dernier firmware**
 
-Once you have completed the Initial Setup, make sure to visit D'CENT Wallet homepage and check for the latest firmware available. Newer version of firmware may include additional support for cryptocurrency assets and new wallet features.
+Une fois que vous avez terminé la configuration initiale, assurez-vous de visiter la page d'accueil de D'CENT Wallet et de vérifier la dernière version du firmware disponible. Une version plus récente du firmware peut inclure un support supplémentaire pour les actifs de cryptocurrency et de nouvelles fonctionnalités du portefeuille. 
 
-More information on firmware update can be found from [here](firmware-update/).
+Pour plus d'informations sur la mise à jour du micrologiciel, consultez le site suivant ici\([here](firmware-update/)\).
 

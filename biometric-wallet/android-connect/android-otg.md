@@ -1,56 +1,56 @@
-# Using OTG cable for physical connection
+# Utilisation du câble OTG pour la connexion physique
 
-By connecting the mobile phone and OTG cable, you can communicate with the Biometric Wallet via USB instead of Bluetooth.
+En connectant le téléphone mobile et le câble OTG, vous pouvez communiquer avec le porte-monnaie biométrique via USB au lieu de Bluetooth.
 
 {% hint style="info" %}
-If you are using the OTG cable to connect, it is recommended to disable the Bluetooth function on your Android Phone.
+Si vous utilisez le câble OTG pour vous connecter, il est recommandé de désactiver la fonction Bluetooth de votre téléphone Android.
 {% endhint %}
 
-## What is an OTG cable? <a id="otg"></a>
+## **Qu'est-ce qu'un câble OTG**? <a id="otg"></a>
 
 This is a device that allows you to connect a USB device to a smartphone. One side is a micro 5 pin or USB C type, and the other side is a cable with a standard USB port. Just connect the OTG cable to your Android device.
 
-![Example of OTG cable](../../.gitbook/assets/image%20%2888%29.png)
+![Exemple d&#x2019;un OTG cable](../../.gitbook/assets/image%20%2888%29.png)
 
 {% hint style="info" %}
-The OTG cable is not included in the D'CENT Biometric Wallet package and must be purchased separately. Please purchase and use the OTG cable suitable for your mobile phone.
+Le câble OTG n'est pas inclus dans l'emballage du porte-monnaie biométrique D'CENT et doit être acheté séparément. Veuillez acheter et utiliser le câble OTG adapté à votre téléphone mobile.
 {% endhint %}
 
-### Micro 5pin OTG cable <a id="5-otg"></a>
+### **Câble OTG Micro 5pin** <a id="5-otg"></a>
 
-If your Android device's charging port is micro 5 pin, you must use a micro 5 pin OTG cable.
+Si le port de charge de votre appareil Android est à micro 5 broches, vous devez utiliser un OTG à micro 5 broches.
 
-![Micro 5pin cable port](../../.gitbook/assets/image%20%2831%29.png)
+![Port de c&#xE2;ble Micro 5pin](../../.gitbook/assets/image%20%2831%29.png)
 
-### USB C type OTG cable <a id="usb-c-otg"></a>
+### **Câble USB C type OTG** <a id="usb-c-otg"></a>
 
-If your Android device's charging port is USB C type, you must use a USB C type OTG cable.
+Si le port de charge de votre appareil Android est de type USB C, vous devez utiliser un câble OTG de type USB C.
 
-![Example of USB C Type OTG cable](../../.gitbook/assets/image%20%2820%29.png)
+![Exemple de C&#xE2;ble OTG de type USB C](../../.gitbook/assets/image%20%2820%29.png)
 
-## Using Biometric Wallet by connecting with an OTG cable <a id="otg-1"></a>
+## **Utilisation du porte-monnaie biométrique en le connectant avec un câble OTG** <a id="otg-1"></a>
 
-### Launch the D'CENT mobile app
+### **Lancez l'application mobile D'CENT**
 
-Please launch the descent mobile app first. \(Biometric Wallet mode\)  
+Veuillez d'abord lancer l'application mobile de D’cent. \(Mode porte-monnaie biométrique\)  
   
-Below is a picture showing that there is no connection to with the Biometric Wallet.
+Vous trouverez ci-dessous une photo montrant qu'il n'y a aucun lien avec le portefeuille biométrique.
 
 ![](../../.gitbook/assets/image%20%2857%29.png)
 
-### Connect Android device and Biometric Wallet with OTG cable <a id="otg-2"></a>
+### Connectez votre appareil Android et votre porte-monnaie biométrique avec le câble OTG. <a id="otg-2"></a>
 
-Connect the Biometric Wallet and the Android device as shown in the figure below.
+Connectez le Wallet Biometric et l'appareil Android comme indiqué dans la figure ci-dessous.
 
 ![](../../.gitbook/assets/image%20%28188%29.png)
 
-### Allow USB access <a id="usb"></a>
+### **Autoriser l'accès USB** <a id="usb"></a>
 
-1\) When an OTG cable is connected, you will see the following pop-up. Press "OK".
+1\) Lorsqu'un câble OTG est connecté, la fenêtre contextuelle suivante s'affiche. Appuyez sur "OK".
 
 ![](../../.gitbook/assets/image%20%28113%29.png)
 
-2\) When connection is made, Synchronization will begin with the Biometric Wallet and you can start using it when it finishes.
+2\) Lorsque la connexion est établie, la synchronisation commence avec le portefeuille biométrique et vous pouvez commencer à l'utiliser lorsqu'elle est terminée.
 
 ![](../../.gitbook/assets/image%20%28168%29.png)
 

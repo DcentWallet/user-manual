@@ -1,54 +1,54 @@
-# Connect with iOS phone
+# Connexion avec le téléphone iOS
 
-## Mobile App Download
+## **Téléchargement de l'application mobile**
 
-Click to [install](https://apps.apple.com/kr/app/dcent-hardware-wallet/id1447206611) D'CENT mobile app.
+Cliquez pour installer \([install](https://apps.apple.com/kr/app/dcent-hardware-wallet/id1447206611)\) l'application mobile D'CENT.
 
-### Install by searching from the App store
+### **Installer en cherchant dans l'App store**
 
-You can also search from the App store to install D'CENT mobile app.
+Vous pouvez également chercher dans l'App Store pour installer l'application mobile D'CENT.
 
-Search for "**D'CENT wallet**" from the App store.
+Recherche de "**D'CENT wallet**" depuis l'App Store.
 
 ![](../.gitbook/assets/image%20%2830%29.png)
 
-## Basic setup for Mobile App
+## **Configuration de base pour l'application mobile**
 
-### Select wallet mode
+### **Sélectionner le mode portefeuille \(wallet mode\)**
 
-If running the mobile app for the first time, you must choose a wallet mode. Choose "**Biometric Wallet**" as your choice.
+Si vous exécutez l'application mobile pour la première fois, vous devez choisir un mode de porte-monnaie. Choisissez "**Biometric Wallet**" selon votre choix.
 
 ![](../.gitbook/assets/image%20%28195%29.png)
 
-### Register password for Mobile App
+### **Mot de passe d'enregistrement pour l'application mobile**
 
-Register mobile app password for access protection. To set the password, enter the same 6-digit number twice. Mobile App password is required every time you run the D'CENT mobile app. Make sure to remember it.
+Enregistrez le mot de passe de l'application mobile pour protéger l'accès. Pour définir le mot de passe, saisissez deux fois le même code à 6 chiffres. Le mot de passe de l'application mobile est requis chaque fois que vous utilisez l'application mobile D'CENT. Assurez-vous de le mémoriser. 
 
 {% hint style="info" %}
-Mobile App password can be changed from the [App "Setting" menu](../mobile-app/mobile-app-setting-menu.md) at any time. Instead of password, you can also use biometric authentication to protect access to your wallet if your mobile phone supports the feature.
+Le mot de passe de l'application mobile peut être modifié à partir de l’[App "Setting" menu](../mobile-app/mobile-app-setting-menu.md) à tout moment.
 {% endhint %}
 
 ### Bluetooth setting
 
-From the iPhone Setting menu, turn on Bluetooth.
+Dans le menu Réglages de l'iPhone, activez la fonction Bluetooth.
 
 ![](../.gitbook/assets/image%20%28161%29.png)
 
-## Bluetooth connection with Biometric Wallet
+## **Dans le menu Réglages de l'iPhone, activez la fonction Bluetooth.**
 
-### Connecting from your iPhone
+### **Connexion à partir de votre iPhone**
 
-1\) Go to the main tab\(Account\) of D'CENT mobile app. Notice the Bluetooth icon \(red color\) located on the top right corner of the screen. Red color indicates Bluetooth connection is not established. Click on this icon to connect with Biometric Wallet.
+1\) Allez à l'onglet principal \(Compte\) de l'application mobile D'CENT. Remarquez l'icône Bluetooth \(couleur rouge\) située dans le coin supérieur droit de l'écran. La couleur rouge indique que la connexion Bluetooth n'est pas établie. Cliquez sur cette icône pour vous connecter avec le Portefeuille Biométrique.
 
 ![](../.gitbook/assets/image%20%28126%29.png)
 
-2\) When you clicked on the icon, you will see a list of devices available to connect via Bluetooth. Find your D'CENT device and click to initiate Bluetooth pairing.
+2\) En cliquant sur l'icône, vous verrez une liste de dispositifs disponibles pour se connecter via Bluetooth. Trouvez votre appareil D'CENT et cliquez pour initier le jumelage Bluetooth.
 
 ![](../.gitbook/assets/image%20%2890%29.png)
 
-3\) When your D'CENT device is selected, your wallet will start the synchronization automatically. Synchronization will take few seconds to complete. You will notice that the Bluetooth icon is now in mint color, which indicates the Bluetooth connection is now established with your Biometric Wallet.
+3\) Lorsque votre dispositif D'CENT est sélectionné, votre porte-monnaie commencera la synchronisation automatiquement. La synchronisation prendra quelques secondes pour se terminer. Vous remarquerez que l'icône Bluetooth est maintenant en couleur bleu, ce qui indique que la connexion Bluetooth est maintenant établie avec votre porte-monnaie biométrique.
 
 ![](../.gitbook/assets/image%20%28100%29.png)
 
-You can now add a coin account to manage using your Biometric Wallet. More information on how to add coin account can be found [here](../mobile-app/create-account/).
+Vous pouvez désormais ajouter un compte de cryptocoin à gérer à l'aide de votre porte-monnaie biométrique. Vous trouverez plus d'informations sur la façon d'ajouter un compte de pièces de monnaie ici\([here](../mobile-app/create-account/)\).
 
