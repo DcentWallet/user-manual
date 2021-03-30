@@ -1,5 +1,19 @@
 # Frequently asked questions \(FAQ\)
 
+## What happens if I can't authenticate to my hardware wallet?
+
+Authentication using Fingerprint or PIN is required to unlock your hardware wallet. If a user fails to authenticate over multiple attempts on the Biometric Wallet, the device will automatically wipe itself and delete all information stored inside. You can recover your wallet using the 24 words mnemonic.
+
+{% hint style="info" %}
+Total tries on Biometric Wallet: 5 tries of Fingerprint\(if registered\) + 10 tries of PIN
+{% endhint %}
+
+In the case of the Card wallet, failing 10 consecutive authentication attempts will permanently block the card.
+
+{% hint style="info" %}
+Total tries on Card Wallet: 10 tries of PIN
+{% endhint %}
+
 ## Will I lose my crypto assets if I lose my D'CENT Wallet?
 
 We provide a recovery function in case the wallet fails or the wallet is lost. You can restore the entire wallet using the 24 recovery words given when creating the wallet. For more details on wallet recovery, please click [here](biometric-wallet/recovery.md).
