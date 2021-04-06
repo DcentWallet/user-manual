@@ -31,5 +31,5 @@ A package with D'CENT Wallet contains the following:
 * Mnemonic code card for Recovery
 * User Manual
 
-![Contents of D&apos;CENT Wallet package](../.gitbook/assets/img-products-box.png)
+![](../.gitbook/assets/369-1.jpg)
 
