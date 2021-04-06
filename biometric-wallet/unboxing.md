@@ -31,5 +31,5 @@ Un paquet avec un D'CENT Wallet contient les éléments suivants :
 * Carte de code mnémonique pour la récupération
 * Manuel de l'utilisateur
 
-![Contenu de l&apos;emballage de D&apos;CENT Wallet](../.gitbook/assets/img-products-box.png)
+![](../.gitbook/assets/369-1%20%281%29.jpg)
 
