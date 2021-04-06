@@ -31,5 +31,5 @@ Seal이 뜯어져 있거나 없는 경우 제품에 훼손이 있을 수 있습�
 * 복구용 니모닉 코드 작성 카드
 * 사용자 설명서
 
-![&#xB514;&#xC13C;&#xD2B8; &#xCF5C;&#xB4DC;&#xC6D4;&#xB81B; &#xAD6C;&#xC131;](../.gitbook/assets/img-products-box-ko.png)
+![](../.gitbook/assets/370-1.jpg)
 
