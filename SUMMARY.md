@@ -44,7 +44,7 @@
   * [카드타입 콜드월렛 매니저](mobile-app/mobile-app-dcent-manager/card-wallet.md)
   * [소프트웨어 월렛 매니저](mobile-app/mobile-app-dcent-manager/software-wallet.md)
 * [앱 설정 메뉴](mobile-app/mobile-app-setting-menu/README.md)
-  * [사용자 정의 경로 계정](mobile-app/mobile-app-setting-menu/custom_path.md)
+  * [사용자 정의 경로 계정 \(오전송한 자산 복구 기능\)](mobile-app/mobile-app-setting-menu/custom_path.md)
 
 ## 코인 보내기/받기 <a id="coin-send-receive"></a>
 
