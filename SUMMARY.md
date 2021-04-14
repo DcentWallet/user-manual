@@ -45,8 +45,8 @@
   * [소프트웨어 월렛 매니저](mobile-app/mobile-app-dcent-manager/software-wallet.md)
 * [앱 설정 메뉴](mobile-app/mobile-app-setting-menu/README.md)
   * [사용자 정의 경로 계정 \(오전송한 자산 복구 기능\)](mobile-app/mobile-app-setting-menu/custom_path/README.md)
-    * [이더리움 기반 자산을 클레이튼 주소로 오전송한 경우](mobile-app/mobile-app-setting-menu/custom_path/ethereum-to-klaytn.md)
-    * [클레이튼 기반 자산을 이더리움 주소로 오전송한 경우](mobile-app/mobile-app-setting-menu/custom_path/klaytn-to-ethereum.md)
+    * [클레이튼 주소로 오전송한 이더리움 기반 자산 복구하는 방법](mobile-app/mobile-app-setting-menu/custom_path/ethereum-to-klaytn.md)
+    * [이더리움 주소로 오전송한 클레이튼 기반 자산 복구하는 방법](mobile-app/mobile-app-setting-menu/custom_path/klaytn-to-ethereum.md)
 
 ## 코인 보내기/받기 <a id="coin-send-receive"></a>
 
