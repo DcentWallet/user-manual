@@ -4,7 +4,7 @@ D’CENT Mobile App has added support for [WalletConnect](https://walletconnect.
 
 ✅ Full list of DApps supporting WalletConnect can be found here: [https://walletconnect.org/apps](https://walletconnect.org/apps)
 
-### What is WalletConnect?
+## What is WalletConnect?
 
 WalletConnect is an open protocol for connecting DApps on your browser to mobile wallets using end-to-end encryption by scanning a QR code. This allows users to establish connections to websites \(DApps\) from a browser and carry out transactions securely from D’CENT Wallet without revealing any secret information to the internet.
 
@@ -12,7 +12,7 @@ WalletConnect is an open protocol for connecting DApps on your browser to mobile
 
 
 
-### Using DApps on PC browser
+## Using DApps on PC browser
 
 In this example, we will access a DApp called **PoolTogether**. You will need your [D’CENT Mobile App](https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet&utm_source=dcentwallet&utm_campaign=mobileapp) and PC to access the DApp website.
 
@@ -44,7 +44,7 @@ In this example, we will access a DApp called **PoolTogether**. You will need yo
 
 **NOTE :** Make sure to keep D’CENT Wallet running on your mobile phone and stay on this activity. If you switch to other Apps, the current DApp \(ie: PoolTogether\) will lose connection and you will have to reconnect again.
 
-### Using DApps on Mobile browser
+## Using DApps on Mobile browser
 
 **Step 1\)** Go to the PoolTogether \(App\) website from your browser and click on **Account**.
 
@@ -70,7 +70,7 @@ NOTE : Make sure to click on **disconnect** after when you finish using the DApp
 
 ![](../../.gitbook/assets/11.png)
 
-### Using DApps via D’CENT DApp browser \(Discovery\)
+## Using DApps via D’CENT DApp browser \(Discovery\)
 
 D’CENT Wallet has a built-in DApp browser, which supports connecting to DApps much easier by using **Web3 wallet \(ie: D’CENT\).** Advantage in using the built-in browser is that you only need to use a single application \(D’CENT Wallet\) to access a DApp service.
 
