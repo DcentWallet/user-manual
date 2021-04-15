@@ -70,6 +70,7 @@
 ## 디센트 내부 서비스 <a id="native-service"></a>
 
 * [댑 브라우저 \(Discovery\)](native-service/discovery/README.md)
+  * [블록체인 네트워크 선택](native-service/discovery/switch-network.md)
   * [Wallet Connect 사용법](native-service/discovery/wallet-connect.md)
 
 ## 오입금 해결 방법 <a id="mistransmission"></a>
