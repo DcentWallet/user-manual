@@ -43,10 +43,7 @@
   * [지문인증형 콜드월렛 매니저](mobile-app/mobile-app-dcent-manager/biometric-wallet.md)
   * [카드타입 콜드월렛 매니저](mobile-app/mobile-app-dcent-manager/card-wallet.md)
   * [소프트웨어 월렛 매니저](mobile-app/mobile-app-dcent-manager/software-wallet.md)
-* [앱 설정 메뉴](mobile-app/mobile-app-setting-menu/README.md)
-  * [사용자 정의 경로 계정 \(오전송한 자산 복구 기능\)](mobile-app/mobile-app-setting-menu/custom_path/README.md)
-    * [클레이튼 주소로 오전송된 이더리움 기반 자산 복구하는 방법](mobile-app/mobile-app-setting-menu/custom_path/ethereum-to-klaytn.md)
-    * [이더리움 주소로 오전송된 클레이튼 기반 자산 복구하는 방법](mobile-app/mobile-app-setting-menu/custom_path/klaytn-to-ethereum.md)
+* [앱 설정 메뉴](mobile-app/mobile-app-setting-menu.md)
 
 ## 코인 보내기/받기 <a id="coin-send-receive"></a>
 
@@ -74,6 +71,13 @@
 
 * [댑 브라우저 \(Discovery\)](native-service/discovery/README.md)
   * [Wallet Connect 사용법](native-service/discovery/wallet-connect.md)
+
+## 오입금 해결 방법 <a id="mistransmission"></a>
+
+* [오입금/오전송 문제 해결하기](mistransmission/how-to-solve-mistransmission.md)
+* [전송한 자산의 네트워크 확인](mistransmission/check-blockchain-network.md)
+* [클레이튼 주소로 오전송된 이더리움 기반 자산 복구하는 방법](mistransmission/ethereum-to-klaytn.md)
+* [이더리움 주소로 오전송된 클레이튼 기반 자산 복구하는 방법](mistransmission/klaytn-to-ethereum.md)
 
 ## 디센트 외부 서비스 <a id="external-service"></a>
 
