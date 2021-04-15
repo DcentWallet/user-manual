@@ -28,7 +28,7 @@
 
 이더스캔 사이트에 접속후 1단계에서 복사한 클레이튼 주소를 검색합니다.
 
-![](https://cdn-images-1.medium.com/max/800/1*TE9WkxWHAxhkGekB5dMVig.png)
+![](../.gitbook/assets/13%20%282%29.png)
 
 위의 그림에 보이는 것에 처럼 **\[Token\] 탭**에서 오전송된 자산이 보인다면, 해당 자산은 본래 이더리움 주소로 복원 할 수 있습니다.
 
