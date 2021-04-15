@@ -70,6 +70,7 @@
 ## D'CENT Native Services <a id="native-service"></a>
 
 * [DApp browser \(Discovery\)](native-service/dapp-browser/README.md)
+  * [Switch Blockchain Network](native-service/dapp-browser/switch-blockchain-network.md)
   * [Using Wallet Connect](native-service/dapp-browser/using-wallet-connect.md)
 
 ## D'CENT EXTERNAL SERVICES <a id="external-service"></a>
