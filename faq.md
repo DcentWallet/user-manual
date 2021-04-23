@@ -187,3 +187,7 @@ The original Card type wallet can be backed up using a BACKUP Card wallet. More 
 For iPhone 7 or higher and iOS 13 or higher, you can use the Card type Wallet.   
 You can find out more [here](card-wallet/how-to-use-iphone.md).
 
+## Where does D'CENT retrieve exchange rate values for cryptocurrencies in its wallets?
+
+D'CENT Wallet uses the price information provided by [Coingecko](https://www.coingecko.com/), which is the world’s largest independent cryptocurrency data aggregator with over 6,000 different crypto assets tracked across more than 400 exchanges worldwide.
+
