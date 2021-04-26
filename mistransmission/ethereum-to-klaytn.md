@@ -48,27 +48,21 @@
 
 ![](https://cdn-images-1.medium.com/max/800/1*HYmxDf23e44kq9OO55Napg.png)
 
-### **2단계 :** 토큰 계정 숨기기
-
-우선 기존 이더리움 계정과 연결된 ORC 토큰 계정이 이미 존재한다면 **'숨기기'**를 합니다. 생성된 계정이 없으면, 안 숨기셔도 됩니다.
-
-![](https://cdn-images-1.medium.com/max/800/1*gaWKmhX2xPCZFJF9nco33A.png)
-
-### **3단계 :** \[사용자 정의 경로 계정\] 메인 **코인 \(이더리움\) 계정** 추가 하기
+### **2단계 :** \[사용자 정의 경로 계정\] 메인 **코인 \(이더리움\) 계정** 추가 하기
 
 검색란에 ‘**custom**’을 입력하고 **"Ethereum - custom path \(ETH\)"**를 선택합니다. 클레이튼 주소를 가진 이더리움 계정을 만들기 위해 계정 주소는 "m/44'/8217'/0'/0/0"을 선택합니다.
 
-![](https://cdn-images-1.medium.com/max/800/1*DedoXirW21DLQ9br6yuErw.png)
+![](../.gitbook/assets/2%20%289%29.png)
 
 정상적으로 \[사용자 정의 경로 계정\] 이더리움 계정이 추가되면 아래와 같이 Account탭에 이더리움 계정이 하나 더 추가된것을 확인할 수 있습니다.
 
-![](https://cdn-images-1.medium.com/max/800/1*27GKxqYKkB35lwMLJMiQ5A.png)
+![](../.gitbook/assets/3%20%288%29.png)
 
-### **4단계 :** \[사용자 정의 경로 계정\] **토큰 계정** 추가 하기
+### **3단계 :** \[사용자 정의 경로 계정\] **토큰 계정** 추가 하기
 
 검색란에 ‘**orc**’ 검색하고 이더리움 블록체인 기반의 토큰 계정 \(ERC20\) 규격을 선택합니다. 연결되는 수수료 계정은 위에서 생성한 계정인 ‘**ETH-CUSTOM-01’**을 선택합니다.
 
-![](https://cdn-images-1.medium.com/max/800/1*buTm1Dl-tPUOGrs4xlzCPw.png)
+![](../.gitbook/assets/4%20%285%29.png)
 
 새로 생성한 토큰 계정에 자산이 보인다면 복구를 위한 계정 생성이 제대로 완료된 것입니다.
 
@@ -92,17 +86,19 @@
 
 안정적인 전송을 위해서 0.05 ETH 이상의 이더리움을 \[사용자 정의 경로 계정\]에 받습니다.
 
+![](../.gitbook/assets/5%20%283%29.png)
+
 이더리움을 받았다면 다음 단계로 넘어 갑니다.
 
 ### **2단계 :** 오전송한 토큰을 본래의 주소로 전송
 
 아래와 같이 본래 주소를 복사 합니다. 이더리움의 주소와 ERC-20 토큰의 주소가 같기 때문에 이더리움 주소를 이용하셔도 됩니다.
 
-![](https://cdn-images-1.medium.com/max/800/1*zXZpJ6QeVvkajJeK9NX__w.png)
+![](../.gitbook/assets/6%20%284%29.png)
 
 ORC 토큰 계정에서 ‘**보내기**’를 누르고 복사한 주소를 ‘**붙여넣기’** 합니다.
 
-![](https://cdn-images-1.medium.com/max/800/1*A0qhA0iFZ7nw3807Jn1NSg.png)
+![](../.gitbook/assets/7%20%284%29.png)
 
 **‘전액’**을 눌러 복원할 토큰을 모두 전송 합니다.
 
@@ -114,7 +110,7 @@ ORC 토큰 계정에서 ‘**보내기**’를 누르고 복사한 주소를 ‘
 
 아래와 같이 본래 주소를 ‘**붙여넣기**’ 하고 전액을 전송합니다.
 
-![](https://cdn-images-1.medium.com/max/800/1*cxoFh8fXyL0KRtBxFx_z-g.png)
+![](../.gitbook/assets/8%20%284%29.png)
 
 이더리움 전송 거래가 완료될 때까지 기다립니다. 거래가 완료되면 다음으로 넘어갑니다.
 
@@ -126,11 +122,12 @@ ORC 토큰 계정에서 ‘**보내기**’를 누르고 복사한 주소를 ‘
 
 복원을 목적으로 만든 \[사용자 정의 경로 계정\] 계정을 모두 삭제 합니다. 
 
-![](https://cdn-images-1.medium.com/max/800/1*1hsMREm591WM57Lbhpr5EQ.png)
+![](../.gitbook/assets/9%20%284%29.png)
 
-### **2단계 :** 복원된 토큰 계정 만들기
+### 지문인증형 지갑의 경우\[사용자 정의 경로\] 계정 삭제
 
-![](https://cdn-images-1.medium.com/max/800/1*6yzLp0MSvceaBBdNXr-tRg.png)
+지문인증형 지갑을 사용하는 경우 모든 계정을 삭제하고 다시 사용을 원하는 계정을 추가해야합니다.  
+계정 삭제와 관련된 내용은 [여기](https://userguide.dcentwallet.com/v/kr/biometric-wallet/setting-menu#undefined-7)를 참고해주세요. 
 
 ## **고급 설정 옵션 비활성화**
 
