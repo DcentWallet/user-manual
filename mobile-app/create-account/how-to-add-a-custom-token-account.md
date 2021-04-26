@@ -4,8 +4,10 @@ Custom tokens are token-type cryptocurrencies that are not listed in the support
 
 Custom tokens can be added for the following blockchain networks:  
 ✅ Ethereum \(ERC20\)   
+✅ RSK \(RRC20\)  
 ✅ Klaytn \(KCT\)  
-✅ RSK \(RRC20\) 
+✅ BSC \(BEP20\)  
+✅ XinFin \(XRC20\) 
 
 ## How to add a custom token account
 
