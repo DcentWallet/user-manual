@@ -12,11 +12,11 @@ description: 디센트 콜드 월렛을 받았을 때 체크리스트
 
 #### 정상 패키지
 
-![](../.gitbook/assets/image%20%28128%29.png)
+![](../.gitbook/assets/box_sealed.png)
 
 #### 비정상 패키지
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/box_opened.png)
 
 {% hint style="warning" %}
 Seal이 뜯어져 있거나 없는 경우 제품에 훼손이 있을 수 있습니다. 패키지 상태를 꼭 확인하세요.
@@ -29,7 +29,8 @@ Seal이 뜯어져 있거나 없는 경우 제품에 훼손이 있을 수 있습�
 * 디센트 지문인증형 콜드월렛 장치 \(본체\)
 * USB 케이블 \(USB 마이크로 5핀\)
 * 복구용 니모닉 코드 작성 카드
-* 사용자 설명서
+* 웰컴 가이드
+* 제품 사양 시트
 
-![](../.gitbook/assets/370-1.jpg)
+![](../.gitbook/assets/_-.png)
 
