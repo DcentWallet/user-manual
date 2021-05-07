@@ -77,6 +77,7 @@
 
 * [Connect with Kaikas wallet extension](external-service/kaikas.md)
 * [Klaystation Staking](external-service/klaystation.md)
+* [How to use PancakeSwap](external-service/pancakeswap.md)
 
 ## Cryptocurrency Basics <a id="cryptocurrency-basic"></a>
 
