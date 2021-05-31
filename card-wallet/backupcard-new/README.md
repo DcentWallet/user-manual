@@ -1,4 +1,8 @@
-# 디센트 백업카드 사용법 \(신버전\)
+---
+description: 안드로이드 앱 v3.6.0 이상 / iOS 앱 v3.6.0 이상
+---
+
+# 디센트 카드 지갑 백업 및 복구 방법
 
 현재 사용하시고 계신 카드 타입 콜드월렛의 백업카드를 만드는 방법입니다.
 
@@ -9,4 +13,10 @@
 ![](../../.gitbook/assets/backupcard01_kr.png)
 
 백업 이미지를 생성하는 방법과 백업된 이미지를 백업카드에 복구하는 방법은 다음 섹션에서 확인이 가능합니다.
+
+## 백업 이미지 생성 및 복구 방법
+
+{% page-ref page="create-backup-image.md" %}
+
+{% page-ref page="recover-backup-image.md" %}
 
