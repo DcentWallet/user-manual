@@ -1,3 +1,7 @@
+---
+description: For Android App 4.6.0 or higher / iOS App 4.6.0 or higher
+---
+
 # D'CENT Backup Card Guide \(New version\)
 
 This is a guide to creating a copy of your original card wallet to a **D'CENT Backup card**.

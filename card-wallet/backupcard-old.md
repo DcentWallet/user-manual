@@ -2,6 +2,10 @@
 
 This is a guide to creating a copy of your original card wallet to a **D'CENT Backup card**.
 
+This guidance is only for old version of Mobile App. If you use the latest version of mobile app, please read the new version of guidance.
+
+{% page-ref page="backupcard-new/" %}
+
 ## What is a D'CENT Backup card?
 
 D'CENT Backup Card is a hardware wallet with **no data** inside the security chip, which can be used to make a backup copy of your original card type wallet through secure encryption technology. This means that the data from your original card wallet is encrypted with the user's password and can be transferred to the Backup Card to create an exact same copy of your existing wallet.
