@@ -12,7 +12,7 @@ You can use DApp service in the **"Discovery"** tab located at the bottom menu o
 
 Unlisted DApp services can be accessed by entering the **URL or through Google search.**
 
-## **Supported Network**
+## **Supported Networks**
 
 As of May, 2021, following networks are supported on D'CENT wallet's dapp-browser. More networks will be added overtime.
 
