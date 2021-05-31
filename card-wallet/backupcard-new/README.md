@@ -14,3 +14,9 @@ D'CENT Backup Card is a hardware wallet with **no data** inside the security chi
 
 Continue to the next sections to find out how you can create a backup image and how it can be recovered on a Backup Card.
 
+## How to create & recover backup image
+
+{% page-ref page="create-backup-image.md" %}
+
+{% page-ref page="recover-backup-image.md" %}
+
