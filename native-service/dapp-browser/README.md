@@ -6,13 +6,43 @@ D’CENT Mobile App features a native DApp browser that is built into the applic
 
 From the DApp browser, you can use **Ethereum-based DApp** such as Maker Dao, Compound, Uniswap, and **Klaytn-based BApp** service such as KLAYSTATION.
 
-### Using DApp service on the Discovery tab <a id="412b"></a>
+## Using DApp service on the Discovery tab
 
 You can use DApp service in the **"Discovery"** tab located at the bottom menu of the app. Here, it lists various services that can be used in conjunction with D’CENT wallet. You can simply click on a service to access the DApp. 
 
 Unlisted DApp services can be accessed by entering the **URL or through Google search.**
 
-### Listed Services
+## **Supported Network**
+
+As of May, 2021, following networks are supported on D'CENT wallet's dapp-browser. More networks will be added overtime.
+
+You can see how to switch blockchain network of dapp-browser in the below link.
+
+{% page-ref page="switch-blockchain-network.md" %}
+
+### Mainnet
+
+* Ethereum
+* Binance Smart Chain
+* Polygon
+* RSK
+* Klaytn
+* Tron
+
+### Testnet
+
+* Ethereum Testnet Ropsten
+* Ethereum Testnet Rinkeby
+* Ethereum Testnet Goerli
+* Ethereum Testnet Kovan
+* Binance Smart Chain Testnet
+* Polygon Testnet Mumbai
+* RSK Testnet
+* Flare Testnet Coston2
+* Klaytn Testnet Baobab
+* Tron Testnet Shasta
+
+## Listed Services
 
 As of September, 2020, following services are listed. For detailed information on each services, please visit the services sites.
 
