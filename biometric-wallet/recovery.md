@@ -121,9 +121,21 @@ PIN 값은 초기화가 끝난 이후에 [설정 메뉴](setting-menu.md)를 통
 ※ 디센트 지문인증형 콜드월렛에서 지원하는 전체 코인 리스트는 [https://dcentwallet.com/SupportedCoin](https://dcentwallet.com/SupportedCoin) 에서 확인할 수 있습니다.
 {% endhint %}
 
+{% hint style="info" %}
+모바일 앱 v5.3.1 이후 부터 Klaytn\(클레이튼\), Ethereum Classic\(이더리움 클래식\), RSK\(루트스탁\) 계정을 생성할 경우 이더리움 주소와 동일한 주소를 가진 계정이 생성되도록 변경되었
+{% endhint %}
+
 ### 펌웨어 확인
 
 디센트 콜드월렛 세팅이 끝난 후에는 홈페이지를 통해 하드웨어 업데이트를 꼭 확인해 보시기 바랍니다. 추가 코인, 콜드월렛 기능 추가 등 펌웨어가 업데이트 되었을 수 있습니다.
 
 펌웨어 업데이트에 대한 자세한 내용은 [여기를 참조](firmware-update/)하세요.
+
+## 레거시 주소 확인
+
+모바일 앱 버전 v5.3.1 업데이트에서 Klaytn\(클레이튼\), Ethereum Classic\(이더리움 클래식\), RSK\(루트스탁\)과 같이 이더리움과 같은 형식의 주소를 사용하는 자산은  계정을 생성시 이더리움 주소와 동일한 주소를 가진 계정이 생성되도록 변경되었습니다. 
+
+자세한 내용은 아래 내용을 확인하세요.
+
+{% page-ref page="../troubleshooting/notes-on-wallet-recovery.md" %}
 
