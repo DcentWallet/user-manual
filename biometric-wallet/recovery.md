@@ -126,6 +126,10 @@ You have completed wallet recovery. From your cold wallet, you can check the lis
 You can find the complete list of cryptocurrency assets supported on D'CENT Biometric Wallet from [https://dcentwallet.com/SupportedCoin](https://dcentwallet.com/SupportedCoin)
 {% endhint %}
 
+### Important notes after recovering your wallet
+
+{% page-ref page="../troubleshooting/notes-on-wallet-recovery.md" %}
+
 ### Check for the latest Firmware
 
 Once you have completed the Initial Setup, make sure to visit D'CENT Wallet homepage and check for the latest firmware available. Newer version of firmware may include additional support for cryptocurrency assets and new wallet features.

@@ -38,5 +38,9 @@ The mnemonic code from your software wallet can also be used to recover your wal
 Click here for more information about [recovering your wallet](../../biometric-wallet/recovery.md) on Biometric Wallet.
 {% endhint %}
 
+### Important notes after recovering your wallet
+
+{% page-ref page="../../troubleshooting/notes-on-wallet-recovery.md" %}
+
 
 

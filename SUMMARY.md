@@ -73,6 +73,10 @@
   * [Switch Blockchain Network](native-service/dapp-browser/switch-blockchain-network.md)
   * [Using Wallet Connect](native-service/dapp-browser/using-wallet-connect.md)
 
+## Troubleshooting
+
+* [Notes on Wallet Recovery - Legacy account](troubleshooting/notes-on-wallet-recovery.md)
+
 ## D'CENT EXTERNAL SERVICES <a id="external-service"></a>
 
 * [Connect with Kaikas wallet extension](external-service/kaikas.md)
