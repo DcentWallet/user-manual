@@ -44,7 +44,6 @@
   * [Card type Wallet Manager](mobile-app/mobile-app-dcent-manager/card-wallet.md)
   * [Software Wallet Manager](mobile-app/mobile-app-dcent-manager/software-wallet.md)
 * [Mobile App "Setting" menu](mobile-app/mobile-app-setting-menu.md)
-* [Wallet Recovery Note](mobile-app/wallet-recovery-note.md)
 
 ## How to send/receive coin <a id="coin-send-receive"></a>
 
