@@ -8,7 +8,7 @@ Discovery is a browsing function that allows you to use blockchain-based decentr
 
 ## How to transfer Ethereum based assets to the Polygon Network \(mainnet\)
 
-**STEP 1: Create Ethereum account and Transfer assets**
+### **STEP 1: Create Ethereum account and Transfer assets**
 
 ![](https://cdn-images-1.medium.com/max/800/1*AUiRmcjxmJ4QKBI1kTpYhQ.png)
 
@@ -17,21 +17,21 @@ Discovery is a browsing function that allows you to use blockchain-based decentr
 **3\)** From the main screen, view the Ethereum address \(press **Receive** button\)  
 **4\)** Copy the Ethereum address and receive ERC20 assets to this account.
 
-**STEP 2: Create Polygon \(mainnet\) account**
+### **STEP 2: Create Polygon \(mainnet\) account**
 
 ![](https://cdn-images-1.medium.com/max/800/1*-1Ez3UNIVfeYvK4AgDKh0w.png)
 
 **1\)** From the main screen press \(+\) button to add a Polygon \(mainnet\) account  
 **2\)** Search for “Polygon” and choose **Polygon \(MATIC\)**
 
-**STEP 3: Change the Network on Dapp browser to Ethereum**
+### **STEP 3: Change the Network on Dapp browser to Ethereum**
 
 ![](https://cdn-images-1.medium.com/max/800/1*cD1yk3fmrXKaOp7r4XQ3dw.png)
 
 **1\)** From the Discovery Tab, click on the network icon located at the top-right  
 **2\)** Set the network to Ethereum
 
-**STEP 4: Visit Polygon Bridge site and Login**
+### **STEP 4: Visit Polygon Bridge site and Login**
 
 ![](https://cdn-images-1.medium.com/max/800/1*T0JpqGlDeqNxfL_r_rAGqw.png)
 
@@ -40,7 +40,7 @@ Discovery is a browsing function that allows you to use blockchain-based decentr
 **3\)** Continue by clicking OK button  
 **4\)** Site login will require a signature. Click OK and authenticate\(sign\) with a fingerprint or PIN
 
-**STEP 5: Requesting for asset transfer**
+### **STEP 5: Requesting for asset transfer**
 
 ![](https://cdn-images-1.medium.com/max/800/1*o10z7b5ICdKEI_r6IS-9UQ.png)
 
@@ -55,7 +55,7 @@ Discovery is a browsing function that allows you to use blockchain-based decentr
 **6\)** Review the fee requirement and press **Continue** to proceed  
 **7\)** Press **Continue** to proceed
 
-**STEP 6: Approving asset transfer**
+### **STEP 6: Approving asset transfer**
 
 ![](../.gitbook/assets/1%20%289%29.png)
 
@@ -63,7 +63,7 @@ Discovery is a browsing function that allows you to use blockchain-based decentr
 **2\)** Wait for the transaction to complete  
 **3\)** Press **Continue** to complete
 
-**STEP 7: Viewing the asset transferred to the Polygon mainnet**
+### **STEP 7: Viewing the asset transferred to the Polygon mainnet**
 
 ![](https://cdn-images-1.medium.com/max/800/1*sws4B57WEWzKepYRKxeODA.png)
 
@@ -76,7 +76,7 @@ Discovery is a browsing function that allows you to use blockchain-based decentr
 4\)** Click on **USDT** from the list  
 **5\) Copy** the contract address
 
-**STEP 8: Add custom token account in the D’CENT Wallet**
+### **STEP 8: Add custom token account in the D’CENT Wallet**
 
 ![](https://cdn-images-1.medium.com/max/800/1*OAA0kyCz71QlFhDG_OHYaw.png)
 
@@ -85,11 +85,11 @@ Discovery is a browsing function that allows you to use blockchain-based decentr
 **3\)** Choose your **POLYGON MATIC** as the linking gas\(fee\) account  
 **4\)** Press the **Paste** button to paste in the contract address which was copied from **STEP 7** above. Press Next and **POLYGON based USDT token account** will be created
 
-### **How to request for Token listing**
+## **How to request for Token listing**
 
 Visit [D’CENT Homepage](https://dcentwallet.com) and make a request.
 
-### **How to receive a small amount of MATIC coin**
+## **How to receive a small amount of MATIC coin**
 
 In the Ethereum network, the transactions fee is paid using the ETH coin. Similarly for the Polygon network, MATIC coin is used to pay for the transactions fee.
 
