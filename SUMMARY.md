@@ -89,7 +89,7 @@
 * [카이카스 월렛과 연결하기](external-service/kaikas.md)
 * [클레이스테이션 Staking](external-service/klaystation.md)
 * [팬케익스왑 이용 방법](external-service/pancakeswap.md)
-* [폴리곤 브릿지 이용 방법](external-service/undefined.md)
+* [폴리곤 브릿지 이용 방법](external-service/polygon-bridge.md)
 
 ## 암호화폐 기초지식 <a id="cryptocurrency-basic"></a>
 
