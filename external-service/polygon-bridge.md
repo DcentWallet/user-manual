@@ -8,7 +8,7 @@
 
 ## 이더리움 기반 자산을 폴리곤\(메인넷\)으로 이동하는 방법
 
-**STEP 1: 이더리움 계정 생성 및 자산 입금**
+### **STEP 1: 이더리움 계정 생성 및 자산 입금**
 
 ![](https://cdn-images-1.medium.com/max/800/1*AUiRmcjxmJ4QKBI1kTpYhQ.png)
 
@@ -17,21 +17,21 @@
 **3\)** 메인화면에 생성된 이더리움 계정의 주소확인 \(**받기** 버튼 클릭\)  
 **4\)** 이더리움 주소를 복사하여 내 이더리움 계정으로 ERC20 자산을 받는다
 
-**STEP 2: 폴리곤 \(메인넷\) 계정 생성**
+### **STEP 2: 폴리곤 \(메인넷\) 계정 생성**
 
 ![](https://cdn-images-1.medium.com/max/800/1*-1Ez3UNIVfeYvK4AgDKh0w.png)
 
 **1\)** 메인 화면에서 \(+\) 버튼을 누르고 폴리곤 \(메인넷\) 계정을 추가하기  
 **2\)** Polygon을 검색하고 **Polygon \(MATIC\)**을 선택
 
-**STEP 3: 댑 브라우저의 네트워크를 이더리움으로 변경**
+### **STEP 3: 댑 브라우저의 네트워크를 이더리움으로 변경**
 
 ![](https://cdn-images-1.medium.com/max/800/1*cD1yk3fmrXKaOp7r4XQ3dw.png)
 
 **1\)** 디스커버리 탭에서 상단 우측에 위치한 네트워크 아이콘 클릭  
 **2\)** 네트워크 설정을 Ethereum으로 선택
 
-**STEP 4: 폴리곤\(구 매틱\) 브릿지 사이트로 이동 및 로그인**
+### **STEP 4: 폴리곤\(구 매틱\) 브릿지 사이트로 이동 및 로그인**
 
 ![](https://cdn-images-1.medium.com/max/800/1*T0JpqGlDeqNxfL_r_rAGqw.png)
 
@@ -40,7 +40,7 @@
 **3\)** 사이트에 로그인을 진행하려면 OK 버튼 클릭  
 **4\)** 사이트 로그인에 필요한 서명을 진행하려면 OK 버튼 클릭 후 지갑에서 인증 \(지문인증 or 비밀번호\)
 
-**STEP 5: 자산 이동 신청**
+### **STEP 5: 자산 이동 신청**
 
 ![](https://cdn-images-1.medium.com/max/800/1*o10z7b5ICdKEI_r6IS-9UQ.png)
 
@@ -55,7 +55,7 @@
 **6\)** 자산 이동에 필요한 비용을 확인하고 **Continue** 클릭  
 **7\)** 계속 진행하려면 **Continue** 클릭
 
-**STEP 6: 자산 이동 거래를 지갑에서 승인하기**
+### **STEP 6: 자산 이동 거래를 지갑에서 승인하기**
 
 ![](https://cdn-images-1.medium.com/max/800/1*ZWuqQDVaEi9XXxIAALZUGg.png)
 
@@ -63,7 +63,7 @@
 **2\)** 완료될 때까지 대기  
 **3\)** **Continue** 버튼을 클릭하면 완료
 
-**STEP 7: 폴리곤 메인넷으로 이동된 자산 확인하기**
+### **STEP 7: 폴리곤 메인넷으로 이동된 자산 확인하기**
 
 ![](https://cdn-images-1.medium.com/max/800/1*sws4B57WEWzKepYRKxeODA.png)
 
@@ -76,7 +76,7 @@
 **4\)** 리스트에서 **USDT** 를 클릭  
 **5\)** 컨트랙트 주소 **복사** 클릭
 
-**STEP 8: 디센트 지갑에서 커스텀 토큰 계정 추가하기**
+### **STEP 8: 디센트 지갑에서 커스텀 토큰 계정 추가하기**
 
 ![](https://cdn-images-1.medium.com/max/800/1*OAA0kyCz71QlFhDG_OHYaw.png)
 
@@ -85,11 +85,11 @@
 **3\)** 토큰 계정과 연결되는 수수료 계정 선택 \(**POLYGON**\)   
 **4\)** 위 **STEP 7**에서 복사한 컨트랙트 주소를 붙여넣고 다음 버튼을 누르면 **POLYGON기반의 USDT 토큰 계정**이 생성됨
 
-### **토큰 리스팅 요청 방법** 
+## **토큰 리스팅 요청 방법** 
 
 [디센트 홈페이지](https://dcentwallet.com/)에서 요청하시기 바랍니다.
 
-### **소량의 MATIC 코인 지원 받기**
+## **소량의 MATIC 코인 지원 받기**
 
 Ethereum network에서 수수료를 ETH 코인을 사용하듯이 Polygon network 에서는 MATIC 코인을 수수료로 사용합니다.
 
