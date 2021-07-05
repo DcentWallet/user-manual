@@ -82,7 +82,7 @@
 * [Connect with Kaikas wallet extension](external-service/kaikas.md)
 * [Klaystation Staking](external-service/klaystation.md)
 * [How to use PancakeSwap](external-service/pancakeswap.md)
-* [How to use Polygon Bridge](external-service/how-to-use-polygon-bridge.md)
+* [How to use Polygon Bridge](external-service/polygon-bridge.md)
 
 ## Cryptocurrency Basics <a id="cryptocurrency-basic"></a>
 
