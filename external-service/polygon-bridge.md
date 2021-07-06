@@ -70,7 +70,7 @@ Discovery is a browsing function that allows you to use blockchain-based decentr
 **1\)** On your Polygon \(**mainnet**\) account, press **History** button   
 **2\)** Press **here** to see the details of the transactions
 
-![](https://cdn-images-1.medium.com/max/800/1*Zsr4WmDRa1aZ1GSReOhe5g.png)
+![](../.gitbook/assets/1%20%2811%29.png)
 
 **3\)** From the external site, click on the **Token list  
 4\)** Click on **USDT** from the list  
@@ -93,5 +93,9 @@ Visit [D’CENT Homepage](https://dcentwallet.com) and make a request.
 
 In the Ethereum network, the transactions fee is paid using the ETH coin. Similarly for the Polygon network, MATIC coin is used to pay for the transactions fee.
 
-If you have just completed transferring the asset to the Polygon network, you don’t be able to do anything because you won’t have any MATIC coin. Polygon network is providing a small amount \(0.001 MATIC coin\) via [MATIC Supply](https://matic.supply/) to support users.
+If you have just completed transferring the asset to the Polygon network, you don’t be able to do anything because you won’t have any MATIC coin. Polygon network is providing a small amount \(0.001 MATIC coin\) to support users from the following faucets:
+
+{% embed url="https://faucet.firebird.finance/" %}
+
+{% embed url="https://matic.supply/" %}
 
