@@ -70,7 +70,7 @@
 **1\)** Polygon \(**mainnet**\) 계정에서 **History**를 클릭  
 **2\)** 거래내역 화면에서 **여기\(here\)**를 클릭
 
-![](../.gitbook/assets/image%20%28241%29.png)
+![](../.gitbook/assets/1%20%2810%29.png)
 
 **3\)** 이동한 사이트에서 **토큰 리스트** 확인  
 **4\)** 리스트에서 **USDT** 를 클릭  
@@ -93,5 +93,9 @@
 
 Ethereum network에서 수수료를 ETH 코인을 사용하듯이 Polygon network 에서는 MATIC 코인을 수수료로 사용합니다.
 
-위에 설명 드린 예시대로, USDT와 같은 토큰 자산을 처음 옮기셨을 때는 Polygon network에 MATIC 코인이 없기 때문에 어떤 작업도 진행 할 수 없습니다. 그래서 Polygon에서는 [MATIC Supply](https://matic.supply/)를 통해 무료로 소량의 \(0.001 MATIC 코인\)을 제공해주고 있습니다. 
+위에 설명 드린 예시대로, USDT와 같은 토큰 자산을 처음 옮기셨을 때는 Polygon network에 MATIC 코인이 없기 때문에 어떤 작업도 진행 할 수 없습니다. 그래서 Polygon에서는 사용자를 위해 무료로 소량의 \(0.001 MATIC 코인\)을 아래 Faucet을 통해 제공해주고 있습니다. 
+
+{% embed url="https://faucet.firebird.finance/" %}
+
+{% embed url="https://matic.supply/" %}
 
