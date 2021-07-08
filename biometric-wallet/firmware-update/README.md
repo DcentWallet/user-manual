@@ -2,7 +2,7 @@
 
 ## Firmware update indicator
 
-Whenever new coin support is added or bug fix has been made, a new firmware will be available for installation. Your mobile app will show an indication when a new firmware is released.
+Whenever new coin support is added or bug fix has been made, a new firmware will be available for installation. Your mobile app will show an indication when a newer version of the firmware is released.
 
 {% hint style="info" %}
 Firmware update can be done only from the PC.
@@ -20,7 +20,7 @@ Make sure you have your Mnemonic Code \(24 seeds/words\) for recovery
   
 Unlike other products, your wallet will still remain safely intact inside the secure chip even after updating the firmware. This means that you don't need to recover your wallet every time you update the firmware as other products requires you to do.   
   
-\(Keep your recovery card secured and ready just in case your Biometric Wallet is no longer accessible, possibly due to "brick"ed device or something went wrong during the update process.\)   
+\(Keep your recovery card secured and ready just in case your Biometric Wallet is no longer accessible, possibly due to "brick"ed device or something that went wrong during the update process.\)   
 
 {% hint style="info" %}
 After you update the firmware, you cannot roll-back to the previous version
@@ -36,25 +36,35 @@ It is recommended that the D'CENT mobile app is not running during the firmware 
 
 {% embed url="https://www.youtube.com/watch?v=Hhq4KmA6Ezw&feature=youtu.be" %}
 
-Firmware update is available only from PC, and it is recommended to use Google Chrome browser.
+### Requirements for the firmware update
 
-Click [here](https://fwu.dcentwallet.com/) to update the firmware. It is recommended to make the screen of the Internet browser the maximum size and proceed with the update. Firmware update proceeds in the following order.
+✅ Firmware can ONLY be updated from using a PC running a **64bit OS \(Windows or Mac\).**
 
- If there is no descent bridge program on your PC, download the bridge program.
+✅ Must use Google **Chrome browser**.
 
-Download and install the program for your OS.
+✅ Must use a USB cable that is **capable of data transfer**. It is highly recommended to use the USB cable that came together in the original box package.
+
+✅ The **latest version** of D'CENT bridge program is installed and running on your PC.
+
+If you are ready, click [here](https://fwu.dcentwallet.com/) to go to the Firmware Update homepage.
 
 ### Download D'CENT bridge program
 
-If there is no D'CENT bridge program on your PC, download the bridge program. Download and install the program for your OS.
+If there is no D'CENT bridge program installed on your PC, download and install the latest version of the bridge program respective to the OS running on your PC.
 
 ![](../../.gitbook/assets/image%20%28147%29.png)
 
-The D'CENT bridge program is a program used for communication between your PC and Biometric Wallet.
+The D'CENT bridge program runs in the system background and is used for communication between your PC and Biometric Wallet.
 
-If the latest version of D'CENT Bridge program is already installed, the download window will not appear.
+If your PC is already installed with the latest version of D'CENT bridge program, this download page will not appear when you visit the firmware update site.
 
-When installation is complete, click the "Refresh page" button at the bottom of the screen.  
+### Install D'CENT bridge program
+
+After finishing the download, click to install the bridge program.
+
+![](../../.gitbook/assets/fw02.png)
+
+When the installation is complete, click the "Refresh page" button at the bottom of the screen.  
 
 
 ![](../../.gitbook/assets/image%20%2854%29.png)
