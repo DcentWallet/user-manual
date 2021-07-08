@@ -1,6 +1,6 @@
 # Troubleshooting Guide \(Mac PC\)
 
-## Check the version of the D'CENT bridge program running on your PC.
+## Check the D'CENT bridge program version running on your PC.
 
 For **Mac PC**, you can check the bridge version that appears on the chrome browser window. If the older version of the D'CENT bridge is running already, you will need to "**Quit**" the program and install the newest version. Make sure to check the version **again** after installing the latest version.
 
