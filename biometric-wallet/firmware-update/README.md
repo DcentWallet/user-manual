@@ -58,14 +58,33 @@ The D'CENT bridge program runs in the system background and is used for communic
 
 If your PC is already installed with the latest version of D'CENT bridge program, this download page will not appear when you visit the firmware update site.
 
-### Install D'CENT bridge program
+### Install D'CENT bridge program \(Windows PC\)
 
 After finishing the download, click to install the bridge program.
 
 ![](../../.gitbook/assets/fw02.png)
 
-When the installation is complete, click the "Refresh page" button at the bottom of the screen.  
+When the installation is complete, click the "Refresh page" button at the bottom of the screen.
 
+![](../../.gitbook/assets/image%20%2854%29.png)
+
+### Install D'CENT bridge program \(Mac PC\)
+
+After finishing the download, click to install the bridge program.
+
+![](../../.gitbook/assets/mac01.png)
+
+![](../../.gitbook/assets/mac02.png)
+
+Go to **Finder** and look under **Applications** to find **D'CENT Bridge Program**. Click **Open** to open the application.
+
+![](../../.gitbook/assets/mac03.png)
+
+In the **Taskbar**, there should be a **D'CENT Bridge icon**, make sure to check that it is running the latest version.
+
+![](../../.gitbook/assets/mac04.png)
+
+ When the installation is complete, click the "Refresh page" button at the bottom of the screen.
 
 ![](../../.gitbook/assets/image%20%2854%29.png)
 
