@@ -143,6 +143,10 @@ There are 6 lists with total of 24 words and each list has 4 words shown. Make s
 
 You will be asked to take a simple quiz. From the 24 words listed, you will be asked to enter 2 randomly selected words to complete the verification.
 
+{% hint style="success" %}
+From firmware version 2.9.2 or higher, the quiz will ask the user to enter all 24 words for verification.
+{% endhint %}
+
 ![Quiz example](../.gitbook/assets/image%20%2849%29.png)
 
 Enter the correct word that corresponds to the question asked.
