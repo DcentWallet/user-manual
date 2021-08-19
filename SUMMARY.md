@@ -13,6 +13,7 @@
 * [안드로이드 폰과 연결하기](biometric-wallet/android-connect/README.md)
   * [안드로이드 폰에서 블루투스 메뉴 찾기](biometric-wallet/android-connect/android-bluetooth-menu.md)
   * [OTG 케이블 연결](biometric-wallet/android-connect/android-otg.md)
+  * [트러블 슈팅 가이드 \(안드로이드폰 블루투스 연결 오류\)](biometric-wallet/android-connect/undefined.md)
 * [아이폰과 연결하기](biometric-wallet/iphone-connect.md)
 * [펌웨어 업데이트](biometric-wallet/firmware-update/README.md)
   * [트러블 슈팅 가이드 \(Windows PC\)](biometric-wallet/firmware-update/firmware-trouble-shooting-windows.md)
