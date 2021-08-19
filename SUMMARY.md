@@ -13,6 +13,7 @@
 * [Connect with Android phone](biometric-wallet/android-connect/README.md)
   * [Finding the Bluetooth menu on your Android phone](biometric-wallet/android-connect/android-bluetooth-menu.md)
   * [Using OTG cable for physical connection](biometric-wallet/android-connect/android-otg.md)
+  * [Troubleshooting Guide \(Android Bluetooth Error\)](biometric-wallet/android-connect/troubleshooting-guide-android-bluetooth-error.md)
 * [Connect with iOS phone](biometric-wallet/iphone-connect.md)
 * [Firmware Update](biometric-wallet/firmware-update/README.md)
   * [Troubleshooting Guide \(Windows PC\)](biometric-wallet/firmware-update/firmware-trouble-shooting-windows.md)
