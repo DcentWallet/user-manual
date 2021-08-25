@@ -8,7 +8,7 @@ D'CENT Biometric Wallet offers a convenient feature of showing the account addre
 * Press OK button again to see the address in hex\(numbers + characters\) form.
 * Press OK button for one last time to see the address in the QR code.
 
-![](../.gitbook/assets/receive-to-dcent-using-qr-code.png)
+![](../.gitbook/assets/3%20%2810%29.png)
 
 * Present the QR code to the sender to scan with the mobile camera.
 * If QR code is read correctly, your address will be automatically inserted in the sender's wallet.
