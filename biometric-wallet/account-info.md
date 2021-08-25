@@ -10,7 +10,7 @@ Even if the Biometric Wallet is not synchronized with the mobile app, the basic 
 
 The main screen of the device lists various coin accounts. Select and choose an account to view the details.
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/1%20%2812%29.png)
 
 For more information on **how to create an account**, please see [here](../mobile-app/create-account/).
 
@@ -20,7 +20,7 @@ For more information on synchronizing between Biometric Wallet and mobile app, p
 
 Without the mobile app, you can also check coin account address and QR code form of the address from the Biometric Wallet.
 
-![](../.gitbook/assets/image%20%28162%29.png)
+![](../.gitbook/assets/2%20%2810%29.png)
 
 ## Deleting account info on the Biometric Wallet
 
