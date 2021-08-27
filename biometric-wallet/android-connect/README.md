@@ -14,7 +14,7 @@ Instead of using Bluetooth connection, you can also use the OTG cable to physica
 
 2\) On your device, scroll down and choose the "**Setting**" menu.
 
-![](../../.gitbook/assets/image%20%2835%29.png)
+![](../../.gitbook/assets/2%20%2811%29.png)
 
 3\) Choose "**Bluetooth**" menu.
 
