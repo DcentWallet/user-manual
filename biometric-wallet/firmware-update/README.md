@@ -142,3 +142,7 @@ PC에 디센트 브릿지 프로그램이 없다면, 브릿지 프로그램을 �
 
 펌웨어 업데이트가 완료되면 지갑을 재부팅하시면 됩니다.
 
+{% page-ref page="firmware-trouble-shooting-windows.md" %}
+
+{% page-ref page="firmware-trouble-shooting-mac.md" %}
+
