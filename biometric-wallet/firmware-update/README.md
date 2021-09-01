@@ -142,5 +142,3 @@ When the firmware update is completed, reboot your Biometric Wallet.
 
 {% page-ref page="troubleshooting-guide-mac.md" %}
 
-
-
