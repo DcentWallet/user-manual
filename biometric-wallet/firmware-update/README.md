@@ -138,3 +138,9 @@ From the Biometric Wallet, you can also check the progress of firmware update.
 
 When the firmware update is completed, reboot your Biometric Wallet.
 
+{% page-ref page="firmware-trouble-shooting-windows.md" %}
+
+{% page-ref page="troubleshooting-guide-mac.md" %}
+
+
+
