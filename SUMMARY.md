@@ -82,6 +82,7 @@
 ## D'CENT EXTERNAL SERVICES <a id="external-service"></a>
 
 * [Connect with Kaikas wallet extension](external-service/kaikas.md)
+* [Connect with Nifty Wallet extension](external-service/nifty.md)
 * [Klaystation Staking](external-service/klaystation.md)
 * [How to use PancakeSwap](external-service/pancakeswap.md)
 * [How to use Polygon Bridge](external-service/polygon-bridge.md)
