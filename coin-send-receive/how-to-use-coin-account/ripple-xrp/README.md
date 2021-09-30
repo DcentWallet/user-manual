@@ -2,9 +2,9 @@
 
 ## Ripple \(XRP\) account activation
 
-If you have added your Ripple \(XRP\) wallet address for the first time, it is disabled. [Ripple's policy](https://xrpl.org/reserves.html) **requires a purchase or transfer of Ripple of 20 XRP or higher** to convert the Ripple wallet address to an activated state. Therefore, the corresponding 20 XRP will permanently lock-up at the corresponding wallet address.  
+If you have added your Ripple \(XRP\) wallet address for the first time, it is disabled. [Ripple's policy](https://xrpl.org/reserves.html) **requires a purchase or transfer of Ripple of 10 XRP or higher** to convert the Ripple wallet address to an activated state. Therefore, the corresponding 10 XRP will permanently lock-up at the corresponding wallet address.  
   
-If a permanent lockup is made at the address of the Ripple wallet, it is assumed that only 980 XRP can be transferred, excluding the 20 XRP, which is the permanent lockup amount.  
+If a permanent lockup is made at the address of the Ripple wallet, it is assumed that only 990 XRP can be transferred, excluding the 10 XRP, which is the permanent lockup amount.  
 
 
 ## XRP Destination Tag

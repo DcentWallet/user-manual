@@ -83,13 +83,13 @@ However, for an Ethereum transaction, a pending transaction can be canceled by s
 
 ## Ripple \(XRP\) remittance is not working. What are the precautions when sending to an Exchange?
 
-* After the transfer, the remaining balance in your account must be at least 20 XRP.   
-* Balance before remittance-\(remittance amount + commission\)&gt; = 20 XRP.  
+* After the transfer, the remaining balance in your account must be at least 10 XRP.   
+* Balance before remittance-\(remittance amount + commission\)&gt; = 10 XRP.  
 * Many exchanges require a Destination Tag when depositing XRP as an exchange. When sending money to an exchange, please make sure that the Destination Tag is required before sending money. If you do not fill in the Tag, your money may get lost forever or it may take a very long time for the Exchange to recover your fund. 
 
-## Why is the remaining 20 XRP in my wallet not transferrable?
+## Why is the remaining 10 XRP in my wallet not transferrable?
 
-[Ripple's policy](https://xrpl.org/reserves.html) **requires a transfer of Ripple of 20 XRP or higher** to convert a newly created XRP wallet address to an **activated** state. The cost of address activation is 20 XRP and it will be locked-up to the XRP account, this means that the reserve amount of 20 XRP cannot be withdrawn. 
+[Ripple's policy](https://xrpl.org/reserves.html) **requires a transfer of Ripple of 10 XRP or higher** to convert a newly created XRP wallet address to an **activated** state. The cost of address activation is 10 XRP and it will be locked up to the XRP account, this means that the reserve amount of 10 XRP cannot be withdrawn. 
 
 ## Coin was sent to my wallet, but the balance is not showing. What should I do?
 
