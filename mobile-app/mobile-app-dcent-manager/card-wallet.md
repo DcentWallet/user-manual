@@ -8,15 +8,14 @@ Click the "Scan new card" menu and tag the another Card Wallet.
 
 ## Change Card PIN
 
-You can change the current PIN of your Card Wallet. Please proceed in the following order.   
-  
-1\) Enter your current card PIN number   
-  
-2\) Enter a new PIN number   
-  
-3\) Enter the new PIN number once more   
-  
+You can change the current PIN of your Card Wallet. Please proceed in the following order. \
+\
+1\) Enter your current card PIN number \
+\
+2\) Enter a new PIN number \
+\
+3\) Enter the new PIN number once more \
+\
 4\) Tag the Card Wallet on your mobile phone
 
-![](../../.gitbook/assets/image%20%2876%29.png)
-
+![](<../../.gitbook/assets/image (76).png>)

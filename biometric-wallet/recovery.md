@@ -1,14 +1,14 @@
 # Recovering your wallet
 
-## Before you begin <a id="before-start"></a>
+## Before you begin <a href="before-start" id="before-start"></a>
 
-When a new Biometric Wallet is purchased or the device you've been using is reset to factory, you can recover your existing wallet. 
+When a new Biometric Wallet is purchased or the device you've been using is reset to factory, you can recover your existing wallet.&#x20;
 
-Your existing wallet can be recovered by entering all 24 words written down on the Recovery Card which was generated when you first performed the Initial Setup. 
+Your existing wallet can be recovered by entering all 24 words written down on the Recovery Card which was generated when you first performed the Initial Setup.&#x20;
 
-### Recovering wallet after deleting data on D'CENT device 
+### Recovering wallet after deleting data on D'CENT device&#x20;
 
-To perform wallet recovery, you must first [reset the Biometric Wallet through "**Device Wipe**" menu](setting-menu.md#device-wipe). Once the device has been reset to the factory condition, follow the instructions from the section below to recover your wallet. 
+To perform wallet recovery, you must first [reset the Biometric Wallet through "**Device Wipe**" menu](setting-menu.md#device-wipe). Once the device has been reset to the factory condition, follow the instructions from the section below to recover your wallet.&#x20;
 
 {% hint style="warning" %}
 **"Device Wipe"** will delete all data inside your Biometric Wallet. Before you decide to wipe your device, make sure to check that you have your Recovery Card.
@@ -24,41 +24,41 @@ To power on the device, press and hold the power button for 3 seconds, which is 
 
 ### Select Language
 
-Use ∧\(Up**\)** or ∨\(Down**\)** button to select your language and press **OK** button.
+Use ∧(Up**)** or ∨(Down**)** button to select your language and press **OK** button.
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](<../.gitbook/assets/image (2).png>)
 
 ### Select "Recover Wallet"
 
 To recover wallet, select "Recover Wallet" from the menu.
 
-![](../.gitbook/assets/image%20%2859%29.png)
+![](<../.gitbook/assets/image (59).png>)
 
 ## Step-2 : Register PIN & Fingerprint
 
 To protect accessing your wallet, register a new PIN and your fingerprint.
 
-### Register a new PIN \(4 to 8 digits\)
+### Register a new PIN (4 to 8 digits)
 
-Use **∧**\(Up, increase number value\) or **∨**\(Down, decrease number value\) button to input your PIN. Pressing the OK button on the hardware wallet will confirm the input.
+Use **∧**(Up, increase number value) or **∨**(Down, decrease number value) button to input your PIN. Pressing the OK button on the hardware wallet will confirm the input.
 
-![](../.gitbook/assets/1%20%283%29.png)
+![](<../.gitbook/assets/1 (3).png>)
 
-When you have entered 4 digits, you will see '**OK'** text on the screen. If you wish to set your PIN to 4-digits long, then press the OK button on the hardware wallet. 
+When you have entered 4 digits, you will see '**OK'** text on the screen. If you wish to set your PIN to 4-digits long, then press the OK button on the hardware wallet.&#x20;
 
-If you wish to set the PIN to a longer digit, you can change the \('**OK**' text\) value on the screen by pressing the Up or Down button. **Your PIN can be set to 4, 5, 6, 7, or 8 digits long**.    
+If you wish to set the PIN to a longer digit, you can change the ('**OK**' text) value on the screen by pressing the Up or Down button. **Your PIN can be set to 4, 5, 6, 7, or 8 digits long**.   &#x20;
 
-![](../.gitbook/assets/2%20%284%29.png)
+![](<../.gitbook/assets/2 (4).png>)
 
-If you ever see a screen with a warning on '**Security level is low**', this means the PIN you have entered is a weak password. If you wish to use such a PIN, press the 'OK' button on the hardware wallet to continue. 
+If you ever see a screen with a warning on '**Security level is low**', this means the PIN you have entered is a weak password. If you wish to use such a PIN, press the 'OK' button on the hardware wallet to continue.&#x20;
 
-### Verify your PIN
+### Verify your &#xD;PIN
 
 Re-enter the same PIN you have set in the previous step to verify for correctness.
 
-![](../.gitbook/assets/3%20%283%29.png)
+![](<../.gitbook/assets/3 (3).png>)
 
- ※ If the PIN numbers do not match, you will have to restart the PIN registration.
+&#x20;※ If the PIN numbers do not match, you will have to restart the PIN registration.
 
 {% hint style="info" %}
 After setting up your cold wallet, you can change the PIN value from the [Setting](setting-menu.md) menu.
@@ -68,20 +68,20 @@ After setting up your cold wallet, you can change the PIN value from the [Settin
 
 1\) To register your fingerprint, touch your finger on the sensor to scan.
 
-![](../.gitbook/assets/image%20%2855%29.png)
+![](<../.gitbook/assets/image (55).png>)
 
-Fingerprint sensor is located in the middle of where the navigational buttons are located.   
+Fingerprint sensor is located in the middle of where the navigational buttons are located. \
 Check the location of [fingerprint sensor](setting-up.md#before-start).
 
-2\) Slightly change the angular positioning of the same finger when scanning and repeat until 100% \(8 correct scans\) is reached.
+2\) Slightly change the angular positioning of the same finger when scanning and repeat until 100% (8 correct scans) is reached.
 
-![](../.gitbook/assets/image%20%28111%29.png)
+![](<../.gitbook/assets/image (111).png>)
 
 ### Verify Fingerprint
 
 Scan your fingerprint one last time to verify registered fingerprint.
 
-![](../.gitbook/assets/image%20%28133%29.png)
+![](<../.gitbook/assets/image (133).png>)
 
 ※ If the fingerprint does not match, you will have to restart the Fingerprint registration..
 
@@ -91,35 +91,36 @@ Scan your fingerprint one last time to verify registered fingerprint.
 
 ※ If fingerprint verification fails, your fingerprint will not be saved.
 
-## Step-3 : enter the recovery words <a id="3"></a>
+## Step-3 : enter the recovery words <a href="3" id="3"></a>
 
 1\) Enter the 24 recovery words recorded on the recovery card, numbered 1 through 24.
 
-![](../.gitbook/assets/image%20%28181%29.png)
+![](<../.gitbook/assets/image (181).png>)
 
-2\) Press the Down \(∨\) button to review whether the 24 recovery words were entered correctly in order.
+2\) Press the Down (∨) button to review whether the 24 recovery words were entered correctly in order.
 
-![](../.gitbook/assets/image%20%28205%29.png)
+![](<../.gitbook/assets/image (205).png>)
 
 3\) If all words are entered correctly, select "I am ready" at the bottom of the review menu.
 
-![](../.gitbook/assets/image%20%28105%29.png)
+![](<../.gitbook/assets/image (105).png>)
 
 {% hint style="info" %}
-Do not take a photo or save the recovery word or recovery card as an image. The user is responsible for handling the recovery word safely. 
+Do not take a photo or save the recovery word or recovery card as an image. The user is responsible for handling the recovery word safely.&#x20;
 
-D'CENT is not responsible for any damage or loss of cryptocurrency assets caused by the user's negligence, such as theft of recovery cards or storage of image files. 
+D'CENT is not responsible for any damage or loss of cryptocurrency assets caused by the user's negligence, such as theft of recovery cards or storage of image files.&#x20;
 
-Special care is required for safe storage \(away from fire, water, sunlight or pets\).
+Special care is required for safe storage (away from fire, water, sunlight or pets).
 {% endhint %}
 
 ## Step-4 : Completing the Wallet Recovery
 
-![](../.gitbook/assets/image%20%28109%29.png)
+![](<../.gitbook/assets/image (109).png>)
 
 You have completed wallet recovery. From your cold wallet, you can check the lists of coin accounts available. You are now ready to use your new wallet together with the mobile application.
 
-* [How to connect with Android phone](android-connect/) 
+* [How to connect with Android phone](android-connect/)\
+
 * [How to connect with iOS phone](iphone-connect.md)
 
 {% hint style="info" %}
@@ -128,11 +129,12 @@ You can find the complete list of cryptocurrency assets supported on D'CENT Biom
 
 ### Important notes after recovering your wallet
 
-{% page-ref page="../troubleshooting/notes-on-wallet-recovery.md" %}
+{% content-ref url="../troubleshooting/notes-on-wallet-recovery.md" %}
+[notes-on-wallet-recovery.md](../troubleshooting/notes-on-wallet-recovery.md)
+{% endcontent-ref %}
 
 ### Check for the latest Firmware
 
 Once you have completed the Initial Setup, make sure to visit D'CENT Wallet homepage and check for the latest firmware available. Newer version of firmware may include additional support for cryptocurrency assets and new wallet features.
 
 More information on firmware update can be found from [here](firmware-update/).
-

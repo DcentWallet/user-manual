@@ -1,4 +1,4 @@
-# Using Binance exchange for transfers \(XRP example\)
+# Using Binance exchange for transfers (XRP example)
 
 ## Sending fund to your Binance wallet account
 
@@ -6,30 +6,30 @@
 
 ![](../.gitbook/assets/binance1.png)
 
-To send cryptocurrency to your Binance account, you need to know the address.   
+To send cryptocurrency to your Binance account, you need to know the address. \
 First, login to your Binance account and choose a wallet of your choice such as '**Spot Wallet**'.
 
 ![](../.gitbook/assets/binance2.png)
 
 1\) Select '**Deposit**'
 
-2\) Select your cryptocurrency type from the drop down list \(ie: **XRP**\).
+2\) Select your cryptocurrency type from the drop down list (ie: **XRP**).
 
-3\) Notice the 9-digit XRP Deposit Tag. **This Tag is absolutely required when sending fund to an exchange's wallet address**. 
+3\) Notice the 9-digit XRP Deposit Tag. **This Tag is absolutely required when sending fund to an exchange's wallet address**.&#x20;
 
 4\) Also notice the XRP account address. This is the recipient address where you send the XRP fund to.
 
 ### Preparing for a Send transaction from D'CENT Wallet
 
-Run the D'CENT mobile app on your phone and make sure your smartphone is connected together with the D'CENT Biometric Wallet. 
+Run the D'CENT mobile app on your phone and make sure your smartphone is connected together with the D'CENT Biometric Wallet.&#x20;
 
 ![](../.gitbook/assets/binance3.png)
 
-1\) From your cryptocurrency account\(ie: XRP\), press the '**Send**' button.  
-  
+1\) From your cryptocurrency account(ie: XRP), press the '**Send**' button.\
+\
 2\) Press the '**QR scan**' button to scan the QR code presented by Binance. This will automatically enter the recipient address.
 
-3\) You **MUST** enter the destination tag \(or deposit tag\) assigned to your XRP account by Binance exchange.
+3\) You **MUST** enter the destination tag (or deposit tag) assigned to your XRP account by Binance exchange.
 
 ![](../.gitbook/assets/binance4.png)
 
@@ -55,14 +55,14 @@ Run the D'CENT mobile app on your phone and make sure your smartphone is connect
 
 ### Check the receiving address on D'CENT wallet
 
-To send cryptocurrency to your D'CENT wallet account, you need to know the address.   
+To send cryptocurrency to your D'CENT wallet account, you need to know the address. \
 From the mobile, press the '**Receive**' button to see the account address.
 
 ![](../.gitbook/assets/binance7.png)
 
-There are 2 options to copy your account address\(in hex form\):  
-Option1\) **Copy** - this will copy the address for pasting it to a message or email.  
-Option2\) **Share** - this will copy the address and give you an option to share it through a SNS app of choice if installed on your phone.
+There are 2 options to copy your account address(in hex form):\
+Option1) **Copy** - this will copy the address for pasting it to a message or email.\
+Option2) **Share** - this will copy the address and give you an option to share it through a SNS app of choice if installed on your phone.
 
 ### Preparing for a Send transaction from your Binance account
 
@@ -74,7 +74,7 @@ Login to your Binance account, and click on '**Spot Wallet**'.
 
 1\) Select '**Withdraw**'
 
-2\) Select your cryptocurrency type from the drop down list \(ie: **XRP**\).
+2\) Select your cryptocurrency type from the drop down list (ie: **XRP**).
 
 3\) Paste D'CENT account address into the line '**Recipient's XRP Address**'.
 
@@ -93,4 +93,3 @@ If you have setup a second factor authentication, you will be asked to authentic
 8\) Check for status of your transaction from Binance. You can also check from D'CENT wallet.
 
 ![](../.gitbook/assets/binance11.png)
-

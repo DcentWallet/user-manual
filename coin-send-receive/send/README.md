@@ -2,11 +2,15 @@
 
 Methods of sending coin is different depending on the wallet mode you currently use. Please refer to the different wallet modes below.
 
-{% page-ref page="mode\_biometric.md" %}
+{% content-ref url="mode_biometric.md" %}
+[mode\_biometric.md](mode\_biometric.md)
+{% endcontent-ref %}
 
-{% page-ref page="mode\_cardtype.md" %}
+{% content-ref url="mode_cardtype.md" %}
+[mode\_cardtype.md](mode\_cardtype.md)
+{% endcontent-ref %}
 
-{% page-ref page="mode\_appwallet.md" %}
-
-
+{% content-ref url="mode_appwallet.md" %}
+[mode\_appwallet.md](mode\_appwallet.md)
+{% endcontent-ref %}
 

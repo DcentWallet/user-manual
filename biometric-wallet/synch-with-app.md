@@ -1,12 +1,16 @@
 # Synchronizing the Biometric Wallet with the Mobile App
 
-When the Biometric Wallet and the Mobile App are connected, synchronization will start automatically. 
+When the Biometric Wallet and the Mobile App are connected, synchronization will start automatically.&#x20;
 
 Please refer to the following sections on how to connect the Biometric Wallet with the Mobile App.
 
-{% page-ref page="android-connect/" %}
+{% content-ref url="android-connect/" %}
+[android-connect](android-connect/)
+{% endcontent-ref %}
 
-{% page-ref page="iphone-connect.md" %}
+{% content-ref url="iphone-connect.md" %}
+[iphone-connect.md](iphone-connect.md)
+{% endcontent-ref %}
 
 ## Synchronization process
 
@@ -18,11 +22,10 @@ Check whether there is a history of ever been synchronized with the Biometric Wa
 
 ### Synchronize account information
 
-1\) Search the account information of the Biometric Wallet and compare it with the account information registered in the mobile app.   
-  
-2\) Create an account that is not registered in the mobile app among the account information available from the Biometric Wallet.   
-  
-If you have account information in the Biometric Wallet, the existing accounts will be retrieved even if you delete the mobile app and reinstall it.   
-  
+1\) Search the account information of the Biometric Wallet and compare it with the account information registered in the mobile app. \
+\
+2\) Create an account that is not registered in the mobile app among the account information available from the Biometric Wallet. \
+\
+If you have account information in the Biometric Wallet, the existing accounts will be retrieved even if you delete the mobile app and reinstall it. \
+\
 3\) If the balance has been updated, it will update the account information on the mobile app and the balance information on the Biometric Wallet.
-

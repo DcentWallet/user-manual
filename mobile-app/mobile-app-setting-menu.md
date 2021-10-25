@@ -6,7 +6,7 @@ description: D'CENT Mobile App Setting
 
 You can change various settings of the mobile app from the "Setting" menu.
 
-![](../.gitbook/assets/image%20%2842%29.png)
+![](<../.gitbook/assets/image (42).png>)
 
 ## Local Currency
 
@@ -24,10 +24,8 @@ You can change various settings of the mobile app from the "Setting" menu.
 
 ## Set additional authentication methods for mobile app
 
-In addition to the 6-digit password, you can also select another method of authenticating to the mobile app.   
-  
-For Android phones, fingerprint authentication can be set as a method of authentication.   
-  
-For iPhones, FaceID can be set as a method of authentication.  
-
-
+In addition to the 6-digit password, you can also select another method of authenticating to the mobile app. \
+\
+For Android phones, fingerprint authentication can be set as a method of authentication. \
+\
+For iPhones, FaceID can be set as a method of authentication.\
