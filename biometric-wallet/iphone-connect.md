@@ -10,7 +10,7 @@
 
 앱 스토어에서 "디센트" 또는 "D'CENT"를 검색하세요.
 
-![](../.gitbook/assets/image%20%28190%29.png)
+![](<../.gitbook/assets/image (190).png>)
 
 ## 모바일 앱 기본 설정
 
@@ -18,21 +18,21 @@
 
 모바일 앱을 처음 설치하셨다면 지갑 모드를 선택해야 합니다. "Biometric Wallet"을 선택해 주세요.
 
-![](../.gitbook/assets/image%20%2878%29.png)
+![](<../.gitbook/assets/image (78).png>)
 
 ### 앱 비밀번호 입력
 
 앱을 보호하기 위해 앱 비밀번호를 등록해주세요. 6자리 숫자를 두 번 입력하시면 됩니다. 앱 비밀번호는 디센트 모바일 앱을 실행할 때마다 필요합니다. 꼭 기억해두세요.
 
 {% hint style="info" %}
-앱 비밀번호는 [앱 설정 메뉴](../mobile-app/mobile-app-setting-menu.md)를 통해 나중에 변경하실 수 있습니다. 앱 비밀번호 이외에도 TouchID나 __FaceID를 통해 앱을 보호할 수 있습니다. 자세한 내용은 [앱 설정 메뉴 항목](../mobile-app/mobile-app-setting-menu.md)을 참고하세요.
+앱 비밀번호는 [앱 설정 메뉴](../mobile-app/mobile-app-setting-menu.md)를 통해 나중에 변경하실 수 있습니다. 앱 비밀번호 이외에도 TouchID나_ _FaceID를 통해 앱을 보호할 수 있습니다. 자세한 내용은 [앱 설정 메뉴 항목](../mobile-app/mobile-app-setting-menu.md)을 참고하세요.
 {% endhint %}
 
 ### 블루투스 설정
 
 아이폰의 설정 메뉴에서 블루투스를 켜주세요.
 
-![](../.gitbook/assets/image%20%28124%29.png)
+![](<../.gitbook/assets/image (124).png>)
 
 ## 콜드월렛과 블루투스로 연결
 
@@ -42,19 +42,18 @@
 
 ### 아이폰에서 연결
 
-1\) 디센트 앱 기본탭\(Account\)의 오른쪽 위에 블루투스 연결 아이콘을 확인하세요. 아래와 같이 빨간색 아이콘이면 연결이 안되어 있다는 의미이니 아이콘을 클릭하세요
+1\) 디센트 앱 기본탭(Account)의 오른쪽 위에 블루투스 연결 아이콘을 확인하세요. 아래와 같이 빨간색 아이콘이면 연결이 안되어 있다는 의미이니 아이콘을 클릭하세요
 
-![](../.gitbook/assets/image%20%2875%29.png)
+![](<../.gitbook/assets/image (75).png>)
 
 2\) 아이콘을 클릭하여 연결 가능한 디센트 디바이스를 선택하세요
 
-![](../.gitbook/assets/image%20%28167%29.png)
+![](<../.gitbook/assets/image (167).png>)
 
 3\) 디센트 디바이스 선택 후 지갑 동기화가 자동으로 일어 납니다.
 
-![](../.gitbook/assets/image%20%28119%29.png)
+![](<../.gitbook/assets/image (119).png>)
 
 동기화가 완료되면 모바일 앱의 오른쪽 상단에 연결 표시가 나타나고, 콜드월렛의 오른쪽 상단에 푸른색의 블루투스 연결 상태등이 켜집니다.
 
 이제 가지고 계신 코인 계정을 추가하여 디센트 월렛을 사용할 수 있습니다. 코인 계정 추가에 대한 자세한 안내는 [여기](../mobile-app/create-account/)를 참고하세요.
-
