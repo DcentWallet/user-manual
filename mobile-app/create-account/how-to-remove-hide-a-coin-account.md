@@ -13,3 +13,7 @@ Accounts that have been created can be removed (hidden) from the Account Tab by 
 {% hint style="info" %}
 To remove a native asset account such as Ethereum, all the token accounts that are linked to this native asset account must be removed first.
 {% endhint %}
+
+{% hint style="info" %}
+To bring back the same account that was removed, **simply re-add the account** by pressing the (+) button from the Account Tab.
+{% endhint %}
