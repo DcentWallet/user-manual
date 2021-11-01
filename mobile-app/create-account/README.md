@@ -68,3 +68,7 @@ Now you can try SEND or RECEIVE from your account.
 ## When an account is created in the Biometric Wallet mode
 
 When an account is created in the Biometric Wallet mode, the created account information is also updated in the Biometric Wallet. For more information, refer to [Synchronizing the Biometric Wallet with the Mobile App](../../biometric-wallet/synch-with-app.md).
+
+### Maximum number of account can be created
+
+You can create 70 accounts with Biometric wallet.
