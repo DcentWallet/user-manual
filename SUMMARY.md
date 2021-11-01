@@ -75,6 +75,7 @@
 * [DApp browser (Discovery)](native-service/dapp-browser/README.md)
   * [Switch Blockchain Network](native-service/dapp-browser/switch-blockchain-network.md)
   * [Using Wallet Connect](native-service/dapp-browser/using-wallet-connect.md)
+* [FTSO Portal - vote delegation](native-service/ftso-portal-vote-delegation.md)
 
 ## Troubleshooting
 
