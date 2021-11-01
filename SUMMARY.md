@@ -76,6 +76,10 @@
   * [블록체인 네트워크 선택](native-service/discovery/switch-network.md)
   * [Wallet Connect 사용법](native-service/discovery/wallet-connect.md)
 
+***
+
+* [FTSO 포털 - 투표권 위임](ftso.md)
+
 ## 트러블 슈팅 <a href="troubleshooting" id="troubleshooting"></a>
 
 * [지갑 복구 주의 사항 - 레거시 계정 주소](troubleshooting/notes-on-wallet-recovery.md)
