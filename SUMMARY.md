@@ -69,6 +69,7 @@
   * [스텔라루멘 (XLM) 지갑 계정 사용법](coin-send-receive/coins/xlm.md)
 * [코인베이스 거래소 사용법 (비트코인 예시)](coin-send-receive/coinbase.md)
 * [바이낸스 거래소 사용법 (리플 예시)](coin-send-receive/binance.md)
+* [NFT 토큰 받기 및 보내기](coin-send-receive/nft.md)
 
 ## 디센트 내부 서비스 <a href="native-service" id="native-service"></a>
 
