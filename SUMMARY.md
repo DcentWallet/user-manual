@@ -56,6 +56,7 @@
   * [Card type Wallet mode](coin-send-receive/send/mode\_cardtype.md)
   * [Software Wallet mode](coin-send-receive/send/mode\_appwallet.md)
 * [Checking transaction status and history](coin-send-receive/checking-transaction-status-and-history.md)
+* [How to receive or send an NFT token](coin-send-receive/how-to-receive-or-send-an-nft-token.md)
 * [How to use coin account](coin-send-receive/how-to-use-coin-account/README.md)
   * [How to view all the BTC public addresses](coin-send-receive/how-to-use-coin-account/how-to-view-all-the-btc-public-addresses.md)
   * [How to use Ethereum account](coin-send-receive/how-to-use-coin-account/how-to-use-ethereum-account.md)
