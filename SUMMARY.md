@@ -56,6 +56,7 @@
   * [카드 타입 콜드월렛 사용](coin-send-receive/send/mode\_cardtype.md)
   * [앱 월렛 사용](coin-send-receive/send/mode\_appwallet.md)
 * [거래 내역 확인하기](coin-send-receive/checking-transaction-status-and-history.md)
+* [NFT 토큰 받기 및 보내기](coin-send-receive/nft.md)
 * [코인별 사용법](coin-send-receive/coins/README.md)
   * [비트코인 지갑 계정 - 모든 공개 주소 확인하기](coin-send-receive/coins/how-to-view-all-the-btc-public-addresses.md)
   * [이더리움 지갑 계정 사용법](coin-send-receive/coins/ethereum.md)
@@ -69,7 +70,6 @@
   * [스텔라루멘 (XLM) 지갑 계정 사용법](coin-send-receive/coins/xlm.md)
 * [코인베이스 거래소 사용법 (비트코인 예시)](coin-send-receive/coinbase.md)
 * [바이낸스 거래소 사용법 (리플 예시)](coin-send-receive/binance.md)
-* [NFT 토큰 받기 및 보내기](coin-send-receive/nft.md)
 
 ## 디센트 내부 서비스 <a href="native-service" id="native-service"></a>
 
