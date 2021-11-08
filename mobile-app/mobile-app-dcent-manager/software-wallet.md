@@ -20,7 +20,7 @@ If you delete the D'CENT mobile app or lose your mobile phone without backing up
 
 4\) Press '**I understand**' to finish.
 
-## App Wallet Recovery
+## App Wallet Recovery <a href="recover_appwallet" id="recover_appwallet"></a>
 
 You can recover your wallet by using the mnemonic code (24 recovery words).
 
