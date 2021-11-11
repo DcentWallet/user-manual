@@ -22,6 +22,7 @@
 * [콜드월렛 복구하기](biometric-wallet/recovery.md)
 * [콜드월렛의 계정 정보 확인하기](biometric-wallet/account-info.md)
 * [콜드월렛 설정 메뉴](biometric-wallet/setting-menu.md)
+* [콜드월렛 복구 단어 확인하기](biometric-wallet/undefined.md)
 
 ## 카드타입 콜드월렛 <a href="card-wallet" id="card-wallet"></a>
 
