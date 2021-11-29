@@ -62,6 +62,7 @@
   * [How to use Ethereum account](coin-send-receive/how-to-use-coin-account/how-to-use-ethereum-account.md)
   * [How to use XRP account](coin-send-receive/how-to-use-coin-account/ripple-xrp/README.md)
     * [Sending XRP using D'CENT Wallet](coin-send-receive/how-to-use-coin-account/ripple-xrp/xrp\_send.md)
+    * [Using Trust Line for XRPL](coin-send-receive/how-to-use-coin-account/ripple-xrp/using-trust-line-for-xrpl.md)
   * [How to use KLAY account](coin-send-receive/how-to-use-coin-account/klaytn-klay.md)
   * [How to use RSK account](coin-send-receive/how-to-use-coin-account/how-to-use-rsk-account.md)
   * [How to use Binance account](coin-send-receive/how-to-use-coin-account/how-to-use-binance-account.md)
