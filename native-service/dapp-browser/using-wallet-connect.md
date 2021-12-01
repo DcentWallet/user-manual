@@ -50,7 +50,7 @@ In this example, we will access a DApp called **PoolTogether**. You will need yo
 
 **Step 2)** Click on **Connect Wallet** button.
 
-**Step 3)** Set **Mobile **as default and click on **Connect**.
+**Step 3)** Set **Mobile** as default and click on **Connect**.
 
 ![](../../.gitbook/assets/9.png)
 
@@ -72,7 +72,7 @@ NOTE : Make sure to click on **disconnect** after when you finish using the DApp
 
 ## Using DApps via D’CENT DApp browser (Discovery)
 
-D’CENT Wallet has a built-in DApp browser, which supports connecting to DApps much easier by using **Web3 wallet (ie: D’CENT). **Advantage in using the built-in browser is that you only need to use a single application (D’CENT Wallet) to access a DApp service.
+D’CENT Wallet has a built-in DApp browser, which supports connecting to DApps much easier by using **Web3 wallet (ie: D’CENT).** Advantage in using the built-in browser is that you only need to use a single application (D’CENT Wallet) to access a DApp service.
 
 If the DApp service does not support the Web3 interface, you can select WalletConnect to establish connection to the DApp. Instructions are similar to the previous methods described in the sections above.\
 

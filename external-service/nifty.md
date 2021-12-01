@@ -8,7 +8,7 @@ Nifty Wallet users will be able to enjoy an additional layer of security when ac
 
 ![](../.gitbook/assets/nifty01.png)
 
-### How to connect D’CENT Biometric Wallet with Nifty Wallet: <a href="b3fa" id="b3fa"></a>
+### How to connect D’CENT Biometric Wallet with Nifty Wallet: <a href="#b3fa" id="b3fa"></a>
 
 **Step 1)** Install the Nifty Wallet extension and complete the basic setup.\
 👉 [Nifty Wallet (Chrome extension)](https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid)
@@ -26,7 +26,7 @@ Nifty Wallet and MetaMask do not function properly when both are activated at th
 
 ![](https://miro.medium.com/max/700/1\*xJjQuZwJ-u8LxuFKs4cvSw.png)
 
-**Step 4) **From the Nifty Wallet, click on the **Account** icon. Click on **Connect hardware wallet** and select **D’CENT** from the option.
+**Step 4)** From the Nifty Wallet, click on the **Account** icon. Click on **Connect hardware wallet** and select **D’CENT** from the option.
 
 ![](https://miro.medium.com/max/700/1\*9dAi-uQ72c0XNxRUtRGw6g.png)
 
@@ -34,10 +34,10 @@ Nifty Wallet and MetaMask do not function properly when both are activated at th
 
 ![](https://miro.medium.com/max/700/1\*wP-F\_fgqUI8ytyLbckhb7w.png)
 
-**Step 6) **Back at the Nifty Wallet, click on the **Account** icon. Click on ‘**Connect hardware wallet**’ to see the list of accounts that can be viewed in the Nifty Wallet. (Example: RBTC account in D’CENT Biometric Wallet)
+**Step 6)** Back at the Nifty Wallet, click on the **Account** icon. Click on ‘**Connect hardware wallet**’ to see the list of accounts that can be viewed in the Nifty Wallet. (Example: RBTC account in D’CENT Biometric Wallet)
 
 ![](https://miro.medium.com/max/700/1\*2S3toWL57EeaTSN\_kMgyNw.png)
 
-**Step 7) **Unlock the selected account to view in Nifty Wallet.
+**Step 7)** Unlock the selected account to view in Nifty Wallet.
 
 ![](https://miro.medium.com/max/700/1\*tXd\_kKpuOBtaHhjoC9zaTw.png)

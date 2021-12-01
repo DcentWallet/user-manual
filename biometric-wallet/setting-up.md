@@ -4,7 +4,7 @@ description: Creating new wallet on the Biometric Wallet
 
 # Initial Setup
 
-## Before you begin <a href="before-start" id="before-start"></a>
+## Before you begin <a href="#before-start" id="before-start"></a>
 
 {% embed url="https://www.youtube.com/watch?v=-j2pI_IA3Z4&feature=youtu.be" %}
 
@@ -115,7 +115,7 @@ Recovery seeds are the codes that you use to recover your wallet.
 
 If your D'CENT Cold Wallet is ever lost, stolen, damage, or wiped and you no longer have any access to your wallet, **using recovery seeds is the only method of recovering your existing wallet**.
 
-> **You MUST write down all the recovery seeds on the Recovery Card and keep it secured in a safe place.> **
+> **You MUST write down all the recovery seeds on the Recovery Card and keep it secured in a safe place.**>
 
 Recovery seeds required for recovering your existing wallet is shown only once during initial setup. If you lose your recovery card, there is nothing we can do to help you recover your funds. You are solely responsible to secure your recovery card in all events.
 

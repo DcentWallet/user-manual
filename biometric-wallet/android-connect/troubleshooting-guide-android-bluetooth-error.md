@@ -17,7 +17,7 @@ Android's Bluetooth Application has a known bug where the Bluetooth connection f
 Each phone model and the Android OS version variants will have a different method of accessing the Bluetooth Application. For detailed instructions on how to access the Bluetooth Application, please refer to the USER MANUAL provided by your phone manufacturer.&#x20;
 
 {% hint style="success" %}
-Below is an example of how the Bluetooth application can be accessed from an Android phone.
+Below is an example of how the Bluetooth application can be accessed from an **older version of** **Android** phone.
 {% endhint %}
 
 ![](<../../.gitbook/assets/3 (9).png>)
@@ -34,4 +34,26 @@ Below is an example of how the Bluetooth application can be accessed from an And
 
 5\) Click on **Bluetooth Application**\
 ****6) Click on **Storage**\
-****7) Click on **Clear data**
+****7) Click on **Clear data and cache**
+
+****
+
+{% hint style="success" %}
+Below is an example of how the Bluetooth application can be accessed from a **newer version of** **Android** phone.
+{% endhint %}
+
+![](../../.gitbook/assets/그림1.png)
+
+1\. Go to Settings and Click on **Apps** &#x20;
+
+2\. Click on **Filtering**
+
+3\. Enable on **Show system apps**
+
+![](<../../.gitbook/assets/그림2 (1).png>)
+
+4\. Click on **Bluetooth Application**
+
+5\. Click on **Storage**
+
+6\. Click on **Clear data and cache**

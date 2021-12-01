@@ -22,7 +22,7 @@ Unlisted DApp services can be accessed by entering the **URL or through Google s
 
 ### Using the Bookmark function
 
-Users can save the visiting service site as a favorite (or bookmark), which creates a **shortcut **for faster access the next time.
+Users can save the visiting service site as a favorite (or bookmark), which creates a **shortcut** for faster access the next time.
 
 ![](../../.gitbook/assets/그림3.png)
 

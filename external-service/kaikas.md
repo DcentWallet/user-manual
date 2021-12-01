@@ -31,7 +31,7 @@ Kaikas is a PC browser based extension wallet for the Klaytn platform. Users wil
 
 ![](../.gitbook/assets/kaikas-2.png)
 
-**Step 6) **From your browser, click on the **Kaikas extension** icon again to open the wallet service. You will notice that the** **Kaikas wallet now displays the** Klaytn account from the D’CENT Biometric Wallet.**
+**Step 6)** From your browser, click on the **Kaikas extension** icon again to open the wallet service. You will notice that the **** Kaikas wallet now displays the **Klaytn account from the D’CENT Biometric Wallet.**
 
 ![](../.gitbook/assets/kaikas-3.png)
 

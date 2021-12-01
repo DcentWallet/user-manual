@@ -10,7 +10,7 @@ This guidance is only for old version of Mobile App. If you use the latest versi
 
 ## What is a D'CENT Backup card?
 
-D'CENT Backup Card is a hardware wallet with** no data **inside the security chip, which can be used to make a backup copy of your original card type wallet through secure encryption technology. This means that the data from your original card wallet is encrypted with the user's password and can be transferred to the Backup Card to create an exact same copy of your existing wallet.
+D'CENT Backup Card is a hardware wallet with **no data** inside the security chip, which can be used to make a backup copy of your original card type wallet through secure encryption technology. This means that the data from your original card wallet is encrypted with the user's password and can be transferred to the Backup Card to create an exact same copy of your existing wallet.
 
 ![](../.gitbook/assets/backupcard01\_en.png)
 
@@ -43,7 +43,7 @@ Step 4) Choose **CHANGE CARD PIN**.
 
 Step 5) On your Backup Card, **scratch off the ribbon masking** to reveal the factory PIN.&#x20;
 
-Step 6) Enter the **6 digit factory PIN **on your mobile app. &#x20;
+Step 6) Enter the **6 digit factory PIN** on your mobile app. &#x20;
 
 
 
@@ -83,7 +83,7 @@ Step 14) Press **NEXT** button.
 
 Step 15) Enter the **6 digit PIN** number of your **Backup Card**.
 
-Step 16) Enter the same **password **that was entered to encrypt the card data from **Step 12**.
+Step 16) Enter the same **password** that was entered to encrypt the card data from **Step 12**.
 
 Step 17) **Tag your Backup Card** against the back of your mobile phone.
 

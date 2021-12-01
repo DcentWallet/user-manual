@@ -47,7 +47,7 @@ Follow the steps carefully as described in the instructions.
 
 **Step 2)** Select '**Recover backup image**'.
 
-**Step 3) **Press '**Start**' to begin.
+**Step 3)** Press '**Start**' to begin.
 
 ![](../../.gitbook/assets/18.png)
 
@@ -63,11 +63,11 @@ Follow the steps carefully as described in the instructions.
 
 **Step 8)** Enter the password you have set to the backup image. Press '**Next**' to continue.
 
-**Step 9) **Enter the PIN of your Backup Card wallet.
+**Step 9)** Enter the PIN of your Backup Card wallet.
 
 ![](../../.gitbook/assets/20.png)
 
-**Step 10) **Tag your **Backup Card**.
+**Step 10)** Tag your **Backup Card**.
 
 **Step 11)** Press '**Finish**' to complete the process.
 

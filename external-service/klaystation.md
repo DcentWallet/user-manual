@@ -13,7 +13,7 @@ From the Klaystation, users can stake KLAY using Kaikas wallet and D'CENT Biomet
 
 **Step 1)** First, connect Kaikas wallet and D'CENT Biometric wallet. Click [here](https://userguide.dcentwallet.com/external-service/kaikas) for instructions on how to connect the two wallets.
 
-**Step 2) **Go to the Klaystation platform website.\
+**Step 2)** Go to the Klaystation platform website.\
 [Klaystation Platform](https://klaystation.io/dashboard)
 
 **Step 3)** From the dashboard, click on **Connect Kaikas** button.
@@ -28,11 +28,11 @@ From the Klaystation, users can stake KLAY using Kaikas wallet and D'CENT Biomet
 
 ![](../.gitbook/assets/klaystation-6\_en.png)
 
-**Step 6)** From the Kaikas wallet, press the **Confirm **button to proceed with the staking transaction.
+**Step 6)** From the Kaikas wallet, press the **Confirm** button to proceed with the staking transaction.
 
 ![](../.gitbook/assets/klaystation-8\_en.png)
 
-**Step 7) **The final confirmation of the staking transaction must be authorized from the D'CENT Biometric wallet. From the hardware wallet, press the **Confirm** button and **authenticate yourself** using fingerprint or PIN to finalize the transaction. ** **
+**Step 7)** The final confirmation of the staking transaction must be authorized from the D'CENT Biometric wallet. From the hardware wallet, press the **Confirm** button and **authenticate yourself** using fingerprint or PIN to finalize the transaction. ****&#x20;
 
 ![](../.gitbook/assets/klaystation-9.png)
 
@@ -44,4 +44,4 @@ From the Klaystation, users can stake KLAY using Kaikas wallet and D'CENT Biomet
 To unstake your KLAY from the Klaystation, press the **UNSTAKE NOW** button on the dashboard.
 {% endhint %}
 
-**For detailed information about Klaystation and its operations, please visit **[**here**](https://klaystation.io)**.**
+**For detailed information about Klaystation and its operations, please visit** [**here**](https://klaystation.io)**.**

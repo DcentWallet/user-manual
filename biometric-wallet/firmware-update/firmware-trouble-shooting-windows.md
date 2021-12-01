@@ -42,13 +42,13 @@ Press **Windows+R** on your keyboard.
 
 Type in "**cmd**" and press **Enter** to run the Command Prompt (a black window).
 
-Type in "**devmgmt.msc" **and press** Enter**.
+Type in "**devmgmt.msc"** and press **Enter**.
 
 ### What should I do from the Device Manager?
 
 From the Device Manager screen, look for **Human Interface Devices**.
 
-Check if there is a **USB Input Device** marked as **error **(yellow triangle with exclamation mark). You will need to check if this is indeed a D'CENT device.
+Check if there is a **USB Input Device** marked as **error** (yellow triangle with exclamation mark). You will need to check if this is indeed a D'CENT device.
 
 ![](<../../.gitbook/assets/image (143).png>)
 
@@ -64,4 +64,4 @@ From the **Device Manager**, Right Mouse Click on the error marked device and se
 
 ![](../../.gitbook/assets/troubleshooot\_remove-error-device.png)
 
-On the top menu of Device Manager, press **Action **then select **Scan for hardware changes**. This will scan for any new devices attached and will automatically install the driver to detect your Biometric Wallet.
+On the top menu of Device Manager, press **Action** then select **Scan for hardware changes**. This will scan for any new devices attached and will automatically install the driver to detect your Biometric Wallet.

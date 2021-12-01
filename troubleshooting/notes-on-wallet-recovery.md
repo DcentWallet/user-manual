@@ -16,7 +16,7 @@ A legacy account will be marked with a label icon "**Legacy**" on the account. B
 
 ![](../.gitbook/assets/old-accounts.png)
 
-If you have previously created **Klaytn, ETC, or RSK **in your D'CENT Wallet before this update (firmware(**v2.9.2**) or App Wallet(**v5.3.1**)), and if you have just recovered your wallet, you will have to **add the Legacy account** in the D'CENT App to see your account balance again.
+If you have previously created **Klaytn, ETC, or RSK** in your D'CENT Wallet before this update (firmware(**v2.9.2**) or App Wallet(**v5.3.1**)), and if you have just recovered your wallet, you will have to **add the Legacy account** in the D'CENT App to see your account balance again.
 
 {% hint style="info" %}
 If you have mistakenly added a standard account instead of the legacy account, you can just '**Hide**' the standard account to remove it from the D'CENT App. This is important because if you are using the Discovery Tab(Dapp browser), the first account that is created in the D'CENT wallet is the one that connects to a visiting dapp service.

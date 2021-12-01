@@ -76,7 +76,7 @@ After finishing the download, click to install the bridge program.
 
 ![](../../.gitbook/assets/mac02.png)
 
-Go to **Finder** and look under **Applications** to find **D'CENT Bridge Program**. Click **Open **to open the application.
+Go to **Finder** and look under **Applications** to find **D'CENT Bridge Program**. Click **Open** to open the application.
 
 ![](../../.gitbook/assets/mac03.png)
 
