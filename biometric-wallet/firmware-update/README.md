@@ -36,7 +36,7 @@
 
 ### 펌웨어 업데이트를 위한 요구사항
 
-✅ 펌웨어 업데이트는 **64bit OS (Windows or Mac)**를 구동하는 컴퓨터에서만 가능합니다** .**
+✅ 펌웨어 업데이트는 **64bit OS (Windows or Mac)**를 구동하는 컴퓨터에서만 가능합니다 **.**
 
 ✅ 반드시 구글 **크롬 브라우저** 사용.
 
@@ -78,11 +78,11 @@
 
 ![](../../.gitbook/assets/mac02.png)
 
-**Finder**에서 **Applications **메뉴로 이동하여**D'CENT Bridge Program**을** **확인합니다. 해당 프로그램을 클릭하고 **Open **을 클릭합니다.
+**Finder**에서 **Applications** 메뉴로 이동하여**D'CENT Bridge Program**을 **** 확인합니다. 해당 프로그램을 클릭하고 **Open** 을 클릭합니다.
 
 ![](../../.gitbook/assets/mac03.png)
 
-**Taskbar **영역을 확인하면** 디센트 브릿지 아이콘**이 표시됩니다. 최신 버전이 작동중인지 확인하시기 바랍니다.
+**Taskbar** 영역을 확인하면 **디센트 브릿지 아이콘**이 표시됩니다. 최신 버전이 작동중인지 확인하시기 바랍니다.
 
 ![](../../.gitbook/assets/mac04.png)
 

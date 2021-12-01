@@ -26,7 +26,7 @@
 
 ![](https://miro.medium.com/max/700/1\*xJjQuZwJ-u8LxuFKs4cvSw.png)
 
-**Step 4) **니프티 지갑에서 **Account** 아이콘을 클릭합니다. **Connect hardware wallet**을 클릭 후 **D’CENT** 를 선택하여 연결합니다.
+**Step 4)** 니프티 지갑에서 **Account** 아이콘을 클릭합니다. **Connect hardware wallet**을 클릭 후 **D’CENT** 를 선택하여 연결합니다.
 
 ![](https://miro.medium.com/max/700/1\*9dAi-uQ72c0XNxRUtRGw6g.png)
 
@@ -34,10 +34,10 @@
 
 ![](https://miro.medium.com/max/700/1\*wP-F\_fgqUI8ytyLbckhb7w.png)
 
-**Step 6) **니프티 지갑에서 **Account** 아이콘을 클릭합니다. ‘**Connect hardware wallet**’을 클릭하면 니프티 지갑에서 확인 가능한 지갑 계정의 리스트가 표시됩니다. (예: 디센트 지갑에서 존재하는 RBTC 계정)
+**Step 6)** 니프티 지갑에서 **Account** 아이콘을 클릭합니다. ‘**Connect hardware wallet**’을 클릭하면 니프티 지갑에서 확인 가능한 지갑 계정의 리스트가 표시됩니다. (예: 디센트 지갑에서 존재하는 RBTC 계정)
 
 ![](https://miro.medium.com/max/700/1\*2S3toWL57EeaTSN\_kMgyNw.png)
 
-**Step 7) **선택한 계정을 Unlock하면 니프티 지갑에서 지갑 계정을 불러옵니다.
+**Step 7)** 선택한 계정을 Unlock하면 니프티 지갑에서 지갑 계정을 불러옵니다.
 
 ![](https://miro.medium.com/max/700/1\*tXd\_kKpuOBtaHhjoC9zaTw.png)

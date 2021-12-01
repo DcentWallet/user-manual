@@ -30,5 +30,5 @@
 디센트 월렛과 같이 사용자가 직접 생성한 리플 지갑의 경우에는 리플 계정 주소만 존재하며 Destination Tag가 없습니다.&#x20;
 
 {% hint style="info" %}
-**디센트 월렛과 같이 개인이 직접 생성한 리플 지갑 주소는 Destination Tag가 없습니다. **
+**디센트 월렛과 같이 개인이 직접 생성한 리플 지갑 주소는 Destination Tag가 없습니다.**&#x20;
 {% endhint %}

@@ -6,7 +6,7 @@ description: 콜드월렛에 새로운 지갑 생성하기
 
 {% embed url="https://www.youtube.com/watch?v=rul6kKoX_Lc&feature=youtu.be" %}
 
-## 시작하기 전에 <a href="before-start" id="before-start"></a>
+## 시작하기 전에 <a href="#before-start" id="before-start"></a>
 
 ![디센트 지문인증형 콜드월렛 사용자 인터페이스](../.gitbook/assets/img-howtouse-dongle-ko.png)
 
@@ -33,7 +33,7 @@ description: 콜드월렛에 새로운 지갑 생성하기
 지원 언어 : 영어, 한국어, 중국어, 일본어, 스페인어
 
 {% hint style="info" %}
-초기화가 끝난 후에도_ _콜드월렛의 [설정 메뉴](setting-menu.md)를 통해 언어를 변경할 수 있습니다.
+초기화가 끝난 후에도 __ 콜드월렛의 [설정 메뉴](setting-menu.md)를 통해 언어를 변경할 수 있습니다.
 {% endhint %}
 
 ### "지갑 생성" 선택
@@ -63,7 +63,7 @@ description: 콜드월렛에 새로운 지갑 생성하기
 
 ![](<../.gitbook/assets/2 (4).png>)
 
-PIN을 입력 후 '보안이 낮다는' 메세지가 표시될 수 있습니다. 이는 입력된 PIN의 보안 강도가 낮은 경우 표시되며 이와 상관없이 입력한 PIN을 사용하길 희망하는 경우 하드웨어 지갑의 OK버튼을 눌러주세요.** **
+PIN을 입력 후 '보안이 낮다는' 메세지가 표시될 수 있습니다. 이는 입력된 PIN의 보안 강도가 낮은 경우 표시되며 이와 상관없이 입력한 PIN을 사용하길 희망하는 경우 하드웨어 지갑의 OK버튼을 눌러주세요. ****&#x20;
 
 ### 설정한 &#xD;PIN 확인
 
@@ -109,7 +109,7 @@ PIN 값은 초기화가 끝난 이후에 [설정 메뉴](setting-menu.md)를 통
 
 디센트 콜드월렛을 손실, 분실한 경우 지갑을 기존 상태로 복구할 수 있는 유일한 방법입니다.
 
-> **복구 카드(Recovery Card)에 꼭 해당 단어들을 적어 두신 후 안전하게 보관하시기 바랍니다.> **
+> **복구 카드(Recovery Card)에 꼭 해당 단어들을 적어 두신 후 안전하게 보관하시기 바랍니다.**>
 
 {% hint style="danger" %}
 지갑 복구를 위한 복구 단어는 최초 생성 이후 절대 확인할 수 없습니다. 복구 카드 분실시 본사에서 지원해 드릴 수 없으며, 분실 등에 따른 책임은 사용자에게 있습니다.

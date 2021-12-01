@@ -48,7 +48,7 @@ WalletConnect는 QR 코드를 스캔을 사용하여 브라우저의 DApp을 모
 
 **Step 2)** **Connect Wallet** 버튼을 클릭합니다.
 
-**Step 3)** **Mobile**이 선택된 상태로 **Connect **버튼을 클릭합니다.
+**Step 3)** **Mobile**이 선택된 상태로 **Connect** 버튼을 클릭합니다.
 
 ![](../../.gitbook/assets/9.png)
 
