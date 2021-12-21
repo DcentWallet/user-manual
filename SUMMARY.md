@@ -5,7 +5,7 @@
 * [지원코인 리스트](https://dcentwallet.com/SupportedCoin)
 * [디센트 공식 홈페이지](https://dcentwallet.com)
 
-## 지문인증형 콜드월렛 <a href="biometric-wallet" id="biometric-wallet"></a>
+## 지문인증형 콜드월렛 <a href="#biometric-wallet" id="biometric-wallet"></a>
 
 * [지문인증형 콜드월렛](biometric-wallet/intro.md)
 * [언박싱](biometric-wallet/unboxing.md)
@@ -24,7 +24,7 @@
 * [콜드월렛 설정 메뉴](biometric-wallet/setting-menu.md)
 * [콜드월렛 복구 단어 확인하기](biometric-wallet/undefined.md)
 
-## 카드타입 콜드월렛 <a href="card-wallet" id="card-wallet"></a>
+## 카드타입 콜드월렛 <a href="#card-wallet" id="card-wallet"></a>
 
 * [카드 타입 콜드월렛 소개](card-wallet/intro.md)
 * [카드 타입 콜드월렛 구성](card-wallet/appearance.md)
@@ -36,20 +36,21 @@
   * [백업 이미지 복구](card-wallet/backupcard-new/recover-backup-image.md)
 * [디센트 백업카드 사용법 (구버전)](card-wallet/backupcard-old.md)
 
-## 모바일 앱 <a href="mobile-app" id="mobile-app"></a>
+## 모바일 앱 <a href="#mobile-app" id="mobile-app"></a>
 
 * [모바일 앱 소개](mobile-app/intro.md)
 * [모바일 앱 다운로드](mobile-app/mobile-app-download.md)
 * [계정 만들기](mobile-app/create-account/README.md)
   * [커스텀 토큰을 추가하는 방법](mobile-app/create-account/how-to-add-a-custom-token-account.md)
   * [생성한 계정 제거 (숨기기) 방법](mobile-app/create-account/undefined.md)
+  * [커스텀 경로 BTC 계정 추가하는 방법](mobile-app/create-account/btc.md)
 * [디센트 매니저 메뉴](mobile-app/mobile-app-dcent-manager/README.md)
   * [지문인증형 콜드월렛 매니저](mobile-app/mobile-app-dcent-manager/biometric-wallet.md)
   * [카드타입 콜드월렛 매니저](mobile-app/mobile-app-dcent-manager/card-wallet.md)
   * [소프트웨어 월렛 매니저](mobile-app/mobile-app-dcent-manager/software-wallet.md)
 * [앱 설정 메뉴](mobile-app/mobile-app-setting-menu.md)
 
-## 코인 보내기/받기 <a href="coin-send-receive" id="coin-send-receive"></a>
+## 코인 보내기/받기 <a href="#coin-send-receive" id="coin-send-receive"></a>
 
 * [코인 받기 사용법](coin-send-receive/receive.md)
 * [코인 보내기 사용법](coin-send-receive/send/README.md)
@@ -73,7 +74,7 @@
 * [코인베이스 거래소 사용법 (비트코인 예시)](coin-send-receive/coinbase.md)
 * [바이낸스 거래소 사용법 (리플 예시)](coin-send-receive/binance.md)
 
-## 디센트 내부 서비스 <a href="native-service" id="native-service"></a>
+## 디센트 내부 서비스 <a href="#native-service" id="native-service"></a>
 
 * [댑 브라우저 (Discovery)](native-service/discovery/README.md)
   * [블록체인 네트워크 선택](native-service/discovery/switch-network.md)
@@ -83,18 +84,18 @@
 
 * [FTSO 포털 - 투표권 위임](ftso.md)
 
-## 트러블 슈팅 <a href="troubleshooting" id="troubleshooting"></a>
+## 트러블 슈팅 <a href="#troubleshooting" id="troubleshooting"></a>
 
 * [지갑 복구 주의 사항 - 레거시 계정 주소](troubleshooting/notes-on-wallet-recovery.md)
 
-## 오입금 해결 방법 <a href="mistransmission" id="mistransmission"></a>
+## 오입금 해결 방법 <a href="#mistransmission" id="mistransmission"></a>
 
 * [오입금/오전송 문제 해결하기](mistransmission/how-to-solve-mistransmission.md)
 * [전송한 자산의 네트워크 확인](mistransmission/check-blockchain-network.md)
 * [클레이튼 주소로 오전송된 이더리움 기반 자산 복구하는 방법](mistransmission/ethereum-to-klaytn.md)
 * [이더리움 주소로 오전송된 클레이튼 기반 자산 복구하는 방법](mistransmission/klaytn-to-ethereum.md)
 
-## 디센트 외부 서비스 <a href="external-service" id="external-service"></a>
+## 디센트 외부 서비스 <a href="#external-service" id="external-service"></a>
 
 * [카이카스 월렛과 연결하기](external-service/kaikas.md)
 * [니프티(Nifty) 지갑과 연결하기](external-service/nifty.md)
@@ -102,7 +103,7 @@
 * [팬케익스왑 이용 방법](external-service/pancakeswap.md)
 * [폴리곤 브릿지 이용 방법](external-service/polygon-bridge.md)
 
-## 암호화폐 기초지식 <a href="cryptocurrency-basic" id="cryptocurrency-basic"></a>
+## 암호화폐 기초지식 <a href="#cryptocurrency-basic" id="cryptocurrency-basic"></a>
 
 * [ERC20 토큰](cryptocurrency-basic/erc20.md)
 * [ERC721 토큰 (NFT)](cryptocurrency-basic/erc721-nft.md)
