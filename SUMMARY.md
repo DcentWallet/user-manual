@@ -23,7 +23,7 @@
 * [Checking account info on Biometric Wallet](biometric-wallet/account-info.md)
 * [Biometric Wallet "Setting" menu](biometric-wallet/setting-menu.md)
 
-## Card type Wallet <a href="card-wallet" id="card-wallet"></a>
+## Card type Wallet <a href="#card-wallet" id="card-wallet"></a>
 
 * [Card type Wallet](card-wallet/intro.md)
 * [Specifications](card-wallet/appearance.md)
@@ -42,13 +42,14 @@
 * [How to create a coin account](mobile-app/create-account/README.md)
   * [How to add a custom token account](mobile-app/create-account/how-to-add-a-custom-token-account.md)
   * [How to remove (hide) a coin account](mobile-app/create-account/how-to-remove-hide-a-coin-account.md)
+  * [How to add a custom path BTC account](mobile-app/create-account/how-to-add-a-custom-path-btc-account.md)
 * [D'CENT Manager Menu](mobile-app/mobile-app-dcent-manager/README.md)
   * [Biometric Wallet Manager](mobile-app/mobile-app-dcent-manager/biometric-wallet.md)
   * [Card type Wallet Manager](mobile-app/mobile-app-dcent-manager/card-wallet.md)
   * [Software Wallet Manager](mobile-app/mobile-app-dcent-manager/software-wallet.md)
 * [Mobile App "Setting" menu](mobile-app/mobile-app-setting-menu.md)
 
-## How to send/receive coin <a href="coin-send-receive" id="coin-send-receive"></a>
+## How to send/receive coin <a href="#coin-send-receive" id="coin-send-receive"></a>
 
 * [How to receive coin](coin-send-receive/receive.md)
 * [How to send coin](coin-send-receive/send/README.md)
@@ -72,7 +73,7 @@
 * [Using Coinbase exchange for transfers (Bitcoin example)](coin-send-receive/using-coinbase-for-transfers-bitcoin-example.md)
 * [Using Binance exchange for transfers (XRP example)](coin-send-receive/using-binance-exchange-for-transfers-xrp-example.md)
 
-## D'CENT Native Services <a href="native-service" id="native-service"></a>
+## D'CENT Native Services <a href="#native-service" id="native-service"></a>
 
 * [DApp browser (Discovery)](native-service/dapp-browser/README.md)
   * [Switch Blockchain Network](native-service/dapp-browser/switch-blockchain-network.md)
@@ -83,7 +84,7 @@
 
 * [Notes on Wallet Recovery - Legacy account](troubleshooting/notes-on-wallet-recovery.md)
 
-## D'CENT EXTERNAL SERVICES <a href="external-service" id="external-service"></a>
+## D'CENT EXTERNAL SERVICES <a href="#external-service" id="external-service"></a>
 
 * [Connect with Kaikas wallet extension](external-service/kaikas.md)
 * [Connect with Nifty Wallet extension](external-service/nifty.md)
@@ -91,7 +92,7 @@
 * [How to use PancakeSwap](external-service/pancakeswap.md)
 * [How to use Polygon Bridge](external-service/polygon-bridge.md)
 
-## Cryptocurrency Basics <a href="cryptocurrency-basic" id="cryptocurrency-basic"></a>
+## Cryptocurrency Basics <a href="#cryptocurrency-basic" id="cryptocurrency-basic"></a>
 
 * [ERC20 Token](cryptocurrency-basic/erc20.md)
 * [ERC721 Token (NFT)](cryptocurrency-basic/erc721-nft.md)
