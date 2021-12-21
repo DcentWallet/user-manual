@@ -1,28 +1,14 @@
 # 커스텀 경로 BTC 계정 추가하는 방법
 
-2\) 사용자 정의 경로 계정을 활성화합니다.     &#x20;
+이 가이드는 사용자 지정 경로 BTC 계정을 추가하는 방법에 대한 설명입니다.
 
-2\) Slide the button to enable **Custom Path Account.**
-
-3\) Read the alert message and click on '**Continue**'.
-
-![](broken-reference)
-
-4\) To add a Custom Path Account, click on the **(+) button.**
-
-5\) In the search field, type "**Custom**". From the result, select **Bitcoin - custom path (BTC).**
-
-커스텀 경로를 선택한 BTC 계정을 추가하는 방법을 설명하는 가이드입니다.
-
-![](../../.gitbook/assets/BTC01.png)
+![](<../../.gitbook/assets/BTC01 (2).png>)
 
 1\) '**Setting**' 탭을 클릭합니다.
 
 2\) **사용자 정의 경로 계정**을 활성화합니다.
 
 3\) 주의 사항을 읽으시고 '**계속하기**'를 클릭합니다.
-
-6\) Select the address path and click '**Next**' to continue.
 
 ![](../../.gitbook/assets/BTC02.png)
 
@@ -37,5 +23,3 @@
 7\) 계정 이름을 지정하거나 기본값으로 사용할 수 있습니다. 사용자 정의 경로 BTC 계정을 추가하려면 '**만들기**'를 클릭합니다.
 
 8\) Account 탭에서 새롭게 추가한 커스텀 경로 BTC 계정을 확인할 수 있습니다.
-
-8\) Custom path BTC account is shown in the Account Tab.&#x20;
