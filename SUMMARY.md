@@ -48,7 +48,8 @@
   * [지문인증형 콜드월렛 매니저](mobile-app/mobile-app-dcent-manager/biometric-wallet.md)
   * [카드타입 콜드월렛 매니저](mobile-app/mobile-app-dcent-manager/card-wallet.md)
   * [소프트웨어 월렛 매니저](mobile-app/mobile-app-dcent-manager/software-wallet.md)
-* [앱 설정 메뉴](mobile-app/mobile-app-setting-menu.md)
+* [앱 설정 메뉴](mobile-app/mobile-app-setting-menu/README.md)
+  * [테스트넷 활성화하는 방법](mobile-app/mobile-app-setting-menu/undefined.md)
 
 ## 코인 보내기/받기 <a href="#coin-send-receive" id="coin-send-receive"></a>
 

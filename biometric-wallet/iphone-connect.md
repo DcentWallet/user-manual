@@ -25,7 +25,7 @@
 앱을 보호하기 위해 앱 비밀번호를 등록해주세요. 6자리 숫자를 두 번 입력하시면 됩니다. 앱 비밀번호는 디센트 모바일 앱을 실행할 때마다 필요합니다. 꼭 기억해두세요.
 
 {% hint style="info" %}
-앱 비밀번호는 [앱 설정 메뉴](../mobile-app/mobile-app-setting-menu.md)를 통해 나중에 변경하실 수 있습니다. 앱 비밀번호 이외에도 TouchID나 __ FaceID를 통해 앱을 보호할 수 있습니다. 자세한 내용은 [앱 설정 메뉴 항목](../mobile-app/mobile-app-setting-menu.md)을 참고하세요.
+앱 비밀번호는 [앱 설정 메뉴](../mobile-app/mobile-app-setting-menu/)를 통해 나중에 변경하실 수 있습니다. 앱 비밀번호 이외에도 TouchID나 __ FaceID를 통해 앱을 보호할 수 있습니다. 자세한 내용은 [앱 설정 메뉴 항목](../mobile-app/mobile-app-setting-menu/)을 참고하세요.
 {% endhint %}
 
 ### 블루투스 설정
