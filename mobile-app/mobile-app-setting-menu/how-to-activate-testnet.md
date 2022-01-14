@@ -4,7 +4,7 @@ Testnet is used by developers for the purpose of testing DApp services. All asse
 
 To enable the testnet function, go to 'Setting' tab on the bottom of the App.
 
-![](../.gitbook/assets/testnet.png)
+![](../../.gitbook/assets/testnet.png)
 
 Locate 'Enable Testnet' menu and slide the button to the right to activate the testnet function.
 

@@ -47,8 +47,8 @@
   * [Biometric Wallet Manager](mobile-app/mobile-app-dcent-manager/biometric-wallet.md)
   * [Card type Wallet Manager](mobile-app/mobile-app-dcent-manager/card-wallet.md)
   * [Software Wallet Manager](mobile-app/mobile-app-dcent-manager/software-wallet.md)
-* [Mobile App "Setting" menu](mobile-app/mobile-app-setting-menu.md)
-* [How to activate Testnet](mobile-app/how-to-activate-testnet.md)
+* [Mobile App "Setting" menu](mobile-app/mobile-app-setting-menu/README.md)
+  * [How to activate Testnet](mobile-app/mobile-app-setting-menu/how-to-activate-testnet.md)
 
 ## How to send/receive coin <a href="#coin-send-receive" id="coin-send-receive"></a>
 
