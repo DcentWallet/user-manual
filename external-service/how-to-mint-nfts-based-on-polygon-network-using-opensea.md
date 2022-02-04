@@ -2,11 +2,11 @@
 
 ## What is NFT minting? &#x20;
 
-💡 It refers to the creation of NFTs using the word “minting”.
+💡 Minting refers to process of creating something new, ie: gold to coin. In the blockchain space, Minting an artwork refers **to the act of tokenizing the artwork.**
 
 
 
-## A method of minting NFT in polygon network
+## How to mint an NFT in polygon network
 
 **OpenSea**, which is popularly used, is a platform that trades NFT tokens. It started based on the Ethereum network and now supports Polygon and Klaytn networks. Among them, it is possible to create NFT and register sales without paying gas fee. **Let's take a look at the minting method based on the Polygon network**.
 
@@ -16,11 +16,11 @@ If you don't have a polygon account, please create a polygon account first.
 
 
 
-※ OpenSea supports the **“Lazy minting”** method. Lazy Minting is a way to reduce the cost burden of issuing NFTs by preventing sellers from paying fees to the blockchain network until they create and sell NFTs.
+※ OpenSea supports the **“Lazy minting”** method. Lazy Minting is a way to reduce the cost burden of issuing NFTs by the creators(sellers) from paying fees to the blockchain network until they sell NFTs.
 
 
 
-① Access to the **Discovery** section of the D'cent wallet.
+① Access the **Discovery** section of the D'CENT wallet.
 
 ②  **Search** [**opensea.io**](http://opensea.io) in the search bar at the top to access the site or **Click the OpenSea button** (only available in Android).
 
@@ -28,13 +28,13 @@ If you don't have a polygon account, please create a polygon account first.
 
 ③ When you access the opensea service, click the top right corner.
 
-④ Select a **Polygon network**.
+④ Select **Polygon network**.
 
 ![](<../.gitbook/assets/2 (12).png>)
 
 ⑤ Click the **Connect button** to connect the OpenSea service and the wallet.
 
-⑥ After that, **check to the network** at the top is connected well.
+⑥ After that, **check that the network** **icon** at the top is correctly connected.
 
 ![](<../.gitbook/assets/3 (12).png>)
 
@@ -52,7 +52,7 @@ If you don't have a polygon account, please create a polygon account first.
 
 #### ① Choose a file.\*
 
-It varies from video, audio, image to 3D model, and after checking the available extensions,
+A file can be from video, audio, image to 3D model, and after checking the available extensions.
 
 Click the dotted box to select and upload the file to be created.(Required item)
 
@@ -60,7 +60,7 @@ Click the dotted box to select and upload the file to be created.(Required item)
 
 #### ② Name\*
 
-Write down the name of the NFT to be created.(Required item)
+Enter the name of the NFT to be created.(Required item)
 
 ![](<../.gitbook/assets/6 (5).png>)
 
@@ -86,11 +86,11 @@ When uploading various NFTs, it is recommended to create and distinguish a colle
 
 #### ⑥ **Supply**
 
-Write down the number of NFTs to be created as the part to select how many NFTs to create.
+Enter the number of NFTs to be created.
 
 #### ⑦ Blockchain
 
-You can select a blockchain to create NFT.
+You can select which blockchain network to be used for creating an NFT.
 
 Click the drop-down menu and select **Polygon**.
 
