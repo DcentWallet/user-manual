@@ -1,4 +1,4 @@
-# How to mint NFTs (Opensea example)
+# How to mint NFTs based on Polygon network using Opensea
 
 ## What is NFT minting? &#x20;
 
@@ -8,19 +8,23 @@
 
 ## A method of minting NFT in polygon network
 
-**OpenSea**, which is popularly used, is a platform that trades NFT tokens. It started based on the Ethereum network and now supports Polygon and Klaytn networks. Among them, it is possible to create NFT and register sales without paying gas fee.&#x20;
+**OpenSea**, which is popularly used, is a platform that trades NFT tokens. It started based on the Ethereum network and now supports Polygon and Klaytn networks. Among them, it is possible to create NFT and register sales without paying gas fee. **Let's take a look at the minting method based on the Polygon network**.
 
-**Let's take a look at the minting method based on the Polygon network**.
+
+
+If you don't have a polygon account, please create a polygon account first.
+
+
 
 ※ OpenSea supports the **“Lazy minting”** method. Lazy Minting is a way to reduce the cost burden of issuing NFTs by preventing sellers from paying fees to the blockchain network until they create and sell NFTs.
 
 
 
-① Access to the **Collectibles** section of the **D'cent wallet.**
+① Access to the **Discovery** section of the D'cent wallet.
 
-② Click the **OpenSea** button.
+②  **Search** [**opensea.io**](http://opensea.io) in the search bar at the top to access the site or **Click the OpenSea button** (only available in Android).
 
-![](<../.gitbook/assets/1 (14).png>)
+![](../.gitbook/assets/1\(en\).png)
 
 ③ When you access the opensea service, click the top right corner.
 
