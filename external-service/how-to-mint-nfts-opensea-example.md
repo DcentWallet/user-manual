@@ -1,4 +1,4 @@
-# NFT 민팅 방법 (오픈씨 예시)
+# 디센트 모바일 앱에서 오픈씨를 이용해 폴리곤 네트워크 기반 NFT 발행하기
 
 ## 민팅(minting)이란?
 
@@ -14,15 +14,19 @@
 
 
 
+Polygon 계정이 없으면, 먼저 Account에서 Polygon 계정을 만들어 주시기 바랍니다.&#x20;
+
+
+
 ※ 오픈씨에서는 Lazy Minting 방식을 지원합니다. Lazy Minting이란 판매자가 NFT를 만들어서 판매할 때까지 블록체인 네트워크에 수수료를 지급하지 않도록하여 판매자가 NFT를 발행할 떄 드는 비용 부담을 줄이는 방법입니다.
 
 
 
-① **D’cent** (디센트) 지갑 하단의 **Collectibles**에 접속하여
+① D’cent (디센트) 지갑 하단의 Discovery에 접속하여
 
-② **OpenSea** 버튼을 클릭합니다.
+② 상단의 검색 창에 [opensea.io](http://opensea.io) 를 입력하여 사이트에 접속 또는 OpenSea 버튼을 클릭(안드로이드 운영체제에서만 가능) 합니다.
 
-![](<../.gitbook/assets/1 (14).png>)
+![](<../.gitbook/assets/1 (13).png>)
 
 ③ OpenSea 서비스에 접속하면 우측 상단을 클릭하여
 

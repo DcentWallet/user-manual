@@ -59,7 +59,6 @@
   * [카드 타입 콜드월렛 사용](coin-send-receive/send/mode\_cardtype.md)
   * [앱 월렛 사용](coin-send-receive/send/mode\_appwallet.md)
 * [거래 내역 확인하기](coin-send-receive/checking-transaction-status-and-history.md)
-* [NFT 민팅 방법 (오픈씨 예시)](coin-send-receive/how-to-mint-nfts-opensea-example.md)
 * [NFT 토큰 받기 및 보내기](coin-send-receive/nft.md)
 * [코인별 사용법](coin-send-receive/coins/README.md)
   * [비트코인 지갑 계정 - 모든 공개 주소 확인하기](coin-send-receive/coins/how-to-view-all-the-btc-public-addresses.md)
@@ -104,6 +103,7 @@
 * [클레이스테이션 Staking](external-service/klaystation.md)
 * [팬케익스왑 이용 방법](external-service/pancakeswap.md)
 * [폴리곤 브릿지 이용 방법](external-service/polygon-bridge.md)
+* [디센트 모바일 앱에서 오픈씨를 이용해 폴리곤 네트워크 기반 NFT 발행하기](external-service/how-to-mint-nfts-opensea-example.md)
 
 ## 암호화폐 기초지식 <a href="#cryptocurrency-basic" id="cryptocurrency-basic"></a>
 
