@@ -6,7 +6,7 @@
 
 
 
-## How to mint an NFT in polygon network
+## How to mint an NFT on the Polygon network
 
 **OpenSea**, which is popularly used, is a platform that trades NFT tokens. It started based on the Ethereum network and now supports Polygon and Klaytn networks. Among them, it is possible to create NFT and register sales without paying gas fee. **Let's take a look at the minting method based on the Polygon network**.
 
