@@ -42,7 +42,7 @@
 
 
 
-Create New Item **** (NFT)
+## Create New Item **** (NFT)
 
 ![](<../.gitbook/assets/5 (6).png>)
 
