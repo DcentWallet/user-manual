@@ -84,6 +84,7 @@
 ## Troubleshooting
 
 * [Notes on Wallet Recovery - Legacy account](troubleshooting/notes-on-wallet-recovery.md)
+* [Check points on Email verification error](troubleshooting/check-points-on-email-verification-error.md)
 
 ## D'CENT EXTERNAL SERVICES <a href="#external-service" id="external-service"></a>
 
