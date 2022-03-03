@@ -78,6 +78,7 @@
 ## 디센트 내부 서비스 <a href="#native-service" id="native-service"></a>
 
 * [댑 브라우저 (Discovery)](native-service/discovery/README.md)
+  * [댑 사이트에 지갑 연결하기](native-service/discovery/connecting-your-wallet-to-a-dapp-site..md)
   * [블록체인 네트워크 선택](native-service/discovery/switch-network.md)
   * [Wallet Connect 사용법](native-service/discovery/wallet-connect.md)
 
