@@ -1,4 +1,4 @@
-# Connecting your wallet to a dApp site.
+# Connecting your wallet to a dApp site
 
 When visiting a decentralized application service (dApp service or blockchain based service), the website will **usually detect** the decentralized wallet being used and **will automatically trigger** wallet connection request. In this case, simply click on 'Connect' button and your wallet gets connected to the website.
 

@@ -77,7 +77,7 @@
 ## D'CENT Native Services <a href="#native-service" id="native-service"></a>
 
 * [DApp browser (Discovery)](native-service/dapp-browser/README.md)
-  * [Connecting your wallet to a dApp site](<native-service/dapp-browser/Connecting your wallet to a dApp site.md>)
+  * [Connecting your wallet to a dApp site](native-service/dapp-browser/connecting-wallet-to-dApp.md)
   * [Switch Blockchain Network](native-service/dapp-browser/switch-blockchain-network.md)
   * [Using Wallet Connect](native-service/dapp-browser/using-wallet-connect.md)
 * [FTSO Portal - vote delegation](native-service/ftso-portal-vote-delegation.md)
