@@ -85,6 +85,7 @@
 ***
 
 * [FTSO 포털 - 투표권 위임](ftso.md)
+* [스택스 스택킹 위임 서비스](stacks-stacking-delegation-service.md)
 
 ## 트러블 슈팅 <a href="#troubleshooting" id="troubleshooting"></a>
 

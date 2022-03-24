@@ -20,7 +20,7 @@
 
 4\) '**이해했습니다**' 버튼을 누르면 백업 과정이 마무리됩니다.
 
-## 앱 월렛 복구 <a href="recover_appwallet" id="recover_appwallet"></a>
+## 앱 월렛 복구 <a href="#recover_appwallet" id="recover_appwallet"></a>
 
 니모닉 코드(24개 복구 단어)를 사용하여 기존에 사용하던 지갑을 복구할 수 있습니다.
 
@@ -34,6 +34,10 @@
 
 {% hint style="info" %}
 백업해 놓은 니모닉 코드는 디센트 지문인증형 콜드월렛에서 복구할 수 있습니다. 지문인증형 콜드월렛 복구에 대한 자세한 내용은 [여기](../../biometric-wallet/recovery.md)를 참고하세요.
+{% endhint %}
+
+{% hint style="warning" %}
+**지갑을 복구하였다면 기존에 사용하던 계정을 다시 추가해야 잔액을 확인할 수 있습니다.**&#x20;
 {% endhint %}
 
 ### 레거시 주소 확인

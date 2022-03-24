@@ -52,7 +52,7 @@ Polygon 계정이 없으면, 먼저 Account에서 Polygon 계정을 만들어 �
 
 
 
-![](<../.gitbook/assets/5 (5).png>)
+![](<../.gitbook/assets/5 (5) (1).png>)
 
 #### ① 파일 선택\*
 
@@ -86,7 +86,7 @@ NFT에 대한 설명을 기재하여 줍니다.
 
 다양한 NFT를 업로드 할 경우 사전에 주제에 맞는 컬렉션을 생성하여 구분해 주는 것이 좋습니다.
 
-![](<../.gitbook/assets/7 (5).png>)
+![](<../.gitbook/assets/7 (5) (1).png>)
 
 #### ⑥ 공급 수량(**Supply)**
 
