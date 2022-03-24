@@ -20,7 +20,7 @@ If you delete the D'CENT mobile app or lose your mobile phone without backing up
 
 4\) Press '**I understand**' to finish.
 
-## App Wallet Recovery <a href="recover_appwallet" id="recover_appwallet"></a>
+## App Wallet Recovery <a href="#recover_appwallet" id="recover_appwallet"></a>
 
 You can recover your wallet by using the mnemonic code (24 recovery words).
 
@@ -36,6 +36,10 @@ You can recover your wallet by using the mnemonic code (24 recovery words).
 The mnemonic code from your software wallet can also be used to recover your wallet on the Biometric hardware wallet. \
 \
 Click here for more information about [recovering your wallet](../../biometric-wallet/recovery.md) on Biometric Wallet.
+{% endhint %}
+
+{% hint style="warning" %}
+**If you have recovered your wallet, you will need to add the account(s) you were using before to check the balance.**
 {% endhint %}
 
 ### Important notes after recovering your wallet
