@@ -6,7 +6,7 @@
 
 먼저 안드로이드 폰의 NFC 기능을 "기본모드"로 활성화해주세요.
 
-![](../.gitbook/assets/image%20%28185%29.png)
+![](<../.gitbook/assets/image (185).png>)
 
 ## 모바일 앱 다운로드
 
@@ -20,7 +20,7 @@
 
 NFC가 활성화된 상태에서 콜드월렛을 폰에 태깅하면 모바일 앱 다운로드 창이 나타납니다.
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](<../.gitbook/assets/image (5).png>)
 
 {% hint style="info" %}
 이미 디센트 모바일 앱이 설치되어 있다면, 카드 태깅시 디센트 모바일 앱이 바로 실행됩니다.
@@ -32,7 +32,7 @@ NFC가 활성화된 상태에서 콜드월렛을 폰에 태깅하면 모바일 �
 
 구글 플레이 스토어에서 "디센트 월렛"을 검색하세요.
 
-![&#xAD6C;&#xAE00; &#xD50C;&#xB808;&#xC774;&#xC2A4;&#xD1A0;&#xC5B4; &#xB514;&#xC13C;&#xD2B8; &#xC6D4;&#xB81B; &#xAC80;&#xC0C9; &#xD654;&#xBA74;](../.gitbook/assets/image%20%2884%29.png)
+![구글 플레이스토어 디센트 월렛 검색 화면](<../.gitbook/assets/image (84).png>)
 
 ## 모바일 앱 초기 설정
 
@@ -40,7 +40,7 @@ NFC가 활성화된 상태에서 콜드월렛을 폰에 태깅하면 모바일 �
 
 디센트 모바일 앱을 처음 실행하면 지갑 타입을 선택해야 합니다. "D'CENT Card Wallet"을 선택해주세요.
 
-![](../.gitbook/assets/image%20%2889%29.png)
+![](<../.gitbook/assets/image (89).png>)
 
 ### 앱 비밀번호 등록
 
@@ -50,19 +50,57 @@ NFC가 활성화된 상태에서 콜드월렛을 폰에 태깅하면 모바일 �
 
 가지고 있는 카드 월렛을 모바일 폰에 태깅해 주세요. 폰에서 카드를 인식할 수 있는 위치는 폰의 종류마다 다릅니다.
 
-![](../.gitbook/assets/image%20%2895%29.png)
+![](<../.gitbook/assets/image (95).png>)
 
 카드 태깅이 성공하면 모바일 앱 초기화가 완료됩니다.
 
+## 초기 PIN을 자신만의 새로운 PIN으로 변경
+
+카드형 지갑을 사용하기 위해서는 먼저 초기 비밀번호를 자신만의 비밀번호로 변경해야 합니다.
+
+![](<../.gitbook/assets/KR1 (1).png>)
+
+**1.** 신규 카드지갑은 비밀번호 변경이 필요합니다. 화면 상단에 메시지가 표시됩니다. 메시지를 클릭하여 초기 PIN 변경을 진행합니다.
+
+**2.** 지금 변경하기를 클릭합니다.
+
+**3.** 시작하기를 클릭합니다.
+
+![](../.gitbook/assets/KR2.png)
+
+**4.** 카드 지갑에서 마스킹을 부드럽게 긁어서 초기 PIN을 확인합니다.
+
+**5.** 초기 PIN(6자리)을 입력합니다.
+
+![](../.gitbook/assets/KR3.png)
+
+**6.** 카드 지갑을 휴대폰 뒷면에 태그합니다.&#x20;
+
+**7.** 새로운 PIN을 입력합니다. (예: 123456)&#x20;
+
+**8.** 동일한 PIN을 입력합니다. (예: 123456)
+
+![](../.gitbook/assets/KR4.png)
+
+**9.** 카드 지갑을 휴대폰 뒷면에 태깅하세요.&#x20;
+
+**10.** 확인(OK)을 누릅니다.&#x20;
+
+**11.** 카드지갑에 새로운 비밀번호가 설정되면 디센트 앱의 화면 상단에 다른 메시지가 표시됩니다. 원본의 카드 지갑을 백업하시는 것을 강력하게 추천합니다.
+
+{% content-ref url="backupcard-new/" %}
+[backupcard-new](backupcard-new/)
+{% endcontent-ref %}
+
 ## 기본 생성 계정
 
-카드 타입 콜드월렛 모드로 초기화되면, 기본적으로 이더리움 계정이 생성되어 있습니다. 
+카드 타입 콜드월렛 모드로 초기화되면, 기본적으로 이더리움 계정이 생성되어 있습니다.&#x20;
 
-![](../.gitbook/assets/image%20%28118%29.png)
+![](<../.gitbook/assets/image (118).png>)
 
 이제 ERC20 토큰 계정을 추가할 수 있습니다. 계정 추가에 대한 자세한 내용은 [여기](../mobile-app/create-account/)를 참고하세요.
 
-ERC721 토큰\(NFT\)은 계정 추가 없이 바로 사용할 수 있습니다.
+ERC721 토큰(NFT)은 계정 추가 없이 바로 사용할 수 있습니다.
 
 * ERC20 토큰이란? [여기](../cryptocurrency-basic/erc20.md)를 참고하세요.
 * ERC721 토큰이란? [여기](../cryptocurrency-basic/erc721-nft.md)를 참고하세요.
@@ -73,9 +111,11 @@ ERC721 토큰\(NFT\)은 계정 추가 없이 바로 사용할 수 있습니다.
 
 다음 항목을 참고하여 카드타입 콜드월렛을 사용해보세요.
 
-{% page-ref page="../coin-send-receive/receive.md" %}
+{% content-ref url="../coin-send-receive/receive.md" %}
+[receive.md](../coin-send-receive/receive.md)
+{% endcontent-ref %}
 
-{% page-ref page="../coin-send-receive/send/" %}
-
-
+{% content-ref url="../coin-send-receive/send/" %}
+[send](../coin-send-receive/send/)
+{% endcontent-ref %}
 
