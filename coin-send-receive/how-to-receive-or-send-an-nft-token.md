@@ -16,6 +16,26 @@ Let’s see how to send NFTs from another wallet to D'CENT Wallet. In our exampl
 
 ![](<../.gitbook/assets/NFT9 (1).png>)
 
+### How to access NFT Collectibles for iOS users
+
+For iOS phone users, NFT collections can be accessed from the D'CENT App's Discovery Tab.
+
+![](<../.gitbook/assets/ios collectible tab.png>)
+
+**1.** Go to the Discovery Tab (the dApp browser)
+
+**2.** In the search line, enter the following URL:
+
+**⭐ https://collectibles.dcentwallet.com ⭐**
+
+![](<../.gitbook/assets/iphone collectibles2.png>)
+
+**3.** Click on the Bookmark icon on the bottom to add this site to your Favorites list.
+
+**4.** Use the default name or set to your own. For the network selection, any network is fine as there is no impact.
+
+**5.** Collectibles page(site) is now added to your Favorites list.
+
 ## Sending an NFT token from D'CENT Wallet to another wallet
 
 Let’s see how to send out an NFT token from D'CENT Wallet to another wallet or exchange. In the example, the situation is where the MetaMask will receive the NFT token while connected to Rarible, an NFT marketplace. Sending from D'CENT Wallet to other exchanges and wallets is a similar process.

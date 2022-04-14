@@ -82,6 +82,7 @@
   * [Using Wallet Connect](native-service/dapp-browser/using-wallet-connect.md)
 * [FTSO Portal - vote delegation](native-service/ftso-portal-vote-delegation.md)
 * [Stacks Stacking Delegation Service](native-service/stacks-stacking-delegation-service.md)
+* [Exchange](native-service/exchange.md)
 
 ## Troubleshooting
 
