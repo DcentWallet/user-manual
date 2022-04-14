@@ -68,7 +68,7 @@ Depending on the type of cryptocurrency you've chosen to receive, there may be d
 
 **10.** Authorize the send transfer by entering your password on software wallet. For biometric wallet, you will need to authorize the trade with your fingerprint.
 
-**11.** You can check the status of your exchange request from the Exchange History tab. For detailed information, click on the Exchange ID.
+**11.** You can check the status of your exchange request from the Exchange History tab. For detailed information, click on the Exchange ID. (In the case of Changelly, the detailed exchange history is not displayed even if you click the Exchange ID).
 
 **12.** You can view detailed information of the exchange status from the exchange service provider's website.
 
