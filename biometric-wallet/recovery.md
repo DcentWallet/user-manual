@@ -1,6 +1,6 @@
 # Recovering your wallet
 
-## Before you begin <a href="before-start" id="before-start"></a>
+## Before you begin <a href="#before-start" id="before-start"></a>
 
 When a new Biometric Wallet is purchased or the device you've been using is reset to factory, you can recover your existing wallet.&#x20;
 
@@ -91,7 +91,7 @@ Scan your fingerprint one last time to verify registered fingerprint.
 
 ※ If fingerprint verification fails, your fingerprint will not be saved.
 
-## Step-3 : enter the recovery words <a href="3" id="3"></a>
+## Step-3 : enter the recovery words <a href="#3" id="3"></a>
 
 1\) Enter the 24 recovery words recorded on the recovery card, numbered 1 through 24.
 
@@ -117,7 +117,7 @@ Special care is required for safe storage (away from fire, water, sunlight or pe
 
 ![](<../.gitbook/assets/image (109).png>)
 
-You have completed wallet recovery. From your cold wallet, you can check the lists of coin accounts available. You are now ready to use your new wallet together with the mobile application.
+After completing the wallet recovery, connect your hardware wallet to the D'CENT mobile application to synchronize. **You need to re-add all the cryptocurrency accounts that you have created in the past.** (Try to keep a list of the accounts that you have created, so that you can easily re-add them after the wallet recovery).
 
 * [How to connect with Android phone](android-connect/)\
 
