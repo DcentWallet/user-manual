@@ -2,6 +2,14 @@
 
 Custom tokens are token-type cryptocurrencies that are not listed in the support list. Custom token accounts can be added manually by the user for management.&#x20;
 
+**For custom added accounts, only the amount of cryptocurrency held is displayed. Other information such as the market price and converted balance is not displayed.**
+
+To request official support for a specific token from D'CENT Wallet, please use the Google form below. Requesting support for a new blockchain network can take a significant amount of time.
+
+****[**Request form for additional tokens/coins**](https://docs.google.com/forms/d/e/1FAIpQLSddydt7fv7D0ATnw49tCsBsex9DpHinAr0sebGb\_eQb0ne37g/viewform)****
+
+
+
 Custom tokens can be added for the following blockchain networks:\
 ✅ Ethereum (ERC20) \
 ✅ RSK (RRC20) \
