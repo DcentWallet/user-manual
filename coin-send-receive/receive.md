@@ -1,6 +1,6 @@
 # How to receive coin
 
-In order to see the receiving address of a cryptocurrency account, this account must be created first.
+In order to receive cryptocurrency assets, you must first create an account to check the address where you can receive them.
 
 {% content-ref url="../mobile-app/create-account/" %}
 [create-account](../mobile-app/create-account/)
