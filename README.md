@@ -6,25 +6,42 @@ description: Welcome to D'CENT User Guide.
 
 ## D'CENT Biometric Wallet
 
-{% page-ref page="biometric-wallet/setting-up.md" %}
+{% content-ref url="biometric-wallet/setting-up.md" %}
+[setting-up.md](biometric-wallet/setting-up.md)
+{% endcontent-ref %}
 
-{% page-ref page="biometric-wallet/android-connect/" %}
+{% content-ref url="biometric-wallet/android-connect/" %}
+[android-connect](biometric-wallet/android-connect/)
+{% endcontent-ref %}
 
-{% page-ref page="biometric-wallet/iphone-connect.md" %}
+{% content-ref url="biometric-wallet/iphone-connect.md" %}
+[iphone-connect.md](biometric-wallet/iphone-connect.md)
+{% endcontent-ref %}
 
-{% page-ref page="biometric-wallet/firmware-update/" %}
+{% content-ref url="biometric-wallet/firmware-update-from-computer/" %}
+[firmware-update-from-computer](biometric-wallet/firmware-update-from-computer/)
+{% endcontent-ref %}
 
 ## How to use D'CENT Wallet
 
-{% page-ref page="mobile-app/create-account/" %}
+{% content-ref url="mobile-app/create-account/" %}
+[create-account](mobile-app/create-account/)
+{% endcontent-ref %}
 
-{% page-ref page="coin-send-receive/receive.md" %}
+{% content-ref url="coin-send-receive/receive.md" %}
+[receive.md](coin-send-receive/receive.md)
+{% endcontent-ref %}
 
-{% page-ref page="coin-send-receive/send/" %}
+{% content-ref url="coin-send-receive/send/" %}
+[send](coin-send-receive/send/)
+{% endcontent-ref %}
 
 ## D'CENT Card type Wallet
 
-{% page-ref page="card-wallet/how-to-use-android.md" %}
+{% content-ref url="card-wallet/how-to-use-android.md" %}
+[how-to-use-android.md](card-wallet/how-to-use-android.md)
+{% endcontent-ref %}
 
-{% page-ref page="card-wallet/how-to-use-iphone.md" %}
-
+{% content-ref url="card-wallet/how-to-use-iphone.md" %}
+[how-to-use-iphone.md](card-wallet/how-to-use-iphone.md)
+{% endcontent-ref %}

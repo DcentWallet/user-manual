@@ -160,7 +160,7 @@ Currently, only the PC environment supports firmware update. The firmware update
 
 ## Firmware update stopped in the middle. What should I do?&#x20;
 
-Firmware update usually takes around 5 minutes. It may take up to 10 minutes. If there is no progress after this time, please press and hold both the "Down button" + "Power button" to force shutdown and try again. Detailed guide can be found [here](biometric-wallet/firmware-update/firmware-trouble-shooting-windows.md).
+Firmware update usually takes around 5 minutes. It may take up to 10 minutes. If there is no progress after this time, please press and hold both the "Down button" + "Power button" to force shutdown and try again. Detailed guide can be found [here](biometric-wallet/firmware-update-from-computer/firmware-trouble-shooting-windows.md).
 
 ## Will I be able to continue managing my assets if D'CENT (IoTrust) goes broke?
 

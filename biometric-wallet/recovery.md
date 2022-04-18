@@ -137,4 +137,4 @@ You can find the complete list of cryptocurrency assets supported on D'CENT Biom
 
 Once you have completed the Initial Setup, make sure to visit D'CENT Wallet homepage and check for the latest firmware available. Newer version of firmware may include additional support for cryptocurrency assets and new wallet features.
 
-More information on firmware update can be found from [here](firmware-update/).
+More information on firmware update can be found from [here](firmware-update-from-computer/).

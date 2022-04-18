@@ -4,8 +4,8 @@
 
 Stellar (XLM) coin is supported on the hardware wallet installed with firmware version v2.1.0 or higher. Please refer to the link below for instructions on how to update the firmware.
 
-{% content-ref url="../../biometric-wallet/firmware-update/" %}
-[firmware-update](../../biometric-wallet/firmware-update/)
+{% content-ref url="../../biometric-wallet/firmware-update-from-computer/" %}
+[firmware-update-from-computer](../../biometric-wallet/firmware-update-from-computer/)
 {% endcontent-ref %}
 
 ## How to create a Stellar Lumen (XLM) account
