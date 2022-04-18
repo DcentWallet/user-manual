@@ -15,7 +15,7 @@
   * [OTG 케이블 연결](biometric-wallet/android-connect/android-otg.md)
   * [트러블 슈팅 가이드 (안드로이드폰 블루투스 연결 오류)](biometric-wallet/android-connect/undefined.md)
 * [아이폰과 연결하기](biometric-wallet/iphone-connect.md)
-* [펌웨어 업데이트 (from computer)](biometric-wallet/firmware-update-from-computer/README.md)
+* [펌웨어 업데이트 (컴퓨터)](biometric-wallet/firmware-update-from-computer/README.md)
   * [트러블 슈팅 가이드 (Windows)](biometric-wallet/firmware-update-from-computer/firmware-trouble-shooting-windows.md)
   * [트러블 슈팅 가이드 (Mac)](biometric-wallet/firmware-update-from-computer/firmware-trouble-shooting-mac.md)
 * [모바일 앱과 콜드월렛 동기화](biometric-wallet/synch-with-app.md)
