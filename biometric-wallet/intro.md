@@ -2,17 +2,26 @@
 
 ## 기본 환경 설정
 
-{% page-ref page="setting-up.md" %}
+{% content-ref url="setting-up.md" %}
+[setting-up.md](setting-up.md)
+{% endcontent-ref %}
 
-{% page-ref page="android-connect/" %}
+{% content-ref url="android-connect/" %}
+[android-connect](android-connect/)
+{% endcontent-ref %}
 
-{% page-ref page="iphone-connect.md" %}
+{% content-ref url="iphone-connect.md" %}
+[iphone-connect.md](iphone-connect.md)
+{% endcontent-ref %}
 
 ## 지갑 복구
 
-{% page-ref page="recovery.md" %}
+{% content-ref url="recovery.md" %}
+[recovery.md](recovery.md)
+{% endcontent-ref %}
 
 ## 펌웨어 관리
 
-{% page-ref page="firmware-update/" %}
-
+{% content-ref url="firmware-update-from-computer/" %}
+[firmware-update-from-computer](firmware-update-from-computer/)
+{% endcontent-ref %}
