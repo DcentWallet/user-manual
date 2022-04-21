@@ -96,6 +96,7 @@
 * [Klaystation Staking](external-service/klaystation.md)
 * [How to use PancakeSwap](external-service/pancakeswap.md)
 * [How to use Polygon Bridge](external-service/polygon-bridge.md)
+* [How to connect to OpenSea](external-service/how-to-connect-to-opensea.md)
 * [How to mint NFTs based on Polygon network using Opensea](external-service/how-to-mint-nfts-based-on-polygon-network-using-opensea.md)
 
 ## Cryptocurrency Basics <a href="#cryptocurrency-basic" id="cryptocurrency-basic"></a>
