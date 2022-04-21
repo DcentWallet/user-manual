@@ -107,6 +107,7 @@
 * [클레이스테이션 Staking](external-service/klaystation.md)
 * [팬케익스왑 이용 방법](external-service/pancakeswap.md)
 * [폴리곤 브릿지 이용 방법](external-service/polygon-bridge.md)
+* [오픈씨에 연결하기](external-service/how-to-connect-with-opensea.md)
 * [디센트 모바일 앱에서 오픈씨를 이용해 폴리곤 네트워크 기반 NFT 발행하기](external-service/how-to-mint-nfts-based-on-polygon-network-using-opensea.md)
 
 ## 암호화폐 기초지식 <a href="#cryptocurrency-basic" id="cryptocurrency-basic"></a>
