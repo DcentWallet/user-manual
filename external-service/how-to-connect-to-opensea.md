@@ -18,7 +18,9 @@ If you need to choose a different network to connect to the site, press the canc
 
 ### How to bypass Klaytn connection issue at OpenSea site
 
-Currently(April 2022), OpenSea supports connection to Ethereum, Polygon, and Klaytn networks. From the OpenSea site, Klaytn address is not recognized well. To solve this issue, you can bookmark the visiting OpenSea page to add it to the list of Favorites. By accessing OpenSea site through the bookmark, you can stably connect Klaytn account with OpenSea.
+Currently(April 2022), OpenSea supports connection to Ethereum, Polygon, and Klaytn networks.
+
+When using Klaytn network with OpenSea site, you may experience that Klaytn address does not get recognized well, resulting in inability to connect wallet. To solve this issue, you can bookmark the visiting OpenSea page to add the site to your Favorites list. By accessing OpenSea site through the bookmark, you can stably connect Klaytn account with OpenSea.
 
 ![](<../.gitbook/assets/그림3 (1).png>)
 
