@@ -56,6 +56,14 @@
 
 ![콜드월렛과 페어링 완료된 모바일 폰](<../../.gitbook/assets/image (15).png>)
 
+{% hint style="info" %}
+핸드폰의 블루투스 메뉴의 등록된 기기 목록에서 D’CENT ID-xxxxxx 를 누르면 “이 기기를 사용하기 위해 필요한 앱을 설치해 주세요"라는 메시지가 표시되며 이는 정상입니다.
+{% endhint %}
+
+![](<../../.gitbook/assets/그림1 (3).png>)
+
+핸드폰에 지문인증형 지갑이 등록된 상태라면 다음에 사용할 때 디센트 앱을 실행하면 핸드폰과 지문인증형 지갑간의 블루투스 연결이 자동으로 이루어집니다.
+
 ## 앱 다운로드
 
 [링크](https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet)를 클릭하여 디센트 모바일 앱을 설치합니다.
