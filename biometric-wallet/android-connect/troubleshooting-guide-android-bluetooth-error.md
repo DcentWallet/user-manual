@@ -50,7 +50,7 @@ Below is an example of how the Bluetooth application can be accessed from a **ne
 
 3\. Enable on **Show system apps**
 
-![](<../../.gitbook/assets/그림2 (1) (1).png>)
+![](<../../.gitbook/assets/그림2 (1) (1) (1).png>)
 
 4\. Click on **Bluetooth Application**
 

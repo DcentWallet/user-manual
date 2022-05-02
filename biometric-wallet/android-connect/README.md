@@ -56,8 +56,12 @@ When the two devices have been paired successfully, the blue LED light will stop
 ![D'CENT device registered on mobile phone](<../../.gitbook/assets/image (158).png>)
 
 {% hint style="info" %}
-When you have successfully paired your Biometric Wallet to your Android mobile phone, you will notice that your Biometric Wallet is now registered as a paired device.
+It is normal to see the message "An app is need to use this device" when you click on the D'CENT iD-xxxxxx that is listed under the paired devices. Nothing happens.
 {% endhint %}
+
+![](<../../.gitbook/assets/그림2 (1).png>)
+
+If the biometric wallet device is registered on the mobile phone, the next time you use the D'CENT app, a Bluetooth connection between the mobile phone and the biometric wallet is automatically established.
 
 ## Mobile App download
 
