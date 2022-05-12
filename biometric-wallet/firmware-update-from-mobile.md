@@ -8,7 +8,7 @@
 Android users with an **OTG cable** can perform firmware update directly from their phone.&#x20;
 {% endhint %}
 
-Whenever new coin support is added or bug fix has been made, a new firmware will be available for installation. Your mobile app will show an indication when a newer version of the firmware is released.
+When D'CENT adds support to a new blockchain network, a new firmware will be available for installation. Your mobile app will show an indication when a newer version of the firmware is released.
 
 ![](<../.gitbook/assets/그림7 (1).png>)
 
