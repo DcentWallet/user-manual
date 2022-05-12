@@ -18,6 +18,7 @@
 * [펌웨어 업데이트 (컴퓨터에서)](biometric-wallet/firmware-update-from-computer/README.md)
   * [트러블 슈팅 가이드 (Windows)](biometric-wallet/firmware-update-from-computer/firmware-trouble-shooting-windows.md)
   * [트러블 슈팅 가이드 (Mac)](biometric-wallet/firmware-update-from-computer/firmware-trouble-shooting-mac.md)
+* [펌웨어 업데이트 (모바일에서)](biometric-wallet/firmware-update-from-mobile.md)
 * [모바일 앱과 콜드월렛 동기화](biometric-wallet/synch-with-app.md)
 * [콜드월렛 복구하기](biometric-wallet/recovery.md)
 * [콜드월렛의 계정 정보 확인하기](biometric-wallet/account-info.md)
