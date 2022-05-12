@@ -18,6 +18,7 @@
 * [Firmware Update (from computer)](biometric-wallet/firmware-update-from-computer/README.md)
   * [Troubleshooting Guide (Windows)](biometric-wallet/firmware-update-from-computer/firmware-trouble-shooting-windows.md)
   * [Troubleshooting Guide (Mac)](biometric-wallet/firmware-update-from-computer/troubleshooting-guide-mac.md)
+* [Firmware Update (from mobile)](biometric-wallet/firmware-update-from-mobile.md)
 * [Synchronizing the Biometric Wallet with the Mobile App](biometric-wallet/synch-with-app.md)
 * [Recovering your wallet](biometric-wallet/recovery.md)
 * [Checking account info on Biometric Wallet](biometric-wallet/account-info.md)
