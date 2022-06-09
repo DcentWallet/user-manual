@@ -3,7 +3,7 @@
 * [시작하기](README.md)
 * [자주 묻는 질문 (FAQ)](faq.md)
 * [지원코인 리스트](https://dcentwallet.com/SupportedCoin)
-* [디센트 공식 홈페이지](https://dcentwallet.com)
+* [디센트 공식 홈페이지](https://dcentwallet.com/)
 
 ## 지문인증형 콜드월렛 <a href="#biometric-wallet" id="biometric-wallet"></a>
 
@@ -73,6 +73,7 @@
   * [바이낸스 스마트 체인 계정 사용법](coin-send-receive/coins/how-to-use-binance-smart-chain-account.md)
   * [모나코인 지갑 계정 사용법](coin-send-receive/coins/monacoin.md)
   * [스텔라루멘 (XLM) 지갑 계정 사용법](coin-send-receive/coins/xlm.md)
+  * [트론 지갑 계정 사용법 (TRX, TRC10, TRC20, TRC721)](coin-send-receive/coins/how-to-use-tron-account-trx-trc10-trc20-trc721.md)
 * [코인베이스 거래소 사용법 (비트코인 예시)](coin-send-receive/coinbase.md)
 * [바이낸스 거래소 사용법 (리플 예시)](coin-send-receive/binance.md)
 
