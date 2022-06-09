@@ -51,8 +51,8 @@ Each pool is different, but in general, the delegation must be completed by 3 da
 **2.** Select a pool of your choice. Currently, there are 3 pool services that are listed. You can get full details of their service by visiting the websites. Make sure to regularly visit your pool provider's website to be updated on any changes they have made.
 
 * NFP Studio ([https://app.nfpstudio.io/stacking](https://app.nfpstudio.io/stacking))
-* Planbetter ([https://planbetter.org/](https://planbetter.org))
-* Friedger ([https://pool.friedger.de/](https://pool.friedger.de))
+* Planbetter ([https://planbetter.org/](https://planbetter.org/))
+* Friedger ([https://pool.friedger.de/](https://pool.friedger.de/))
 
 {% hint style="info" %}
 There is a minimum amount of Stacks required by each delegation pool, so prepare more than the minimum amount of Stacks. For example, a minimum of 40 STX is required for the Friedger pool, you should prepare approximately 41 STX which includes any fees.

@@ -44,4 +44,4 @@ From the Klaystation, users can stake KLAY using Kaikas wallet and D'CENT Biomet
 To unstake your KLAY from the Klaystation, press the **UNSTAKE NOW** button on the dashboard.
 {% endhint %}
 
-**For detailed information about Klaystation and its operations, please visit** [**here**](https://klaystation.io)**.**
+**For detailed information about Klaystation and its operations, please visit** [**here**](https://klaystation.io/)**.**

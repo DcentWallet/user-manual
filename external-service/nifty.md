@@ -2,7 +2,7 @@
 
 ## Using Nifty Wallet extension with Biometric wallet
 
-Nifty Wallet is an open-source wallet created by the [POA Network](https://www.poa.network) that provides a seamless web3 wallet experience. Sites designed to work with MetaMask will also work with Nifty, and Nifty provides additional features such as out-of-the-box support for POA, xDai, RSK and other chains, as well as the ability to interact with contract methods directly from the wallet interface.
+Nifty Wallet is an open-source wallet created by the [POA Network](https://www.poa.network/) that provides a seamless web3 wallet experience. Sites designed to work with MetaMask will also work with Nifty, and Nifty provides additional features such as out-of-the-box support for POA, xDai, RSK and other chains, as well as the ability to interact with contract methods directly from the wallet interface.
 
 Nifty Wallet users will be able to enjoy an additional layer of security when accessing various EVM-compatible networks. While users interact with Nifty Wallet to connect with various DApps and create transactions, the ownership verification and authorization are securely performed from the D’CENT Biometric Wallet.
 

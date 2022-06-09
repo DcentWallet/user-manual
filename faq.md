@@ -63,11 +63,11 @@ D'CENT Mobile App only provides user interface so that you can get a view of acc
 In the case of Bitcoin, it is recommended to change the address once it is used to protect a certain level of privacy because anyone can see the transaction details and balance when the address is exposed. This is proposed in the BIP-32 and BIP-44 specifications related to Bitcoin, and many hardware wallet companies support this function.&#x20;
 
 In the case of D'CENT, we provide a function that shows the list of used addresses from the mobile app to mitigate the discomfort of not knowing the previously used Bitcoin addresses. \
-To find out how to check all your BTC public addresses, please click [here](coin-send-receive/how-to-use-coin-account/how-to-view-all-the-btc-public-addresses.md).
+To find out how to check all your BTC public addresses, please click [here](coin-send-receive/coins/how-to-view-all-the-btc-public-addresses.md).
 
 ## Can I continue to use my Bitcoin address before the change?
 
-Since the D'CENT mobile app maintains a transaction record for all addresses, there is no problem to continue using the bitcoin address before the change. For more information about the Bitcoin address, please click [here](coin-send-receive/how-to-use-coin-account/how-to-view-all-the-btc-public-addresses.md).
+Since the D'CENT mobile app maintains a transaction record for all addresses, there is no problem to continue using the bitcoin address before the change. For more information about the Bitcoin address, please click [here](coin-send-receive/coins/how-to-view-all-the-btc-public-addresses.md).
 
 ## Why does it take long to transfer a large amount of Bitcoin?
 
@@ -106,8 +106,8 @@ In most cases, it is the case that you entered the address incorrectly or it tak
   * You can search for "bitcoin explorer", "ethereum explorer", or "XRP explorer" in the search engine.\
     &#x20;
   * Usually, the following block explorers are used:\
-    Bitcoin : [https://btc.com](https://btc.com)\
-    Ethereum : [https://etherscan.io](https://etherscan.io)/\
+    Bitcoin : [https://btc.com](https://btc.com/)\
+    Ethereum : [https://etherscan.io](https://etherscan.io/)/\
     Ripple : [https://bithomp.com/explorer/](https://bithomp.com/explorer/)
 
 ## I created many accounts but, now only few of them are actually used. Can't I only see the accounts that I want to see?
@@ -207,4 +207,4 @@ You can find out more [here](card-wallet/how-to-use-iphone.md).
 
 ## Where does D'CENT retrieve exchange rate values for cryptocurrencies in its wallets?
 
-D'CENT Wallet uses the price information provided by [Coingecko](https://www.coingecko.com), which is the world’s largest independent cryptocurrency data aggregator with over 6,000 different crypto assets tracked across more than 400 exchanges worldwide.
+D'CENT Wallet uses the price information provided by [Coingecko](https://www.coingecko.com/), which is the world’s largest independent cryptocurrency data aggregator with over 6,000 different crypto assets tracked across more than 400 exchanges worldwide.

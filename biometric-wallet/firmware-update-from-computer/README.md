@@ -1,4 +1,4 @@
-# Firmware Update
+# Firmware Update (from computer)
 
 ## Firmware update indicator
 
@@ -46,7 +46,7 @@ It is recommended that the D'CENT mobile app is not running during the firmware 
 
 ✅ The **latest version** of D'CENT bridge program is installed and running on your computer.
 
-If you are ready, click [here](https://fwu.dcentwallet.com) to go to the Firmware Update homepage.
+If you are ready, click [here](https://fwu.dcentwallet.com/) to go to the Firmware Update homepage.
 
 ### Download D'CENT bridge program
 

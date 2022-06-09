@@ -1,6 +1,6 @@
 # Using Wallet Connect
 
-D’CENT Mobile App has added support for [WalletConnect](https://walletconnect.org). You can now connect and access your favorite DApps on PC or Mobile browser using D’CENT wallet addresses.
+D’CENT Mobile App has added support for [WalletConnect](https://walletconnect.org/). You can now connect and access your favorite DApps on PC or Mobile browser using D’CENT wallet addresses.
 
 ✅ Full list of DApps supporting WalletConnect can be found here: [https://walletconnect.org/apps](https://walletconnect.org/apps)
 
@@ -14,7 +14,7 @@ WalletConnect is an open protocol for connecting DApps on your browser to mobile
 
 ## Using DApps on PC browser
 
-In this example, we will access a DApp called **PoolTogether**. You will need your [D’CENT Mobile App](https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet) and PC to access the DApp website.
+In this example, we will access a DApp called **PoolTogether**. You will need your [D’CENT Mobile App](https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet\&utm\_source=dcentwallet\&utm\_campaign=mobileapp) and PC to access the DApp website.
 
 **Step 1)** Go to the PoolTogether website from your browser and click on **Account**.
 

@@ -6,7 +6,7 @@
 
 If you are having trouble with the email verification process after you've signed up as a member, please follow the instructions below.
 
-1\. First, check that you are signed up as a member from the [https://portal.dcentwallet.com/](https://portal.dcentwallet.com)
+1\. First, check that you are signed up as a member from the [https://portal.dcentwallet.com/](https://portal.dcentwallet.com/)
 
 2\. If your email address has already been used for a member sign-up, it will show that your email is already used (duplicate).
 

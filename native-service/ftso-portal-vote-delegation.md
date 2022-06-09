@@ -6,7 +6,7 @@
 
 D’CENT Wallet is excited to announce the release of the FTSO Portal that allows users to interact with the FTSO functions on the Songbird Network. Currently, SGB ​​holders can delegate Vote Power to their favorite FTSO providers on the Songbird Network. Similar FTSO functions on the Flare Network will be available when the mainnet is launched at a later time.
 
-### Accessing the FTSO portal <a href="9a62" id="9a62"></a>
+### Accessing the FTSO portal <a href="#9a62" id="9a62"></a>
 
 FTSO portal can be found from the Discovery Tab(DApp browser) of the D’CENT Mobile App.
 
@@ -16,7 +16,7 @@ FTSO portal can be found from the Discovery Tab(DApp browser) of the D’CENT Mo
 
 2\. Connect to the FTSO Portal site with your wallet (Songbird) address to continue.
 
-### Swapping SGB to WSGB <a href="7f0c" id="7f0c"></a>
+### Swapping SGB to WSGB <a href="#7f0c" id="7f0c"></a>
 
 To delegate your vote power to an FTSO provider, you must first **swap** **SGB to WSGB** token.
 
@@ -36,7 +36,7 @@ To delegate your vote power to an FTSO provider, you must first **swap** **SGB t
 
 6\. You can see the swapped WSGB balance in the portfolio section.
 
-### Vote Power delegation with WSGB <a href="49a0" id="49a0"></a>
+### Vote Power delegation with WSGB <a href="#49a0" id="49a0"></a>
 
 ![](https://miro.medium.com/max/700/1\*vvGOXt5WklWsImKa32wmgg.png)
 
@@ -54,7 +54,7 @@ To delegate your vote power to an FTSO provider, you must first **swap** **SGB t
 
 6\. Press ‘Confirm’ to continue.
 
-### Checking my delegation status <a href="64b3" id="64b3"></a>
+### Checking my delegation status <a href="#64b3" id="64b3"></a>
 
 ![](https://miro.medium.com/max/700/1\*lWwqtgLmYeOKKYWJZuoxPQ.png)
 
@@ -66,7 +66,7 @@ To delegate your vote power to an FTSO provider, you must first **swap** **SGB t
 
 🚨 **Rewards are paid out every Saturday and will disappear if you don’t collect them for 90 days. Be sure to claim your rewards periodically every week. 🚨**
 
-### Undelegating Vote Power <a href="5a41" id="5a41"></a>
+### Undelegating Vote Power <a href="#5a41" id="5a41"></a>
 
 ![](https://miro.medium.com/max/700/1\*dqFgmg0riMp51fmAC5oJ7Q.png)
 
@@ -76,12 +76,12 @@ To delegate your vote power to an FTSO provider, you must first **swap** **SGB t
 
 3\. To finalize the undelegation order, you must sign a transaction. Press ‘OK’ and authenticate to sign.
 
-### D’CENT FTSO Partners List <a href="ce1a" id="ce1a"></a>
+### D’CENT FTSO Partners List <a href="#ce1a" id="ce1a"></a>
 
 ![](https://miro.medium.com/max/700/1\*xCNgnnI60FtLsDpiwL-7ig.png)
 
-[FTSO AU](https://www.ftso.com.au) | [AlphaOracle](https://www.alphaoracle.io) | [ScandiNodes FTSO](https://ftso.scandinodes.com) | [Aureus Ox](https://aureusox.com) | [FTSO UK](https://www.ftso.uk)\
-[Use Your Spark](https://www.useyourspark.com) | [Defi Oracles](https://defioracles.org) | [FTSO EU](https://www.ftso.eu) | [Best FTSO](https://bestftso.xyz) | [Bifrost Oracle](https://towolabs.com)\
+[FTSO AU](https://www.ftso.com.au/) | [AlphaOracle](https://www.alphaoracle.io/) | [ScandiNodes FTSO](https://ftso.scandinodes.com/) | [Aureus Ox](https://aureusox.com/) | [FTSO UK](https://www.ftso.uk/)\
+[Use Your Spark](https://www.useyourspark.com/) | [Defi Oracles](https://defioracles.org/) | [FTSO EU](https://www.ftso.eu/) | [Best FTSO](https://bestftso.xyz/) | [Bifrost Oracle](https://towolabs.com/)\
 And more to join!
 
 FTSO partners listed are the FTSO providers that have integrated with D’CENT Wallet for the seamless experience in using the FTSO functions while protected by an additional layer of security when users interact with the FTSO provider services. All FTSO partners have put great effort and are dedicated to bringing the best possible FTSO delegation experience to our motivated users in the ecosystem.

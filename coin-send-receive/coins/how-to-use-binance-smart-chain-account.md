@@ -12,7 +12,7 @@
 ### How to set up D’CENT Wallet
 
 You can download the latest version of the D’CENT Mobile App here:\
-👉 For [**Android**](https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet) \
+👉 For [**Android**](https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet\&utm\_source=dcentwallet\&utm\_campaign=mobileapp) \
 👉 For [**iOS**](https://apps.apple.com/kr/app/dcent-hardware-wallet/id1447206611)
 
 If you are using an older version of the firmware on D’CENT Biometric Wallet, you will need to upgrade the firmware to the latest version (v.2.6.0 or higher) from the official firmware update site.\
