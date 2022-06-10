@@ -56,6 +56,14 @@ To perform Device Wipe, you must enter your PIN, read the warning message displa
 When you confirm \[OK\&OFF] to Device Wipe, all information will be deleted including private keys. Make sure you have your Mnemonic Codes before you perform Device Wipe.
 {% endhint %}
 
+### Seed Check
+
+From the Seed Check menu, you can check whether the mnemonic code (24 words) you have matches with the mnemonic code in the device you are currently using.
+
+After entering all 24 words, click "I am ready" on the next Review screen to start the match verification.
+
+If the 24 words you have entered are correct, it will be marked as "Match" on the screen.
+
 ## Language Menu <a href="#undefined-2" id="undefined-2"></a>
 
 You can change the language used on the Biometric Wallet.
