@@ -20,7 +20,7 @@
 
 Tron 계정을 활성화된 상태로 유지하려면 Tron 계정의 잔액이 0.1 TRX 이상이어야 합니다. Tron 계정의 잔액이 0.1 TRX 미만으로 떨어지면 계정이 비활성화되고 더 이상 Tron 블록체인에서 계정 정보를 읽지 않습니다.
 
-<mark style="color:red;">**Tron 계정 활성화 유지 비용 = 1 TRX**</mark>
+<mark style="color:red;">**Tron 계정 활성화 유지 비용 = 0.1 TRX**</mark>
 
 ## 자주 묻는 질문
 
