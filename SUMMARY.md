@@ -65,7 +65,7 @@
   * [비트코인 지갑 계정 - 모든 공개 주소 확인하기](coin-send-receive/coins/how-to-view-all-the-btc-public-addresses.md)
   * [이더리움 지갑 계정 사용법](coin-send-receive/coins/ethereum.md)
   * [리플 (XRP) 지갑 계정 사용법](coin-send-receive/coins/ripple-xrp/README.md)
-    * [디센트 월렛으로 리플 (XRP) 보내기](coin-send-receive/coins/ripple-xrp/xrp\_send.md)
+    * [디센트 월렛에서 리플 (XRP) 보내기](coin-send-receive/coins/ripple-xrp/xrp\_send.md)
     * [리플 Trust Line 사용법](coin-send-receive/coins/ripple-xrp/trust-line.md)
   * [클레이튼 지갑 계정 사용법](coin-send-receive/coins/klaytn-klay.md)
   * [RSK (RBTC) 지갑 계정 사용법](coin-send-receive/coins/rsk-rbtc.md)
