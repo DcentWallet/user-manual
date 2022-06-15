@@ -18,7 +18,7 @@ This is an instruction guide on **how to add** a Trust Line to your XRPL and **h
 
 **5.** The Trust Line added should show up under the XRP account.
 
-## **How to set (activate) Trust Line**
+### **How to set (activate) Trust Line**
 
 Remember that just adding a Trust Line does not mean you can receive the Trust Asset (IOUs) to this account. **You must first set (activate) the Trust Line before you can receive funds**.
 
