@@ -54,8 +54,8 @@ _풀 마다 차이가 있으나 보통 현재 사이클 3일 전까지는 위임
 **2.** 위임 풀을 선택합니다. 현재 3개의 풀이 리스트 되어 있으며 풀 서비스 업체의 사이트에서 보다 자세한 최신의 정보를 확인 할 수 있습니다.
 
 * NFP Studio ([https://app.nfpstudio.io/stacking](https://app.nfpstudio.io/stacking))
-* Planbetter ([https://planbetter.org/](https://planbetter.org))
-* Friedger ([https://pool.friedger.de/](https://pool.friedger.de))
+* Planbetter ([https://planbetter.org/](https://planbetter.org/))
+* Friedger ([https://pool.friedger.de/](https://pool.friedger.de/))
 
 {% hint style="warning" %}
 위임 풀 마다 위임 최소 수량이 존재하므로 스택스를 최소 수량 이상을 준비하세요. Friedger 풀의 경우 최소 40 STX가 필요하며 수수료 포함 약 41 STX가 필요합니다.
@@ -87,7 +87,7 @@ _풀 마다 차이가 있으나 보통 현재 사이클 3일 전까지는 위임
 
 ![](<.gitbook/assets/한1 (2).png>)
 
-**2.** 스택킹 페이지 하단에 제공되는 **스택킹 클럽** 또는 [**https://stacking.club/**](https://stacking.club) 클릭.
+**2.** 스택킹 페이지 하단에 제공되는 **스택킹 클럽** 또는 [**https://stacking.club/**](https://stacking.club/) 클릭.
 
 ![](.gitbook/assets/한2.png)
 

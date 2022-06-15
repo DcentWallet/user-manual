@@ -6,7 +6,7 @@
 
 회원가입 이후 이메일 인증에서 문제가 발생하는 경우 아래와 같이 시도해보시기 바랍니다.
 
-1\. [https://portal.dcentwallet.com/](https://portal.dcentwallet.com) 에서 회원가입이 되어 있는지 확인하기
+1\. [https://portal.dcentwallet.com/](https://portal.dcentwallet.com/) 에서 회원가입이 되어 있는지 확인하기
 
 2\. 회원가입이 된 상태라면, 중복된 이메일이라고 안내 메세지가 뜹니다.
 

@@ -12,7 +12,7 @@ Binance Smart Chain은 기존 Binance Chain에 프로그래밍 가능성과 상�
 ### 디센트 지갑 설정 방법
 
 아래 링크에서 최신 버전의 디센트 모바일 앱을 다운로드 할 수 있습니다.\
-👉 [**Android 용**](https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet)****\
+👉 [**Android 용**](https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet\&utm\_source=dcentwallet\&utm\_campaign=mobileapp)****\
 **👉** [**iOS 용**](https://apps.apple.com/kr/app/dcent-hardware-wallet/id1447206611)****
 
 디센트 지문인증형 지갑을 사용하시는 경우 공식 펌웨어 업데이트 사이트에서 최신 버전 (v.2.6.0 이상)으로 업그레이드하셔야합니다.\

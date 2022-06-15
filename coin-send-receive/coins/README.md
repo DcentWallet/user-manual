@@ -1,24 +1,38 @@
 ---
-description: '각 코인/토큰별 보내기, 받기 사용법'
+description: 각 코인/토큰별 보내기, 받기 사용법
 ---
 
 # 코인별 사용법
 
-{% page-ref page="how-to-view-all-the-btc-public-addresses.md" %}
+{% content-ref url="how-to-view-all-the-btc-public-addresses.md" %}
+[how-to-view-all-the-btc-public-addresses.md](how-to-view-all-the-btc-public-addresses.md)
+{% endcontent-ref %}
 
-{% page-ref page="ethereum.md" %}
+{% content-ref url="ethereum.md" %}
+[ethereum.md](ethereum.md)
+{% endcontent-ref %}
 
-{% page-ref page="ripple-xrp/" %}
+{% content-ref url="ripple-xrp/" %}
+[ripple-xrp](ripple-xrp/)
+{% endcontent-ref %}
 
-{% page-ref page="klaytn-klay.md" %}
+{% content-ref url="klaytn-klay.md" %}
+[klaytn-klay.md](klaytn-klay.md)
+{% endcontent-ref %}
 
-{% page-ref page="rsk-rbtc.md" %}
+{% content-ref url="rsk-rbtc.md" %}
+[rsk-rbtc.md](rsk-rbtc.md)
+{% endcontent-ref %}
 
-{% page-ref page="binance-bnb.md" %}
+{% content-ref url="binance-bnb.md" %}
+[binance-bnb.md](binance-bnb.md)
+{% endcontent-ref %}
 
-{% page-ref page="monacoin.md" %}
+{% content-ref url="monacoin.md" %}
+[monacoin.md](monacoin.md)
+{% endcontent-ref %}
 
-{% page-ref page="xlm.md" %}
-
-
+{% content-ref url="xlm/" %}
+[xlm](xlm/)
+{% endcontent-ref %}
 

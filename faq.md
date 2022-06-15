@@ -95,8 +95,8 @@
 * 블록 익스플로러에서 주소를 넣고 보내기/ 받기가 정상적으로 이루어졌는지 확인해 보시기 바랍니다.
   * 검색엔진에서 "bitcoin explorer", "ethereum explorer", "XRP explorer" 와 같이 검색하시면 됩니다.&#x20;
   * 보통 다음과 같은 블록 익스플로러를 사용합니다.\
-    비트코인 : [https://btc.com](https://btc.com)\
-    이더리움 : [https://etherscan.io](https://etherscan.io)/\
+    비트코인 : [https://btc.com](https://btc.com/)\
+    이더리움 : [https://etherscan.io](https://etherscan.io/)/\
     리플 : [https://bithomp.com/explorer/](https://bithomp.com/explorer/)
 
 ## 실제로 사용하는 코인 계정만 보이게 할 수 없나요?
@@ -186,4 +186,4 @@
 
 ## 디센트 지갑에서 표시해주는 암호화폐 시세 값은 어느 거래소의 정보를 사용하나요?&#x20;
 
-디센트는 [코인게코](https://www.coingecko.com) 암호화폐 포탈 사이트의 암호화폐 시세 정보를 사용하여 지갑에서 표시해주고 있습니다. 코인게코는 전 세계 400개 이상의 거래소에서 6,000개 이상의 서로 다른 암호화폐 자산을 추적하는 데이터 어그리게이션 서비스를 운영하고 있습니다.
+디센트는 [코인게코](https://www.coingecko.com/) 암호화폐 포탈 사이트의 암호화폐 시세 정보를 사용하여 지갑에서 표시해주고 있습니다. 코인게코는 전 세계 400개 이상의 거래소에서 6,000개 이상의 서로 다른 암호화폐 자산을 추적하는 데이터 어그리게이션 서비스를 운영하고 있습니다.

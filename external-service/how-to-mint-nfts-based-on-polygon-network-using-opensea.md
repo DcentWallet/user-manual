@@ -24,7 +24,7 @@ Polygon 계정이 없으면, 먼저 Account에서 Polygon 계정을 만들어 �
 
 ① D’cent (디센트) 지갑 하단의 Discovery에 접속하여
 
-② 상단의 검색 창에 [opensea.io](http://opensea.io) 를 입력하여 사이트에 접속 또는 OpenSea 버튼을 클릭(안드로이드 운영체제에서만 가능) 합니다.
+② 상단의 검색 창에 [opensea.io](http://opensea.io/) 를 입력하여 사이트에 접속 또는 OpenSea 버튼을 클릭(안드로이드 운영체제에서만 가능) 합니다.
 
 ![](<../.gitbook/assets/1 (13).png>)
 
