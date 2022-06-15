@@ -4,8 +4,8 @@
 
 Stellar (XLM) coin is supported on the hardware wallet installed with firmware version v2.1.0 or higher. Please refer to the link below for instructions on how to update the firmware.
 
-{% content-ref url="../../biometric-wallet/firmware-update-from-computer/" %}
-[firmware-update-from-computer](../../biometric-wallet/firmware-update-from-computer/)
+{% content-ref url="../../../biometric-wallet/firmware-update-from-computer/" %}
+[firmware-update-from-computer](../../../biometric-wallet/firmware-update-from-computer/)
 {% endcontent-ref %}
 
 ## How to create a Stellar Lumen (XLM) account
@@ -14,8 +14,8 @@ If you don't have a Stellar Lumen account, create a new account. The coin name f
 
 For more details on how to create an account, click the link below.
 
-{% content-ref url="../../mobile-app/create-account/" %}
-[create-account](../../mobile-app/create-account/)
+{% content-ref url="../../../mobile-app/create-account/" %}
+[create-account](../../../mobile-app/create-account/)
 {% endcontent-ref %}
 
 ## If you can't create a Stellar account
@@ -26,7 +26,7 @@ There is a case where the Stellar account cannot be created even though the curr
 
 In the event when trying to create a Stellar account from the mobile app, the search result will not display Stellar coin as an account that can be added. See the picture below.
 
-![](../../.gitbook/assets/unable-to-create-stellar-account\_en.png)
+![](../../../.gitbook/assets/unable-to-create-stellar-account\_en.png)
 
 ### Solution:
 
@@ -48,7 +48,7 @@ Due to Stellar's policy, **a minimum of 1XLM must be transferred to the Stellar 
 \
 In addition, **1XLM in the account will be permanently locked-up**. For example, if you have 100XLM in your account after creating your wallet, you can only transfer 99XLM (including fee). As shown in the figure, the remaining balance of 1XLM cannot be sent to another account even when if you try to send the maximum amount.
 
-![](../../.gitbook/assets/xlm-send-all\_en.jpg)
+![](../../../.gitbook/assets/xlm-send-all\_en.jpg)
 
 {% hint style="info" %}
 In some cases, the lock-up amount may be different. See the link below for more details. [https://www.stellar.org/developers/guides/concepts/fees.html#minimum-account-balance](https://www.stellar.org/developers/guides/concepts/fees.html#minimum-account-balance)
@@ -66,7 +66,7 @@ The Stellar wallet used by an exchange service uses a single address. In other w
 
 From your XLM account, click "Receive" to view your account address.
 
-![](../../.gitbook/assets/stellar-receive\_en.jpg)
+![](../../../.gitbook/assets/stellar-receive\_en.jpg)
 
 If your XLM account is inactive, please activate your account by clicking on the (**Event**) link.
 
@@ -76,8 +76,8 @@ If you are sending Stellar coins to your exchange account, you **MUST** enter th
 
 If you are sending Stellar coins to a personal wallet such as D'CENT Wallet, entering Memo is optional. You can enter any notes in the Memo field or choose to change the Memo options.
 
-![](../../.gitbook/assets/stellar-send-option\_en.jpg)
+![](../../../.gitbook/assets/stellar-send-option\_en.jpg)
 
 When sending money, check the address and memo once again before making the final confirmation.
 
-![](../../.gitbook/assets/stellar-send-confirm\_en.jpg)
+![](../../../.gitbook/assets/stellar-send-confirm\_en.jpg)

@@ -4,21 +4,35 @@ description: How to send and receive each coin
 
 # How to use coin account
 
-{% page-ref page="how-to-view-all-the-btc-public-addresses.md" %}
+{% content-ref url="how-to-view-all-the-btc-public-addresses.md" %}
+[how-to-view-all-the-btc-public-addresses.md](how-to-view-all-the-btc-public-addresses.md)
+{% endcontent-ref %}
 
-{% page-ref page="how-to-use-ethereum-account.md" %}
+{% content-ref url="how-to-use-ethereum-account.md" %}
+[how-to-use-ethereum-account.md](how-to-use-ethereum-account.md)
+{% endcontent-ref %}
 
-{% page-ref page="ripple-xrp/" %}
+{% content-ref url="ripple-xrp/" %}
+[ripple-xrp](ripple-xrp/)
+{% endcontent-ref %}
 
-{% page-ref page="klaytn-klay.md" %}
+{% content-ref url="klaytn-klay.md" %}
+[klaytn-klay.md](klaytn-klay.md)
+{% endcontent-ref %}
 
-{% page-ref page="how-to-use-rsk-account.md" %}
+{% content-ref url="how-to-use-rsk-account.md" %}
+[how-to-use-rsk-account.md](how-to-use-rsk-account.md)
+{% endcontent-ref %}
 
-{% page-ref page="how-to-use-binance-account.md" %}
+{% content-ref url="how-to-use-binance-account.md" %}
+[how-to-use-binance-account.md](how-to-use-binance-account.md)
+{% endcontent-ref %}
 
-{% page-ref page="how-to-use-mona-account.md" %}
+{% content-ref url="how-to-use-mona-account.md" %}
+[how-to-use-mona-account.md](how-to-use-mona-account.md)
+{% endcontent-ref %}
 
-{% page-ref page="how-to-use-stellar-lumen-xlm-account.md" %}
-
-
+{% content-ref url="how-to-use-stellar-lumen-xlm-account/" %}
+[how-to-use-stellar-lumen-xlm-account](how-to-use-stellar-lumen-xlm-account/)
+{% endcontent-ref %}
 
