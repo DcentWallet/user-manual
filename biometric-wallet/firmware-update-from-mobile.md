@@ -1,12 +1,20 @@
 # Firmware Update (from mobile)
 
-## Firmware update indicator
+## Mobile Firmware update
 
 {% hint style="danger" %}
 **Currently the mobile firmware update is only possible for the Android Phones.**&#x20;
 
 Android users with an **OTG cable** can perform firmware update directly from their phone.&#x20;
 {% endhint %}
+
+### D'CENT Genuine OTG cable
+
+OTG cable is a special type of USB cable that makes your Android phone to act as a Host(Master) device that can update the firmware on the Biometric wallet (the slave device).
+
+![](<../.gitbook/assets/그림1 (2).png>)
+
+## Firmware update indicator
 
 When D'CENT adds support to a new blockchain network, a new firmware will be available for installation. Your mobile app will show an indication when a newer version of the firmware is released.
 
