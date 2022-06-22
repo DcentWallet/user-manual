@@ -6,6 +6,8 @@
 **Currently the mobile firmware update is only possible for the Android Phones.**&#x20;
 
 Android users with an **OTG cable** can perform firmware update directly from their phone.&#x20;
+
+**Mobile Firmware update is available from D'CENT App v5.15.0 or higher.**
 {% endhint %}
 
 ### D'CENT Genuine OTG cable
