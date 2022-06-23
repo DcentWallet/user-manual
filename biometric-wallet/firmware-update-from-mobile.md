@@ -16,6 +16,12 @@ OTG cable is a special type of USB cable that makes your Android phone to act as
 
 ![](<../.gitbook/assets/그림1 (2).png>)
 
+OTG cable can be purchase from D'CENT official website.
+
+{% embed url="https://store.dcentwallet.com/collections/frontpage/products/2-in-1-otg-cable" %}
+
+{% embed url="https://youtu.be/ZxszWmFvx-0" %}
+
 ## Firmware update indicator
 
 When D'CENT adds support to a new blockchain network, a new firmware will be available for installation. Your mobile app will show an indication when a newer version of the firmware is released.
