@@ -105,6 +105,7 @@
 
 ## 디센트 외부 서비스 <a href="#external-service" id="external-service"></a>
 
+* [메타마스크 연결하기(QR-based)](external-service/qrbasedmetamask.md)
 * [카이카스 월렛과 연결하기](external-service/kaikas.md)
 * [니프티(Nifty) 지갑과 연결하기](external-service/nifty.md)
 * [클레이스테이션 Staking](external-service/klaystation.md)
