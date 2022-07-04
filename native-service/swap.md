@@ -18,7 +18,7 @@ Swap service is available for D'CENT App version **5.16.0 or higher**.
 
 **3)** Connect your wallet. You can simply click **Connect** to connect. At least one account must exist on the selected network. You can change the main network account by pressing <**Switch Account**>.
 
-![](../.gitbook/assets/그림17.png)
+![](../.gitbook/assets/그림28.png)
 
 ## **Start Swapping**
 
