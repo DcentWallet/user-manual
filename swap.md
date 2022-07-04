@@ -6,7 +6,7 @@
 해당 서비스를 이용하기 위해서는 **5.16.0 이상의 앱버전**이 필요합니다.
 {% endhint %}
 
-### **네트워크 선택** <a href="#selectnetwork" id="selectnetwork"></a>
+### **네트워크 선택** <a href="#select-network" id="select-network"></a>
 
 **1)** 스왑 서비스에 접속하면 이용 가능한 메인 네트워크들이 표시됩니다. 네트워크 종류는 자사 및 서비스 제공자의 상황에 따라 달라질 수 있습니다. **** 이용하고자 하는 네트워크를 선택합니다.
 
@@ -20,7 +20,7 @@
 
 <img src=".gitbook/assets/그림4 (1).png" alt="" data-size="original">
 
-## **토큰 스왑 진행하기**  <a href="#startswap" id="startswap"></a>
+## **토큰 스왑 진행하기**  <a href="#start-swapping" id="start-swapping"></a>
 
 **1)** 스왑을 진행할 암호화폐를 선택합니다. 왼쪽 돋보기 버튼을 누르면 선택할 수 있는 토큰들이 보입니다. 원하는 계정을 클릭하여 선택합니다.
 
