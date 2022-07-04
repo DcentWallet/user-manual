@@ -18,7 +18,7 @@ For iPhone, D'CENT App does not show a list of 3rd party DApp service due to App
 
 Unlisted DApp services can be accessed by entering the **URL or through Google search.**
 
-![](<../../.gitbook/assets/image (242).png>)
+![](<../../.gitbook/assets/image (242) (1).png>)
 
 ### Using the Bookmark function
 

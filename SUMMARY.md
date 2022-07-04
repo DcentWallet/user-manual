@@ -94,6 +94,7 @@
 
 ## D'CENT EXTERNAL SERVICES <a href="#external-service" id="external-service"></a>
 
+* [Connect with MetaMask (QR-based)](external-service/qrbasedmetamask.md)
 * [Connect with Kaikas wallet extension](external-service/kaikas.md)
 * [Connect with Nifty Wallet extension](external-service/nifty.md)
 * [Klaystation Staking](external-service/klaystation.md)

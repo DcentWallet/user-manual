@@ -2,7 +2,7 @@
 
 ## Introduction to the D'CENT FTSO Portal
 
-![](<../.gitbook/assets/image (243).png>)
+![](<../.gitbook/assets/image (243) (1).png>)
 
 D’CENT Wallet is excited to announce the release of the FTSO Portal that allows users to interact with the FTSO functions on the Songbird Network. Currently, SGB ​​holders can delegate Vote Power to their favorite FTSO providers on the Songbird Network. Similar FTSO functions on the Flare Network will be available when the mainnet is launched at a later time.
 
@@ -10,7 +10,7 @@ D’CENT Wallet is excited to announce the release of the FTSO Portal that allow
 
 FTSO portal can be found from the Discovery Tab(DApp browser) of the D’CENT Mobile App.
 
-![](<../.gitbook/assets/image (244).png>)
+![](<../.gitbook/assets/image (244) (1).png>)
 
 1\. Go to the Discovery Tab and click ‘**FTSO Portal**’ from the list.
 
