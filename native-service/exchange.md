@@ -29,7 +29,7 @@
 
 ### 거래 설정
 
-![](.gitbook/assets/ExchangeKR1.png)
+![](../.gitbook/assets/ExchangeKR1.png)
 
 **1.** 교환하려는 자산 유형을 선택하세요.
 
@@ -39,7 +39,7 @@
 
 ### 사용할 교환 서비스 선택
 
-![](.gitbook/assets/ExchangeKR2.png)
+![](../.gitbook/assets/ExchangeKR2.png)
 
 받기로 선택한 암호화폐 유형에 따라 사용할 수 있는 교환 서비스가 다를 수 있습니다. 각 교환 서비스는 교환이 진행되기 위한 교환 비율과 최소 금액 요구 사항이 다릅니다.
 
@@ -51,7 +51,7 @@
 
 ### 거래를 실행하기
 
-![](.gitbook/assets/ExchangeKR3.png)
+![](../.gitbook/assets/ExchangeKR3.png)
 
 **7.** 교환은 귀하가 약정된 자산 금액을 교환 서비스로 이체한 경우에만 이루어집니다. 화면에서 거래내역을 확인하세요. 이 화면에서도 **교환 아이디**를 확인할 수 있습니다.
 
@@ -61,7 +61,7 @@
 
 ### 거래 승인 및 교환 현황 확인
 
-![](.gitbook/assets/ExchangeKR4.png)
+![](../.gitbook/assets/ExchangeKR4.png)
 
 **10.** 소프트웨어 지갑에 비밀번호를 입력하여 송금 거래를 승인하십시오. 지문인증형 지갑의 경우 지문으로 거래를 승인해야 합니다.
 
