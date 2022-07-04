@@ -84,9 +84,6 @@
   * [댑 사이트에 지갑 연결하기](native-service/discovery/connecting-wallet-to-dApp.md)
   * [블록체인 네트워크 선택](native-service/discovery/switch-network.md)
   * [Wallet Connect 사용법](native-service/discovery/wallet-connect.md)
-
-***
-
 * [FTSO 포털 - 투표권 위임](native-service/ftso.md)
 * [스택스 스택킹 위임 서비스](native-service/stacks-stacking-delegation-service.md)
 * [Exchange (익스체인지)](native-service/exchange.md)
