@@ -85,7 +85,7 @@ _(In the case of a D’CENT account, it doesn’t matter which account you choos
 
 **h)** You can check the page where the account of the D’CENT wallet and the MetaMask are linked.
 
-## (Example) Send ETH (ROPSTEN TEST NET) using MetaMask
+## Example of how to send ETH using MetaMask
 
 ### \[Step 1] Create ETH transaction with MetaMask
 
@@ -95,25 +95,19 @@ _(In the case of a D’CENT account, it doesn’t matter which account you choos
 
 **b)** Select the D'CENT Wallet account(**DCENT1**) linked to the MetaMask.
 
-![](<../.gitbook/assets/image (249).png>)
+![](<../.gitbook/assets/그림1 (2).png>)
 
-**c)** Click the network selection button (default: **Ethereum mainnet**[**)**](https://www.notion.so/QR-based-77adb319762446e1bf4c659dc3c16962) in the upper right corner.
+**c)** Click the **Send** button in the center of the page.
 
-**d)** Select the network where you want to generate the transaction (for example, **Ropsten test network**).
+**d)** Enter the sending address, set the desired amount, and click **Next**.
 
-![](<../.gitbook/assets/image (259).png>)
+![](<../.gitbook/assets/그림2 (2).png>)
 
-**e)** Click the **Send** button in the center of the page.
-
-**f)** Enter the sending address, set the desired amount, and click **Next**.
-
-![](<../.gitbook/assets/image (245).png>)
-
-**g)** After checking the transaction details, click the **Confirm** button.
+**e)** After checking the transaction details, click the **Confirm** button.
 
 (_You can adjust the transaction fee to the desired limit by selecting **Advanced→Edit** Options_)
 
-**h)** It switches to the signature request page in QR code format.
+**f)** It switches to the signature request page in QR code format.
 
 ### \[Step 2] Create a signature for the transaction using the D’CENT App
 
@@ -147,12 +141,12 @@ _(In the case of a D’CENT account, it doesn’t matter which account you choos
 
 ### \[Step 3] Sending signed data to MetaMask
 
-![](<../.gitbook/assets/image (258).png>)
+![](<../.gitbook/assets/그림3 (1).png>)
 
 **a)** Click the **Get Signature** button on the signature request page completed in **\[Step 1]**.
 
 **b)** Scan the QR code prepared in **\[Step 2]** using the camera on your computer.
 
-![](<../.gitbook/assets/image (253).png>)
+![](<../.gitbook/assets/그림4 (2).png>)
 
 **c)** After scanning the QR code, you can check the transaction history in the Activity tab.

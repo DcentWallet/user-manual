@@ -14,7 +14,7 @@ Android users with an **OTG cable** can perform firmware update directly from th
 
 OTG cable is a special type of USB cable that makes your Android phone to act as a Host(Master) device that can update the firmware on the Biometric wallet (the slave device).
 
-![](<../.gitbook/assets/그림1 (2).png>)
+![](<../.gitbook/assets/그림1 (2) (1).png>)
 
 OTG cable can be purchase from D'CENT official website.
 
