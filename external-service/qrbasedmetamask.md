@@ -85,7 +85,7 @@ _(디센트 계정의 경우, QR스캔시 목록에 보이는 계정이 모두 �
 
 **h)** 디센트 지갑의 계정과 메타마스크가 연동된 화면을 확인할 수 있습니다.
 
-## (예제)메타마스크를 이용하여 ETH(ROPSTEN TEST NET) 보내기 <a href="#example-send-eth-ropsten-test-net-using-metamask" id="example-send-eth-ropsten-test-net-using-metamask"></a>
+## 메타마스크를 이용하여 ETH 보내기 <a href="#example-send-eth-ropsten-test-net-using-metamask" id="example-send-eth-ropsten-test-net-using-metamask"></a>
 
 ### **\[Step 1] 메타마스크로 ETH 트랜잭션을 생성하기** <a href="#step-1-create-eth-transaction-with-metamask" id="step-1-create-eth-transaction-with-metamask"></a>
 
@@ -95,25 +95,19 @@ _(디센트 계정의 경우, QR스캔시 목록에 보이는 계정이 모두 �
 
 **b)** 메타마스크와 연동한 디센트 지갑 계정(**DCENT1**)을 선택합니다.
 
-![](<../.gitbook/assets/image (255).png>)
+![](<../.gitbook/assets/그림5 (3).png>)
 
-**c)** 우측 상단의 네트워크 선택 버튼(**디폴트값: 이더리움 메인넷**[)](https://www.notion.so/QR-based-77adb319762446e1bf4c659dc3c16962)을 클릭합니다.
+**c)** 화면 중앙의 **보내기** 버튼을 클릭합니다.
 
-**d)** 트랜잭션을 생성할 네트워크(해당 예제: **Ropsten 테스트 네트워크**)를 선택합니다.
+**d)** 보낼 주소를 입력하고 원하는 금액을 설정한 후 **다음**을 클릭합니다.
 
-![](<../.gitbook/assets/image (243).png>)
+![](<../.gitbook/assets/그림6 (2).png>)
 
-**e)** 화면 중앙의 **보내기** 버튼을 클릭합니다.
-
-**f)** 보낼 주소를 입력하고 원하는 금액을 설정한 후 **다음**을 클릭합니다.
-
-![](<../.gitbook/assets/image (251).png>)
-
-**g)** 거래 내역을 확인한 후 **확인** 버튼을 클릭합니다.
+**e)** 거래 내역을 확인한 후 **확인** 버튼을 클릭합니다.
 
 (_**고급→편집 옵션**을 선택하여 거래 수수료를 원하는 한도로 조정 가능합니다._)
 
-**h)** QR코드 형식의 서명 요청 화면으로 전환됩니다.
+**f)** QR코드 형식의 서명 요청 화면으로 전환됩니다.
 
 ### \[Step 2] 디센트 앱을 이용하여 트랜잭션에 대한 서명 생성 하기 <a href="#step-2-create-a-signature-for-the-transaction-using-the-dcent-app" id="step-2-create-a-signature-for-the-transaction-using-the-dcent-app"></a>
 
@@ -145,12 +139,12 @@ _(디센트 계정의 경우, QR스캔시 목록에 보이는 계정이 모두 �
 
 ### \[Step 3] 생성된 서명을 메타마스크로 보내기 <a href="#step-3-sending-signed-data-to-metamask" id="step-3-sending-signed-data-to-metamask"></a>
 
-![](<../.gitbook/assets/image (250).png>)
+![](../.gitbook/assets/그림7.png)
 
 **a)** 메타마스크의 서명 요청 화면에서 **서명 받기** 버튼을 클릭합니다.
 
 **b)** 디센트 앱에서 표시된 QR 코드를 컴퓨터의 카메라를 이용하여 스캔합니다.
 
-![](<../.gitbook/assets/image (261).png>)
+![](<../.gitbook/assets/그림8 (1).png>)
 
 **c)** QR 코드 스캔이 완료되면, 트랜잭션 내역을 활동 탭에서 확인 할 수 있습니다.
