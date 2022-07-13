@@ -29,6 +29,8 @@
 메타마스크에서 지원하는 QR-based 프로토콜은 컴퓨터에 **카메라가 설치** 되어있어야만 이용이 가능합니다.
 {% endhint %}
 
+{% embed url="https://youtu.be/XTY0rZejZOc" %}
+
 ### \[Step 1] 디센트 앱에서 메타마스크 연결 준비하기 <a href="#step-1-preparing-to-connect-the-metamask-in-the-dcent-app" id="step-1-preparing-to-connect-the-metamask-in-the-dcent-app"></a>
 
 ![](<../.gitbook/assets/image (256).png>)
@@ -86,6 +88,8 @@ _(디센트 계정의 경우, QR스캔시 목록에 보이는 계정이 모두 �
 **h)** 디센트 지갑의 계정과 메타마스크가 연동된 화면을 확인할 수 있습니다.
 
 ## 메타마스크를 이용하여 ETH 보내기 <a href="#example-send-eth-ropsten-test-net-using-metamask" id="example-send-eth-ropsten-test-net-using-metamask"></a>
+
+{% embed url="https://youtu.be/MZujbMvmCz8" %}
 
 ### **\[Step 1] 메타마스크로 ETH 트랜잭션을 생성하기** <a href="#step-1-create-eth-transaction-with-metamask" id="step-1-create-eth-transaction-with-metamask"></a>
 
