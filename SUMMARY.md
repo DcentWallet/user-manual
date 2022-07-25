@@ -87,7 +87,7 @@
 * [FTSO 포털 - 투표권 위임](native-service/ftso.md)
 * [스택스 스택킹 위임 서비스](native-service/stacks-stacking-delegation-service.md)
 * [교환 (Exchange)](native-service/exchange.md)
-* [Swap (스왑)](native-service/swap.md)
+* [스왑 (Swap)](native-service/swap.md)
 
 ## 트러블 슈팅 <a href="#troubleshooting" id="troubleshooting"></a>
 
