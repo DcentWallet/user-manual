@@ -58,14 +58,10 @@ You can certainly use it on a new phone. The D'CENT Mobile App (Biometric wallet
 \
 D'CENT Mobile App only provides user interface so that you can get a view of accounts information. Notice that every time that you run D'CENT Mobile App, it synchronizes with the Biometric Wallet. During the synchronization, the Biometric wallet provides the correct account information (public address) to the D'CENT Mobile App, making sure that what you see on the Mobile App is the correct account address.
 
-## Why does my Bitcoin Address keep on changing?&#x20;
-
 In the case of Bitcoin, it is recommended to change the address once it is used to protect a certain level of privacy because anyone can see the transaction details and balance when the address is exposed. This is proposed in the BIP-32 and BIP-44 specifications related to Bitcoin, and many hardware wallet companies support this function.&#x20;
 
 In the case of D'CENT, we provide a function that shows the list of used addresses from the mobile app to mitigate the discomfort of not knowing the previously used Bitcoin addresses. \
 To find out how to check all your BTC public addresses, please click [here](coin-send-receive/coins/how-to-view-all-the-btc-public-addresses.md).
-
-## Can I continue to use my Bitcoin address before the change?
 
 Since the D'CENT mobile app maintains a transaction record for all addresses, there is no problem to continue using the bitcoin address before the change. For more information about the Bitcoin address, please click [here](coin-send-receive/coins/how-to-view-all-the-btc-public-addresses.md).
 
@@ -162,7 +158,7 @@ Currently, only the PC environment supports firmware update. The firmware update
 
 Firmware update usually takes around 5 minutes. It may take up to 10 minutes. If there is no progress after this time, please press and hold both the "Down button" + "Power button" to force shutdown and try again. Detailed guide can be found [here](biometric-wallet/firmware-update-from-computer/firmware-trouble-shooting-windows.md).
 
-## Will I be able to continue managing my assets if D'CENT (IoTrust) goes broke?
+## Will I be able to continue managing my assets if D'CENT (IoTrust) goes out of business?
 
 Although highly unlike for D'CENT (IoTrust) to stop the wallet service, but if that situation ever happens, you will be able to continue managing your assets in the following ways.&#x20;
 
