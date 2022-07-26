@@ -83,6 +83,13 @@ If running the mobile app for the first time, you must choose a wallet mode. Cho
 
 ![](<../../.gitbook/assets/image (91).png>)
 
+Wallet mode can also be changed from the Manager tab on the bottom menu of D'CENT App. If you are using the Biometric hardware wallet, you must set the wallet mode on the D'CENT App to the Biometric Wallet mode.&#x20;
+
+{% hint style="info" %}
+**How to change wallet mode**\
+**Manager tab --> Switch D'CENT Wallet mode --> Biometric Wallet**&#x20;
+{% endhint %}
+
 ### Register password for Mobile App
 
 Register mobile app password for access protection. To set the password, enter the same 6-digit number twice. Mobile App password is required every time you run the D'CENT mobile app. Make sure to remember it.
