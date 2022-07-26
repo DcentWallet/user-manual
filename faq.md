@@ -152,7 +152,8 @@ D'CENT Biometric Wallet has been subjected to security inspection by a third-par
 
 ## Can I perform firmware update from my mobile phone?
 
-Currently, only the PC environment supports firmware update. The firmware update from the mobile environment is under development in the long-term roadmap.
+In general, the firmware update is performed by connecting the device to a personal computer. \
+For those in possession of the OTG cable, the firmware update can be performed directly from the mobile phone (**Android only**). OTG cable connection is not supported by Apple devices.
 
 ## Firmware update stopped in the middle. What should I do?&#x20;
 
