@@ -1,4 +1,13 @@
-# Connect with Nifty Wallet extension
+# Connect with Nifty Wallet extension (Discontinued)
+
+{% hint style="warning" %}
+**Nifty Wallet is discontinued.** \
+As a result of changing crypto market conditions and to continually improve support for our growing family of Gnosis Chain products, certain existing products will be retired in 2022. This list includes the **Nifty Wallet browser wallet**. Nifty Wallet extension will be delisted from Google Chrome web store in the near future.&#x20;
+{% endhint %}
+
+{% hint style="info" %}
+D'CENT users can connect with MetaMask as an alternative solution.
+{% endhint %}
 
 ## Using Nifty Wallet extension with Biometric wallet
 
