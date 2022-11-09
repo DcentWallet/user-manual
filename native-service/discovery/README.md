@@ -56,8 +56,23 @@
 * RSK
 * Klaytn
 * Tron
+* XDC Network
+* Avalanche C-Chain
+* Songbird
+* Flare
+* Fantom Opera
+* KCC
+* Harmony
+* Orbit Chain
+* Arbitrum
+* BOBA L2
+* Gnosis Chain
+* HECO
+* Celo
+* Cronos Chain
+* OEC
 
-### 테스트넷
+### &#x20; 테스트넷
 
 * Ethereum Testnet Ropsten
 * Ethereum Testnet Rinkeby
@@ -69,6 +84,10 @@
 * Flare Testnet Coston2
 * Klaytn Testnet Baobab
 * Tron Testnet Shasta
+* XDC Testnet APOTHEM
+* Arbitrum Testnet Rinkeby
+* Harmony Testnet
+* Orbit Chain Testnet
 
 ## 서비스 목록
 
