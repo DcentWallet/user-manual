@@ -56,6 +56,21 @@ You can see how to switch blockchain network of dapp-browser in the below link.
 * RSK
 * Klaytn
 * Tron
+* XDC Network
+* Avalanche C-Chain
+* Songbird
+* Flare
+* Fantom Opera
+* KCC
+* Harmony
+* Orbit Chain
+* Arbitrum
+* BOBA L2
+* Gnosis Chain
+* HECO
+* Celo
+* Cronos Chain
+* OEC
 
 ### Testnet
 
@@ -69,6 +84,10 @@ You can see how to switch blockchain network of dapp-browser in the below link.
 * Flare Testnet Coston2
 * Klaytn Testnet Baobab
 * Tron Testnet Shasta
+* XDC Testnet APOTHEM
+* Arbitrum Testnet Rinkeby
+* Harmony Testnet
+* Orbit Chain Testnet
 
 ## Listed Services
 
