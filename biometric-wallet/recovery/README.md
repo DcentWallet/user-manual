@@ -8,7 +8,7 @@
 
 ### 사용하던 콜드월렛을 이용하여 복구
 
-[콜드월렛의 설정의 메뉴를 통해 기기를 초기화](setting-menu.md#undefined-8) 한 후 지갑을 복구할 수 있습니다. 초기화 후에는 아래의 설명을 따라 복구하실 수 있습니다.&#x20;
+[콜드월렛의 설정의 메뉴를 통해 기기를 초기화](../setting-menu.md#undefined-8) 한 후 지갑을 복구할 수 있습니다. 초기화 후에는 아래의 설명을 따라 복구하실 수 있습니다.&#x20;
 
 {% hint style="warning" %}
 **"기기초기화"** 를 수행하면 현재 사용하던 지갑이 모두 삭제됩니다. 삭제 전에 복구 카드를 확인 하세요.&#x20;
@@ -26,13 +26,13 @@
 
 ∨ 버튼을 눌러 원하는 언어로 이동 후 OK 버튼을 누릅니다.
 
-![](<../.gitbook/assets/image (40).png>)
+![](<../../.gitbook/assets/image (40).png>)
 
 ### "지갑 복구" 선택
 
 지갑을 복구하기 위하여 "지갑 복구" 메뉴를 선택합니다.
 
-![](<../.gitbook/assets/image (174).png>)
+![](<../../.gitbook/assets/image (174).png>)
 
 ## 2단계 : PIN (4\~8자리) 및 지문 등록
 
@@ -42,13 +42,13 @@
 
 ∧(위, 숫자 증가) 또는 ∨(아래, 숫자 감소) 버튼을 이용하여 4\~8자리 PIN을 설정합니다. 원하는 숫자값이 정해지면 OK버튼을 눌러 해당 숫자를 입력합니다.
 
-![](<../.gitbook/assets/1 (3).png>)
+![](<../../.gitbook/assets/1 (3).png>)
 
 4자리를 입력하였다면 화면에 'OK' 텍스트가 표시됩니다. 4자리 PIN 등록을 원하는 경우 하드웨어 지갑의 OK버튼을 눌러줍니다.
 
 만약 4자리 이상의 PIN으로 설정을 원한다면 위/아래 버튼을 눌러서 (OK 텍스트)값을 변경해주세요. **PIN은 4자리에서 최대 8자리까지 설정이 가능합니다.**
 
-![](<../.gitbook/assets/2 (4).png>)
+![](<../../.gitbook/assets/2 (4).png>)
 
 PIN을 입력 후 '보안이 낮다는' 메세지가 표시될 수 있습니다. 이는 입력된 PIN의 보안 강도가 낮은 경우 표시되며 이와 상관없이 입력한 PIN을 사용하길 희망하는 경우 하드웨어 지갑의 OK버튼을 눌러주세요. ****&#x20;
 
@@ -56,35 +56,35 @@ PIN을 입력 후 '보안이 낮다는' 메세지가 표시될 수 있습니다.
 
 위에서 설정한 값과 같은 PIN을 입력합니다.
 
-![](<../.gitbook/assets/3 (3).png>)
+![](<../../.gitbook/assets/3 (3).png>)
 
 &#x20;※ 입력한 두 개의 PIN이 다른 경우 PIN 설정을 다시 해야 됩니다.
 
-PIN 값은 초기화가 끝난 이후에 [설정 메뉴](setting-menu.md)를 통해 변경할 수 있습니다.
+PIN 값은 초기화가 끝난 이후에 [설정 메뉴](../setting-menu.md)를 통해 변경할 수 있습니다.
 
 ### 지문 등록&#xD;
 
 1\) 지문 센서에 등록하실 손가락을 지문센서 위에 터치합니다.
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (14).png>)
 
-지문 센서는 콜드월렛 하단의 버튼 가운데에 있습니다. [지문센서의 위치](setting-up.md#before-start)를 확인해주세요.
+지문 센서는 콜드월렛 하단의 버튼 가운데에 있습니다. [지문센서의 위치](../setting-up.md#before-start)를 확인해주세요.
 
 2\) 같은 손가락을 100%가 될 때까지 위치를 조금씩 옮겨가며 터치합니다. (약 8회)
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9).png>)
 
 ### 지문 등록 확인
 
 등록한 손가락을 지문센서 위에 터치하여 지문 등록이 잘 되었는지 확인합니다.
 
-![](<../.gitbook/assets/image (44).png>)
+![](<../../.gitbook/assets/image (44).png>)
 
 ※ 지문 등록이 실패한 경우에는 처음부터 지문 등록 프로세스를 시작합니다.
 
 ※ 지문을 재등록 할 때는 다른 손가락을 사용하는 것이 좋습니다.
 
-※ 지문 등록이 실패한 경우에는 지문 등록을 건너뛸 수 있습니다. 나중에 [설정 메뉴](setting-menu.md)에서 등록할 수 있습니다.
+※ 지문 등록이 실패한 경우에는 지문 등록을 건너뛸 수 있습니다. 나중에 [설정 메뉴](../setting-menu.md)에서 등록할 수 있습니다.
 
 ※ 지문 등록 확인이 실패한 경우에 지문은 저장되지 않습니다.
 
@@ -92,15 +92,15 @@ PIN 값은 초기화가 끝난 이후에 [설정 메뉴](setting-menu.md)를 통
 
 1\) 복구 카드에 기록해 둔 24개의 복구 단어를 1번부터 차례대로 24번까지 입력합니다.
 
-![](<../.gitbook/assets/image (125).png>)
+![](<../../.gitbook/assets/image (125).png>)
 
 2\) 아래(∨) 버튼을 눌러 24개의 복구단어를 순서대로 잘 입력하였는지 검토합니다.
 
-![](../.gitbook/assets/untitled.jpg)
+![](../../.gitbook/assets/untitled.jpg)
 
 3\) 모든 단어가 올바르게 입력되었다면 검토 메뉴 가장 아래에 있는 "I am ready"를 선택합니다.
 
-![](<../.gitbook/assets/image (206).png>)
+![](<../../.gitbook/assets/image (206).png>)
 
 {% hint style="info" %}
 복구단어나 복구카드를 사진을 찍거나 이미지로 저장하지 마십시오. 사용자는 복구 단어를 안전하게 취급할 책임이 있습니다. 디센트는 복구카드 도난 또는 이미지 파일 저장과 같은 사용자의 부주의로 인한 암호 자산의 손상 또는 손실에 대해 배상 책임을 지지 않습니다.&#x20;
@@ -110,12 +110,12 @@ PIN 값은 초기화가 끝난 이후에 [설정 메뉴](setting-menu.md)를 통
 
 ## 4단계 : 지갑 복구 완료
 
-![](<../.gitbook/assets/image (136).png>)
+![](<../../.gitbook/assets/image (136).png>)
 
 지갑 복구 완료 후 하드웨어 지갑을 디센트 모바일 앱에 연결하여 동기화합니다. **과거에 생성한 모든 암호화폐 계정을 다시 추가해야 합니다.** (지갑 복구 후 쉽게 다시 추가할 수 있도록 생성한 계정 목록을 유지하세요.)
 
-* [안드로이드 폰과 연결해서 사용하기](android-connect/)
-* [아이폰과 연결해서 사용하기](iphone-connect.md)
+* [안드로이드 폰과 연결해서 사용하기](../android-connect/)
+* [아이폰과 연결해서 사용하기](../iphone-connect.md)
 
 {% hint style="info" %}
 ※ 디센트 지문인증형 콜드월렛에서 지원하는 전체 코인 리스트는 [https://dcentwallet.com/SupportedCoin](https://dcentwallet.com/SupportedCoin) 에서 확인할 수 있습니다.
@@ -129,7 +129,7 @@ PIN 값은 초기화가 끝난 이후에 [설정 메뉴](setting-menu.md)를 통
 
 디센트 콜드월렛 세팅이 끝난 후에는 홈페이지를 통해 하드웨어 업데이트를 꼭 확인해 보시기 바랍니다. 추가 코인, 콜드월렛 기능 추가 등 펌웨어가 업데이트 되었을 수 있습니다.
 
-펌웨어 업데이트에 대한 자세한 내용은 [여기를 참조](firmware-update-from-computer/)하세요.
+펌웨어 업데이트에 대한 자세한 내용은 [여기를 참조](../firmware-update-from-computer/)하세요.
 
 ## 레거시 주소 확인
 
@@ -137,6 +137,6 @@ PIN 값은 초기화가 끝난 이후에 [설정 메뉴](setting-menu.md)를 통
 
 자세한 내용은 아래 내용을 확인하세요.
 
-{% content-ref url="../troubleshooting/notes-on-wallet-recovery.md" %}
-[notes-on-wallet-recovery.md](../troubleshooting/notes-on-wallet-recovery.md)
+{% content-ref url="../../troubleshooting/notes-on-wallet-recovery.md" %}
+[notes-on-wallet-recovery.md](../../troubleshooting/notes-on-wallet-recovery.md)
 {% endcontent-ref %}

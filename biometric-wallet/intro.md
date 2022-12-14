@@ -16,8 +16,8 @@
 
 ## 지갑 복구
 
-{% content-ref url="recovery.md" %}
-[recovery.md](recovery.md)
+{% content-ref url="recovery/" %}
+[recovery](recovery/)
 {% endcontent-ref %}
 
 ## 펌웨어 관리
