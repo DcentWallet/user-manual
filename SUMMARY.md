@@ -20,7 +20,8 @@
   * [Troubleshooting Guide (Mac)](biometric-wallet/firmware-update-from-computer/troubleshooting-guide-mac.md)
 * [Firmware Update (from mobile)](biometric-wallet/firmware-update-from-mobile.md)
 * [Synchronizing the Biometric Wallet with the Mobile App](biometric-wallet/synch-with-app.md)
-* [Recovering your wallet](biometric-wallet/recovery.md)
+* [Recovering your wallet](biometric-wallet/recovery/README.md)
+  * [Wallet recovery using the mnemonic (recovery words) from the Ledger wallet](biometric-wallet/recovery/wallet-recovery-using-the-mnemonic-recovery-words-from-the-ledger-wallet.md)
 * [Checking account info on Biometric Wallet](biometric-wallet/account-info.md)
 * [Biometric Wallet "Setting" menu](biometric-wallet/setting-menu.md)
 

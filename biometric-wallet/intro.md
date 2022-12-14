@@ -16,8 +16,8 @@
 
 ## Recover Wallet
 
-{% content-ref url="recovery.md" %}
-[recovery.md](recovery.md)
+{% content-ref url="recovery/" %}
+[recovery](recovery/)
 {% endcontent-ref %}
 
 ## Firmware management

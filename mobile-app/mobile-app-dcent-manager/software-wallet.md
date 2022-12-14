@@ -35,7 +35,7 @@ You can recover your wallet by using the mnemonic code (24 recovery words).
 {% hint style="info" %}
 The mnemonic code from your software wallet can also be used to recover your wallet on the Biometric hardware wallet. \
 \
-Click here for more information about [recovering your wallet](../../biometric-wallet/recovery.md) on Biometric Wallet.
+Click here for more information about [recovering your wallet](../../biometric-wallet/recovery/) on Biometric Wallet.
 {% endhint %}
 
 {% hint style="warning" %}

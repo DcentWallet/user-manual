@@ -8,13 +8,13 @@ In case of Android, OpenSea can be found in the list.
 
 For iOS, you will need to do a search by entering "opensea" in the search bar. From the search result, click on the OpenSea site link.
 
-![](../.gitbook/assets/그림1.png)
+![](<../.gitbook/assets/그림1 (4).png>)
 
 Once you land on the OpenSea site, a message will be displayed asking for approval for connection. In general, most Dapp sites prioritize recognizing Ethereum address as the wallet account to connect with.
 
 If you need to choose a different network to connect to the site, press the cancel button on the message and click on the network icon located at the top-right corner to select the network of your choice.
 
-![](../.gitbook/assets/그림2.png)
+![](<../.gitbook/assets/그림2 (3).png>)
 
 ### How to bypass Klaytn connection issue at OpenSea site
 

@@ -46,7 +46,7 @@ To create a new wallet, select "Create Wallet" from the menu.
 
 {% hint style="info" %}
 Selecting "Create Wallet" will create a wallet from a new private key. \
-If you wish to recover an existing wallet, please refer [here](recovery.md).
+If you wish to recover an existing wallet, please refer [here](recovery/).
 {% endhint %}
 
 ## Step-2 : Register PIN & Fingerprint

@@ -16,7 +16,7 @@ Total tries on Card Wallet: 10 tries of PIN
 
 ## Will I lose my crypto assets if I lose my D'CENT Wallet?
 
-We provide a recovery function in case the wallet fails or the wallet is lost. You can restore the entire wallet using the 24 recovery words given when creating the wallet. For more details on wallet recovery, please click [here](biometric-wallet/recovery.md).
+We provide a recovery function in case the wallet fails or the wallet is lost. You can restore the entire wallet using the 24 recovery words given when creating the wallet. For more details on wallet recovery, please click [here](biometric-wallet/recovery/).
 
 ## Are crypto assets stored in the hardware wallet?
 
@@ -24,7 +24,7 @@ The crypto asset itself is not stored in the hardware wallet. Private keys are s
 
 ## How does the asset get recovered when I recover my wallet?
 
-It uses 24 recovery words to recreate the private key that the hardware device has stored in the past. The original crypto asset does not exist in the hardware wallet, but exists on the blockchain. The recovered key is used to retrieve the information of the existing cryptocurrency asset and display it in the mobile app. Click [here](biometric-wallet/recovery.md) to learn how to recover your wallet for fingerprint authentication type cold wallet.
+It uses 24 recovery words to recreate the private key that the hardware device has stored in the past. The original crypto asset does not exist in the hardware wallet, but exists on the blockchain. The recovered key is used to retrieve the information of the existing cryptocurrency asset and display it in the mobile app. Click [here](biometric-wallet/recovery/) to learn how to recover your wallet for fingerprint authentication type cold wallet.
 
 ## Does the manufacturer of D'CENT(IoTrust) know my private key?&#x20;
 
