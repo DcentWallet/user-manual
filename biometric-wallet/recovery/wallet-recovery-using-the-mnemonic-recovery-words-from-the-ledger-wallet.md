@@ -24,3 +24,21 @@
 * 리플 (XRP)&#x20;
 * 지캐시 (ZEC)&#x20;
 * 트론 (TRX)
+
+### 토큰 자산 복구하기 (예: ERC20, BEP20, TRC10, 등)
+
+렛저 지갑에서 토큰 자산도 보유했을 가능성이 있습니다. 토큰 자산이란 Ethereum, Binance Smart Chain, Tron, Polygon 등과 같은 EVM 호환 네트워크에 존재하는 스마트 컨트랙트를 통해 블록체인 프로젝트(서비스 제공자)가 직접발행한 디지털 자산입니다.
+
+각 EVM 호환 네트워크에는 토큰 자산에 대한 표준이 있으며 토큰 표준명을 알고있다면 어떤 네트워크에서 발행된 토큰자산인지 쉽게 구별할 수 있습니다. 예를들자면 이더리움 네크워크에서 발행된 토큰의 경우 '**ERC20**'과 같이 표시되며 바이낸스 스마트 체인 네트워크에 있는 토큰은 '**BEP20**', 트론 네트워크의 토큰은 '**TRC10**' 및 '**TRC20**', 폴리곤 네트워크의 토큰은 '**Polygon-ERC20**'과 같이 표시되어 있습니다.
+
+예를 들어 렛저 지갑에 **ETH** 코인과 **USDT** 토큰(ERC20)을 보관하고 있다고 가정해 보겠습니다. 이 자산을 복구하려면 디센트 지갑에 2개의 계정을 추가해야 합니다. 먼저 이더리움 계정을 추가하여 ETH 코인을 복구합니다. 다음으로 USDT(ERC20) 계정을 이더리움 계정에 연결하면 USDT 토큰을 찾을 수 있습니다.&#x20;
+
+디센트 지갑에서 지원(나열)된 디지털 자산은 아래 링크를 통해 쉽게 검색하실 수 있습니다.
+
+{% embed url="https://dcentwallet.com/SupportedCoin" %}
+
+찾고 있는 토큰 자산이 목록에 표시되지 않는 경우 사용자는 직접 해당 계정을 커스텀 토큰 계정으로 수동으로 추가할 수도 있습니다. 자세한 지침은 아래 가이드를 참조하세요.
+
+{% content-ref url="../../mobile-app/create-account/how-to-add-a-custom-token-account.md" %}
+[how-to-add-a-custom-token-account.md](../../mobile-app/create-account/how-to-add-a-custom-token-account.md)
+{% endcontent-ref %}
