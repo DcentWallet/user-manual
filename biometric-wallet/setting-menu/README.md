@@ -4,9 +4,9 @@
 
 This menu is for connecting Biometric Wallet via Bluetooth with Android phone or iOS phone.&#x20;
 
-For connecting Bluetooth for Android, more information can be found [here](android-connect/).\
+For connecting Bluetooth for Android, more information can be found [here](../android-connect/).\
 \
-For connecting Bluetooth for iOS, more information can be found [here](iphone-connect.md).&#x20;
+For connecting Bluetooth for iOS, more information can be found [here](../iphone-connect.md).&#x20;
 
 ## Security Menu
 
@@ -35,7 +35,7 @@ If there are 2 fingerprint data saved, both of them will be deleted at once.&#x2
 
 Delete Account menu is for erasing all **public** information of your wallet accounts. However, this will not delete any of the private keys associated to the wallet accounts you have created. When you synchronize your Biometric Wallet and with the Mobile App, you will notice that there is no account showing under the "Account" Tab. If you re-add a coin account from the Mobile App, your existing account will reappear.
 
-![](<../.gitbook/assets/image (106).png>)
+![](<../../.gitbook/assets/image (106).png>)
 
 {% hint style="info" %}
 This feature is useful if you have previously added many wallet accounts but they are no longer used or you do not wish to see them appear on the Mobile App.&#x20;
@@ -47,7 +47,7 @@ Before you perform the "Delete Account", make sure you keep track of which coin 
 
 Device Wipe is for resetting your Biometric Wallet to factory state. This means the Biometric Wallet will be in the same condition as if newly purchased.
 
-![](<../.gitbook/assets/image (203).png>)
+![](<../../.gitbook/assets/image (203).png>)
 
 If you perform the Device Wipe, your whole wallet will be deleted including all your private keys. \
 To perform Device Wipe, you must enter your PIN, read the warning message displayed and press OK button to confirm \[OK & OFF]. When device is powered on, you will notice that your Biometric Wallet is in the factory state.
@@ -64,6 +64,14 @@ After entering all 24 words, click "I am ready" on the next Review screen to sta
 
 If the 24 words you have entered are correct, it will be marked as "Match" on the screen.
 
+### 25th Word (the Passphrase)
+
+The passphrase (25th word) is an advanced security feature available on the D’CENT Biometric hardware wallet. It adds an extra word to your existing mnemonic code (24 words) to create a completely new set of private keys (accounts). You can find detailed information in the link below.
+
+{% content-ref url="25th-word-the-passphrase.md" %}
+[25th-word-the-passphrase.md](25th-word-the-passphrase.md)
+{% endcontent-ref %}
+
 ## Language Menu <a href="#undefined-2" id="undefined-2"></a>
 
 You can change the language used on the Biometric Wallet.
@@ -73,4 +81,4 @@ You can change the language used on the Biometric Wallet.
 You can check the Biometric Wallet device information from this menu.\
 
 
-![](<../.gitbook/assets/image (26).png>)
+![](<../../.gitbook/assets/image (26).png>)

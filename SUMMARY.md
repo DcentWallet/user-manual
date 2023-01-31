@@ -23,7 +23,8 @@
 * [Recovering your wallet](biometric-wallet/recovery/README.md)
   * [Wallet recovery using the mnemonic (recovery words) from the Ledger wallet](biometric-wallet/recovery/wallet-recovery-using-the-mnemonic-recovery-words-from-the-ledger-wallet.md)
 * [Checking account info on Biometric Wallet](biometric-wallet/account-info.md)
-* [Biometric Wallet "Setting" menu](biometric-wallet/setting-menu.md)
+* [Biometric Wallet "Setting" menu](biometric-wallet/setting-menu/README.md)
+  * [25th Word (the Passphrase)](biometric-wallet/setting-menu/25th-word-the-passphrase.md)
 
 ## Card type Wallet <a href="#card-wallet" id="card-wallet"></a>
 

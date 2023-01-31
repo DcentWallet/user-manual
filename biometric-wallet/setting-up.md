@@ -35,7 +35,7 @@ Use ∧(Up**)** or ∨(Down**)** button to select your language and press **OK**
 Language support : English, Korean, Chinese, Japanese, Spanish
 
 {% hint style="info" %}
-After setting up your cold wallet, you can change the Language from the [Setting](setting-menu.md) menu.
+After setting up your cold wallet, you can change the Language from the [Setting](setting-menu/) menu.
 {% endhint %}
 
 ### Select "Create Wallet"
@@ -77,7 +77,7 @@ Re-enter the same PIN you have set in the previous step to verify for correctnes
 &#x20;※ If the PIN numbers do not match, you will have to restart the PIN registration.
 
 {% hint style="info" %}
-After setting up your cold wallet, you can change the PIN value from the Biometric Wallet [Setting](setting-menu.md) menu.
+After setting up your cold wallet, you can change the PIN value from the Biometric Wallet [Setting](setting-menu/) menu.
 {% endhint %}
 
 ### Register Fingerprint&#xD;
@@ -103,7 +103,7 @@ Scan your fingerprint one last time to verify registered fingerprint.&#x20;
 
 ※ If re-registering fingerprint, try using a different finger instead.
 
-※ If unable to register your fingerprint for any reason, you will be given an option to skip the fingerprint registration. Fingerprint can be registered from the [Setting](setting-menu.md#enroll-finger) menu at a later time.
+※ If unable to register your fingerprint for any reason, you will be given an option to skip the fingerprint registration. Fingerprint can be registered from the [Setting](setting-menu/#enroll-finger) menu at a later time.
 
 ※ If fingerprint verification fails, your fingerprint will not be saved.
 

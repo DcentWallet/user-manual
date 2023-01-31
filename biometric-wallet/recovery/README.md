@@ -8,7 +8,7 @@ Your existing wallet can be recovered by entering all 24 words written down on t
 
 ### Recovering wallet after deleting data on D'CENT device&#x20;
 
-To perform wallet recovery, you must first [reset the Biometric Wallet through "**Device Wipe**" menu](../setting-menu.md#device-wipe). Once the device has been reset to the factory condition, follow the instructions from the section below to recover your wallet.&#x20;
+To perform wallet recovery, you must first [reset the Biometric Wallet through "**Device Wipe**" menu](../setting-menu/#device-wipe). Once the device has been reset to the factory condition, follow the instructions from the section below to recover your wallet.&#x20;
 
 {% hint style="warning" %}
 **"Device Wipe"** will delete all data inside your Biometric Wallet. Before you decide to wipe your device, make sure to check that you have your Recovery Card.
@@ -61,7 +61,7 @@ Re-enter the same PIN you have set in the previous step to verify for correctnes
 &#x20;※ If the PIN numbers do not match, you will have to restart the PIN registration.
 
 {% hint style="info" %}
-After setting up your cold wallet, you can change the PIN value from the [Setting](../setting-menu.md) menu.
+After setting up your cold wallet, you can change the PIN value from the [Setting](../setting-menu/) menu.
 {% endhint %}
 
 ### Register Fingerprint
@@ -87,7 +87,7 @@ Scan your fingerprint one last time to verify registered fingerprint.
 
 ※ If re-registering fingerprint, try using a different finger instead.
 
-※ If unable to register your fingerprint for any reason, you will be given an option to skip the fingerprint registration. Fingerprint can be registered from the [Setting](../setting-menu.md) menu at a later time.
+※ If unable to register your fingerprint for any reason, you will be given an option to skip the fingerprint registration. Fingerprint can be registered from the [Setting](../setting-menu/) menu at a later time.
 
 ※ If fingerprint verification fails, your fingerprint will not be saved.
 
