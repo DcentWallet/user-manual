@@ -40,7 +40,7 @@ From the OpenSea site, click on WalletConnect to see a screen with QR code.&#x20
 
 On the top-left corner of the Discovery Tab, click on the WalletConnect icon to activate the camera function on your phone. Point your camera to the PC monitor screen to read the QR code. Once recognized, WalletConnect will proceed to connect your D'CENT wallet account with OpenSea.
 
-![](../.gitbook/assets/그림5.png)
+![](<../.gitbook/assets/그림5 (2).png>)
 
 If you need to change the network from Ethereum to Polygon, click on the network icon located at the top-right corner to change. Then, use WalletConnect to connect your Polygon account with OpenSea.
 

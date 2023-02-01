@@ -77,6 +77,14 @@ _If you do not have an EVM account, please refer to user guide_ [_‘How to crea
 
 **f)** When the QR code scan is completed normally, it will be converted to the account selection page.
 
+<figure><img src="../.gitbook/assets/그림5.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+If the camera on your computer is having difficulty reading the QR code, **please try again after adjusting the screen brightness to max on your phone.**
+{% endhint %}
+
+****
+
 ![](<../.gitbook/assets/image (257).png>)
 
 **g)** On the account selection page, select **First account** and click **Unlock**.
