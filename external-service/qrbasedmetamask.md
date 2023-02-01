@@ -87,7 +87,7 @@ _(In the case of a D’CENT account, it doesn’t matter which account you choos
 
 ## Example of how to send ETH using MetaMask
 
-{% embed url="https://youtu.be/9iFz4mGvAyk" %}
+{% embed url="https://www.youtube.com/watch?v=9iFz4mGvAyk" %}
 
 ### \[Step 1] Create ETH transaction with MetaMask
 
