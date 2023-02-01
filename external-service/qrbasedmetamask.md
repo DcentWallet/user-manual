@@ -79,6 +79,14 @@ EVM계열 계정이 없는 경우, [계정 만들기 사용자 가이드](https:
 
 **f)** QR코드 스캔이 정상적으로 완료되면 계정 선택 확면으로 전환됩니다.
 
+<figure><img src="../.gitbook/assets/그림5.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+컴퓨터의 카메라에서 QR 코드가 인식되지 않는 경우 **핸드폰의 화면 밝기를 최대로 높여보시기 바랍니다.**&#x20;
+{% endhint %}
+
+
+
 ![](<../.gitbook/assets/image (247).png>)
 
 **g)** 계정 선택화면에서 **첫번째 계정**을 선택 후 **잠금 해제**를 클릭합니다.
