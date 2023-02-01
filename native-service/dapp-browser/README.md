@@ -24,7 +24,7 @@ Unlisted DApp services can be accessed by entering the **URL or through Google s
 
 Users can save the visiting service site as a favorite (or bookmark), which creates a **shortcut** for faster access the next time.
 
-![](../../.gitbook/assets/그림3.png)
+![](<../../.gitbook/assets/그림3 (2).png>)
 
 1\) Search for the name of the DApp service or enter the URL.
 
@@ -32,7 +32,7 @@ Users can save the visiting service site as a favorite (or bookmark), which crea
 
 3\) From the service site accessed, click on the Bookmark icon located at the bottom.
 
-![](../../.gitbook/assets/그림4.png)
+![](<../../.gitbook/assets/그림4 (1).png>)
 
 4\) Double check that the network used for accessing this site is correct and click on **Add** button.
 

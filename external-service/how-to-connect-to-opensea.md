@@ -22,7 +22,7 @@ Currently(April 2022), OpenSea supports connection to Ethereum, Polygon, and Kla
 
 When using Klaytn network with OpenSea site, you may experience that Klaytn address does not get recognized well, resulting in inability to connect wallet. To solve this issue, you can bookmark the visiting OpenSea page to add the site to your Favorites list. By accessing OpenSea site through the bookmark, you can stably connect Klaytn account with OpenSea.
 
-![](<../.gitbook/assets/그림3 (1) (1).png>)
+![](<../.gitbook/assets/그림3 (1) (1) (1).png>)
 
 **(1)** At OpenSea site, click on the **bookmark icon** located at the bottom menu. Set the network as “**Klaytn**” and click on **Add** button to save.
 
@@ -36,7 +36,7 @@ If you are accessing OpenSea site from a PC environment, you can use WalletConne
 
 From the OpenSea site, click on WalletConnect to see a screen with QR code.&#x20;
 
-![](<../.gitbook/assets/그림4 (1).png>)
+![](<../.gitbook/assets/그림4 (1) (1).png>)
 
 On the top-left corner of the Discovery Tab, click on the WalletConnect icon to activate the camera function on your phone. Point your camera to the PC monitor screen to read the QR code. Once recognized, WalletConnect will proceed to connect your D'CENT wallet account with OpenSea.
 

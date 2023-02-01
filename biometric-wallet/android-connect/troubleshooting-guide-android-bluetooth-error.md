@@ -42,7 +42,7 @@ Below is an example of how the Bluetooth application can be accessed from an **o
 Below is an example of how the Bluetooth application can be accessed from a **newer version of** **Android** phone.
 {% endhint %}
 
-![](<../../.gitbook/assets/그림1 (1) (1).png>)
+![](<../../.gitbook/assets/그림1 (1) (1) (1).png>)
 
 1\. Go to Settings and Click on **Apps** &#x20;
 

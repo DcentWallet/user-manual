@@ -73,8 +73,6 @@ _If you do not have an EVM account, please refer to user guide_ [_‘How to crea
 
 ![](<../.gitbook/assets/image (244).png>)
 
-
-
 **e)** Scan the QR code prepared in **\[Step 1]** using the camera on your computer.
 
 **f)** When the QR code scan is completed normally, it will be converted to the account selection page.
@@ -105,7 +103,7 @@ _(In the case of a D’CENT account, it doesn’t matter which account you choos
 
 **d)** Enter the sending address, set the desired amount, and click **Next**.
 
-![](<../.gitbook/assets/그림2 (2).png>)
+<figure><img src="../.gitbook/assets/그림1 (1).png" alt=""><figcaption></figcaption></figure>
 
 **e)** After checking the transaction details, click the **Confirm** button.
 
@@ -123,7 +121,7 @@ _(In the case of a D’CENT account, it doesn’t matter which account you choos
 
 **a-ii)** Or, click the **QR Scan** button at the top left of the Discovery tab.
 
-![](<../.gitbook/assets/image (250).png>)
+<figure><img src="../.gitbook/assets/그림2.png" alt=""><figcaption></figcaption></figure>
 
 **b)** Scan the signature request QR code generated in **\[Step 1]**.
 
@@ -139,13 +137,13 @@ _(In the case of a D’CENT account, it doesn’t matter which account you choos
 
 **d-ii)** In the case of App Wallet, enter the **password (6 digits)** registered at the first launch.
 
-![](<../.gitbook/assets/image (256).png>)
+![](<../.gitbook/assets/그림3 (1).png>)
 
 **e)** After signing, you can check the signature in QR code format.
 
 ### \[Step 3] Sending signed data to MetaMask
 
-![](<../.gitbook/assets/그림3 (1).png>)
+<figure><img src="../.gitbook/assets/그림4.png" alt=""><figcaption></figcaption></figure>
 
 **a)** Click the **Get Signature** button on the signature request page completed in **\[Step 1]**.
 

@@ -59,7 +59,7 @@ When the two devices have been paired successfully, the blue LED light will stop
 It is normal to see the message "An app is need to use this device" when you click on the D'CENT iD-xxxxxx that is listed under the paired devices. Nothing happens.
 {% endhint %}
 
-![](<../../.gitbook/assets/그림2 (1).png>)
+![](<../../.gitbook/assets/그림2 (1) (2).png>)
 
 If the biometric wallet device is registered on the mobile phone, the next time you use the D'CENT app, a Bluetooth connection between the mobile phone and the biometric wallet is automatically established.
 

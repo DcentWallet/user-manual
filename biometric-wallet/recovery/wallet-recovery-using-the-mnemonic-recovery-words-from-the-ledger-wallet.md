@@ -4,7 +4,7 @@ Both the Ledger wallet and the D'CENT wallet follow the same BIP standards for w
 
 Below is a screenshot that compares the account addresses (ie: BSC & ETH) between the Ledger wallet and D'CENT wallet. In this example, D'CENT wallet was recovered using the mnemonic code from the Ledger wallet. Notice how the addresses for the BSC and ETH accounts are the same because the wallet derivation paths are the same between these 2 wallet services.
 
-<figure><img src="../../.gitbook/assets/그림2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/그림2 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## List of recovery-compatible assets (mainnets)
 
