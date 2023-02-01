@@ -105,7 +105,7 @@ _(디센트 계정의 경우, QR스캔시 목록에 보이는 계정이 모두 �
 
 **d)** 보낼 주소를 입력하고 원하는 금액을 설정한 후 **다음**을 클릭합니다.
 
-![](<../.gitbook/assets/그림6 (2).png>)
+<figure><img src="../.gitbook/assets/그림1.png" alt=""><figcaption></figcaption></figure>
 
 **e)** 거래 내역을 확인한 후 **확인** 버튼을 클릭합니다.
 
@@ -123,7 +123,7 @@ _(디센트 계정의 경우, QR스캔시 목록에 보이는 계정이 모두 �
 
 **a-ii)** 또는, 디스커버리 탭 좌측 상단의 **QR스캔** 버튼을 터치합니다.
 
-![](<../.gitbook/assets/image (244) (1).png>)
+<figure><img src="../.gitbook/assets/그림2.png" alt=""><figcaption></figcaption></figure>
 
 **b)** QR코드 스캔 화면으로 전환되면, **\[Step 1]**에서 생성한 서명 요청 QR 코드를 스캔합니다.
 
@@ -137,13 +137,13 @@ _(디센트 계정의 경우, QR스캔시 목록에 보이는 계정이 모두 �
 
 **d-ii)** 앱 월렛인 경우, 처음 실행시 등록한 **비밀번호(6자리)**를 입력합니다.
 
-<img src="../.gitbook/assets/image (252).png" alt="" data-size="original">
+![](../.gitbook/assets/그림3.png)
 
 **e)** 서명이 완료되면 QR코드 형식의 서명을 확인할 수 있습니다.
 
 ### \[Step 3] 생성된 서명을 메타마스크로 보내기 <a href="#step-3-sending-signed-data-to-metamask" id="step-3-sending-signed-data-to-metamask"></a>
 
-![](../.gitbook/assets/그림7.png)
+<figure><img src="../.gitbook/assets/그림4 (3).png" alt=""><figcaption></figcaption></figure>
 
 **a)** 메타마스크의 서명 요청 화면에서 **서명 받기** 버튼을 클릭합니다.
 
