@@ -28,15 +28,15 @@ Below is an example of how the Bluetooth application can be accessed from an **o
 ![](<../../.gitbook/assets/4 (6).png>)
 
 3\) Click on **3 dot icon (or ellipsis)**\
-****4) Click on **Show system apps**
+4\) Click on **Show system apps**
 
 ![](<../../.gitbook/assets/5 (4).png>)
 
 5\) Click on **Bluetooth Application**\
-****6) Click on **Storage**\
-****7) Click on **Clear data and cache**
+6\) Click on **Storage**\
+7\) Click on **Clear data and cache**
 
-****
+
 
 {% hint style="success" %}
 Below is an example of how the Bluetooth application can be accessed from a **newer version of** **Android** phone.

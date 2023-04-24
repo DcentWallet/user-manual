@@ -3,7 +3,7 @@
 ![](<../../.gitbook/assets/bsc-main (1).png>)
 
 **D'CENT Wallet supports Binance Smart Chain (BSC) and BEP20 tokens**\
-****The firmware (**v.2.6.0 or higher**) for D’CENT Biometric Wallet supports Binance Smart Chain and the BEP20 protocol. Additionally, the D’CENT Mobile App (**v.5.1.0 or higher**) will also support Binance Smart Chain and BEP20 tokens.
+The firmware (**v.2.6.0 or higher**) for D’CENT Biometric Wallet supports Binance Smart Chain and the BEP20 protocol. Additionally, the D’CENT Mobile App (**v.5.1.0 or higher**) will also support Binance Smart Chain and BEP20 tokens.
 
 ### What is Binance Smart Chain?
 
@@ -19,7 +19,7 @@ If you are using an older version of the firmware on D’CENT Biometric Wallet, 
 👉 [**Official Firmware Update Site**](https://dcentwallet.com/support/FirmwareUpdate)
 
 You can also find a fully detailed instructions guide below.\
-👉 [**Firmware update user guide**](https://userguide.dcentwallet.com/biometric-wallet/firmware-update)****
+👉 [**Firmware update user guide**](https://userguide.dcentwallet.com/biometric-wallet/firmware-update)
 
 ## How to add Binance Smart Chain account in D’CENT Wallet
 

@@ -35,7 +35,7 @@ Discovery is a browsing function that allows you to use blockchain-based decentr
 
 ![](https://cdn-images-1.medium.com/max/800/1\*T0JpqGlDeqNxfL\_r\_rAGqw.png)
 
-**1)** From the discovery tab, enter the following URL for Polygon bridge site: [**https://wallet.matic.network**](https://wallet.matic.network)****\
+**1)** From the discovery tab, enter the following URL for Polygon bridge site: [**https://wallet.matic.network**](https://wallet.matic.network)\
 **2)** At the bridge site, select **Metamask** as a wallet to login with\
 **3)** Continue by clicking OK button\
 **4)** Site login will require a signature. Click OK and authenticate(sign) with a fingerprint or PIN

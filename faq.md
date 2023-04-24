@@ -200,7 +200,7 @@ The original Card type wallet can be backed up using a BACKUP Card wallet. More 
 ## Can I use the Card type Wallet on the iPhone?&#x20;
 
 For iPhone 7 or higher and iOS 13 or higher, you can use the Card type Wallet. \
-You can find out more [here](card-wallet/how-to-use-iphone.md).
+You can find out more [here](broken-reference).
 
 ## Where does D'CENT retrieve exchange rate values for cryptocurrencies in its wallets?
 

@@ -21,9 +21,9 @@ For any inquiries about use of the service, please make sure to first check out 
 
 If assistance is required, please reach out to the service's support with your Exchange (Swap) ID.
 
-[**Changelly Support**](https://support.changelly.com/en/support/tickets/new)****
+[**Changelly Support**](https://support.changelly.com/en/support/tickets/new)
 
-****[**ChangeNOW Support**](https://support.changenow.io/hc/en-us/requests/new)****
+[**ChangeNOW Support**](https://support.changenow.io/hc/en-us/requests/new)
 {% endhint %}
 
 ## How to exchange your cryptocurrency

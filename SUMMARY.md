@@ -26,17 +26,15 @@
 * [Biometric Wallet "Setting" menu](biometric-wallet/setting-menu/README.md)
   * [25th Word (the Passphrase)](biometric-wallet/setting-menu/25th-word-the-passphrase.md)
 
-## Card type Wallet <a href="#card-wallet" id="card-wallet"></a>
+## Card Wallet
 
-* [Card type Wallet](card-wallet/intro.md)
-* [Specifications](card-wallet/appearance.md)
-* [Using Android mobile phone](card-wallet/how-to-use-android.md)
-* [Using iOS mobile phone](card-wallet/how-to-use-iphone.md)
-* [Caution on using the Card type Wallet](card-wallet/caution-on-using-the-card-type-wallet.md)
-* [D'CENT Backup Card Guide (New version)](card-wallet/backupcard-new/README.md)
-  * [Create backup image](card-wallet/backupcard-new/create-backup-image.md)
-  * [Recover backup image](card-wallet/backupcard-new/recover-backup-image.md)
-* [D'CENT Backup Card Guide (Old version)](card-wallet/backupcard-old.md)
+* [All-in-One Wallet (Introduction)](card-wallet/intro/README.md)
+  * [Set up your All-in-One Wallet](card-wallet/intro/set-up-your-all-in-one-wallet.md)
+  * [How to use the All-in-One Wallet](card-wallet/intro/how-to-use-the-all-in-one-wallet.md)
+* [D'CENT Backup Card (Wallet Recovery)](card-wallet/dcent-backup-card-wallet-recovery/README.md)
+  * [Step 1: Set up your Backup Card](card-wallet/dcent-backup-card-wallet-recovery/step-1-set-up-your-backup-card.md)
+  * [Step 2: Create backup image](card-wallet/dcent-backup-card-wallet-recovery/step-2-create-backup-image.md)
+  * [Step 3: Recover backup image](card-wallet/dcent-backup-card-wallet-recovery/step-3-recover-backup-image.md)
 
 ## Mobile App
 

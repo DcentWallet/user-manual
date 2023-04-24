@@ -14,5 +14,5 @@ If a website does not show D'CENT, you can click on either **Metamask or Web3** 
 
 {% hint style="info" %}
 **Web3 = D'CENT = Metamask**\
-****Selecting any one of these options from the website will connect D'CENT wallet to the service.
+Selecting any one of these options from the website will connect D'CENT wallet to the service.
 {% endhint %}

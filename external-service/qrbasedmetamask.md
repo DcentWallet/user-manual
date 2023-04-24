@@ -77,13 +77,13 @@ _If you do not have an EVM account, please refer to user guide_ [_‘How to crea
 
 **f)** When the QR code scan is completed normally, it will be converted to the account selection page.
 
-<figure><img src="../.gitbook/assets/그림5 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/그림5 (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If the camera on your computer is having difficulty reading the QR code, **please try again after adjusting the screen brightness to max on your phone.**
 {% endhint %}
 
-****
+
 
 ![](<../.gitbook/assets/image (257).png>)
 
@@ -111,7 +111,7 @@ _(In the case of a D’CENT account, it doesn’t matter which account you choos
 
 **d)** Enter the sending address, set the desired amount, and click **Next**.
 
-<figure><img src="../.gitbook/assets/그림1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/그림1 (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 **e)** After checking the transaction details, click the **Confirm** button.
 
@@ -129,7 +129,7 @@ _(In the case of a D’CENT account, it doesn’t matter which account you choos
 
 **a-ii)** Or, click the **QR Scan** button at the top left of the Discovery tab.
 
-<figure><img src="../.gitbook/assets/그림2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/그림2 (5).png" alt=""><figcaption></figcaption></figure>
 
 **b)** Scan the signature request QR code generated in **\[Step 1]**.
 
@@ -145,18 +145,18 @@ _(In the case of a D’CENT account, it doesn’t matter which account you choos
 
 **d-ii)** In the case of App Wallet, enter the **password (6 digits)** registered at the first launch.
 
-![](<../.gitbook/assets/그림3 (1).png>)
+![](<../.gitbook/assets/그림3 (1) (2).png>)
 
 **e)** After signing, you can check the signature in QR code format.
 
 ### \[Step 3] Sending signed data to MetaMask
 
-<figure><img src="../.gitbook/assets/그림4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/그림4 (5).png" alt=""><figcaption></figcaption></figure>
 
 **a)** Click the **Get Signature** button on the signature request page completed in **\[Step 1]**.
 
 **b)** Scan the QR code prepared in **\[Step 2]** using the camera on your computer.
 
-![](<../.gitbook/assets/그림4 (2).png>)
+![](<../.gitbook/assets/그림4 (2) (1).png>)
 
 **c)** After scanning the QR code, you can check the transaction history in the Activity tab.

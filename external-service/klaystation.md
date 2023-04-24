@@ -32,7 +32,7 @@ From the Klaystation, users can stake KLAY using Kaikas wallet and D'CENT Biomet
 
 ![](../.gitbook/assets/klaystation-8\_en.png)
 
-**Step 7)** The final confirmation of the staking transaction must be authorized from the D'CENT Biometric wallet. From the hardware wallet, press the **Confirm** button and **authenticate yourself** using fingerprint or PIN to finalize the transaction. ****&#x20;
+**Step 7)** The final confirmation of the staking transaction must be authorized from the D'CENT Biometric wallet. From the hardware wallet, press the **Confirm** button and **authenticate yourself** using fingerprint or PIN to finalize the transaction. &#x20;
 
 ![](../.gitbook/assets/klaystation-9.png)
 

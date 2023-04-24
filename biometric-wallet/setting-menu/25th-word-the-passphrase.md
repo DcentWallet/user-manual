@@ -38,4 +38,3 @@ Click on the "**OK**" button on the device to proceed. You will be prompted to e
 
 **Step 5)** After completing Step 4 above, your Biometric wallet will power down automatically. Power on your Biometric wallet and your wallet will have an entirely new set of private keys (accounts).
 
-****

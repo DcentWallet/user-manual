@@ -46,7 +46,7 @@ If you don't have a polygon account, please create a polygon account first.
 
 
 
-## Create New Item **** (NFT)
+## Create New Item (NFT)
 
 ![](<../.gitbook/assets/5 (6).png>)
 

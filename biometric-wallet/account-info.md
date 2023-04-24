@@ -28,7 +28,7 @@ If there are too many unused accounts and you want to delete account information
 \
 1\) On your Biometric Wallet, navigate to **Setting** -> **Security** -> **Delete Account**
 
-2\) **** Enter your PIN and when you confirm the warning message by OK button, all your account info will be deleted.\
+2\) Enter your PIN and when you confirm the warning message by OK button, all your account info will be deleted.\
 \
 3\) Synchronize with your mobile app and you will notice that there is no account shown on the mobile app screen.
 

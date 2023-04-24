@@ -38,10 +38,10 @@ description: Welcome to D'CENT User Guide.
 
 ## D'CENT Card type Wallet
 
-{% content-ref url="card-wallet/how-to-use-android.md" %}
-[how-to-use-android.md](card-wallet/how-to-use-android.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="card-wallet/how-to-use-iphone.md" %}
-[how-to-use-iphone.md](card-wallet/how-to-use-iphone.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
