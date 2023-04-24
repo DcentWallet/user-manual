@@ -78,7 +78,7 @@
 
 ![](../../.gitbook/assets/mac02.png)
 
-**Finder**에서 **Applications** 메뉴로 이동하여**D'CENT Bridge Program**을 **** 확인합니다. 해당 프로그램을 클릭하고 **Open** 을 클릭합니다.
+**Finder**에서 **Applications** 메뉴로 이동하여**D'CENT Bridge Program**을 확인합니다. 해당 프로그램을 클릭하고 **Open** 을 클릭합니다.
 
 ![](../../.gitbook/assets/mac03.png)
 

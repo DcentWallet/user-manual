@@ -35,7 +35,7 @@
 
 ![](https://cdn-images-1.medium.com/max/800/1\*T0JpqGlDeqNxfL\_r\_rAGqw.png)
 
-**1)** 디스커버리 탭에서 폴리곤 브릿지 사이트 URL 입력: [**https://wallet.matic.network**](https://wallet.matic.network)****\
+**1)** 디스커버리 탭에서 폴리곤 브릿지 사이트 URL 입력: [**https://wallet.matic.network**](https://wallet.matic.network)\
 **2)** 사이트에 로그인시 사용할 지갑을 **Metamask**로 선택\
 **3)** 사이트에 로그인을 진행하려면 OK 버튼 클릭\
 **4)** 사이트 로그인에 필요한 서명을 진행하려면 OK 버튼 클릭 후 지갑에서 인증 (지문인증 or 비밀번호)

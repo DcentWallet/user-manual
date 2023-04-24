@@ -58,7 +58,7 @@ description: 현재 콜드월렛에 설정되어 있는 복구 단어(니모닉�
 
     **3개 알파벳 찾기**
 
-    &#x20;**** ![](<../.gitbook/assets/슬라이드5 (9).PNG>)****![](../.gitbook/assets/슬라이드6.PNG)****
+    &#x20;![](<../.gitbook/assets/슬라이드5 (9).PNG>)![](../.gitbook/assets/슬라이드6.PNG)
 
     ※ 입력방법 : ∧(a에서 z로 이동) 또는 ∨(z에서 a로 이동) 버튼을 이용
 

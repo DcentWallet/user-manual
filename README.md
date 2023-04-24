@@ -38,10 +38,10 @@ description: 디센트 사용자 가이드에 오신 것을 환영합니다.
 
 ## 디센트 카드타입 콜드월렛
 
-{% content-ref url="card-wallet/how-to-use-android.md" %}
-[how-to-use-android.md](card-wallet/how-to-use-android.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="card-wallet/how-to-use-iphone.md" %}
-[how-to-use-iphone.md](card-wallet/how-to-use-iphone.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

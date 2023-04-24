@@ -17,7 +17,7 @@ description: 디센트 지문인증형 하드웨어 지갑과 카이카스 지�
 **Step 1)** 먼저 디센트 브릿지 프로그램을 PC에 다운로드하여 설치하시기 바랍니다. 브릿지 프로그램을 설치하면 PC의 브라우저와 하드웨어 지갑 간의 통신을 가능하게 합니다.
 
 \[**디센트 브릿지 프로그램 다운로드**]\
-[Download D’CENT bridge program](https://bridge.dcentwallet.com/v2/download)****
+[Download D’CENT bridge program](https://bridge.dcentwallet.com/v2/download)
 
 **Step 2)** PC의 USB 포트에 디센트 지문인증형 지갑을 연결하고 사용자 인증을 통해 하드웨어 지갑을 언락(unlock)합니다.
 

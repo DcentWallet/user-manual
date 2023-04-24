@@ -18,9 +18,9 @@
 
 도움이 필요한 경우 Exchange(Swap) ID로 사용하신 서비스의 지원팀에 문의하세요.
 
-[**Changelly Support**](https://support.changelly.com/en/support/tickets/new)****
+[**Changelly Support**](https://support.changelly.com/en/support/tickets/new)
 
-****[**ChangeNOW Support**](https://support.changenow.io/hc/en-us/requests/new)****
+[**ChangeNOW Support**](https://support.changenow.io/hc/en-us/requests/new)
 {% endhint %}
 
 ## 암호화폐 교환하는 방법

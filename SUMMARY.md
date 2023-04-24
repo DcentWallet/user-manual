@@ -29,15 +29,13 @@
 
 ## 카드타입 콜드월렛 <a href="#card-wallet" id="card-wallet"></a>
 
-* [카드 타입 콜드월렛 소개](card-wallet/intro.md)
-* [카드 타입 콜드월렛 구성](card-wallet/appearance.md)
-* [안드로이드에서 사용하기](card-wallet/how-to-use-android.md)
-* [아이폰에서 사용하기](card-wallet/how-to-use-iphone.md)
-* [카드 타입 콜드월렛 사용시 주의 사항](card-wallet/caution-on-using-the-card-type-wallet.md)
-* [디센트 카드 지갑 백업 및 복구 방법](card-wallet/backupcard-new/README.md)
-  * [백업 이미지 생성](card-wallet/backupcard-new/create-backup-image.md)
-  * [백업 이미지 복구](card-wallet/backupcard-new/recover-backup-image.md)
-* [디센트 백업카드 사용법 (구버전)](card-wallet/backupcard-old.md)
+* [올인원 지갑 (소개)](card-wallet/intro/README.md)
+  * [올인원 지갑 설정하기](card-wallet/intro/set-up-your-all-in-one-wallet.md)
+  * [올인원 지갑 사용 방법](card-wallet/intro/how-to-use-the-all-in-one-wallet.md)
+* [디센트 백업 카드 (지갑 복구)](card-wallet/dcent-backup-card-wallet-recovery/README.md)
+  * [Step 1: 백업 카드 설정하기](card-wallet/dcent-backup-card-wallet-recovery/step-1-set-up-your-backup-card.md)
+  * [Step 2: 백업 이미지 생성](card-wallet/dcent-backup-card-wallet-recovery/step-2-create-backup-image.md)
+  * [Step 3: 백업 이미지 복구](card-wallet/dcent-backup-card-wallet-recovery/step-3-recover-backup-image.md)
 
 ## 모바일 앱 <a href="#mobile-app" id="mobile-app"></a>
 
