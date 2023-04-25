@@ -38,10 +38,10 @@ description: Welcome to D'CENT User Guide.
 
 ## D'CENT Card type Wallet
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="card-wallet/intro/" %}
+[intro](card-wallet/intro/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="card-wallet/dcent-backup-card-wallet-recovery/" %}
+[dcent-backup-card-wallet-recovery](card-wallet/dcent-backup-card-wallet-recovery/)
 {% endcontent-ref %}
