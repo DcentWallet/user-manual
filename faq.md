@@ -195,12 +195,12 @@ Since each wallet is a separate wallet, they all use different keys. Assuming th
 
 ## How to back up Card type Wallet?&#x20;
 
-The original Card type wallet can be backed up using a BACKUP Card wallet. More information on a BACKUP Card can be found [here](https://userguide.dcentwallet.com/card-wallet/backupcard-new).
+The original Card type wallet can be backed up using a BACKUP Card wallet. More information on a BACKUP Card can be found [here](card-wallet/dcent-backup-card-wallet-recovery/).
 
 ## Can I use the Card type Wallet on the iPhone?&#x20;
 
 For iPhone 7 or higher and iOS 13 or higher, you can use the Card type Wallet. \
-You can find out more [here](broken-reference).
+You can find out more [here](card-wallet/intro/).
 
 ## Where does D'CENT retrieve exchange rate values for cryptocurrencies in its wallets?
 
