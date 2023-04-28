@@ -131,7 +131,7 @@ _(디센트 계정의 경우, QR스캔시 목록에 보이는 계정이 모두 �
 
 **a-ii)** 또는, 디스커버리 탭 좌측 상단의 **QR스캔** 버튼을 터치합니다.
 
-<figure><img src="../.gitbook/assets/그림2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/그림2 (1).png" alt=""><figcaption></figcaption></figure>
 
 **b)** QR코드 스캔 화면으로 전환되면, **\[Step 1]**에서 생성한 서명 요청 QR 코드를 스캔합니다.
 

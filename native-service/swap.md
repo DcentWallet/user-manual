@@ -18,7 +18,7 @@
 
 **3)** 지갑을 연결합니다. 허용을 눌러서 간단히 연결할 수 있습니다. 선택한 네트워크에 한 개 이상의 계정이 존재해야 합니다. <연결 계정 변경> 을 눌러 메인 네트워크 계정을 변경할 수 있습니다.
 
-<img src="../.gitbook/assets/그림4 (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/그림4 (1) (2).png" alt="" data-size="original">
 
 ## **토큰 스왑 진행하기**  <a href="#start-swapping" id="start-swapping"></a>
 

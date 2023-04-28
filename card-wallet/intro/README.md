@@ -1,10 +1,12 @@
 # 올인원 지갑 (소개)
 
+<figure><img src="../../.gitbook/assets/그림4 (1).png" alt=""><figcaption></figcaption></figure>
+
 ## 디센트 올인원 지갑이란?
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
 **디센트 올인원 지갑**은 암호화폐 자산을 안전하고 편리하게 보관하고 관리할 수 있는 방법을 찾는 모든 분들을 위한 최고의 솔루션입니다. <mark style="color:red;">은행 등급 인증을 받은 보안 칩셋과 개인키를 위한 암호화된 저장소</mark>를 통해 사용자는 자산을 안전하게 보호할 수 있습니다.&#x20;
+
+<figure><img src="../../.gitbook/assets/그림2.png" alt=""><figcaption></figcaption></figure>
 
 디센트 올인원 지갑은 이더리움, 바이낸스 스마트 체인, 폴리곤, 클레이튼, XDC 네트워크 및 기타 여러 인기 스마트 컨트랙트 플랫폼을 포함해 <mark style="color:red;">20개 이상의 이더리움 EVM 호환 블록체인 네트워크를 지원</mark>합니다.
 

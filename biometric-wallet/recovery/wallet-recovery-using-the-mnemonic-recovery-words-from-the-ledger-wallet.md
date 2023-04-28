@@ -4,7 +4,7 @@
 
 아래는 렛저 지갑과 디센트 지갑의 계정 주소(예: BSC & ETH)를 비교한 스크린샷입니다. 이 예제에서는 렛저 지갑의 니모닉 코드(복구 단어)를 사용하여 디센트 지갑을 복구한  경우입니다. 이 두 지갑 서비스 간에 지갑 생성 경로가 동일하기 때문에 BSC 및 ETH 계정의 주소가 동일하게 생성되었습니다.
 
-<figure><img src="../../.gitbook/assets/그림2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/그림2 (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## 복구 호환 자산 목록&#x20;
 
