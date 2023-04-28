@@ -12,7 +12,7 @@ To create a backup image,  please have your <mark style="background-color:green;
 
 **3.** Click on '**Start Backup**'.
 
-<figure><img src="../../.gitbook/assets/그림2 (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/그림2 (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 **4.** On the back of your phone, **tap the All-in-One Wallet**.&#x20;
 
@@ -32,7 +32,7 @@ The encryption password is constructed of alphabet and number characters. Make s
 
 **9.** Click on '**Share backup image**'.&#x20;
 
-<figure><img src="../../.gitbook/assets/그림4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/그림4 (1).png" alt=""><figcaption></figcaption></figure>
 
 **10.** Click on '**Continue**'.
 

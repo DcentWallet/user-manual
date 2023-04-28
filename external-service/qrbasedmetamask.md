@@ -151,7 +151,7 @@ _(In the case of a D’CENT account, it doesn’t matter which account you choos
 
 ### \[Step 3] Sending signed data to MetaMask
 
-<figure><img src="../.gitbook/assets/그림4 (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/그림4 (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 **a)** Click the **Get Signature** button on the signature request page completed in **\[Step 1]**.
 

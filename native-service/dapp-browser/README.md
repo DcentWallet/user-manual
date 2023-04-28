@@ -32,7 +32,7 @@ Users can save the visiting service site as a favorite (or bookmark), which crea
 
 3\) From the service site accessed, click on the Bookmark icon located at the bottom.
 
-![](<../../.gitbook/assets/그림4 (1).png>)
+![](<../../.gitbook/assets/그림4 (1) (2).png>)
 
 4\) Double check that the network used for accessing this site is correct and click on **Add** button.
 

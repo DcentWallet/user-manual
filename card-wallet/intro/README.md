@@ -1,10 +1,12 @@
 # All-in-One Wallet (Introduction)
 
+<figure><img src="../../.gitbook/assets/그림4 (5).png" alt=""><figcaption></figcaption></figure>
+
 ## What is D'CENT All-in-One Wallet?
 
-<figure><img src="../../.gitbook/assets/그림13.png" alt=""><figcaption></figcaption></figure>
-
 The **D'CENT All-in-One Wallet** is the ultimate solution for anyone looking for a secure and convenient way to store and manage their cryptocurrency assets. With its <mark style="color:red;">bank-grade certified secure chipset and encrypted storage for private keys</mark>, users can rest assured that their assets are safe and secure.&#x20;
+
+<figure><img src="../../.gitbook/assets/그림2 (8).png" alt=""><figcaption></figcaption></figure>
 
 The D'CENT All-in-One Wallet <mark style="color:red;">supports over 20+ Ethereum EVM-compatible blockchain networks</mark>, including Ethereum, Binance Smart Chain, Polygon, Klaytn, XDC Network, and many other popular smart contracts platforms.
 
