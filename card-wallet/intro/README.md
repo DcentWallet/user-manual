@@ -1,6 +1,6 @@
 # All-in-One Wallet (Introduction)
 
-<figure><img src="../../.gitbook/assets/그림4 (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/그림3 (1).png" alt=""><figcaption><p>D'CENT All-in-One card type wallet - the ultimate hardware wallet for the EVM compatible networks</p></figcaption></figure>
 
 ## What is D'CENT All-in-One Wallet?
 

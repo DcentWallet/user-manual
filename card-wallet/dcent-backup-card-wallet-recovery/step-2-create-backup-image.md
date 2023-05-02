@@ -24,7 +24,7 @@ To create a backup image,  please have your <mark style="background-color:green;
 The encryption password is constructed of alphabet and number characters. Make sure to perfectly remember this password. Without it, you will not be able to recover your wallet.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/그림3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/그림3 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **7.** Enter the **PIN of the All-in-One Wallet**.
 
