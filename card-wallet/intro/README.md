@@ -1,6 +1,6 @@
 # 올인원 지갑 (소개)
 
-<figure><img src="../../.gitbook/assets/그림3 (5).png" alt=""><figcaption><p>디센트 올인원 지갑 - EVM 호환 네트워크를 위한 완벽한 카드형 하드웨어 지갑</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/그림5 (8).png" alt=""><figcaption><p>디센트 올인원 지갑 — 이더리움 EVM 호환 네트워크를 위한 가장 혁신적인 카드형 하드웨어 지갑</p></figcaption></figure>
 
 ## 디센트 올인원 지갑이란?
 
