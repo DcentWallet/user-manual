@@ -18,5 +18,8 @@
 
 4\) 현재 사용 중인 카드타입 콜드월렛을 모바일 폰에 태깅해주세요.
 
-![](../../.gitbook/assets/image%20%28191%29.png)
+<div align="left">
 
+<img src="../../.gitbook/assets/image (191).png" alt="">
+
+</div>

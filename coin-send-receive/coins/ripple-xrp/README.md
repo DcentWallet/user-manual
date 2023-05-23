@@ -11,11 +11,19 @@
 
 &#x20;거래소에서 사용되는 리플 지갑은 동일한 주소를 사용합니다. 즉, 사용자#1, 사용자#2, 사용자#3, 모두 같은 리플 주소를 사용함으로 사용자의 계정을 구별하기 위해 고유 식별 번호 (Destination Tag)를 할당하여 관리합니다. **따라서, 거래소에서 생성한 리플 계정 주소로 송금을 보낼 경우 반드시 Destination Tag를 입력해야 사용자의 거래소 지갑 계정으로 정상적인 입금이 완료됩니다**.
 
-![](../../../.gitbook/assets/exchange\_xrp\_account.png)
+<div align="left">
+
+<img src="../../../.gitbook/assets/exchange_xrp_account.png" alt="">
+
+</div>
 
 ## 거래소에서 존재하는 리플 지갑 계정 (예시)
 
-![](../../../.gitbook/assets/binance\_xrp\_account.png)
+<div align="left">
+
+<img src="../../../.gitbook/assets/binance_xrp_account.png" alt="">
+
+</div>
 
 바이낸스와 같은 거래소에서 존재하는 리플 계정의 예시를 보겠습니다.\
 리플 (XRP) 입금을 누르면 위 그림과 같이 XRP 입금 Tag (**9자리 고유 번호**)가 표시됩니다.\

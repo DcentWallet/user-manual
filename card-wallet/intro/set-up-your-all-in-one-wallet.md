@@ -10,7 +10,11 @@ iOS 휴대폰의 경우 NFC 기능이 기본적으로 활성화되어 있습니�
 
 Android의 경우 NFC 기능을 '**표준/기본 모드**'로 활성화합니다.
 
-![](<../../.gitbook/assets/image (199).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (199).png" alt="">
+
+</div>
 
 ## 디센트 앱 설치 (Android & iOS)
 

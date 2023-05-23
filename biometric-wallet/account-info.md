@@ -10,7 +10,11 @@
 
 콜드 월렛에서 계정 정보를 확인하기 위해서는 초기 화면에서 해당 코인을 선택하면 가능합니다.
 
-![](<../.gitbook/assets/1 (12).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/1 (12).png" alt="">
+
+</div>
 
 모바일 앱과 연결하여 계정을 생성하는 방법은 [여기](../mobile-app/create-account/)를 참조해 주세요.
 
@@ -20,7 +24,11 @@
 
 모바일 앱을 사용하지 않고도 콜드월렛에서 계정 주소와 계정 주소의 QR 코드를 확인할 수 있습니다.
 
-![](<../.gitbook/assets/2 (10).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/2 (10).png" alt="">
+
+</div>
 
 ## 콜드 월렛에서 계정 정보 삭제
 

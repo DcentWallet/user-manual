@@ -44,8 +44,8 @@
 
 아래 링크에서 디스커버리 탭 사용에 대한 자세한 정보를 확인할 수 있습니다.
 
-{% content-ref url="../../native-service/discovery/" %}
-[discovery](../../native-service/discovery/)
+{% content-ref url="../../native-service/dapp-browser/" %}
+[dapp-browser](../../native-service/dapp-browser/)
 {% endcontent-ref %}
 
 ## 🚨 <mark style="color:red;">주의</mark>: 올인원 지갑 영구 차단

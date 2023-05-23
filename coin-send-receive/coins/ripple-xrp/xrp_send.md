@@ -1,8 +1,12 @@
-# 디센트 월렛으로 리플 (XRP) 보내기
+# 디센트 월렛에서 리플 (XRP) 보내기
 
 ### 상대방의 주소 및 Destination Tag 입력
 
-![](../../../.gitbook/assets/dcent\_send\_xrp.png)
+<div align="left">
+
+<img src="../../../.gitbook/assets/dcent_send_xrp.png" alt="">
+
+</div>
 
 1. 모바일앱에서 거래에 사용할 리플 (XRP) 계정의 “**보내기**” 버튼를 눌러줍니다.\
 

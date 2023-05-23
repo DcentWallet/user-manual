@@ -19,7 +19,11 @@
 
 ### **STEP 2: 폴리곤 (메인넷) 계정 생성**
 
-![](https://cdn-images-1.medium.com/max/800/1\*-1Ez3UNIVfeYvK4AgDKh0w.png)
+<div align="center">
+
+<img src="https://cdn-images-1.medium.com/max/800/1*-1Ez3UNIVfeYvK4AgDKh0w.png" alt="">
+
+</div>
 
 **1)** 메인 화면에서 (+) 버튼을 누르고 폴리곤 (메인넷) 계정을 추가하기\
 **2)** Polygon을 검색하고 **Polygon (MATIC)**을 선택

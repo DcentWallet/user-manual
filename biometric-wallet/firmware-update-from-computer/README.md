@@ -8,7 +8,11 @@
 펌웨어 업데이트는 개인용 컴퓨터에서만 가능합니다.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (163).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (163).png" alt="">
+
+</div>
 
 ## 펌웨어 업데이트 전 숙지 사항
 
@@ -50,7 +54,11 @@
 
 컴퓨터에 디센트 브릿지 프로그램이 없다면, 브릿지 프로그램을 다운로드합니다. 사용하시는 OS에 맞는 프로그램을 다운로드 받아 설치하세요.
 
-![](<../../.gitbook/assets/image (147).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (147).png" alt="">
+
+</div>
 
 디센트 브릿지 프로그램은 컴퓨터 시스템의 백그라운드에서 작동하는 프로그램으로 컴퓨터와 지문인증형 콜드월렛간의 통신을 위해 사용되는 프로그램입니다.
 
@@ -64,11 +72,19 @@
 
 설치가 완료되면 화면 하단의 "Refresh page" 버튼을 클릭하세요.
 
-![](<../../.gitbook/assets/image (54).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (54).png" alt="">
+
+</div>
 
 
 
-![](<../../.gitbook/assets/image (54).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (54).png" alt="">
+
+</div>
 
 ### 디센트 브릿지 프로그램 설치 (Mac)
 
@@ -88,7 +104,11 @@
 
 &#x20;설치가 완료되면 화면 하단의 "Refresh page" 버튼을 클릭하세요.&#x20;
 
-![](<../../.gitbook/assets/image (54).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (54).png" alt="">
+
+</div>
 
 ### 컴퓨터와 콜드월렛 연결
 
@@ -98,13 +118,21 @@
 
 3\) 연결 후 아래와 같은 화면이 나타난다면 "Retry to find device" 버튼을 클릭하세요.
 
-![](<../../.gitbook/assets/image (186).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (186).png" alt="">
+
+</div>
 
 ### 펌웨어 버전 확인
 
 1\) 연결된 콜드월렛의 펌웨어가 최신 버전인지 확인합니다. 최신 버전이 아닌 경우 아래와 같은 화면이 나타납니다.
 
-![](<../../.gitbook/assets/image (114).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (114).png" alt="">
+
+</div>
 
 2\) "Update to version ..." 버튼을 클릭합니다.
 
@@ -120,23 +148,39 @@
 
 부트로드 모드로 진입하면 콜드월렛의 디스플레이에 다음과 같은 화면이 나옵니다.
 
-![](<../../.gitbook/assets/image (18).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (18).png" alt="">
+
+</div>
 
 4\) USB 케이블을 사용하여 콜드월렛과 PC를 다시 연결합니다.
 
 5\) "Update Firmware" 버튼을 클릭합니다.
 
-![](<../../.gitbook/assets/image (64).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (64).png" alt="">
+
+</div>
 
 ### 펌웨어 업데이트 진행
 
 페이지에서 펌웨어 업데이트가 시작되면, 100% 완료될 때 까지 약 3분간 기다려 주세요.&#x20;
 
-![](<../../.gitbook/assets/image (10).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (10).png" alt="">
+
+</div>
 
 콜드월렛에서도 펌웨어 업데이트 진행 상태를 확인할 수 있습니다.
 
-![](<../../.gitbook/assets/image (179).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (179).png" alt="">
+
+</div>
 
 ### 펌웨어 업데이트 완료
 

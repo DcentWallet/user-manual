@@ -44,7 +44,11 @@
 
 정상적으로 계정이 추가되면 아래와 같이 Account탭에 클레이튼 계정이 하나 더 추가된것을 확인할 수 있습니다.
 
-![](../.gitbook/assets/klay\_02.png)
+<div align="center">
+
+<img src="../.gitbook/assets/klay_02.png" alt="">
+
+</div>
 
 ### **2단계 :** 새로 추가한 임시 계정에 **토큰 계정** 추가 하기
 

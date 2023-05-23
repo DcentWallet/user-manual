@@ -6,7 +6,11 @@ description: 디센트 모바일 앱 설정
 
 "Setting" 메뉴를 이용하여 모바일 앱의 여러가지 설정을 변경할 수 있습니다.
 
-![](<../../.gitbook/assets/image (6).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (6).png" alt="">
+
+</div>
 
 ## 현지 통화 설정 <a href="#currency" id="currency"></a>
 

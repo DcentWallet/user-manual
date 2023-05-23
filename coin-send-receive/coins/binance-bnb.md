@@ -6,31 +6,44 @@ description: Binance 계정에서 BNB 코인 보내기 받기
 
 ## 계정 생성
 
-바이낸스 계정이 없다면 생성해 주세요. 코인 이름은 "Binance \(BNB\)"로 되어 있습니다.
+바이낸스 계정이 없다면 생성해 주세요. 코인 이름은 "Binance (BNB)"로 되어 있습니다.
 
 계정 생성에 대한 자세한 내용은 다음 항목을 참고하세요.
 
-{% page-ref page="../../mobile-app/create-account/" %}
+{% content-ref url="../../mobile-app/create-account/" %}
+[create-account](../../mobile-app/create-account/)
+{% endcontent-ref %}
 
 ## BNB 코인 받기
 
 생성된 바이낸스 코인 계정의 “받기”를 클릭하면 바이낸스 코인 주소를 확인 할 수 있습니다.
 
-![](../../.gitbook/assets/image%20%28220%29.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (220).png" alt="">
+
+</div>
 
 코인 받기에 대한 자세한 내용은 다음 항목을 참고하세요.
 
-{% page-ref page="../receive.md" %}
+{% content-ref url="../receive.md" %}
+[receive.md](../receive.md)
+{% endcontent-ref %}
 
 ## BNB 코인 보내기
 
 바이낸스 코인을 전송하는 방법은 일반적인 코인 보내기와 같습니다. 코인 보내기에 대한 일반적인 방법은 다음 항목을 참고하세요.
 
-{% page-ref page="../send/" %}
+{% content-ref url="../send/" %}
+[send](../send/)
+{% endcontent-ref %}
 
 ### 바이낸스 코인 수수료
 
-![](../../.gitbook/assets/image%20%28222%29.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (222).png" alt="">
+
+</div>
 
 바이낸스 코인의 수수료는 고정 값을 사용합니다. 바이낸스 코인 보내기를 할 때마다 “0.000375 BNB” 가 발생합니다.
-

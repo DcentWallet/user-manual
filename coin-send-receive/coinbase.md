@@ -6,7 +6,11 @@
 
 코인베이스의 계정으로 암호화폐를 보내려면 주소를 알아야합니다. 먼저 코인베이스 계정에 로그인하고 '**Receive**' 버튼을 누르십시오.
 
-![](../.gitbook/assets/coinbase1.png)
+<div align="left">
+
+<img src="../.gitbook/assets/coinbase1.png" alt="">
+
+</div>
 
 
 
@@ -14,19 +18,31 @@
 \
 '**Currency**' 부분에서 선택을하면 다른 암호화폐 계정으로 전환 할 수 있습니다.
 
-![](../.gitbook/assets/coinbase2.png)
+<div align="left">
+
+<img src="../.gitbook/assets/coinbase2.png" alt="">
+
+</div>
 
 ### 디센트 월렛에서 송금 거래 준비
 
 모바일 앱을 먼저 실행하고 디센트 기기과 함께 연결된 상태인지 반드시 확인하시기 바랍니다.&#x20;
 
-![](../.gitbook/assets/coinbase3.png)
+<div align="left">
+
+<img src="../.gitbook/assets/coinbase3.png" alt="">
+
+</div>
 
 1\) 암호화폐 계정에서 (예 : Bitcoin) '**보내기**'버튼을 누르십시오.
 
 2\) 코인베이스가 제공하는 QR 코드를 스캔하려면 '**QR 스캔**'버튼을 누릅니다.
 
-![](../.gitbook/assets/coinbase4.png)
+<div align="left">
+
+<img src="../.gitbook/assets/coinbase4.png" alt="">
+
+</div>
 
 3\) QR 코드를 올바르게 읽히면 입금받는 주소가 자동으로 입력된 것을 볼 수 있습니다. 입금받는 주소를 다시 확인하여 송금을 보내려는 올바른 주소인지 확인하는 것이 좋습니다.
 
@@ -36,7 +52,11 @@
 빨간색 텍스트 메시지로 '주소 형식이 잘못되었습니다'가 표시되는 경우는 **'다음' 버튼이 비활성화되며** 이는 주소가 잘못 입력되었음을 의미합니다. 위 예시를 보면 주소의 시작 부분에 '**bitcoin:**'과 같이 여분의 텍스트가 존재하는 경우 이를 삭제하시면 '다음' 버튼이 활성화됩니다.
 {% endhint %}
 
-![](../.gitbook/assets/coinbase5.png)
+<div align="left">
+
+<img src="../.gitbook/assets/coinbase5.png" alt="">
+
+</div>
 
 5\) 거래 수수료를 먼저 설정하십시오. 슬라이더 버튼을 사용하여 수수료 금액을 변경할 수 있습니다. 수수료를 '높음'으로 설정하면 거래가 우선적으로 수락될 확률이 높아지며 블록체인 네트워크에서 더 빨리 처리 될 가능성이 큽니다.
 
@@ -58,7 +78,11 @@
 
 코인베이스에서 최근 거래 내역을 확인할 수 있습니다. 상태가 'PENDING (보류 중)'으로 표시되면 블록체인 네트워크에서 송금 거래 처리가 진행중인 상태입니다. 자세한 거래 내역을 조회하려면 '**View Transaction**'을 클릭합니다. 새 창에서 block explorer 사이트로 연결되며 송금 거래의 상태를 확인할 수 있습니다.
 
-![](../.gitbook/assets/coinbase8.png)
+<div align="left">
+
+<img src="../.gitbook/assets/coinbase8.png" alt="">
+
+</div>
 
 ## 디센트 월렛 주소로 입금 받기
 
@@ -67,7 +91,11 @@
 디센트 월렛 계정으로 암호화폐를 송금 받으려면 주소를 알아야합니다. \
 모바일앱에서 '**받기**' 버튼을 눌러 계정 주소를 확인하십시오.
 
-![](../.gitbook/assets/coinbase9.png)
+<div align="left">
+
+<img src="../.gitbook/assets/coinbase9.png" alt="">
+
+</div>
 
 16 진수 형식의 계정 주소를 복사 할 수있는 방법으로 두 가지 옵션이 있습니다. \
 Option1) **복사** - 메시지나 이메일에 붙여넣기를 위한 주소를 복사합니다. \
@@ -77,11 +105,19 @@ Option2) **공유** - 주소를 복사하여 스마트폰에 설치된 특정 SN
 
 코인베이스 계정에서 '**Send**' 버튼을 누르십시오.
 
-![](../.gitbook/assets/coinbase10.png)
+<div align="left">
+
+<img src="../.gitbook/assets/coinbase10.png" alt="">
+
+</div>
 
 아래 스크린샷은 코인베이스 지갑의 인터페이스입니다.
 
-![](../.gitbook/assets/coinbase11.png)
+<div align="left">
+
+<img src="../.gitbook/assets/coinbase11.png" alt="">
+
+</div>
 
 1\) 송금 보낼 금액을 입력합니다.
 
@@ -93,7 +129,11 @@ Option2) **공유** - 주소를 복사하여 스마트폰에 설치된 특정 SN
 
 5\) 오른쪽 2번째 스크린샷은 송금을 보내려는 거래 정보가 표시됩니다. '**Send now**' 버튼을 눌러 진행합니다.
 
-![](../.gitbook/assets/coinbase12.png)
+<div align="left">
+
+<img src="../.gitbook/assets/coinbase12.png" alt="">
+
+</div>
 
 6\) SMS로 받은 2-step 인증 코드를 입력합니다.
 

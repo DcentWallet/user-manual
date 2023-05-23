@@ -48,11 +48,19 @@ Bootloader 모드에서 다시 펌웨어 업데이트를 진행하여 디센트 
 
 **오류가 표시된** (노란색 삼각형) **USB 입력 장치**가 디센트 콜드월렛이 맞는지 확인합니다:
 
-![](<../../.gitbook/assets/image (143).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (143).png" alt="">
+
+</div>
 
 해당 장치에 오른쪽 마우스 클릭 후 **속성**을 선택합니다.
 
-![](<../../.gitbook/assets/image (39).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (39).png" alt="">
+
+</div>
 
 * USB 입력 장치 속성 창에서, 자세히 탭을 클릭 합니다.
 * 속성아래에, 하드웨어 ID로 변경합니다.

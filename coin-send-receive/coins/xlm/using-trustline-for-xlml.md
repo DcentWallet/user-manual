@@ -2,7 +2,11 @@
 
 ## 트러스트라인 추가하는 방법 <a href="#7d2a" id="7d2a"></a>
 
-![](https://miro.medium.com/max/700/1\*sPO8QkGuRmW\_XxWoQ3InEA.png)
+<div align="left">
+
+<img src="https://miro.medium.com/max/700/1*sPO8QkGuRmW_XxWoQ3InEA.png" alt="">
+
+</div>
 
 **NOTE**: 스텔라 (XLM) 원장에 트러스트라인을 추가하게되면 0.5 XLM이 계정에 락(lock)됩니다.
 
@@ -18,7 +22,11 @@
 
 단순히 트러스트라인을 추가한다고 해서 이 계정으로 신탁 자산(발행 통화)을 받을 수 있는 것은 아닙니다. 트러스트라인 계정에 자금을 받으려면 먼저 Trustline을 설정(활성화)해야 합니다.
 
-![](https://miro.medium.com/max/700/1\*cTtnhv5e310atTKhIlqWcQ.png)
+<div align="left">
+
+<img src="https://miro.medium.com/max/700/1*cTtnhv5e310atTKhIlqWcQ.png" alt="">
+
+</div>
 
 **1.** 트러스트라인 계정을 클릭하고 ‘**받기**’ 버튼을 클릭합니다.
 
@@ -32,7 +40,11 @@
 
 자산 잔액이 존재하지 않는 트러스트라인 계정은 언제든지 비활성화 할 수 있습니다. **비활성화를 진행하면 기존에 락(lock)되었던 0.5 XLM을 다시 사용하실 수 있습니다.**
 
-![](https://miro.medium.com/max/700/1\*JYz6LL0p89rc4TqTQDqQPw.png)
+<div align="left">
+
+<img src="https://miro.medium.com/max/700/1*JYz6LL0p89rc4TqTQDqQPw.png" alt="">
+
+</div>
 
 **1.** 비활성화 하려는 트러스트라인 계정을 (예: SHX) 클릭하고 **‘계정상세/거래내역’**을 클릭합니다.
 

@@ -6,7 +6,11 @@
 
 ### 상대방의 주소 입력
 
-![](../../.gitbook/assets/mode\_cardtype\_send\_01.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/mode_cardtype_send_01.png" alt="">
+
+</div>
 
 1. 모바일앱에서 거래에 사용할 코인 계정의 “**보내기**” 버튼를 눌러줍니다.\
 
@@ -20,7 +24,11 @@
 
 ### 보내는 금액 및 수수료 입력
 
-![](../../.gitbook/assets/mode\_cardtype\_send\_02.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/mode_cardtype_send_02.png" alt="">
+
+</div>
 
 1. 보내려는 암호화폐 개수를 입력하거나 또는 현지 통화 금액을 입력합니다.\
 
@@ -39,7 +47,11 @@
 
 ### 카드 타입 콜드월렛에서 최종 승인
 
-![](../../.gitbook/assets/mode\_cardtype\_send\_03.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/mode_cardtype_send_03.png" alt="">
+
+</div>
 
 1. 모바일앱에서 카드월렛을 태깅하라는 화면이 표시됩니다.\
 

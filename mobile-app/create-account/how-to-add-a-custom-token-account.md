@@ -6,7 +6,7 @@
 
 디센트 지갑에 특정 토큰의 공식 지원을 요청하시려면 아래 구글폼을 사용해주세요. 새로운 블록체인 네트워크 지원을 요청하시는 경우 상당한 시간이 걸릴 수 있습니다.
 
-****[**토큰 / 코인 추가 요청하기**](https://docs.google.com/forms/d/e/1FAIpQLSddydt7fv7D0ATnw49tCsBsex9DpHinAr0sebGb\_eQb0ne37g/viewform)****
+[**토큰 / 코인 추가 요청하기**](https://docs.google.com/forms/d/e/1FAIpQLSddydt7fv7D0ATnw49tCsBsex9DpHinAr0sebGb\_eQb0ne37g/viewform)
 
 
 
@@ -39,7 +39,11 @@
 
 예를들어 ERC20 토큰을 추가하려면 먼저 이더리움 계정이 추가되어 존재해야합니다.
 
-![](<../../.gitbook/assets/1 (5).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/1 (5).png" alt="">
+
+</div>
 
 1\) ‘**+Add Custom Token**’ 을 클릭하세요.
 

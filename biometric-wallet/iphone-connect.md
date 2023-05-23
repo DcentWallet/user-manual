@@ -10,7 +10,11 @@
 
 앱 스토어에서 "디센트" 또는 "D'CENT"를 검색하세요.
 
-![](<../.gitbook/assets/image (190).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (190).png" alt="">
+
+</div>
 
 ## 모바일 앱 기본 설정
 
@@ -18,7 +22,11 @@
 
 모바일 앱을 처음 설치하셨다면 지갑 모드를 선택해야 합니다. "Biometric Wallet"을 선택해 주세요.
 
-![](<../.gitbook/assets/image (78).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (78).png" alt="">
+
+</div>
 
 월렛(지갑) 모드는 디센트앱 하단 메뉴인 Manager 탭에서도 변경이 가능합니다. 지문인증형 지갑을 사용하시는 분이라면 반드시 디센트앱의 월렛 모드를 지문인증형 콜드월렛으로 설정하셔야 합니다.&#x20;
 
@@ -39,7 +47,11 @@
 
 아이폰의 설정 메뉴에서 블루투스를 켜주세요.
 
-![](<../.gitbook/assets/image (124).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (124).png" alt="">
+
+</div>
 
 ## 콜드월렛과 블루투스로 연결
 
@@ -51,15 +63,27 @@
 
 1\) 디센트 앱 기본탭(Account)의 오른쪽 위에 블루투스 연결 아이콘을 확인하세요. 아래와 같이 빨간색 아이콘이면 연결이 안되어 있다는 의미이니 아이콘을 클릭하세요
 
-![](<../.gitbook/assets/image (75).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (75).png" alt="">
+
+</div>
 
 2\) 아이콘을 클릭하여 연결 가능한 디센트 디바이스를 선택하세요
 
-![](<../.gitbook/assets/image (167).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (167).png" alt="">
+
+</div>
 
 3\) 디센트 디바이스 선택 후 지갑 동기화가 자동으로 일어 납니다.
 
-![](<../.gitbook/assets/image (119).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (119).png" alt="">
+
+</div>
 
 동기화가 완료되면 모바일 앱의 오른쪽 상단에 연결 표시가 나타나고, 콜드월렛의 오른쪽 상단에 푸른색의 블루투스 연결 상태등이 켜집니다.
 

@@ -6,7 +6,11 @@
 
 백업 카드는 보안 칩셋 내부에 데이터가 없는 하드웨어 지갑으로, 올인원 지갑과 완전히 동일한 복제본을 만드는 데 사용됩니다.
 
-![](../../.gitbook/assets/backupcard01\_en.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/backupcard01_en.png" alt="">
+
+</div>
 
 {% hint style="danger" %}
 하드웨어 지갑을 도난, 분실, 손상되거나 카드가 차단되는 등의 불행한 상황이 발생하기 전에 <mark style="color:red;">**반드시**</mark> 올인원 지갑의 백업 사본을 만들어야 합니다. 이러한 상황 중 하나라도 올인원 지갑의 백업 복사본을 만들지 않았다면 모든 암호화폐 자산은 영원히 손실됩니다.

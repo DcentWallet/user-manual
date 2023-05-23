@@ -1,6 +1,6 @@
 # 모바일 앱 다운로드
 
-## 안드로이드 앱 다운로드 <a id="android"></a>
+## 안드로이드 앱 다운로드 <a href="#android" id="android"></a>
 
 ### 다운로드 링크
 
@@ -12,9 +12,13 @@
 
 구글 플레이 스토어에서 "디센트 월렛"을 검색하세요.
 
-![&#xAD6C;&#xAE00; &#xD50C;&#xB808;&#xC774;&#xC2A4;&#xD1A0;&#xC5B4; &#xB514;&#xC13C;&#xD2B8; &#xC6D4;&#xB81B; &#xAC80;&#xC0C9; &#xD654;&#xBA74;](../.gitbook/assets/image%20%2884%29.png)
+<div align="left">
 
-## 아이폰 앱 다운로드 <a id="iphone"></a>
+<img src="../.gitbook/assets/image (84).png" alt="구글 플레이스토어 디센트 월렛 검색 화면">
+
+</div>
+
+## 아이폰 앱 다운로드 <a href="#iphone" id="iphone"></a>
 
 ### 다운로드 링크
 
@@ -26,5 +30,8 @@
 
 앱 스토어에서 "디센트" 혹은 "D'CENT" 검색하세요.
 
-![](../.gitbook/assets/image%20%28190%29.png)
+<div align="left">
 
+<img src="../.gitbook/assets/image (190).png" alt="">
+
+</div>

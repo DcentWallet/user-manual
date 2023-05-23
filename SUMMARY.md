@@ -80,10 +80,11 @@
 
 ## 디센트 내부 서비스 <a href="#native-service" id="native-service"></a>
 
-* [댑 브라우저 (Discovery)](native-service/discovery/README.md)
-  * [댑 사이트에 지갑 연결하기](native-service/discovery/connecting-wallet-to-dApp.md)
-  * [블록체인 네트워크 선택](native-service/discovery/switch-network.md)
-  * [Wallet Connect 사용법](native-service/discovery/wallet-connect.md)
+* [댑 브라우저 (Discovery)](native-service/dapp-browser/README.md)
+  * [댑 사이트에 지갑 연결하기](native-service/dapp-browser/connecting-wallet-to-dApp.md)
+  * [블록체인 네트워크 선택](native-service/dapp-browser/switch-network.md)
+  * [Wallet Connect 사용법](native-service/dapp-browser/wallet-connect.md)
+  * [dApp 허용(권한) 철회하는 방법](native-service/dapp-browser/how-to-revoke-dapp-allowances.md)
 * [FTSO 포털 - 투표권 위임](native-service/ftso.md)
 * [스택스 스택킹 위임 서비스](native-service/stacks-stacking-delegation-service.md)
 * [교환 (Exchange)](native-service/exchange.md)

@@ -6,11 +6,18 @@
 
 안드로이드 바탕화면의 윗 부분을 아래로 드래그하면 블루투스 메뉴를 찾을 수 있습니다.
 
-![](../../.gitbook/assets/image%20%28157%29.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (157).png" alt="">
+
+</div>
 
 ## 설정 메뉴에서 블루투스 메뉴 찾기
 
-설정 메뉴 &gt; 연결 &gt; 블루투스 메뉴를 통해 블루투스 메뉴에 들어갈 수 있습니다.
+설정 메뉴 > 연결 > 블루투스 메뉴를 통해 블루투스 메뉴에 들어갈 수 있습니다.
 
-![](../../.gitbook/assets/image%20%28132%29.png)
+<div align="left">
 
+<img src="../../.gitbook/assets/image (132).png" alt="">
+
+</div>

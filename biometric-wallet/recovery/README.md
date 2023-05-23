@@ -26,13 +26,21 @@
 
 ∨ 버튼을 눌러 원하는 언어로 이동 후 OK 버튼을 누릅니다.
 
-![](<../../.gitbook/assets/image (40).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (40).png" alt="">
+
+</div>
 
 ### "지갑 복구" 선택
 
 지갑을 복구하기 위하여 "지갑 복구" 메뉴를 선택합니다.
 
-![](<../../.gitbook/assets/image (174).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (174).png" alt="">
+
+</div>
 
 ## 2단계 : PIN (4\~8자리) 및 지문 등록
 
@@ -66,19 +74,31 @@ PIN 값은 초기화가 끝난 이후에 [설정 메뉴](../setting-menu/)를 �
 
 1\) 지문 센서에 등록하실 손가락을 지문센서 위에 터치합니다.
 
-![](<../../.gitbook/assets/image (14).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (14).png" alt="">
+
+</div>
 
 지문 센서는 콜드월렛 하단의 버튼 가운데에 있습니다. [지문센서의 위치](../setting-up.md#before-start)를 확인해주세요.
 
 2\) 같은 손가락을 100%가 될 때까지 위치를 조금씩 옮겨가며 터치합니다. (약 8회)
 
-![](<../../.gitbook/assets/image (9).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (9).png" alt="">
+
+</div>
 
 ### 지문 등록 확인
 
 등록한 손가락을 지문센서 위에 터치하여 지문 등록이 잘 되었는지 확인합니다.
 
-![](<../../.gitbook/assets/image (44).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (44).png" alt="">
+
+</div>
 
 ※ 지문 등록이 실패한 경우에는 처음부터 지문 등록 프로세스를 시작합니다.
 
@@ -92,15 +112,27 @@ PIN 값은 초기화가 끝난 이후에 [설정 메뉴](../setting-menu/)를 �
 
 1\) 복구 카드에 기록해 둔 24개의 복구 단어를 1번부터 차례대로 24번까지 입력합니다.
 
-![](<../../.gitbook/assets/image (125).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (125).png" alt="">
+
+</div>
 
 2\) 아래(∨) 버튼을 눌러 24개의 복구단어를 순서대로 잘 입력하였는지 검토합니다.
 
-![](../../.gitbook/assets/untitled.jpg)
+<div align="left">
+
+<img src="../../.gitbook/assets/untitled.jpg" alt="">
+
+</div>
 
 3\) 모든 단어가 올바르게 입력되었다면 검토 메뉴 가장 아래에 있는 "I am ready"를 선택합니다.
 
-![](<../../.gitbook/assets/image (206).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (206).png" alt="">
+
+</div>
 
 {% hint style="info" %}
 복구단어나 복구카드를 사진을 찍거나 이미지로 저장하지 마십시오. 사용자는 복구 단어를 안전하게 취급할 책임이 있습니다. 디센트는 복구카드 도난 또는 이미지 파일 저장과 같은 사용자의 부주의로 인한 암호 자산의 손상 또는 손실에 대해 배상 책임을 지지 않습니다.&#x20;
@@ -110,7 +142,11 @@ PIN 값은 초기화가 끝난 이후에 [설정 메뉴](../setting-menu/)를 �
 
 ## 4단계 : 지갑 복구 완료
 
-![](<../../.gitbook/assets/image (136).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (136).png" alt="">
+
+</div>
 
 지갑 복구 완료 후 하드웨어 지갑을 디센트 모바일 앱에 연결하여 동기화합니다. **과거에 생성한 모든 암호화폐 계정을 다시 추가해야 합니다.** (지갑 복구 후 쉽게 다시 추가할 수 있도록 생성한 계정 목록을 유지하세요.)
 

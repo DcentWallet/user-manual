@@ -18,7 +18,11 @@ KLAY 암호화폐를 소지한 모든 사용자는 클레이스테이션을 통�
 
 **Step 3)** 대시보드에서 카이카스 연결하기 버튼을 눌러줍니다.
 
-![](../.gitbook/assets/klaystation-2\_kr.png)
+<div align="left">
+
+<img src="../.gitbook/assets/klaystation-2_kr.png" alt="">
+
+</div>
 
 **Step 4)** 카이카스 지갑에서 **Connect** 버튼을 클릭하여 클레이스테이션에 로그인합니다.&#x20;
 
@@ -26,19 +30,35 @@ KLAY 암호화폐를 소지한 모든 사용자는 클레이스테이션을 통�
 
 **Step 5)** 대시보드에서 스테이킹 버튼을 누르면 팝업창이 나타납니다. 팝업창에서 스테이킹 수량을 설정하고 **확인** 버튼을 눌러줍니다.
 
-![](<../.gitbook/assets/klaystation-6 (1).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/klaystation-6 (1).png" alt="">
+
+</div>
 
 **Step 6)** 카이카스 지갑에서 해당 스테이킹 거래를 진행하기 위해 **Confirm** 버튼을 눌러줍니다.
 
-![](../.gitbook/assets/klaystation-8.png)
+<div align="left">
+
+<img src="../.gitbook/assets/klaystation-8.png" alt="">
+
+</div>
 
 **Step 7)** 디센트 지문인증형 지갑에서 해당 스테이킹 거래를 최종적으로 승인해야합니다. 하드웨어 지갑에서 **Confirm** 버튼을 누르고 지문이나 PIN을 통해 **사용자 인증**을합니다. &#x20;
 
-![](../.gitbook/assets/klaystation-9.png)
+<div align="left">
+
+<img src="../.gitbook/assets/klaystation-9.png" alt="">
+
+</div>
 
 **Step 8)** 스테이킹이 성공적으로 완료가되면 다음과 같이 클레이스테이션에서 표시가됩니다.
 
-![](../.gitbook/assets/klaystation-10.png)
+<div align="left">
+
+<img src="../.gitbook/assets/klaystation-10.png" alt="">
+
+</div>
 
 {% hint style="info" %}
 클레이스테이션 대시보드에서 **언스테이킹** 버튼을 누르면 KLAY를 되돌려 받을 수 있습니다.  &#x20;

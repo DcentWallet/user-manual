@@ -14,7 +14,11 @@
 * OK 버튼을 한번 더 입력하면 hex형(숫자 및 알파벳 조합)의 주소가 표시됩니다.
 * 마지막으로 OK 버튼을 한번 더 입력하면 QR 코드 형태의 주소가 표시됩니다.
 
-![](<../.gitbook/assets/3 (10).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/3 (10).png" alt="">
+
+</div>
 
 * 화면에 표시된 내 계좌 주소 (QR 코드)를 보여주면 상대방은 모바일폰의 카메라로 QR 코드를 읽습니다.
 * QR 코드가 정상적으로 인식될 경우 상대방의 지갑앱에서는 내 코인 계 주소가 자동으로 입력됩니다.&#x20;
@@ -23,7 +27,11 @@
 
 디센트 모바일앱을 실행하면 메인화면에 내가 추가한 코인 계정이 표시됩니다. &#x20;
 
-![](../.gitbook/assets/mobileapp-account-address.png)
+<div align="left">
+
+<img src="../.gitbook/assets/mobileapp-account-address.png" alt="">
+
+</div>
 
 * 내 코인 계정의 주소를 확인하려면 "받기"를 눌러줍니다.
 * 화면에 표시되는 내 계정 주소 (QR 코드 형태)는 송금을 보내주려는 상대방의 카메라로 읽을 수 있습니다.

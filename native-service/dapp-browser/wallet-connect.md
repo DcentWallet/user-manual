@@ -28,11 +28,19 @@ WalletConnect는 QR 코드를 스캔을 사용하여 브라우저의 DApp을 모
 
 **Step 4)** 핸드폰에서 디센트 모바일앱을 실행하고 ‘Discovery’ 탭으로 이동합니다. 상단 좌측 모서리에는 WalletConnect **스캔** icon이 있습니다. 아이콘을 클릭하고 QRCODE를 스캔합니다.
 
-![](../../.gitbook/assets/6.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/6.png" alt="">
+
+</div>
 
 **Step 5)** QRCODE를 스캔하면 다음과 같이 승인 요청 화면이 표시됩니다. **OK**버튼을 클릭하면 PoolTogether DApp에 지갑 주소를 사용하여 연결됩니다.
 
-![](../../.gitbook/assets/7.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/7.png" alt="">
+
+</div>
 
 **Step 6)** 디센트 지갑이 DApp 서비스에 연결되면 다음과 같은 화면을 디센트앱과 PC화면에서 표시됩니다. PoolTogether DApp에서 오른쪽 상단에는 서비스와 연결된 디센트 지갑 주소를 확인할 수 있습니다.
 

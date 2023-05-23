@@ -20,17 +20,29 @@
 다음은 **구버전 안드로이드 휴대폰**에서 블루투스 애플리케이션에 액세스하는 방법의 예시입니다.
 {% endhint %}
 
-![](<../../.gitbook/assets/3 (9).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/3 (9).png" alt="">
+
+</div>
 
 1\) **설정** 아이콘 클릭\
 2\) **애플리케이션** 클릭
 
-![](<../../.gitbook/assets/4 (6).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/4 (6).png" alt="">
+
+</div>
 
 3\) **3개의 점**으로 표시된 아이콘 클릭\
 4\) **시스템 앱 표시** 클릭
 
-![](<../../.gitbook/assets/5 (4).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/5 (4).png" alt="">
+
+</div>
 
 5\) **블루투스 앱** 클릭\
 6\) **저장공간** 클릭\

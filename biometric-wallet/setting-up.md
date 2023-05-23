@@ -8,7 +8,11 @@ description: 콜드월렛에 새로운 지갑 생성하기
 
 ## 시작하기 전에 <a href="#before-start" id="before-start"></a>
 
-![디센트 지문인증형 콜드월렛 사용자 인터페이스](../.gitbook/assets/img-howtouse-dongle-ko.png)
+<div align="left">
+
+<img src="../.gitbook/assets/img-howtouse-dongle-ko.png" alt="디센트 지문인증형 콜드월렛 사용자 인터페이스">
+
+</div>
 
 디센트 지문인증형 콜드월렛은 4개의 네비게이션 버튼으로 구성되어 있습니다.
 
@@ -28,7 +32,11 @@ description: 콜드월렛에 새로운 지갑 생성하기
 
 ∨ 버튼을 눌러 원하는 언어로 이동 후 OK 버튼을 누릅니다.
 
-![](<../.gitbook/assets/image (40).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (40).png" alt="">
+
+</div>
 
 지원 언어 : 영어, 한국어, 중국어, 일본어, 스페인어
 
@@ -40,7 +48,11 @@ description: 콜드월렛에 새로운 지갑 생성하기
 
 새로운 지갑을 생성하기 위하여 "지갑 생성" 메뉴를 선택합니다.
 
-![](<../.gitbook/assets/image (3) (1).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (3) (1).png" alt="">
+
+</div>
 
 {% hint style="info" %}
 지갑 생성을 선택하면 새로운 키로 지갑이 생성됩니다. 예전에 생성했던 지갑을 복구하시려면 [여기](recovery/)를 참고하세요.
@@ -79,19 +91,31 @@ PIN 값은 초기화가 끝난 이후에 [설정 메뉴](setting-menu/)를 통�
 
 1\) 지문 센서에 등록하실 손가락을 지문센서 위에 터치합니다.
 
-![](<../.gitbook/assets/image (14).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (14).png" alt="">
+
+</div>
 
 지문 센서는 콜드월렛 하단의 버튼 가운데에 있습니다. [지문센서의 위치](setting-up.md#before-start)를 확인해주세요.
 
 2\) 같은 손가락을 100%가 될 때까지 위치를 조금씩 옮겨가며 터치합니다. (약 8회)
 
-![](<../.gitbook/assets/image (9).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (9).png" alt="">
+
+</div>
 
 ### 지문 등록 확인
 
 등록한 손가락을 지문센서 위에 터치하여 지문 등록이 잘 되었는지 확인합니다.
 
-![](<../.gitbook/assets/image (44).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (44).png" alt="">
+
+</div>
 
 ※ 지문 등록이 실패한 경우에는 처음부터 지문 등록 프로세스를 시작합니다.
 
@@ -121,13 +145,21 @@ PIN 값은 초기화가 끝난 이후에 [설정 메뉴](setting-menu/)를 통�
 
 1\) 위 내용이 설명된 안내문을 읽고 이해하셨다면 OK 버튼을 눌러주세요.
 
-![](<../.gitbook/assets/image (140).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (140).png" alt="">
+
+</div>
 
 2\) 콜드월렛에 표시되는 단어를 카드에 기재한 후 ‘OK’ 버튼(NEXT)을 눌러 다음 페이지로 이동합니다.
 
 한 페이지당 4개 단어씩 총 6페이지 24개 단어가 표시됩니다.
 
-![](<../.gitbook/assets/image (153).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (153).png" alt="">
+
+</div>
 
 {% hint style="warning" %}
 복구단어나 복구카드를 사진을 찍거나 이미지로 저장하지 마십시오. 사용자는 복구 단어를 안전하게 취급할 책임이 있습니다. 디센트는 복구카드 도난 또는 이미지 파일 저장과 같은 사용자의 부주의로 인한 암호 자산의 손상 또는 손실에 대해 배상 책임을 지지 않습니다.&#x20;
@@ -137,7 +169,11 @@ PIN 값은 초기화가 끝난 이후에 [설정 메뉴](setting-menu/)를 통�
 
 3\) 복구 단어를 다 적으셨다면 안내 문구 확인 후 ‘OK’ 버튼을 눌러 다음 페이지로 이동합니다.
 
-![](<../.gitbook/assets/image (21).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (21).png" alt="">
+
+</div>
 
 ### &#xD;적어놓은 단어 확인
 
@@ -147,13 +183,21 @@ PIN 값은 초기화가 끝난 이후에 [설정 메뉴](setting-menu/)를 통�
 펌웨어 버전 2.9.2 이상부터 퀴즈는 사용자에게 확인을 위해 24개 단어를 모두 입력하도록 요청합니다.
 {% endhint %}
 
-![복구단어 퀴즈 예시 화면](<../.gitbook/assets/image (99).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (99).png" alt="복구단어 퀴즈 예시 화면">
+
+</div>
 
 화면에 표시되는 숫자의 단어를 복구 카드에서 찾아 입력합니다.
 
 #### 3개 알파벳 찾기
 
-![](<../.gitbook/assets/image (51).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (51).png" alt="">
+
+</div>
 
 ※ 입력방법 : ∧(a에서 z로 이동) 또는 ∨(z에서 a로 이동) 버튼을 이용
 
@@ -163,13 +207,21 @@ PIN 값은 초기화가 끝난 이후에 [설정 메뉴](setting-menu/)를 통�
 
 3개 알파벳 기반 단어 리스트에서 ∧/∨ 버튼을 이용하여 맞는 단어를 찾은 후 ‘OK’버튼을 누릅니다.
 
-![](<../.gitbook/assets/image (177).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (177).png" alt="">
+
+</div>
 
 ※ 복구 단어와 입력 단어가 틀린 경우, BACK 버튼을 눌러 복구 단어를 다시 검토할 수 있습니다.
 
 ## 4단계 : 지갑 생성 완료
 
-![](<../.gitbook/assets/image (136).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (136).png" alt="">
+
+</div>
 
 축하합니다. 지갑 생성이 완료되었습니다. 이제 콜드월렛에서 코인 리스트를 확인할 수 있습니다. 이제 모바일 앱을 이용해서 지갑을 사용해보세요.
 

@@ -32,7 +32,11 @@
 
 계정 삭제를 하더라도 콜드월렛에 있는 개인키가 삭제되지는 않습니다.
 
-![](../../.gitbook/assets/image.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/image.png" alt="">
+
+</div>
 
 콜드월렛에서 계정 삭제 후 [모바일 앱과 동기화](../synch-with-app.md)하면 모바일 앱에 있던 계정도 삭제됩니다.
 
@@ -42,7 +46,11 @@
 
 기기 초기화 메뉴를 클릭하시면 지갑의 키가 삭제되고 초기화 됩니다. 비밀번호 (4\~8자리)를 입력한 후에 보이는 경고 메시지를 읽으신 뒤 `OK` 버튼을 눌러 확인 하시면 기기의 전원이 꺼집니다. 다시 전원 켜면 공장 초기화 상태에서 시작합니다.
 
-![](<../../.gitbook/assets/image (129).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (129).png" alt="">
+
+</div>
 
 기기 초기화 이후의 세팅 방법에 대해선 [콜드월렛 초기 설정](../setting-up.md)을 참고하세요.
 
@@ -74,4 +82,8 @@
 
 콜드월렛의 기기 정보를 확인할 수 있습니다.
 
-![](<../../.gitbook/assets/image (62).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (62).png" alt="">
+
+</div>

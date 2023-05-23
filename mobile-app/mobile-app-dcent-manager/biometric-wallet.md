@@ -4,7 +4,11 @@
 
 디센트 매니저에서 콜드월렛의 펌웨어 버전을 확인할 수 있습니다. 콜드월렛의 펌웨어가 최신이 아닌 경우 펌웨어 업데이트에 대한 안내가 나타납니다.
 
-![](<../../.gitbook/assets/image (16).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (16).png" alt="">
+
+</div>
 
 {% hint style="info" %}
 펌웨어 업데이튼 현재 PC에서만 지원됩니다. 펌웨어 업데이트가 필요한 경우 크롬브라우저를 이용하여 PC에서 펌웨어 업데이트를 진행해 주세요.
@@ -16,4 +20,8 @@
 
 "기기 정보" 메뉴를 통해 콜드월렛의 이름을 변경할 수 있습니다. 콜드월렛의 기기 이름은 지문인증형 콜드월렛을 부팅할 때 나타나는 이름입니다.
 
-![](<../../.gitbook/assets/image (79).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (79).png" alt="">
+
+</div>
