@@ -104,6 +104,7 @@
 
 ## 디센트 외부 서비스 <a href="#external-service" id="external-service"></a>
 
+* [해시팩 지갑 연결하기 (HBAR 스테이킹 가이드)](external-service/connect-with-hashpack-wallet-extension-including-hbar-native-staking.md)
 * [블레이드 지갑 연결하기 (HBAR 스테이킹 가이드)](external-service/connect-with-blade-wallet-extension-including-hbar-native-staking.md)
 * [메타마스크 연결하기(QR-based)](external-service/qrbasedmetamask.md)
 * [카이카스 월렛과 연결하기](external-service/kaikas.md)
