@@ -96,6 +96,7 @@
 
 ## D'CENT EXTERNAL SERVICES <a href="#external-service" id="external-service"></a>
 
+* [Connect with HashPack wallet extension (including HBAR native staking)](external-service/connect-with-hashpack-wallet-extension-including-hbar-native-staking.md)
 * [Connect with Blade wallet extension (including HBAR native staking)](external-service/connect-with-blade-wallet-extension-including-hbar-native-staking.md)
 * [Connect with MetaMask (QR-based)](external-service/qrbasedmetamask.md)
 * [Connect with Kaikas wallet extension](external-service/kaikas.md)
