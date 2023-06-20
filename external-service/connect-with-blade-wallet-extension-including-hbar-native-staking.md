@@ -14,7 +14,7 @@ For this, you can go on Blade[ website](https://www.bladewallet.io/) and hit the
 
 As of now the integration of Blade Wallet and D’CENT only works with our D’CENT Biometric Wallet, therefore if you do not have one yet, you need to get one here:
 
-[Biometric WalletD'CENT Biometric Wallet is a Bluetooth enabled hardware wallet that stores your private keys. Certified secure…store.dcentwallet.com](https://store.dcentwallet.com/collections/frontpage/products/biometric-wallet)
+{% embed url="https://store.dcentwallet.com/collections/frontpage/products/biometric-wallet" %}
 
 **3. Install Bridge app**
 
@@ -113,3 +113,5 @@ Get to know more about HBAR Staking via the official article: [https://docs.hede
 5\. Transaction is complete, you can verify that indeed your tokens are being staked.
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:700/1*4-OGQMNYNqz_oB35T_LY1Q.png" alt="" height="391" width="700"><figcaption></figcaption></figure>
+
+{% embed url="https://store.dcentwallet.com/collections/frontpage/products/biometric-wallet" %}
