@@ -8,7 +8,7 @@
 해당 서비스를 이용하기 위해서는 **5.16.0 이상의 앱버전**이 필요합니다.
 {% endhint %}
 
-### 스왑 서비스 접속 <a href="#select-network" id="select-network"></a>
+## 스왑 서비스 접속 <a href="#select-network" id="select-network"></a>
 
 **1)**  스왑 서비스는 디센트 앱 **"My Wallet"** 탭 상단 혹은 **"Discovery"** 탭에서 접속할 수 있습니다.
 
