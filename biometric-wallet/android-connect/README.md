@@ -14,15 +14,27 @@ Instead of using Bluetooth connection, you can also use the OTG cable to physica
 
 2\) On your device, scroll down and choose the "**Setting**" menu.
 
-![](<../../.gitbook/assets/2 (11).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/2 (11).png" alt="">
+
+</div>
 
 3\) Choose "**Bluetooth**" menu.
 
-![](<../../.gitbook/assets/image (8).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (8).png" alt="">
+
+</div>
 
 4\) Choose "**Android**" menu.
 
-![](<../../.gitbook/assets/image (45).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (45).png" alt="">
+
+</div>
 
 5\) The screen will display the device ID and password for Bluetooth connection.
 
@@ -30,7 +42,11 @@ D'CENT device ID is in the format of `D'CENT-iD-<number & characters>`.
 
 Bluetooth password is the 6-digit numbers displayed on the screen.
 
-![](<../../.gitbook/assets/image (82).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (82).png" alt="">
+
+</div>
 
 While on this screen, the Bluetooth LED will be lit which is located on the top right corner of the device body. It is normal that the blue LED light blinks.
 
@@ -43,17 +59,29 @@ For more information on how to find the Bluetooth menu, please refer to this [do
 
 3\) On the screen of your mobile phone, D'CENT device ID should appear.
 
-![](<../../.gitbook/assets/image (25).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (25).png" alt="">
+
+</div>
 
 4\) When you select the D'CENT device ID, you will be prompted to enter the 6-digit password.
 
-![](<../../.gitbook/assets/image (71).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (71).png" alt="">
+
+</div>
 
 5\) Enter the 6-digit Bluetooth password as shown on the screen of your D'CENT device.
 
 When the two devices have been paired successfully, the blue LED light will stop blinking and stay lit.
 
-![D'CENT device registered on mobile phone](<../../.gitbook/assets/image (158).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (158).png" alt="D&#x27;CENT device registered on mobile phone">
+
+</div>
 
 {% hint style="info" %}
 It is normal to see the message "An app is need to use this device" when you click on the D'CENT iD-xxxxxx that is listed under the paired devices. Nothing happens.
@@ -73,7 +101,11 @@ You can also search from the Google Play store to install D'CENT mobile app.
 
 Search for "**D'CENT Wallet**" from the Google Play store.
 
-![](<../../.gitbook/assets/image (127).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (127).png" alt="">
+
+</div>
 
 ## Basic setup for Mobile App
 
@@ -81,7 +113,11 @@ Search for "**D'CENT Wallet**" from the Google Play store.
 
 If running the mobile app for the first time, you must choose a wallet mode. Choose "**Biometric Wallet**" as your choice.
 
-![](<../../.gitbook/assets/image (91).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (91).png" alt="">
+
+</div>
 
 Wallet mode can also be changed from the Manager tab on the bottom menu of D'CENT App. If you are using the Biometric hardware wallet, you must set the wallet mode on the D'CENT App to the Biometric Wallet mode.&#x20;
 
@@ -102,7 +138,11 @@ Mobile App password can be changed from the [App "Setting" menu](../../mobile-ap
 
 You are few steps away from start using the Biometric Wallet. First, you will need to synchronize the mobile app and the Biometric Wallet then add the coin accounts you want to manage.
 
-![](<../../.gitbook/assets/image (141).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (141).png" alt="">
+
+</div>
 
 ## Synchronizing Mobile App and Biometric Wallet
 
@@ -110,7 +150,11 @@ After completing the basic setup on your mobile app, you will now proceed with s
 
 While your mobile app is opened, power on your Biometric Wallet. If you have already completed the step of [Bluetooth pairing](./#bluetooth-paring), synchronization will begin automatically. Synchronization will take few seconds to complete.
 
-![](<../../.gitbook/assets/image (19).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (19).png" alt="">
+
+</div>
 
 {% hint style="info" %}
 If synchronization does not begin, try turning off the power on your Biometric Wallet and power it back on to start the synchronization.
@@ -118,6 +162,10 @@ If synchronization does not begin, try turning off the power on your Biometric W
 
 When the synchronization is complete, you will notice the Bluetooth icon(mint color) appear on the upper right corner of the screen on the mobile app. Also notice the Bluetooth LED stays lit on your Biometric Wallet.
 
-![](<../../.gitbook/assets/image (148).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (148).png" alt="">
+
+</div>
 
 You can now add a coin account to manage using your Biometric Wallet. More information on how to add coin account can be found [here](../../mobile-app/create-account/).

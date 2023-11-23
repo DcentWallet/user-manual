@@ -10,7 +10,11 @@ For iOS phones, the NFC function is enabled by default.&#x20;
 
 For Android, enable the NFC function as '**Standard mode**'.
 
-![](<../../.gitbook/assets/image (199).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (199).png" alt="">
+
+</div>
 
 ## Download D'CENT App (Android & iOS)
 

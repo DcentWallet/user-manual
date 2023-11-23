@@ -6,7 +6,11 @@ To use the Card Wallet, the NFC function must be enabled from the settings of th
 
 ### Enter the Recipient address
 
-![](../../.gitbook/assets/mode\_cardtype\_send\_01\_en.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/mode_cardtype_send_01_en.png" alt="">
+
+</div>
 
 1\) From the mobile app, press the “Send” button of the coin account to be used for the transaction.
 
@@ -19,7 +23,11 @@ To use the Card Wallet, the NFC function must be enabled from the settings of th
 
 ### Enter the amount to send and set the fee
 
-![](../../.gitbook/assets/mode\_cardtype\_send\_02\_en.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/mode_cardtype_send_02_en.png" alt="">
+
+</div>
 
 1\) Enter the number of cryptocurrency you want to send, or enter the amount in local currency.
 
@@ -38,7 +46,11 @@ If the password is not matched, you can try 10 times. If all 10 times trials are
 
 ### Final confirmation from your Card Wallet
 
-![](../../.gitbook/assets/mode\_cardtype\_send\_03\_en.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/mode_cardtype_send_03_en.png" alt="">
+
+</div>
 
 1\) From the mobile app, a screen will prompt you to tag the Card Wallet.
 

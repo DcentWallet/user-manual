@@ -50,11 +50,19 @@ From the Device Manager screen, look for **Human Interface Devices**.
 
 Check if there is a **USB Input Device** marked as **error** (yellow triangle with exclamation mark). You will need to check if this is indeed a D'CENT device.
 
-![](<../../.gitbook/assets/image (143).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (143).png" alt="">
+
+</div>
 
 Right Mouse Click on this device and select **Properties**.
 
-![](<../../.gitbook/assets/image (39).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (39).png" alt="">
+
+</div>
 
 * From the USB Input Device Properties window, select **Details**.
 * Under Property, choose **Hardware Ids**.

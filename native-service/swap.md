@@ -1,63 +1,91 @@
 # Swap
 
+Swap is a service that allows you to easily and quickly exchange your cryptocurrency for another one.
+
 D'CENT Wallet provides SWAP service through 1inch DEX, an aggregator that provides be the rate for swapping ERC20 tokens issued on the same network.
 
 {% hint style="warning" %}
 Swap service is available for D'CENT App version **5.16.0 or higher**.
 {% endhint %}
 
-### Select Network
+## Access the Swap serive <a href="#select-network" id="select-network"></a>
 
-**1)** As you access the swap service, available main networks will be displayed. Availability of  networks listed on D’CENT Wallet may change based on the service provider’s conditions. **Select** the network you want to proceed with.
+**1)** You can access the Swap service in the D'CENT app at the top of the **"My Wallet"** tab or in the **"Discovery"** tab.
 
-![](../.gitbook/assets/그림15.png)
+<figure><img src="../.gitbook/assets/Swap_eng-1.png" alt=""><figcaption></figcaption></figure>
 
-**2)** After a network is selected, a green confirmation button (✅) will appear on the network icon. To proceed with the selected network, click the **Next** button.
+**2)** When you access the swap service, the connected main network information, wallet address, and balance of your cryptocurrency will be displayed.
 
-![](<../.gitbook/assets/그림16 (1).png>)
+![](../.gitbook/assets/Swap\_eng-2.png)
 
-**3)** Connect your wallet. You can simply click **Connect** to connect. At least one account must exist on the selected network. You can change the main network account by pressing <**Switch Account**>.
 
-![](../.gitbook/assets/그림28.png)
+
+**3)** To change the main network, you can touch the More button to change to the wanted network, as shown below.
+
+<figure><img src="../.gitbook/assets/Swap_eng-3.png" alt=""><figcaption></figcaption></figure>
+
+**4)** When the Select Network popup appears, available main networks will be displayed. Availability of networks listed on D’CENT Wallet may change based on the service provider’s conditions. Swipe up the screen to select the network you want to use.
+
+<figure><img src="../.gitbook/assets/Swap_eng-4.png" alt=""><figcaption></figcaption></figure>
+
+If account from the selected network does not exist, you can create it to your D'CENT wallet by pressing the **+ button** as shown below.
+
+{% hint style="warning" %}
+If you are biometric wallet user, hardware wallet must be connected.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/Swap_eng-5.png" alt=""><figcaption></figcaption></figure>
 
 ## **Start Swapping**
 
-**1)** Select the cryptocurrency to be swapped. Click the left magnifying glass button to see the tokens you can choose from. Select the desired account by clicking on it.
+**1)** Choose the cryptocurrency to be swapped.  **Send** is the cryptocurrency you have, and you can choose the coin to be swapped by pressing the More button.
 
-![](../.gitbook/assets/그림18.png)
+Choose the cryptocurrency coin you have.
 
-You can also use the search bar to find the token you are looking for.
+<figure><img src="../.gitbook/assets/Swap_eng-6.png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/그림19 (1).png>)
+**2)** If you choose a coin in Send, choose the coin you want to receive by swap in **Get**.
 
-Additionally, you can easily add the desired token account by clicking on the token in the list of accounts you do not own.
+<figure><img src="../.gitbook/assets/Swap_eng-7.png" alt=""><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/그림19.png)
+You can also use the search bar to find the coin you are looking for.
 
-**2)** If the token to receive on the right has been determined, check once again that the token to send and the token to receive are in the correct position. If the order is wrong, you can swap the positions of the two tokens by pressing the button in the center. If everything is ready, click the Next button at the bottom.
+<figure><img src="../.gitbook/assets/Swap_eng-8.png" alt=""><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/그림21.png)
+**3)** When you have selected the cryptocurrency coins you want to receive, enter the quantity of tokens you want to swap in **Send**. You can enter a coin amount directly in **Ⓐ** and choose a percentage of your balance in **Ⓑ**.
 
-**3)** If you click Next, you can set the service and amount to proceed with the swap. In Ⓐ, select the service to proceed with the swap. In Ⓑ, you can check the swap ratio. In Ⓒ, you can see the amount of cryptocurrency you are sending and the expected amount you will receive. You can set the maximum swappable amount for the selected token by pressing the Ⓓ button.
+When you have completed entering the amount, you can see the amount of coins to receive in **Ⓒ** of the **Get** and the estimated fee (gas fee) in **Ⓓ**.
 
-![](../.gitbook/assets/그림22.png)
+![](../.gitbook/assets/Swap\_eng-9.png)
 
-**4)** The default value of slippage is 1%. Press Ⓐ to set detailed settings for slippage. In addition to the recommended default slippage values of 1%, 2%, and 3%, you can set the slippage to a higher value by pressing Ⓑ. The maximum slippage that can be set is capped to 49%. After confirming that the account selected below is correct, read the notes and check Ⓒ. Next, to give the service permission to swap, press Ⓓ to execute authorization.
+**4)** After you have an estimate of the amount coins you will received, you can set the value of slippage.
 
-![](../.gitbook/assets/그림23.png)
+The phenomenon in which the price fluctuates between the time of ordering and the time of confirmation is called "Slippage", and default slippage values of 1%. \
+In addition to the recommended slippage values of 1%, 2%, and 3%, you can set the slippage value to a higher value. The maximum slippage that can be set is capped to 49%.
 
-**5)** After you tick on Approve Authorization box, you will see the following screen shortly. Confirm the contract address, and then proceed with signing. Once authorization is done, **the token will no longer need authorization again.**
+After you have finished setting the value of the slippage in **Ⓐ**, press the **"Buy"** button in **Ⓑ**.
 
-![](../.gitbook/assets/그림24.png)
+![](../.gitbook/assets/Swap\_eng-10.png)
 
-**6)** After reviewing the information to be signed once more, click the Swap button to finally proceed with the swap.
+**5)**  You will see the following screen shortly. Confirm the contract address, and then proceed with signing. Once authorization is done, **the token will no longer need authorization again.**
 
-![](../.gitbook/assets/그림25.png)
+<figure><img src="../.gitbook/assets/Swap_eng-12.png" alt=""><figcaption></figcaption></figure>
 
-**7)** Check once again that the information to be signed is correct, and proceed with the signature. If it is successfully signed, you can see the message 'Swap request has been transmitted'. You can check the actual transaction information from a Block Explorer by clicking on the link “Check from Polygon explorer” just below the Confirm button.
+**6)** After authorization, you will see the final quotation.
 
-![](../.gitbook/assets/그림26.png)
+After reviewing the final quotation and checking that everything is in order, click the **"Confirm"** button by checking the **"I have checked the cautions"** box. Afterward, double-check that the signed information is correct and click the **"OK"** button.
 
-**8)** If you click Confirm after signing, you will be taken back to a screen where you can select a cryptocurrency to swap. Now you can easily check the progress of the swap request that’s been transmitted by clicking **View Swap History** at the top. You can press the refresh button to get the latest status of the swap request in progress. If the swap has been completed, you will see “Completed” instead of “Pending” as the status.
+![](../.gitbook/assets/Swap\_eng-11.png)
 
-![](../.gitbook/assets/그림27.png)
+**7)** After confirming the final signing information, proceed to sign the transaction in your wallet and the swap request transaction will be completed and you will be able to see the estimated amount of coins you will received.
+
+![](../.gitbook/assets/Swap\_eng-13.png)
+
+At this time, when you press the **"Where can I check my transaction history?"** button, the following pop-up appears, and you can press the **"View transaction history"** button to check the history.\
+Of course, you can check the transaction information with Block Explorer by pressing a button like **"Polygon Scan".**
+
+![](../.gitbook/assets/Swap\_eng-14.png)
+
+**8)** If the cryptocurrency account you wanted to swap is not added to D'CENT, you can add it right away, as shown below. Now you can see the swapped cryptocurrency balance through the **"My Wallet"** tab.
+
+![](../.gitbook/assets/Swap\_eng-15.png)

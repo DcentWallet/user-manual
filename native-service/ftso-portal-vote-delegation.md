@@ -2,7 +2,11 @@
 
 ## Introduction to the D'CENT FTSO Portal
 
-![](<../.gitbook/assets/image (243) (1).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (243) (1).png" alt="">
+
+</div>
 
 D’CENT Wallet is excited to announce the release of the FTSO Portal that allows users to interact with the FTSO functions on the Songbird Network. Currently, SGB ​​holders can delegate Vote Power to their favorite FTSO providers on the Songbird Network. Similar FTSO functions on the Flare Network will be available when the mainnet is launched at a later time.
 
@@ -10,7 +14,11 @@ D’CENT Wallet is excited to announce the release of the FTSO Portal that allow
 
 FTSO portal can be found from the Discovery Tab(DApp browser) of the D’CENT Mobile App.
 
-![](<../.gitbook/assets/image (244) (1).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (244) (1).png" alt="">
+
+</div>
 
 1\. Go to the Discovery Tab and click ‘**FTSO Portal**’ from the list.
 
@@ -20,7 +28,11 @@ FTSO portal can be found from the Discovery Tab(DApp browser) of the D’CENT Mo
 
 To delegate your vote power to an FTSO provider, you must first **swap** **SGB to WSGB** token.
 
-![](https://miro.medium.com/max/700/1\*OlWp8oOVayuyaHXhsxgRhA.png)
+<div align="left">
+
+<img src="https://miro.medium.com/max/700/1*OlWp8oOVayuyaHXhsxgRhA.png" alt="">
+
+</div>
 
 1\. Click on the Swap button.
 
@@ -28,7 +40,11 @@ To delegate your vote power to an FTSO provider, you must first **swap** **SGB t
 
 3\. Press ‘Confirm’ to continue.
 
-![](https://miro.medium.com/max/700/1\*NrzXDkivzWK1Slf\_FPlb3g.png)
+<div align="left">
+
+<img src="https://miro.medium.com/max/700/1*NrzXDkivzWK1Slf_FPlb3g.png" alt="">
+
+</div>
 
 4\. Press ‘OK’ and authenticate to sign this transaction.
 
@@ -38,7 +54,11 @@ To delegate your vote power to an FTSO provider, you must first **swap** **SGB t
 
 ### Vote Power delegation with WSGB <a href="#49a0" id="49a0"></a>
 
-![](https://miro.medium.com/max/700/1\*vvGOXt5WklWsImKa32wmgg.png)
+<div align="left">
+
+<img src="https://miro.medium.com/max/700/1*vvGOXt5WklWsImKa32wmgg.png" alt="">
+
+</div>
 
 1\. Scroll down to ‘**My Delegation**’ and click on **+ Add delegation**. Note that you can currently add up to 2 delegations.
 
@@ -46,7 +66,11 @@ To delegate your vote power to an FTSO provider, you must first **swap** **SGB t
 
 3\. Enter the amount(**% rate**) you want to delegate. For example, we have 10 WSGB in the balance. Setting the delegation rate to 50% will delegate 10 WSGB \* 0.50% = **5 WSGB**. Note that you can also check when the reward period will be for each delegation.
 
-![](https://miro.medium.com/max/700/1\*30F0xHmrqNlRJkVEjaAx0g.png)
+<div align="left">
+
+<img src="https://miro.medium.com/max/700/1*30F0xHmrqNlRJkVEjaAx0g.png" alt="">
+
+</div>
 
 4\. To finalize the delegation, you will need to sign a transaction. Press ‘Confirm’ to continue.
 
@@ -56,7 +80,11 @@ To delegate your vote power to an FTSO provider, you must first **swap** **SGB t
 
 ### Checking my delegation status <a href="#64b3" id="64b3"></a>
 
-![](https://miro.medium.com/max/700/1\*lWwqtgLmYeOKKYWJZuoxPQ.png)
+<div align="left">
+
+<img src="https://miro.medium.com/max/700/1*lWwqtgLmYeOKKYWJZuoxPQ.png" alt="">
+
+</div>
 
 1\. Note that delegating Vote Power to an FTSO provider does not transfer your WSGB and all of your WSGB stays in your wallet.
 
@@ -68,7 +96,11 @@ To delegate your vote power to an FTSO provider, you must first **swap** **SGB t
 
 ### Undelegating Vote Power <a href="#5a41" id="5a41"></a>
 
-![](https://miro.medium.com/max/700/1\*dqFgmg0riMp51fmAC5oJ7Q.png)
+<div align="left">
+
+<img src="https://miro.medium.com/max/700/1*dqFgmg0riMp51fmAC5oJ7Q.png" alt="">
+
+</div>
 
 1\. To un-delegate your Vote Power from an FTSO, simply click on the ‘**Undelegate**’ button.
 
@@ -78,7 +110,11 @@ To delegate your vote power to an FTSO provider, you must first **swap** **SGB t
 
 ### D’CENT FTSO Partners List <a href="#ce1a" id="ce1a"></a>
 
-![](https://miro.medium.com/max/700/1\*xCNgnnI60FtLsDpiwL-7ig.png)
+<div align="left">
+
+<img src="https://miro.medium.com/max/700/1*xCNgnnI60FtLsDpiwL-7ig.png" alt="">
+
+</div>
 
 [FTSO AU](https://www.ftso.com.au/) | [AlphaOracle](https://www.alphaoracle.io/) | [ScandiNodes FTSO](https://ftso.scandinodes.com/) | [Aureus Ox](https://aureusox.com/) | [FTSO UK](https://www.ftso.uk/)\
 [Use Your Spark](https://www.useyourspark.com/) | [Defi Oracles](https://defioracles.org/) | [FTSO EU](https://www.ftso.eu/) | [Best FTSO](https://bestftso.xyz/) | [Bifrost Oracle](https://towolabs.com/)\

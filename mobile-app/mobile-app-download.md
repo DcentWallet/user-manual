@@ -1,6 +1,6 @@
 # Mobile App download
 
-## Mobile App download for Android <a id="android"></a>
+## Mobile App download for Android <a href="#android" id="android"></a>
 
 ### Download Link
 
@@ -12,7 +12,11 @@ You can install D'CENT mobile app by searching for the app directly from the Goo
 
 Search for the keyword "**D'CENT Wallet**".
 
-![](../.gitbook/assets/image%20%2853%29.png)
+<div align="left">
+
+<img src="../.gitbook/assets/image (53).png" alt="">
+
+</div>
 
 ## Mobile App download for iOS
 
@@ -26,5 +30,8 @@ You can install D'CENT mobile app by searching for the app directly from the App
 
 Search for the keyword "**D'CENT Wallet**".
 
-![](../.gitbook/assets/image%20%284%29.png)
+<div align="left">
 
+<img src="../.gitbook/assets/image (4).png" alt="">
+
+</div>

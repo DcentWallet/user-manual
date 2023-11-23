@@ -34,11 +34,19 @@ From the Klaystation, users can stake KLAY using Kaikas wallet and D'CENT Biomet
 
 **Step 7)** The final confirmation of the staking transaction must be authorized from the D'CENT Biometric wallet. From the hardware wallet, press the **Confirm** button and **authenticate yourself** using fingerprint or PIN to finalize the transaction. &#x20;
 
-![](../.gitbook/assets/klaystation-9.png)
+<div align="left">
+
+<img src="../.gitbook/assets/klaystation-9.png" alt="">
+
+</div>
 
 **Step 8)** When the staking transaction is completed successfully, you will the the following message from the Klaystation.
 
-![](../.gitbook/assets/klaystation-10.png)
+<div align="left">
+
+<img src="../.gitbook/assets/klaystation-10.png" alt="">
+
+</div>
 
 {% hint style="info" %}
 To unstake your KLAY from the Klaystation, press the **UNSTAKE NOW** button on the dashboard.

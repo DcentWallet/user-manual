@@ -10,7 +10,11 @@ You can also search from the App store to install D'CENT mobile app.
 
 Search for "**D'CENT wallet**" from the App store.
 
-![](<../.gitbook/assets/image (30).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (30).png" alt="">
+
+</div>
 
 ## Basic setup for Mobile App
 
@@ -18,7 +22,11 @@ Search for "**D'CENT wallet**" from the App store.
 
 If running the mobile app for the first time, you must choose a wallet mode. Choose "**Biometric Wallet**" as your choice.
 
-![](<../.gitbook/assets/image (195).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (195).png" alt="">
+
+</div>
 
 Wallet mode can also be changed from the Manager tab on the bottom menu of D'CENT App. If you are using the Biometric hardware wallet, you must set the wallet mode on the D'CENT App to the Biometric Wallet mode.&#x20;
 
@@ -39,7 +47,11 @@ Mobile App password can be changed from the [App "Setting" menu](../mobile-app/m
 
 From the iPhone Setting menu, turn on Bluetooth.
 
-![](<../.gitbook/assets/image (161).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (161).png" alt="">
+
+</div>
 
 ## Bluetooth connection with Biometric Wallet
 
@@ -47,14 +59,26 @@ From the iPhone Setting menu, turn on Bluetooth.
 
 1\) Go to the main tab(Account) of D'CENT mobile app. Notice the Bluetooth icon (red color) located on the top right corner of the screen. Red color indicates Bluetooth connection is not established. Click on this icon to connect with Biometric Wallet.
 
-![](<../.gitbook/assets/image (126).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (126).png" alt="">
+
+</div>
 
 2\) When you clicked on the icon, you will see a list of devices available to connect via Bluetooth. Find your D'CENT device and click to initiate Bluetooth pairing.
 
-![](<../.gitbook/assets/image (90).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (90).png" alt="">
+
+</div>
 
 3\) When your D'CENT device is selected, your wallet will start the synchronization automatically. Synchronization will take few seconds to complete. You will notice that the Bluetooth icon is now in mint color, which indicates the Bluetooth connection is now established with your Biometric Wallet.
 
-![](<../.gitbook/assets/image (100).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (100).png" alt="">
+
+</div>
 
 You can now add a coin account to manage using your Biometric Wallet. More information on how to add coin account can be found [here](../mobile-app/create-account/).

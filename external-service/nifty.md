@@ -15,7 +15,11 @@ Nifty Wallet is an open-source wallet created by the [POA Network](https://www.p
 
 Nifty Wallet users will be able to enjoy an additional layer of security when accessing various EVM-compatible networks. While users interact with Nifty Wallet to connect with various DApps and create transactions, the ownership verification and authorization are securely performed from the D’CENT Biometric Wallet.
 
-![](../.gitbook/assets/nifty01.png)
+<div align="left">
+
+<img src="../.gitbook/assets/nifty01.png" alt="">
+
+</div>
 
 ### How to connect D’CENT Biometric Wallet with Nifty Wallet: <a href="#b3fa" id="b3fa"></a>
 
@@ -33,20 +37,40 @@ Nifty Wallet and MetaMask do not function properly when both are activated at th
 
 **Step 3)** Plug in your D’CENT Biometric Wallet to the PC USB port and authenticate to unlock the device.
 
-![](https://miro.medium.com/max/700/1\*xJjQuZwJ-u8LxuFKs4cvSw.png)
+<div align="left">
+
+<img src="https://miro.medium.com/max/700/1*xJjQuZwJ-u8LxuFKs4cvSw.png" alt="">
+
+</div>
 
 **Step 4)** From the Nifty Wallet, click on the **Account** icon. Click on **Connect hardware wallet** and select **D’CENT** from the option.
 
-![](https://miro.medium.com/max/700/1\*9dAi-uQ72c0XNxRUtRGw6g.png)
+<div align="left">
+
+<img src="https://miro.medium.com/max/700/1*9dAi-uQ72c0XNxRUtRGw6g.png" alt="">
+
+</div>
 
 **Step 5)** From the Chrome browser, D’CENT bridge service will check for hardware wallet connection.
 
-![](https://miro.medium.com/max/700/1\*wP-F\_fgqUI8ytyLbckhb7w.png)
+<div align="left">
+
+<img src="https://miro.medium.com/max/700/1*wP-F_fgqUI8ytyLbckhb7w.png" alt="">
+
+</div>
 
 **Step 6)** Back at the Nifty Wallet, click on the **Account** icon. Click on ‘**Connect hardware wallet**’ to see the list of accounts that can be viewed in the Nifty Wallet. (Example: RBTC account in D’CENT Biometric Wallet)
 
-![](https://miro.medium.com/max/700/1\*2S3toWL57EeaTSN\_kMgyNw.png)
+<div align="left">
+
+<img src="https://miro.medium.com/max/700/1*2S3toWL57EeaTSN_kMgyNw.png" alt="">
+
+</div>
 
 **Step 7)** Unlock the selected account to view in Nifty Wallet.
 
-![](https://miro.medium.com/max/700/1\*tXd\_kKpuOBtaHhjoC9zaTw.png)
+<div align="left">
+
+<img src="https://miro.medium.com/max/700/1*tXd_kKpuOBtaHhjoC9zaTw.png" alt="">
+
+</div>

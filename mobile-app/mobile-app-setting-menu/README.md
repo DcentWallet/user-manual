@@ -6,7 +6,11 @@ description: D'CENT Mobile App Setting
 
 You can change various settings of the mobile app from the "Setting" menu.
 
-![](<../../.gitbook/assets/image (42).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (42).png" alt="">
+
+</div>
 
 ## Local Currency
 

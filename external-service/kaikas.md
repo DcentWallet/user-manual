@@ -17,23 +17,43 @@ Kaikas is a PC browser based extension wallet for the Klaytn platform. Users wil
 
 **Step 2)** Plug in your D’CENT Biometric Wallet to the USB port on your PC and authenticate yourself to unlock the hardware wallet.
 
-![](../.gitbook/assets/connect-biometric-to-pc.png)
+<div align="left">
+
+<img src="../.gitbook/assets/connect-biometric-to-pc.png" alt="">
+
+</div>
 
 **Step 3)** From your browser, click on the **Kaikas extension** icon.
 
-![](../.gitbook/assets/kaikas-extension-on-pc.png)
+<div align="left">
+
+<img src="../.gitbook/assets/kaikas-extension-on-pc.png" alt="">
+
+</div>
 
 **Step 4)** Unlock Kaikas wallet and click the **Manage Accounts** icon on the top menu.
 
-![](../.gitbook/assets/kaikas-1.png)
+<div align="left">
+
+<img src="../.gitbook/assets/kaikas-1.png" alt="">
+
+</div>
 
 **Step 5)** From the Manage Accounts screen, click on **Connect**. In the next screen, select **D’CENT** as your hardware wallet and click **Connect**.
 
-![](../.gitbook/assets/kaikas-2.png)
+<div align="left">
+
+<img src="../.gitbook/assets/kaikas-2.png" alt="">
+
+</div>
 
 **Step 6)** From your browser, click on the **Kaikas extension** icon again to open the wallet service. You will notice that the Kaikas wallet now displays the **Klaytn account from the D’CENT Biometric Wallet.**
 
-![](../.gitbook/assets/kaikas-3.png)
+<div align="left">
+
+<img src="../.gitbook/assets/kaikas-3.png" alt="">
+
+</div>
 
 {% hint style="info" %}
 &#x20;You can always switch between multiple Klaytn wallet accounts by pressing the **Manage Accounts** icon.

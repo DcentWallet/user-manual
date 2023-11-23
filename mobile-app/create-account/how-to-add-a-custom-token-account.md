@@ -6,7 +6,7 @@ Custom tokens are token-type cryptocurrencies that are not listed in the support
 
 To request official support for a specific token from D'CENT Wallet, please use the Google form below. Requesting support for a new blockchain network can take a significant amount of time.
 
-****[**Request form for additional tokens/coins**](https://docs.google.com/forms/d/e/1FAIpQLSddydt7fv7D0ATnw49tCsBsex9DpHinAr0sebGb\_eQb0ne37g/viewform)****
+[**Request form for additional tokens/coins**](https://docs.google.com/forms/d/e/1FAIpQLSddydt7fv7D0ATnw49tCsBsex9DpHinAr0sebGb\_eQb0ne37g/viewform)
 
 
 
@@ -39,7 +39,11 @@ Adding custom tokens is straightforward and easy. Before you can add a custom to
 
 For example, if you intend to add an ERC20, you must first have created an Ethereum account in the wallet.
 
-![](<../../.gitbook/assets/1 (5).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/1 (5).png" alt="">
+
+</div>
 
 1\) Click on ‘**+Add Custom Token**’
 

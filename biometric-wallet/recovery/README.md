@@ -26,13 +26,21 @@ To power on the device, press and hold the power button for 3 seconds, which is 
 
 Use ∧(Up**)** or ∨(Down**)** button to select your language and press **OK** button.
 
-![](<../../.gitbook/assets/image (2).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (2).png" alt="">
+
+</div>
 
 ### Select "Recover Wallet"
 
 To recover wallet, select "Recover Wallet" from the menu.
 
-![](<../../.gitbook/assets/image (59).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (59).png" alt="">
+
+</div>
 
 ## Step-2 : Register PIN & Fingerprint
 
@@ -68,20 +76,32 @@ After setting up your cold wallet, you can change the PIN value from the [Settin
 
 1\) To register your fingerprint, touch your finger on the sensor to scan.
 
-![](<../../.gitbook/assets/image (55).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (55).png" alt="">
+
+</div>
 
 Fingerprint sensor is located in the middle of where the navigational buttons are located. \
 Check the location of [fingerprint sensor](../setting-up.md#before-start).
 
 2\) Slightly change the angular positioning of the same finger when scanning and repeat until 100% (8 correct scans) is reached.
 
-![](<../../.gitbook/assets/image (111).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (111).png" alt="">
+
+</div>
 
 ### Verify Fingerprint
 
 Scan your fingerprint one last time to verify registered fingerprint.
 
-![](<../../.gitbook/assets/image (133).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (133).png" alt="">
+
+</div>
 
 ※ If the fingerprint does not match, you will have to restart the Fingerprint registration..
 
@@ -95,15 +115,27 @@ Scan your fingerprint one last time to verify registered fingerprint.
 
 1\) Enter the 24 recovery words recorded on the recovery card, numbered 1 through 24.
 
-![](<../../.gitbook/assets/image (181).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (181).png" alt="">
+
+</div>
 
 2\) Press the Down (∨) button to review whether the 24 recovery words were entered correctly in order.
 
-![](<../../.gitbook/assets/image (205).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (205).png" alt="">
+
+</div>
 
 3\) If all words are entered correctly, select "I am ready" at the bottom of the review menu.
 
-![](<../../.gitbook/assets/image (105).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (105).png" alt="">
+
+</div>
 
 {% hint style="info" %}
 Do not take a photo or save the recovery word or recovery card as an image. The user is responsible for handling the recovery word safely.&#x20;
@@ -115,7 +147,11 @@ Special care is required for safe storage (away from fire, water, sunlight or pe
 
 ## Step-4 : Completing the Wallet Recovery
 
-![](<../../.gitbook/assets/image (109).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (109).png" alt="">
+
+</div>
 
 After completing the wallet recovery, connect your hardware wallet to the D'CENT mobile application to synchronize. **You need to re-add all the cryptocurrency accounts that you have created in the past.** (Try to keep a list of the accounts that you have created, so that you can easily re-add them after the wallet recovery).
 

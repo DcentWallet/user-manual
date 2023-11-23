@@ -6,27 +6,37 @@ description: Send and Receive Klaytn (KLAY) coin
 
 ## How to create an KLAY account
 
-If you don't have Klaytn account, create new account. Coin name for KLAY is "Klaytn \(KLAY\)".
+If you don't have Klaytn account, create new account. Coin name for KLAY is "Klaytn (KLAY)".
 
 For more details of creating an account, click below link.
 
-{% page-ref page="../../mobile-app/create-account/" %}
+{% content-ref url="../../mobile-app/create-account/" %}
+[create-account](../../mobile-app/create-account/)
+{% endcontent-ref %}
 
 ## Receive KLAY coin
 
 From your coin account, click "Receive" to view your account address.
 
-![](../../.gitbook/assets/image%20%28110%29.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (110).png" alt="">
+
+</div>
 
 For more details of receiving coin, click below link.
 
-{% page-ref page="../receive.md" %}
+{% content-ref url="../receive.md" %}
+[receive.md](../receive.md)
+{% endcontent-ref %}
 
 ## Sending KLAY Coin
 
 The procedures to send KLAY coin are same as sending general coin. You can see in the below link to check how to send coin.
 
-{% page-ref page="../send/" %}
+{% content-ref url="../send/" %}
+[send](../send/)
+{% endcontent-ref %}
 
 ### Set the fee for Klaytn
 
@@ -42,5 +52,8 @@ GAS fee is fixed on Klaytn, and you can change GAS Limit on fee setting stage.
 GAS Limit is automatically calculated in D'CENT mobile application.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2833%29.png)
+<div align="left">
 
+<img src="../../.gitbook/assets/image (33).png" alt="">
+
+</div>

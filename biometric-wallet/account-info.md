@@ -10,7 +10,11 @@ Even if the Biometric Wallet is not synchronized with the mobile app, the basic 
 
 The main screen of the device lists various coin accounts. Select and choose an account to view the details.
 
-![](<../.gitbook/assets/1 (12).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/1 (12).png" alt="">
+
+</div>
 
 For more information on **how to create an account**, please see [here](../mobile-app/create-account/).
 

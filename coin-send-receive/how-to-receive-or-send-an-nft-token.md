@@ -6,15 +6,27 @@ Let’s see how to send NFTs from another wallet to D'CENT Wallet. In our exampl
 
 **1)** Check the NFT you currently have. In this example, we have an NFT in the MetaMask wallet connected to the Rarible Marketplace. To transfer this NFT token to the D'CENT Wallet, click on  Transfer.
 
-![](../.gitbook/assets/NFT7.png)
+<div align="left">
+
+<img src="../.gitbook/assets/NFT7.png" alt="">
+
+</div>
 
 **2)** The MetaMask (or wallet that is currently linked to the service) screen will be triggered, and you will have to create a send transaction. After entering the address, set the fee and click OK. This will send the NFT transfer transaction to the blockchain network (Ethereum in the example).
 
-![](<../.gitbook/assets/NFT8 (1).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/NFT8 (1).png" alt="">
+
+</div>
 
 **3)** When the NFT transfer transaction gets completed from the blockchain network, you will see that an NFT received to your D'CENT Wallet will be displayed on the Collectibles Tab.
 
-![](<../.gitbook/assets/NFT9 (1).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/NFT9 (1).png" alt="">
+
+</div>
 
 ### How to access NFT Collectibles for iOS users
 

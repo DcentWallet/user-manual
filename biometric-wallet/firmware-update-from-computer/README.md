@@ -8,7 +8,11 @@ Whenever new coin support is added or bug fix has been made, a new firmware will
 Firmware update can be done only from the PC or Mac.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (201).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (201).png" alt="">
+
+</div>
 
 ## Before you update the firmware
 
@@ -52,7 +56,11 @@ If you are ready, click [here](https://fwu.dcentwallet.com/) to go to the Firmwa
 
 If there is no D'CENT bridge program installed on your computer, download and install the latest version of the bridge program respective to the OS running on your computer.
 
-![](<../../.gitbook/assets/image (147).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (147).png" alt="">
+
+</div>
 
 The D'CENT bridge program runs in the system background and is used for communication between your computer and Biometric Wallet.
 
@@ -66,7 +74,11 @@ After finishing the download, click to install the bridge program.
 
 When the installation is complete, click the "Refresh page" button at the bottom of the screen.
 
-![](<../../.gitbook/assets/image (54).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (54).png" alt="">
+
+</div>
 
 ### Install D'CENT bridge program (Mac)
 
@@ -86,7 +98,11 @@ In the **Taskbar**, there should be a **D'CENT Bridge icon**, make sure to check
 
 &#x20;When the installation is complete, click the "Refresh page" button at the bottom of the screen.
 
-![](<../../.gitbook/assets/image (54).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (54).png" alt="">
+
+</div>
 
 ### Connect Biometric Wallet to your computer
 
@@ -96,19 +112,31 @@ In the **Taskbar**, there should be a **D'CENT Bridge icon**, make sure to check
 
 3\) After connecting, you should see the following screen appears, click the "Retry to find device" button.
 
-![](<../../.gitbook/assets/image (186).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (186).png" alt="">
+
+</div>
 
 ### Check firmware version
 
 1\) Check if the connected Biometric Wallet has the latest version. If it is not the latest version, the following screen appears.
 
-![](<../../.gitbook/assets/image (114).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (114).png" alt="">
+
+</div>
 
 2\) Press "Update to version ..." button.
 
 ### Changing to bootloader mode
 
-![](<../../.gitbook/assets/image (64).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (64).png" alt="">
+
+</div>
 
 Follow the instructions and proceed as described.
 
@@ -118,7 +146,11 @@ Follow the instructions and proceed as described.
 
 3\) To enter bootloader mode, press and hold both the "OK" button and "Power" button on the Biometric Wallet for 10 seconds. When entering bootload mode, the following screen appears on the display of the Biometric Wallet.
 
-![](<../../.gitbook/assets/image (18).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (18).png" alt="">
+
+</div>
 
 4\) Plug the Biometric Wallet to the USB cable to reconnect with your computer.
 
@@ -128,11 +160,19 @@ Follow the instructions and proceed as described.
 
 Firmware update from the webpage will take approximately 3 minutes to reach 100%. Please wait.&#x20;
 
-![](<../../.gitbook/assets/image (10).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (10).png" alt="">
+
+</div>
 
 From the Biometric Wallet, you can also check the progress of firmware update.
 
-![](<../../.gitbook/assets/image (179).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (179).png" alt="">
+
+</div>
 
 ### Completing the firmware update
 

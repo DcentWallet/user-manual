@@ -20,17 +20,29 @@ Each phone model and the Android OS version variants will have a different metho
 Below is an example of how the Bluetooth application can be accessed from an **older version of** **Android** phone.
 {% endhint %}
 
-![](<../../.gitbook/assets/3 (9).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/3 (9).png" alt="">
+
+</div>
 
 1\) Go to **Settings**\
 2\) Click on **Apps**
 
-![](<../../.gitbook/assets/4 (6).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/4 (6).png" alt="">
+
+</div>
 
 3\) Click on **3 dot icon (or ellipsis)**\
 4\) Click on **Show system apps**
 
-![](<../../.gitbook/assets/5 (4).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/5 (4).png" alt="">
+
+</div>
 
 5\) Click on **Bluetooth Application**\
 6\) Click on **Storage**\

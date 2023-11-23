@@ -6,7 +6,11 @@
 
 From the Account tab, click the `+` button to create an account.
 
-![](<../../.gitbook/assets/image (12).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (12).png" alt="">
+
+</div>
 
 {% hint style="info" %}
 In the case of using the **Biometric Wallet mode**, your Biometric Wallet must also be connect in order to create an account.
@@ -18,7 +22,11 @@ Please refer to the [D'CENT Manager Menu](../mobile-app-dcent-manager/) to chang
 
 Select the coin you want to add from the list. You can also search by coin name or symbol name.
 
-![](<../../.gitbook/assets/image (67).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (67).png" alt="">
+
+</div>
 
 {% hint style="info" %}
 Click [https://dcentwallet.com/SupportedCoin](https://dcentwallet.com/SupportedCoin) for a full list of cryptocurrencies supported by D'CENT Wallet.
@@ -29,7 +37,11 @@ Click [https://dcentwallet.com/SupportedCoin](https://dcentwallet.com/SupportedC
 If you cannot find your coins or tokens to add, you can ask the D'CENT team to add it to the list. \
 Click the "Crypto Asset Request" link and fill out the form. The D'CENT team will try to reflect your need as quickly as possible.
 
-![](<../../.gitbook/assets/image (101).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (101).png" alt="">
+
+</div>
 
 ### When trying to add a token account without the fee account
 
@@ -41,19 +53,31 @@ To create token accounts such as ERC20, RRC20, and KCT, the corresponding mainne
 
 * To create KCT token account: Klaytn account is required
 
-![](<../../.gitbook/assets/image (17).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (17).png" alt="">
+
+</div>
 
 ## Set Account Name
 
 After selecting the coin / token to add, please set the account name. You can also use the default account name. The account name is the nickname for the account, and it is displayed in the account information of the mobile app and also on the Biometric Wallet.
 
-![](<../../.gitbook/assets/image (139).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (139).png" alt="">
+
+</div>
 
 ### Account created successfully
 
 When the account creation is completed, your account will appear on the main screen. The account balance information is retrieved from the blockchain network.
 
-![](<../../.gitbook/assets/image (160).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (160).png" alt="">
+
+</div>
 
 Now you can try SEND or RECEIVE from your account.
 

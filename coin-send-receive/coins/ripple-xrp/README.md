@@ -13,11 +13,19 @@ Users' ripple wallets assigned by the Exchanges use the same address. In other w
 \
 **Therefore, when sending XRP to a recipient wallet address created from the Exchange, you MUST enter the Destination Tag so that the Exchange will complete the deposit to the recipient's wallet account**.
 
-![](../../../.gitbook/assets/exchange\_xrp\_address\_en.png)
+<div align="left">
+
+<img src="../../../.gitbook/assets/exchange_xrp_address_en.png" alt="">
+
+</div>
 
 ## Example of XRP account created from an Exchange
 
-![](../../../.gitbook/assets/exchange\_xrp\_account\_en.png)
+<div align="left">
+
+<img src="../../../.gitbook/assets/exchange_xrp_account_en.png" alt="">
+
+</div>
 
 Picture above is an example of XRP wallet account created from an Exchange such as Binance.\
 When you press "Deposit" for XRP, it will show the XRP deposit Tag (**9-digit unique number**).\

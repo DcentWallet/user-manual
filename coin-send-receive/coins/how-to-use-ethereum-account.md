@@ -6,31 +6,45 @@ description: Send and Receive Ethereum (ETH) coin
 
 ## How to create an Ethereum account
 
-If you don't have Ethereum account, create new account. Coin name for Ethereum is "Ethereum \(ETH\)".
+If you don't have Ethereum account, create new account. Coin name for Ethereum is "Ethereum (ETH)".
 
 For more details of creating an account, click below link.
 
-{% page-ref page="../../mobile-app/create-account/" %}
+{% content-ref url="../../mobile-app/create-account/" %}
+[create-account](../../mobile-app/create-account/)
+{% endcontent-ref %}
 
 ## Receive Ethereum coin
 
 From your coin account, click "Receive" to view your account address.
 
-![](../../.gitbook/assets/image%20%28218%29.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (218).png" alt="">
+
+</div>
 
 For more details of receiving coin, click below link.
 
-{% page-ref page="../receive.md" %}
+{% content-ref url="../receive.md" %}
+[receive.md](../receive.md)
+{% endcontent-ref %}
 
 ## Send Ethereum Coin
 
 The procedures to send ETH coin are same as sending general coin. You can see in the below link to check how to send coin.
 
-{% page-ref page="../send/" %}
+{% content-ref url="../send/" %}
+[send](../send/)
+{% endcontent-ref %}
 
 ### Set the fee for Ethereum
 
-![](../../.gitbook/assets/image%20%28215%29.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (215).png" alt="">
+
+</div>
 
 The fee of Ethereum is automatically calculated after setting the sending amount. The calculated fee is based on current average transaction fee on Ethereum blockchain network.
 
@@ -50,5 +64,8 @@ The real fee to be paid is calculated as `“Used GAS amount” x “GAS fee”`
 
 You can set the maximum amount of GAS as setting GAS Limit. Transaction can be confirmed faster if GAS fee is higher. You can manually set the GAS Limit and GAS fee on "Advanced" fee setting option.
 
-![](../../.gitbook/assets/image%20%28221%29.png)
+<div align="left">
 
+<img src="../../.gitbook/assets/image (221).png" alt="">
+
+</div>

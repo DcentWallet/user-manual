@@ -10,7 +10,11 @@ description: Creating new wallet on the Biometric Wallet
 
 
 
-![D'CENT Biometric Wallet user interfaces](../.gitbook/assets/img-howtouse-dongle.png)
+<div align="left">
+
+<img src="../.gitbook/assets/img-howtouse-dongle.png" alt="D&#x27;CENT Biometric Wallet user interfaces">
+
+</div>
 
 D'CENT Biometric Wallet is equipped with 4-buttons for navigation.
 
@@ -30,7 +34,11 @@ To power on the device, press and hold the power button for 3 seconds, which is 
 
 Use ∧(Up**)** or ∨(Down**)** button to select your language and press **OK** button.
 
-![](<../.gitbook/assets/image (149).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (149).png" alt="">
+
+</div>
 
 Language support : English, Korean, Chinese, Japanese, Spanish
 
@@ -42,7 +50,11 @@ After setting up your cold wallet, you can change the Language from the [Setting
 
 To create a new wallet, select "Create Wallet" from the menu.
 
-![](<../.gitbook/assets/image (68).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (68).png" alt="">
+
+</div>
 
 {% hint style="info" %}
 Selecting "Create Wallet" will create a wallet from a new private key. \
@@ -84,20 +96,32 @@ After setting up your cold wallet, you can change the PIN value from the Biometr
 
 1\) To register your fingerprint, touch your finger on the sensor to scan.
 
-![](<../.gitbook/assets/image (183).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (183).png" alt="">
+
+</div>
 
 Fingerprint sensor is located in the middle of where the navigational buttons are located. \
 Check the location of [fingerprint sensor](setting-up.md#before-start).
 
 2\) Slightly change the angular positioning of the same finger when scanning and repeat until 100% (8 correct scans) is reached.
 
-![](<../.gitbook/assets/image (135).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (135).png" alt="">
+
+</div>
 
 ### Verify Fingerprint
 
 Scan your fingerprint one last time to verify registered fingerprint.&#x20;
 
-![](<../.gitbook/assets/image (184).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (184).png" alt="">
+
+</div>
 
 ※ If the fingerprint does not match, you will have to restart the Fingerprint registration..
 
@@ -127,17 +151,29 @@ If you lose your recovery card, there is no other way to recover your existing w
 
 1\) Press **OK** button only when you have fully understood the WARNING notice.
 
-![](<../.gitbook/assets/image (159).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (159).png" alt="">
+
+</div>
 
 2\) Write down all the recovery seeds (words) shown on the screen of your cold wallet. Press OK button to see the next list of words.&#x20;
 
 There are 6 lists with total of 24 words and each list has 4 words shown. Make sure you write them down correctly and in the exact same order as shown.
 
-![](<../.gitbook/assets/image (103).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (103).png" alt="">
+
+</div>
 
 3\) When you have written down all 24 words, press OK button to continue.
 
-![](<../.gitbook/assets/image (92).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (92).png" alt="">
+
+</div>
 
 ### &#xD;Recovery Seeds Verification
 
@@ -147,13 +183,21 @@ You will be asked to take a simple quiz. From the 24 words listed, you will be a
 From firmware version 2.9.2 or higher, the quiz will ask the user to enter all 24 words for verification.
 {% endhint %}
 
-![Quiz example](<../.gitbook/assets/image (49).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (49).png" alt="Quiz example">
+
+</div>
 
 Enter the correct word that corresponds to the question asked.
 
 #### Enter the first 3 characters
 
-![](<../.gitbook/assets/image (122).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (122).png" alt="">
+
+</div>
 
 ※ How to input : Use the Up/Down buttons - ∧(increase value from a to z) or ∨(decrease value z to a)&#x20;
 
@@ -163,13 +207,21 @@ When you have selected the first character, press "OK" button to enter the value
 
 From the list of words available, select the correct word using ∧/∨ buttons and press "OK" to choose as the answer.
 
-![](<../.gitbook/assets/image (56).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (56).png" alt="">
+
+</div>
 
 ※ If you find yourself having written down the words incorrectly, you can press "Back" button to revisit the recovery seeds from the lists for review.
 
 ## Step-4 : Completing the Initial Setup
 
-![](<../.gitbook/assets/image (65).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (65).png" alt="">
+
+</div>
 
 Congratulation, you have passed the quiz and your new wallet is created. From your cold wallet, you can check the lists of coin accounts available. You are now ready to use your new wallet together with the mobile application.
 
