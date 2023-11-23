@@ -22,11 +22,13 @@
 
 <img src="../.gitbook/assets/Swap-2.png" alt="" data-size="original">
 
+
+
 **3)** 메인 네트워크 변경을 하려면 아래 그림과 같이 더보기 버튼을 눌러 원하는 네트워크로 변경할 수 있습니다.
 
 <figure><img src="../.gitbook/assets/Swap-3.png" alt=""><figcaption></figcaption></figure>
 
-네트워크 선택 팝업이 나타나면 이용 가능한 메인 네트워크들이 표시됩니다. 네트워크 종류는 자사 및 서비스 제공자의 상황에 따라 달라질 수 있습니다. 화면을 위로 스크롤 하여 이용하고자 하는 네트워크를 선택합니다.
+**4)** 네트워크 선택 팝업이 나타나면 이용 가능한 메인 네트워크들이 표시됩니다. 네트워크 종류는 자사 및 서비스 제공자의 상황에 따라 달라질 수 있습니다. 화면을 위로 스크롤 하여 이용하고자 하는 네트워크를 선택합니다.
 
 <figure><img src="../.gitbook/assets/Swap-4.png" alt=""><figcaption></figcaption></figure>
 
