@@ -36,6 +36,8 @@ If you are biometric wallet user, hardware wallet must be connected.
 
 <figure><img src="../.gitbook/assets/Swap_eng-5.png" alt=""><figcaption></figcaption></figure>
 
+##
+
 ## **Start Swapping**
 
 **1)** Choose the cryptocurrency to be swapped.  **Send** is the cryptocurrency you have, and you can choose the coin to be swapped by pressing the More button.
