@@ -85,6 +85,7 @@
   * [블록체인 네트워크 선택](native-service/dapp-browser/switch-network.md)
   * [Wallet Connect 사용법](native-service/dapp-browser/wallet-connect.md)
   * [dApp 허용(권한) 철회하는 방법](native-service/dapp-browser/how-to-revoke-dapp-allowances.md)
+* [인사이트 (Insight)](native-service/insight.md)
 * [FTSO 포털 - 투표권 위임](native-service/ftso.md)
 * [스택스 스택킹 위임 서비스](native-service/stacks-stacking-delegation-service.md)
 * [교환 (Exchange)](native-service/exchange.md)
