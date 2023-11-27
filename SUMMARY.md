@@ -86,10 +86,10 @@
   * [Wallet Connect 사용법](native-service/dapp-browser/wallet-connect.md)
   * [dApp 허용(권한) 철회하는 방법](native-service/dapp-browser/how-to-revoke-dapp-allowances.md)
 * [인사이트 (Insight)](native-service/insight.md)
+* [스왑 (Swap)](native-service/swap.md)
+* [교환 (Exchange)](native-service/exchange.md)
 * [FTSO 포털 - 투표권 위임](native-service/ftso.md)
 * [스택스 스택킹 위임 서비스](native-service/stacks-stacking-delegation-service.md)
-* [교환 (Exchange)](native-service/exchange.md)
-* [스왑 (Swap)](native-service/swap.md)
 
 ## 트러블 슈팅 <a href="#troubleshooting" id="troubleshooting"></a>
 
