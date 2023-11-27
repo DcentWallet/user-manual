@@ -26,14 +26,14 @@ Top7 리스트는 **코인게코 5분마다 그리고 코인마켓캡은 10분�
 
 <figure><img src="../.gitbook/assets/insight-02.png" alt=""><figcaption></figcaption></figure>
 
-**3)** Top7 리스트 옆의 숫자는 최근 24시간 동안 가격 변동율을 보여줍니다.\
+**3)** Top7 리스트 옆의 숫자(%)는 **최근 24시간 동안 가격 변동율**을 보여줍니다.\
 만약 코인게코와 코인마켓캡에서 동일한 코인이 Top7 에 있다면 각 서비스마다 가격 변동율을 비교해 볼 수 있습니다.
 
 <figure><img src="../.gitbook/assets/insight-03.png" alt=""><figcaption></figcaption></figure>
 
 4\) Top7 리스트 하단에는 **1시간 전, 6시간 전, 24시간 전** 등 시간대별로 Top7에 올랐던 코인들의 목록을 확인할 수 있습니다.
 
-**"시장 추이"** 는 코인게코 및 코인마켓캡에서 지난 6시간 동안 트렌딩 리스트에 진입한 코인들의 시가 총액이 크기를 **"Small Cap"** 혹은 **"Large Cap"** 으로 측정하여 그래프로보여줍니다.
+**"시장 추이"** 는 코인게코 및 코인마켓캡에서 지난 6시간 동안 트렌딩 리스트에 진입한 코인들의 시가 총액이 크기를 **"Small Cap"** 혹은 **"Large Cap"** 으로 측정하여 그래프로 보여줍니다.
 
 <figure><img src="../.gitbook/assets/insight-04.png" alt=""><figcaption></figcaption></figure>
 
