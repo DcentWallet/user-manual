@@ -16,7 +16,7 @@ From the Account tab, click the `+` button to create an account.
 In the case of using the **Biometric Wallet mode**, your Biometric Wallet must also be connect in order to create an account.
 {% endhint %}
 
-Please refer to the [D'CENT Manager Menu](../mobile-app-dcent-manager/) to change the wallet mode of the mobile app.
+Please refer to the [D'CENT Manager Menu](../mobile-app-setting-menu/mobile-app-dcent-walletmode/) to change the wallet mode of the mobile app.
 
 ## Select the Coin/Token
 

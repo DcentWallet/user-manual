@@ -20,6 +20,6 @@ You can change the current PIN of your Card Wallet. Please proceed in the follow
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (76).png" alt="">
+<img src="../../../.gitbook/assets/image (76).png" alt="">
 
 </div>

@@ -1,10 +1,10 @@
-# D'CENT Manager Menu
+# Switch wallet mode
 
 You can manage hardware wallet or software wallet through the D'CENT Manager menu.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (43).png" alt="">
+<img src="../../../.gitbook/assets/image (43).png" alt="">
 
 </div>
 
@@ -16,7 +16,7 @@ D'CENT mobile app manages each account information from each wallet mode separat
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (32).png" alt="">
+<img src="../../../.gitbook/assets/image (32).png" alt="">
 
 </div>
 

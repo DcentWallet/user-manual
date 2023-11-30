@@ -10,7 +10,7 @@ Store the mnemonic code in a safe place.
 If you delete the D'CENT mobile app or lose your mobile phone without backing up the mnemonic code, you will lose all your coins in the software wallet.
 {% endhint %}
 
-![](<../../.gitbook/assets/1 (2).png>)
+![](<../../../.gitbook/assets/1 (2).png>)
 
 1\) Select '**App Wallet backup**' from the Manager tab.
 
@@ -24,7 +24,7 @@ If you delete the D'CENT mobile app or lose your mobile phone without backing up
 
 You can recover your wallet by using the mnemonic code (24 recovery words).
 
-![](<../../.gitbook/assets/2 (2).png>)
+![](<../../../.gitbook/assets/2 (2).png>)
 
 1\) Select '**App Wallet Recovery**' from the Manager tab.
 
@@ -35,7 +35,7 @@ You can recover your wallet by using the mnemonic code (24 recovery words).
 {% hint style="info" %}
 The mnemonic code from your software wallet can also be used to recover your wallet on the Biometric hardware wallet. \
 \
-Click here for more information about [recovering your wallet](../../biometric-wallet/recovery/) on Biometric Wallet.
+Click here for more information about [recovering your wallet](../../../biometric-wallet/recovery/) on Biometric Wallet.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -44,7 +44,7 @@ Click here for more information about [recovering your wallet](../../biometric-w
 
 ### Important notes after recovering your wallet
 
-{% content-ref url="../../troubleshooting/notes-on-wallet-recovery.md" %}
-[notes-on-wallet-recovery.md](../../troubleshooting/notes-on-wallet-recovery.md)
+{% content-ref url="../../../troubleshooting/notes-on-wallet-recovery.md" %}
+[notes-on-wallet-recovery.md](../../../troubleshooting/notes-on-wallet-recovery.md)
 {% endcontent-ref %}
 

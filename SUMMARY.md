@@ -44,12 +44,11 @@
   * [How to add a custom token account](mobile-app/create-account/how-to-add-a-custom-token-account.md)
   * [How to remove (hide) a coin account](mobile-app/create-account/how-to-remove-hide-a-coin-account.md)
   * [How to add a custom path BTC account](mobile-app/create-account/how-to-add-a-custom-path-btc-account.md)
-* [D'CENT Manager Menu](mobile-app/mobile-app-dcent-manager/README.md)
-  * [Biometric Wallet Manager](mobile-app/mobile-app-dcent-manager/biometric-wallet.md)
-  * [Card type Wallet Manager](mobile-app/mobile-app-dcent-manager/card-wallet.md)
-  * [Software Wallet Manager](mobile-app/mobile-app-dcent-manager/software-wallet.md)
-* [Mobile App "Setting" menu](mobile-app/mobile-app-setting-menu/README.md)
-  * [How to activate Testnet](mobile-app/mobile-app-setting-menu/how-to-activate-testnet.md)
+* [Mobile App "Settings" menu](mobile-app/mobile-app-setting-menu/README.md)
+  * [Switch wallet mode](mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/README.md)
+    * [Biometric Wallet Manager](mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/biometric-wallet.md)
+    * [Card type Wallet Manager](mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/card-wallet.md)
+    * [Software Wallet Manager](mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/software-wallet.md)
 
 ## How to send/receive coin <a href="#coin-send-receive" id="coin-send-receive"></a>
 
