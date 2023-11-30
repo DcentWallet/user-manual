@@ -44,7 +44,7 @@ description: 디센트 모바일 앱 설정
 
 ​코인/토큰 가격을 표시할 통화를 설정합니다.&#x20;
 
-KRW(한국 원화), USD(미국 달러), JPY(일본 엔화), EUR(유럽 유로), 영국 파운드(GBP), 중국 위안화(CNY) 등 총 39개의 법정 화폐와 BTC(비트코인), ETH(이더리움) 암호화폐로 가격을 표시할 수 있습니다.
+KRW(한국 원화), USD(미국 달러), JPY(일본 엔화), EUR(유럽 유로), GBP(영국 파운드), CNY(중국 위안화) 등 총 39개의 법정 화폐와 BTC(비트코인), ETH(이더리움) 암호화폐로 가격을 표시할 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/Setting-04.png" alt=""><figcaption></figcaption></figure>
 
