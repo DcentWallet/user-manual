@@ -53,7 +53,7 @@ And it supports BTC (Bitcoin) and ETH (Ethereum) cryptocurrencies.
 
 You can change the 6-digit password of the D'CENT mobile app.
 
-The 6-digit password for the mobile app is the password you registered when initially setting up the app
+The 6-digit password for the mobile app is the password you registered when initially setting up the app.
 
 <figure><img src="../../.gitbook/assets/Setting-eng05.png" alt=""><figcaption></figcaption></figure>
 
