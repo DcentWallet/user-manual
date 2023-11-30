@@ -1,27 +1,29 @@
-# Biometric Wallet Manager
+# Biometric Wallet
 
 ## Check firmware version
 
-You can check the Biometric Wallet firmware version in D'CENT Manager. If the firmware is not up-to-date, you will be informed about the firmware update.
+You can check the Biometric Wallet firmware version. If the firmware is not up-to-date, you will be informed about the firmware update.
 
 <div align="left">
 
-<img src="../../../.gitbook/assets/image (144).png" alt="">
+<img src="../../../.gitbook/assets/Setting-eng10.png" alt="">
 
 </div>
 
-{% hint style="info" %}
-Firmware update is currently supported only from PC. It is strongly recommended to use the Chrome browser to perform the firmware update from your PC.
-{% endhint %}
+By pressing the **"Firmware Update"** button, you can check for the latest version and find instructions on how to update.
 
-Click [here](../../../biometric-wallet/firmware-update-from-computer/) for more information on firmware updates.
+Click [**here**](../../../biometric-wallet/firmware-update-from-computer/) for more information on firmware updates.
 
-## Changing the name of your Biometric Wallet
+<figure><img src="../../../.gitbook/assets/Setting-eng11.png" alt=""><figcaption></figcaption></figure>
 
-You can change the name of your Biometric Wallet through the "Device Information" menu. The device name is the name that appears when you boot the Biometric Wallet.
+## Check Device Info.
+
+Select the **"D'CENT Manager Menu"** and press the **"Device Info"** menu to check the device information of the Biometric wallet.
+
+And You can change the device name displayed when booting the Biometric wallet
 
 <div align="left">
 
-<img src="../../../.gitbook/assets/image (180).png" alt="">
+<img src="../../../.gitbook/assets/Setting-eng12.png" alt="">
 
 </div>
