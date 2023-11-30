@@ -16,7 +16,7 @@ Click [**here**](../../../biometric-wallet/firmware-update-from-computer/) for m
 
 <figure><img src="../../../.gitbook/assets/Setting-eng11.png" alt=""><figcaption></figcaption></figure>
 
-## Check Device Info.
+## Check Device Information
 
 Select the **"D'CENT Manager Menu"** and press the **"Device Info"** menu to check the device information of the Biometric wallet.
 
