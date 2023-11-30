@@ -46,9 +46,9 @@
   * [How to add a custom path BTC account](mobile-app/create-account/how-to-add-a-custom-path-btc-account.md)
 * [Mobile App "Settings" menu](mobile-app/mobile-app-setting-menu/README.md)
   * [Switch wallet mode](mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/README.md)
-    * [Biometric Wallet Manager](mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/biometric-wallet.md)
-    * [Card type Wallet Manager](mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/card-wallet.md)
-    * [Software Wallet Manager](mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/software-wallet.md)
+    * [Biometric Wallet](mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/biometric-wallet.md)
+    * [Card type Wallet](mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/card-wallet.md)
+    * [Software Wallet](mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/software-wallet.md)
 
 ## How to send/receive coin <a href="#coin-send-receive" id="coin-send-receive"></a>
 

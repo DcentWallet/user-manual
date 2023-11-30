@@ -1,24 +1,28 @@
 # Switch wallet mode
 
-You can manage hardware wallet or software wallet through the D'CENT Manager menu.
+D'CENT allows easy and convenient management of Cold wallets (Biometric, Card) or Software wallets (App wallet) through a one mobile app.
 
 <div align="left">
 
-<img src="../../../.gitbook/assets/image (43).png" alt="">
+<img src="../../../.gitbook/assets/Setting-eng08.png" alt="" width="287">
 
 </div>
 
-## Changing the Wallet mode
+## Switching wallet mode
 
-You can change the wallet mode by selecting the "Change D'CENT Hardware" menu in D'CENT Manager. \
+You can switch the wallet mode by selecting the **"Switch wallet mode"** menu in the **"Settings"** tab. \
 \
-D'CENT mobile app manages each account information from each wallet mode separately, and when the wallet mode is changed, the corresponding account information for the mode is retrieved.
+D'CENT mobile app manages each account information from each wallet mode separately, and when the wallet mode is switched, the corresponding account information for the mode is retrieved.
 
 <div align="left">
 
-<img src="../../../.gitbook/assets/image (32).png" alt="">
+<img src="../../../.gitbook/assets/Setting-eng22 (1).png" alt="">
 
 </div>
+
+For each wallet mode, the "My Wallet" tab screen and the "Settings" tab screen are as shown in the images below
+
+<figure><img src="../../../.gitbook/assets/Setting-eng09.png" alt=""><figcaption></figcaption></figure>
 
 ## Menu composition for each mode
 
