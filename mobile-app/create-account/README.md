@@ -16,7 +16,7 @@
 지문인증형 콜드월렛 모드에서는 콜드월렛과 연결이 되어 있어야 계정 생성이 가능합니다.
 {% endhint %}
 
-모바일 앱의 월렛 모드 변경은 [디센트 매니저 메뉴 항목](../mobile-app-dcent-manager/)을 참고하세요.
+모바일 앱의 월렛 모드 변경은 [디센트 매니저 메뉴 항목](../mobile-app-setting-menu/mobile-app-dcent-walletmode/)을 참고하세요.
 
 ## 추가하려는 토큰/코인 선택
 

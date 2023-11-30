@@ -45,12 +45,11 @@
   * [커스텀 토큰을 추가하는 방법](mobile-app/create-account/how-to-add-a-custom-token-account.md)
   * [생성한 계정 제거 (숨기기) 방법](mobile-app/create-account/undefined.md)
   * [커스텀 경로 BTC 계정 추가하는 방법](mobile-app/create-account/btc.md)
-* [디센트 매니저 메뉴](mobile-app/mobile-app-dcent-manager/README.md)
-  * [지문인증형 콜드월렛 매니저](mobile-app/mobile-app-dcent-manager/biometric-wallet.md)
-  * [카드타입 콜드월렛 매니저](mobile-app/mobile-app-dcent-manager/card-wallet.md)
-  * [소프트웨어 월렛 매니저](mobile-app/mobile-app-dcent-manager/software-wallet.md)
 * [앱 설정 메뉴](mobile-app/mobile-app-setting-menu/README.md)
-  * [테스트넷 활성화하는 방법](mobile-app/mobile-app-setting-menu/undefined.md)
+  * [월렛모드 변경](mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/README.md)
+    * [지문인증형 콜드월렛](mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/biometric-wallet.md)
+    * [카드타입 콜드월렛](mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/card-wallet.md)
+    * [소프트웨어 월렛](mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/software-wallet.md)
 
 ## 코인 보내기/받기 <a href="#coin-send-receive" id="coin-send-receive"></a>
 

@@ -24,7 +24,7 @@ OTG 케이블은 아래 디센트 홈페이지에서 구매가 가능합니다.
 
 ## 펌웨어 업데이트 표시
 
-새로운 코인이 추가되거나, 버그 수정을 위해 펌웨어가 업데이트됩니다. 펌웨어 업데이트가 필요한 경우 모바일 앱의 [디센트 매니저](../mobile-app/mobile-app-dcent-manager/)에 다음과 같이 표시됩니다.
+새로운 코인이 추가되거나, 버그 수정을 위해 펌웨어가 업데이트됩니다. 펌웨어 업데이트가 필요한 경우 모바일 앱의 [디센트 매니저](../mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/)에 다음과 같이 표시됩니다.
 
 ![](<../.gitbook/assets/그림1 (3).png>)
 
