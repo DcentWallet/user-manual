@@ -1,36 +1,55 @@
-# Software Wallet Manager
+# Software Wallet
 
 ## App Wallet Backup
 
-You can back up the mnemonic code (24 recovery words) using the "App Wallet Backup" menu in the software wallet manager.&#x20;
+When you first use the App Wallet, a message indicating the required backup (24 mnemonic code) for the App Wallet will be displayed.\
+In the D'CENT mobile app, a message indicating the required for backup is displayed at the top of the "My Wallet" tab, when adding a cryptocurrency account, and in the "Settings" tab.
 
-Store the mnemonic code in a safe place.
+**Therefore, you must back up the 24 mnemonic code of the App Wallet and store it in a safe place.**
+
+<figure><img src="../../../.gitbook/assets/Setting-eng18.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 If you delete the D'CENT mobile app or lose your mobile phone without backing up the mnemonic code, you will lose all your coins in the software wallet.
 {% endhint %}
 
-![](<../../../.gitbook/assets/1 (2).png>)
+**Please proceed in the following order**
 
-1\) Select '**App Wallet backup**' from the Manager tab.
+1\) Select "**App Wallet backup"** from the D'CENT Manager tab.
 
-2\) Read the warning and press the '**Start backup**' button.
+2\) Please enter the 6-digit password for the mobile app.
 
-3\) **Write down all 24 words** in the exact order as shown on your screen.  You can also use the '**Copy**' button to save temporarily in the clipboard. Press '**Backup is complete**' to continue.&#x20;
+3\) Read the warning and tick the box. Press the **"Backup mnemonic code button".**
 
-4\) Press '**I understand**' to finish.
+4\) After checking the warning pop-up for sensitive information, press the **“I understand”** button.
+
+<figure><img src="../../../.gitbook/assets/Setting-eng19.png" alt=""><figcaption></figcaption></figure>
+
+5\)  **Write down all 24 words** in the exact order as shown on your screen.  You can also use the **“Share Mnemonic”** button to save temporarily in the clipboard. Press **"Verify mnemonic code"** button  to continue.&#x20;
+
+6\) Check the mnemonic code you wrote down, select the words displayed on the screen, and rearrange the mnemonic code in order.
+
+7\) When you have completed verifying by correctly rearranging the 24 mnemonic codes, press the **“Complete”** button.
+
+8\) Press the **“Go to My Wallet tab”** button to complete the backup.
+
+<figure><img src="../../../.gitbook/assets/Setting-eng20.png" alt=""><figcaption></figcaption></figure>
 
 ## App Wallet Recovery <a href="#recover_appwallet" id="recover_appwallet"></a>
 
 You can recover your wallet by using the mnemonic code (24 recovery words).
 
-![](<../../../.gitbook/assets/2 (2).png>)
+**Please proceed in the following order**
 
-1\) Select '**App Wallet Recovery**' from the Manager tab.
+1\) Select "**App Wallet Recovery"** from the D'CENT Manager tab.
 
-2\) Read the warning and tick the box. Press the '**Start recover**' button to continue.
+2\) Please enter the 6-digit password for the mobile app.
 
-3\) **Enter all 24 words** in the exact order as you have written down. You can also use the '**Paste**' button to paste in the information from the clipboard. Press '**Recover**' to recover your wallet.&#x20;
+2\) Read the warning and tick the box. Press the **"Recover App Wallet"** button to continue.
+
+4\) **Enter all 24 words** in the exact order as you have written down. You can also use the "**Paste"** button to paste in the information from the clipboard. Press "**Recover**" to recover your wallet.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Setting-eng21.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 The mnemonic code from your software wallet can also be used to recover your wallet on the Biometric hardware wallet. \
