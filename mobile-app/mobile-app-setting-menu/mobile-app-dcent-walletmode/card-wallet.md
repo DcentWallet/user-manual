@@ -30,6 +30,10 @@ To change your current PIN to a new PIN, press the **"Change Card PIN"** button 
 
 <figure><img src="../../../.gitbook/assets/Setting-eng15.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="danger" %}
+**If you lose your PIN, use of your card wallet may be blocked.**
+{% endhint %}
+
 ## Backup and Recover Card
 
 You can create and recover a backup image of the Card Wallet.
@@ -42,7 +46,7 @@ Click [**here**](https://userguide.dcentwallet.com/card-wallet/dcent-backup-card
 
 ## Scan new card
 
-You can change the Card Wallet you want to use through the "Scan new card" menu.
+You can change the Card Wallet you want to use through the **"Scan new card"** menu.
 
 Click the "Scan new card" menu and tag the another Card Wallet.
 
