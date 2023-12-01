@@ -18,9 +18,9 @@ Click [**here**](../../../biometric-wallet/firmware-update-from-computer/) for m
 
 ## Check Device Information
 
-Select the **"D'CENT Manager Menu"** and press the **"Device Info"** menu to check the device information of the Biometric wallet.
+Select the **"D'CENT Manager Menu"** and press the **"Device Info"** menu to check the device information of the Biometric Wallet.
 
-And You can change the device name displayed when booting the Biometric wallet
+And You can change the device name displayed when booting the Biometric Wallet
 
 <div align="left">
 

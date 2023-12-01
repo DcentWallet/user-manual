@@ -38,7 +38,7 @@ To change your current PIN to a new PIN, press the **"Change Card PIN"** button 
 
 You can create and recover a backup image of the Card Wallet.
 
-Be sure to create a backup image in case the card wallet is lost or damaged, or Card Wallet use is blocked due to PIN authentication failures more than 10 times.
+Be sure to create a backup image in case the Card Wallet is lost or damaged, or Card Wallet use is blocked due to PIN authentication failures more than 10 times.
 
 Click [**here**](https://userguide.dcentwallet.com/card-wallet/dcent-backup-card-wallet-recovery) for more information how to backup and recover Card Wallet.
 

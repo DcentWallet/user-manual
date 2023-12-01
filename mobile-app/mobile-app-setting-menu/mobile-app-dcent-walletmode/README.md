@@ -1,6 +1,6 @@
 # Switch wallet mode
 
-D'CENT allows easy and convenient management of Cold wallets (Biometric, Card) or Software wallets (App wallet) through a one mobile app.
+D'CENT allows easy and convenient management of Cold wallets (Biometric, Card type) or Software wallets (App wallet) through a one mobile app.
 
 <div align="left">
 
