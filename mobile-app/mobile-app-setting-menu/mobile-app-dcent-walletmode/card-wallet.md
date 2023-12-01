@@ -36,9 +36,9 @@ You can create and recover a backup image of the Card Wallet.
 
 Be sure to create a backup image in case the card wallet is lost or damaged, or Card Wallet use is blocked due to PIN authentication failures more than 10 times.
 
-<figure><img src="../../../.gitbook/assets/Setting-eng17.png" alt=""><figcaption></figcaption></figure>
-
 Click [**here**](https://userguide.dcentwallet.com/card-wallet/dcent-backup-card-wallet-recovery) for more information how to backup and recover Card Wallet.
+
+<figure><img src="../../../.gitbook/assets/Setting-eng17.png" alt=""><figcaption></figcaption></figure>
 
 ## Scan new card
 
