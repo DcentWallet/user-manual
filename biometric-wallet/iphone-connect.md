@@ -20,7 +20,7 @@ Search for "**D'CENT wallet**" from the App store.
 
 ### Select wallet mode
 
-If running the mobile app for the first time, you must choose a wallet mode. Choose "**Biometric Wallet**" as your choice.
+If running the mobile app for the first time, you must choose a wallet mode. Choose "**Biometric hardware wallet**" as your choice.
 
 <div align="left">
 
