@@ -176,7 +176,7 @@ From the Biometric Wallet, you can also check the progress of firmware update.
 
 ### Completing the firmware update
 
-When the firmware update is completed, reboot your Biometric Wallet.
+When the firmware update is completed, the Biometric Wallet will automatically reboot to its normal working mode.&#x20;
 
 {% content-ref url="firmware-trouble-shooting-windows.md" %}
 [firmware-trouble-shooting-windows.md](firmware-trouble-shooting-windows.md)
