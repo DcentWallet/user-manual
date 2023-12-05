@@ -48,7 +48,7 @@ To perform the firmware update, it is recommended to use the original D'CENT OTG
 
 ### Connect Biometric Wallet with Android Phone using OTG cable
 
-When the Biometric Wallet is connected with Android phone using the OTG cable, a message will show up on the phone's screen. Make sure you press **"OK"** to allow connection.
+When the Biometric Wallet is connected with Android phone using the OTG cable, a pop-up will show up on the phone's screen. Make sure you press **"OK"** to allow connection.
 
 ![](../.gitbook/assets/펌웨어-eng01.png)
 
@@ -70,7 +70,7 @@ From the Manager Tab, click on **Firmware Update**.
 
 **4.** Click on **"Reboot in bootloader mode"** button.&#x20;
 
-**5.** Biometric Wallet will automatically reboot. When the message shows up on your Phone's screen, make sure to press **"OK"** to allow connection.&#x20;
+**5.** Biometric Wallet will automatically reboot. When the pop-up shows up on your Phone's screen, make sure to press **"OK"** to allow connection.&#x20;
 
 **6.** Click on **"Keep updating"** button.
 
