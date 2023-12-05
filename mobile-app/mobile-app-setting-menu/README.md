@@ -32,7 +32,7 @@ Please refer to the link below for information on how to switch wallet mode and 
 
 ## Change Language
 
-"You can change the language of the D'CENT mobile app. Supports the following languages:"
+You can change the language of the D'CENT mobile app. Supports the following languages:
 
 * English
 * Korean
