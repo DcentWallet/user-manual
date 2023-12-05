@@ -17,7 +17,7 @@ This is a device that allows you to connect a USB device to a smartphone. One si
 </div>
 
 {% hint style="info" %}
-The OTG cable is not included in the D'CENT Biometric Wallet package and must be purchased separately. Please purchase and use the OTG cable suitable for your mobile phone.
+The OTG cable is not included in the D'CENT Biometric Wallet package and must be purchased separately. Click [**here**](https://store.dcentwallet.com/products/2-in-1-otg-cable) to purchase genuine D'CENT OTG cable.
 {% endhint %}
 
 ### Micro 5pin OTG cable <a href="#5-otg" id="5-otg"></a>
@@ -40,6 +40,16 @@ If your Android device's charging port is USB C type, you must use a USB C type 
 
 </div>
 
+### D'CENT 2 in 1 OTG Cable
+
+D'CENT 2 in 1 OTG cable supports both micro 5-pin and USB C types as smartphone charging ports.
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/OTG.png" alt="" width="375"><figcaption><p>Example of D'CENT 2 In 1 OTG cable</p></figcaption></figure>
+
+</div>
+
 ## Using Biometric Wallet by connecting with an OTG cable <a href="#otg-1" id="otg-1"></a>
 
 ### Launch the D'CENT mobile app
@@ -50,7 +60,7 @@ Below is a picture showing that there is no connection to with the Biometric Wal
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (57).png" alt="">
+<img src="../../.gitbook/assets/OTG-eng01.png" alt="" width="563">
 
 </div>
 
@@ -66,11 +76,11 @@ Connect the Biometric Wallet and the Android device as shown in the figure below
 
 ### Allow USB access <a href="#usb" id="usb"></a>
 
-1\) When an OTG cable is connected, you will see the following pop-up. Press "OK".
+1\) When an OTG cable is connected, you will see the following pop-up. Press **"OK".**
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (113).png" alt="">
+<img src="../../.gitbook/assets/OTG-eng02.png" alt="" width="287">
 
 </div>
 
@@ -78,6 +88,6 @@ Connect the Biometric Wallet and the Android device as shown in the figure below
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (168).png" alt="">
+<img src="../../.gitbook/assets/OTG-eng03.png" alt="" width="563">
 
 </div>
