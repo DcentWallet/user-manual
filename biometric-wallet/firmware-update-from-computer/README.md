@@ -10,14 +10,14 @@ Firmware update can be done only from the PC or Mac.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (201).png" alt="">
+<img src="../../.gitbook/assets/펌웨어eng.png" alt="" width="287">
 
 </div>
 
 ## Before you update the firmware
 
 {% hint style="info" %}
-Make sure you have your Mnemonic Code (24 seeds/words) for recovery
+**Make sure you have your Mnemonic Code (24 seeds/words) for recovery**
 {% endhint %}
 
 24 words were provided during the Initial Setup of your Biometric Wallet and you have written them down on the recovery card. Make sure you still have the recovery card. \
@@ -27,13 +27,13 @@ Unlike other products, your wallet will still remain safely intact inside the se
 (Keep your recovery card secured and ready just in case your Biometric Wallet is no longer accessible, possibly due to "brick"ed device or something that went wrong during the update process.)  &#x20;
 
 {% hint style="info" %}
-After you update the firmware, you cannot roll-back to the previous version
+**After you update the firmware, you cannot roll-back to the previous version**
 {% endhint %}
 
 To perform the firmware update, use the USB cable that came included inside the original D'CENT package. Firmware update will take approximately 10 minutes to complete.&#x20;
 
 {% hint style="info" %}
-It is recommended that the D'CENT mobile app is not running during the firmware update.
+**It is recommended that the D'CENT mobile app is not running during the firmware update.**
 {% endhint %}
 
 ## How to update firmware
@@ -50,7 +50,7 @@ It is recommended that the D'CENT mobile app is not running during the firmware 
 
 ✅ The **latest version** of D'CENT bridge program is installed and running on your computer.
 
-If you are ready, click [here](https://fwu.dcentwallet.com/) to go to the Firmware Update homepage.
+If you are ready, click [**here**](https://fwu.dcentwallet.com/) to go to the Firmware Update homepage.
 
 ### Download D'CENT bridge program
 
@@ -72,7 +72,7 @@ After finishing the download, click to install the bridge program.
 
 ![](../../.gitbook/assets/fw02.png)
 
-When the installation is complete, click the "Refresh page" button at the bottom of the screen.
+When the installation is complete, click the **"Refresh page"** button at the bottom of the screen.
 
 <div align="left">
 
@@ -96,7 +96,7 @@ In the **Taskbar**, there should be a **D'CENT Bridge icon**, make sure to check
 
 ![](../../.gitbook/assets/mac04.png)
 
-&#x20;When the installation is complete, click the "Refresh page" button at the bottom of the screen.
+&#x20;When the installation is complete, click the **"Refresh page"** button at the bottom of the screen.
 
 <div align="left">
 
@@ -110,7 +110,7 @@ In the **Taskbar**, there should be a **D'CENT Bridge icon**, make sure to check
 
 2\) Authenticate with fingerprint or PIN to unlock your Biometric Wallet
 
-3\) After connecting, you should see the following screen appears, click the "Retry to find device" button.
+3\) After connecting, you should see the following screen appears, click the **"Retry to find device"** button.
 
 <div align="left">
 
@@ -128,7 +128,7 @@ In the **Taskbar**, there should be a **D'CENT Bridge icon**, make sure to check
 
 </div>
 
-2\) Press "Update to version ..." button.
+2\) Press **"Update to version ..."** button.
 
 ### Changing to bootloader mode
 
@@ -144,7 +144,7 @@ Follow the instructions and proceed as described.
 
 2\) Power off your Biometric Wallet.
 
-3\) To enter bootloader mode, press and hold both the "OK" button and "Power" button on the Biometric Wallet for 10 seconds. When entering bootload mode, the following screen appears on the display of the Biometric Wallet.
+3\) To enter bootloader mode, press and hold both the **"OK"** button and **"Power"** button on the Biometric Wallet for 10 seconds. When entering bootload mode, the following screen appears on the display of the Biometric Wallet.
 
 <div align="left">
 
@@ -154,11 +154,11 @@ Follow the instructions and proceed as described.
 
 4\) Plug the Biometric Wallet to the USB cable to reconnect with your computer.
 
-5\) Press "Update Firmware" button.
+5\) Press **"Update Firmware"** button.
 
 ### Start the firmware update
 
-Firmware update from the webpage will take approximately 3 minutes to reach 100%. Please wait.&#x20;
+Firmware update from the webpage will take approximately 5 minutes to reach 100%. Please wait.&#x20;
 
 <div align="left">
 
