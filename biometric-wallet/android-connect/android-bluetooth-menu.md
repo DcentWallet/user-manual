@@ -4,20 +4,20 @@
 
 ## 상단 메뉴에서 블루투스 메뉴 찾기
 
-안드로이드 바탕화면의 윗 부분을 아래로 드래그하면 블루투스 메뉴를 찾을 수 있습니다.
+안드로이드의 상단 알림바를 아래로 드래그하면 블루투스 메뉴를 찾을 수 있습니다.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (157).png" alt="">
+<img src="../../.gitbook/assets/블루투스01.png" alt="" width="274">
 
 </div>
 
 ## 설정 메뉴에서 블루투스 메뉴 찾기
 
-설정 메뉴 > 연결 > 블루투스 메뉴를 통해 블루투스 메뉴에 들어갈 수 있습니다.
+설정 메뉴 > 연결 > 블루투스를 통해 블루투스 메뉴에 들어갈 수 있습니다.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (132).png" alt="">
+<img src="../../.gitbook/assets/블루투스02.png" alt="">
 
 </div>
