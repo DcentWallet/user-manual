@@ -33,7 +33,7 @@ Type in "**control panel"** and press **Enter** to access the Control Panel.&#x2
 
 From this Control Panel screen, look for and choose **Device Manager**.
 
-* For Windows 11, 10 Windows 8, check under the **Devices and Printers**.
+* For Windows 11, 10 or Windows 8, check under the **Devices and Printers**.
 * For Windows 7, check under **System**.
 
 ### How to quickly access Device Manager (method #2)
