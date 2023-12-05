@@ -17,7 +17,7 @@ OTG 케이블로 연결하여 사용하시는 경우, 안드로이드 기기의 
 </div>
 
 {% hint style="info" %}
-OTG 케이블은 디센트 콜드월렛 패키지에 포함되어 있지 않으며, 별도로 구매하셔야 합니다. 본인의 휴대폰에 맞는 OTG 케이블을 구매하여 사용하세요.
+OTG 케이블은 디센트 콜드월렛 패키지에 포함되어 있지 않으며, 별도로 구매하셔야 합니다. 디센트 정품 OTG 케이블을 구매하려면 [**여기**](https://store-kr.dcentwallet.com/collections/frontpage/products/2-in-1-otg-%EC%BC%80%EC%9D%B4%EB%B8%94)를 클릭하세요.
 {% endhint %}
 
 ### 마이크로 5핀 OTG 케이블
@@ -40,6 +40,16 @@ OTG 케이블은 디센트 콜드월렛 패키지에 포함되어 있지 않으�
 
 </div>
 
+### 디센트 정품 2 in 1 OTG 케이블
+
+디센트 정품 2 in 1 OTG 케이블은 스마트폰 연결 단자가 마이크로 5핀과 USB C 타입을 모두 지원합니다.
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/OTG.png" alt="" width="375"><figcaption><p>디센트 정품 2 in 1 OTG 케이블 예시</p></figcaption></figure>
+
+</div>
+
 ## OTG 케이블로 연결하여 콜드월렛 사용하기&#x20;
 
 ### 디센트 모바일 앱 실행
@@ -50,7 +60,7 @@ OTG 케이블은 디센트 콜드월렛 패키지에 포함되어 있지 않으�
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (204).png" alt="">
+<img src="../../.gitbook/assets/OTG-01.png" alt="" width="563">
 
 </div>
 
@@ -66,11 +76,11 @@ OTG 케이블은 디센트 콜드월렛 패키지에 포함되어 있지 않으�
 
 ### USB 접근 확인
 
-1\) OTG 케이블이 연결되면 다음과 같은 팝업이 나타납니다. "확인"을 눌러주세요.
+1\) OTG 케이블이 연결되면 다음과 같은 팝업이 나타납니다. **"확인"**을 눌러주세요.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (145).png" alt="">
+<img src="../../.gitbook/assets/OTG-02.png" alt="" width="287">
 
 </div>
 
@@ -78,6 +88,6 @@ OTG 케이블은 디센트 콜드월렛 패키지에 포함되어 있지 않으�
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (97).png" alt="">
+<img src="../../.gitbook/assets/OTG-03.png" alt="" width="563">
 
 </div>
