@@ -20,6 +20,10 @@ For more information on **how to create an account**, please see [here](../mobil
 
 For more information on synchronizing between Biometric Wallet and mobile app, please see [here](synch-with-app.md).
 
+{% hint style="info" %}
+The date and time information displayed in the account info is the time when the last added coin account was created.
+{% endhint %}
+
 ## Check account address
 
 Without the mobile app, you can also check coin account address and QR code form of the address from the Biometric Wallet.
@@ -30,9 +34,9 @@ Without the mobile app, you can also check coin account address and QR code form
 
 If there are too many unused accounts and you want to delete account information, you can do the following. **In this case, all account information is deleted**.\
 \
-1\) On your Biometric Wallet, navigate to **Setting** -> **Security** -> **Delete Account**
+1\) On your Biometric Wallet, navigate to "**Setting** > **Security** > **Delete Account"**
 
-2\) Enter your PIN and when you confirm the warning message by OK button, all your account info will be deleted.\
+2\) Enter your PIN and when you confirm the warning message by **"OK button",** all your account info will be deleted.\
 \
 3\) Synchronize with your mobile app and you will notice that there is no account shown on the mobile app screen.
 
