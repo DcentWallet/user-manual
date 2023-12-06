@@ -40,7 +40,6 @@
 ## 모바일 앱 <a href="#mobile-app" id="mobile-app"></a>
 
 * [모바일 앱 소개](mobile-app/intro.md)
-* [모바일 앱 다운로드](mobile-app/mobile-app-download.md)
 * [계정 만들기](mobile-app/create-account/README.md)
   * [커스텀 토큰을 추가하는 방법](mobile-app/create-account/how-to-add-a-custom-token-account.md)
   * [생성한 계정 제거 (숨기기) 방법](mobile-app/create-account/undefined.md)
