@@ -6,7 +6,7 @@ You can also easily manage your cryptocurrency assets through the mobile app by 
 
 ## Mobile App download
 
-### Android
+### For Android
 
 You can install D'CENT mobile app by searching for the app directly from the Google Play Store.
 
@@ -20,7 +20,7 @@ To install the mobile app for Android, please click [here](https://play.google.c
 
 </div>
 
-### iOS
+### For iOS
 
 You can install D'CENT mobile app by searching for the app directly from the App Store.
 
