@@ -39,7 +39,6 @@
 ## Mobile App
 
 * [Mobile App introduction](mobile-app/intro.md)
-* [Mobile App download](mobile-app/mobile-app-download.md)
 * [How to create a coin account](mobile-app/create-account/README.md)
   * [How to add a custom token account](mobile-app/create-account/how-to-add-a-custom-token-account.md)
   * [How to remove (hide) a coin account](mobile-app/create-account/how-to-remove-hide-a-coin-account.md)
