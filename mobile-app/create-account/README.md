@@ -4,11 +4,11 @@
 
 {% embed url="https://www.youtube.com/watch?v=qmmkNcK_GFg&feature=youtu.be" %}
 
-From the Account tab, click the `+` button to create an account.
+From the My Wallet tab, click the **"Add account`+` "** button to create an account.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (12).png" alt="">
+<img src="../../.gitbook/assets/계정추가eng-01.png" alt="" width="288">
 
 </div>
 
@@ -16,66 +16,63 @@ From the Account tab, click the `+` button to create an account.
 In the case of using the **Biometric Wallet mode**, your Biometric Wallet must also be connect in order to create an account.
 {% endhint %}
 
-Please refer to the [D'CENT Manager Menu](../mobile-app-setting-menu/mobile-app-dcent-walletmode/) to change the wallet mode of the mobile app.
-
 ## Select the Coin/Token
 
 Select the coin you want to add from the list. You can also search by coin name or symbol name.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (67).png" alt="">
+<img src="../../.gitbook/assets/계정추가eng-02.png" alt="" width="563">
 
 </div>
 
 {% hint style="info" %}
-Click [https://dcentwallet.com/SupportedCoin](https://dcentwallet.com/SupportedCoin) for a full list of cryptocurrencies supported by D'CENT Wallet.
+Click [here](https://dcentwallet.com/SupportedCoin) for a full list of cryptocurrencies supported by D'CENT Wallet.
 {% endhint %}
 
 ### What if the Coin/Token you want to add is not on the list?
 
 If you cannot find your coins or tokens to add, you can ask the D'CENT team to add it to the list. \
-Click the "Crypto Asset Request" link and fill out the form. The D'CENT team will try to reflect your need as quickly as possible.
+Click the [**"Crypto Asset Request"**](https://docs.google.com/forms/d/e/1FAIpQLSddydt7fv7D0ATnw49tCsBsex9DpHinAr0sebGb\_eQb0ne37g/viewform) link and fill out the form. The D'CENT team will try to reflect your need as quickly as possible.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (101).png" alt="">
+<img src="../../.gitbook/assets/계정추가eng-06.png" alt="" width="288">
 
 </div>
 
 ### When trying to add a token account without the fee account
 
-To create token accounts such as ERC20, RRC20, and KCT, the corresponding mainnet account must be created first.
+To create token accounts such as ERC20, BEP20, RRC20, and KCT, the corresponding mainnet account must be created first.
 
-* To create ERC20 token account: Ethereum account is required\
-
-* To create RRC20 token account: RSK account is required\
-
+* To create ERC20 token account: Ethereum account is required
+* To create BEP20 token account: Binance smart chain account is required
+* To create RRC20 token account: RSK account is required
 * To create KCT token account: Klaytn account is required
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (17).png" alt="">
+<img src="../../.gitbook/assets/계정추가eng-05.png" alt="" width="288">
 
 </div>
 
 ## Set Account Name
 
-After selecting the coin / token to add, please set the account name. You can also use the default account name. The account name is the nickname for the account, and it is displayed in the account information of the mobile app and also on the Biometric Wallet.
+After selecting the coin / token to add, please set the account name. If you click the “Create” button without entering a name, the default name will be displayed. The account name is the nickname for the account, and it is displayed in the account information of the mobile app and also on the Biometric Wallet.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (139).png" alt="">
+<img src="../../.gitbook/assets/계정추가eng-03.png" alt="" width="288">
 
 </div>
 
 ### Account created successfully
 
-When the account creation is completed, your account will appear on the main screen. The account balance information is retrieved from the blockchain network.
+When the account creation is completed, your account will appear on the My Wallet screen. The account balance information is retrieved from the blockchain network.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (160).png" alt="">
+<img src="../../.gitbook/assets/계정추가eng-04.png" alt="" width="288">
 
 </div>
 
@@ -95,4 +92,4 @@ When an account is created in the Biometric Wallet mode, the created account inf
 
 ### Maximum number of account can be created
 
-You can create 70 accounts with Biometric wallet.
+You can create 80 accounts with Biometric wallet.
