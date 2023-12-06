@@ -40,7 +40,7 @@
 
 _아이폰 모바일 앱에선 NFT 탭이 제공되지 않습니다. 아이폰 유저의 NFT 자산 확인  방법은_ [_여기_](https://userguide.dcentwallet.com/v/kr/coin-send-receive/nft#nft-1)_를 참고하세요._
 
-[**Insight** :](https://userguide.dcentwallet.com/v/kr/native-service/insight) 코인게코와 코인마켓캡에서 사용자들이 가장 많이 검색한 암호화폐의 실시간 트렌드 Top7 리스트를 확인할 수 있습니다. Top7 리스트에서 마음에 드는 코인이 있다면 "Swap" 기능으로 코인을바로 구매할 수 있습니다.
+[**Insight** :](https://userguide.dcentwallet.com/v/kr/native-service/insight) 코인게코와 코인마켓캡에서 사용자들이 가장 많이 검색한 암호화폐의 실시간 트렌드 Top7 리스트를 확인할 수 있습니다. Top7 리스트에서 마음에 드는 코인이 있다면 "Swap" 서비스로 코인을 바로 구매할 수 있습니다.
 
 _Insight 탭은 모바일 앱 버전 6.0.0 이상부터 지원합니다._
 
