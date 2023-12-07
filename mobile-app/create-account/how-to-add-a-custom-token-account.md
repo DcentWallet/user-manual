@@ -72,7 +72,7 @@ For example, if you intend to add an ERC20, you must first have created an Ether
 
 2\) Select the correct Blockchain Network where your custom token was issued.
 
-3\) Select the Fee account and press the "Next" button.
+3\) Select the Fee account and press the **"Next"** button.
 
 <figure><img src="../../.gitbook/assets/계정추가eng-08.png" alt=""><figcaption></figcaption></figure>
 
