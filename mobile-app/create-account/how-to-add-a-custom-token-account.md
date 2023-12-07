@@ -80,7 +80,7 @@ For example, if you intend to add an ERC20, you must first have created an Ether
 
 5\) After checking that each item has been entered correctly, press the **“Next”** button.
 
-6\) After checking that the decimals entered are correct, press the **“Continue”** button.
+6\) After checking that the decimals entered are correct, press the **“Proceed”** button.
 
 7\) Enter name your account and click the **"Create"** button to add the token.
 
