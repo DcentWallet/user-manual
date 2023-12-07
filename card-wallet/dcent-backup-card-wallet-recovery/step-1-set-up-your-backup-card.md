@@ -22,6 +22,10 @@ If you want, you can set the new PIN of the Backup Card to the same as the All-i
 
 **5.** On the back of your phone, **tap the Backup Card** to scan.
 
+{% hint style="warning" %}
+When removing the ribbon masking, please be careful not to use sharp tools as this may damage the card wallet.
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/그림3.png" alt=""><figcaption></figcaption></figure>
 
 **6.** Enter a **new PIN** for your Backup Card. (ie: 123456)

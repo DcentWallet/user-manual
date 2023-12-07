@@ -78,6 +78,10 @@ The factory PIN of the All-in-One Wallet must be changed to your own PIN before 
 
 **7.** On the back of your phone, **tap the All-in-One Wallet** to scan.
 
+{% hint style="warning" %}
+When removing the ribbon masking, please be careful not to use sharp tools as this may damage the card wallet.
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/그림6 (3).png" alt=""><figcaption></figcaption></figure>
 
 **8.** Enter a **new PIN** for your All-in-One Wallet. (ie: 123456)
