@@ -64,7 +64,7 @@
 
 <div align="left">
 
-<img src="../../.gitbook/assets/계정추가-07.png" alt="">
+<img src="../../.gitbook/assets/계정추가eng-07 (2).png" alt="">
 
 </div>
 
