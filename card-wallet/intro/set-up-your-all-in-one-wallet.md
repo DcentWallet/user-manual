@@ -78,6 +78,10 @@ Android의 경우 NFC 기능을 '**표준/기본 모드**'로 활성화합니다
 
 **7.** 휴대폰 뒷면에서 올인원 지갑을 탭하여 스캔합니다.
 
+{% hint style="danger" %}
+**리본 마스킹을 제거할 때 날카로운 도구를 사용하면 카드 지갑이 손상될 수 있으니 주의하시기 바랍니다.**
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/그림13 (1).png" alt=""><figcaption></figcaption></figure>
 
 **8.** 올인원 지갑의 새로운 PIN을 입력합니다. (예: 123456)
