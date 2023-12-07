@@ -22,6 +22,10 @@
 
 **5.** 휴대폰 뒷면에서 백업 카드를 탭하여 스캔합니다.
 
+{% hint style="danger" %}
+**리본 마스킹을 제거할 때 날카로운 도구를 사용하면 카드 지갑이 손상될 수 있으니 주의하시기 바랍니다.**
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/그림7 (4).png" alt=""><figcaption></figcaption></figure>
 
 **6.** 백업 카드의 **새로운 PIN을 입력**합니다. (예: 123456)
