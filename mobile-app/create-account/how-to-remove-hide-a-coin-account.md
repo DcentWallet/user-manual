@@ -31,7 +31,7 @@ Let’s re-add the hidden Ripple account.
 
 <figure><img src="../../.gitbook/assets/계정숨김eng-02.png" alt=""><figcaption></figcaption></figure>
 
-1\) click on **"Add account`+` "** in the My Wallet tab.
+1\) Click on **"Add account`+` "** in the My Wallet tab.
 
 2\) Select the XRP account you have hidden and create an account.
 
