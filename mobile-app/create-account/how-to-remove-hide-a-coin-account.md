@@ -25,7 +25,7 @@ To remove a native asset account such as Ethereum, all the token accounts that a
 
 ## Re-add hidden account
 
-The hidden account is only invisible in the "My Wallet" tab, and it is not permanently deleted from the blockchain. Therefore, you can add the hidden account back at any time.
+'Hide account' function does not delete your account permanently, it just hides the account from D'CENT wallet. Therefore, you can re-add the hidden account at any time.
 
 Let’s re-add the hidden Ripple account.
 
