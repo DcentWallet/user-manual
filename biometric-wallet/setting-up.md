@@ -64,7 +64,7 @@ If you wish to recover an existing wallet, please refer [here](recovery/).
 ## Step-2 : Register PIN & Fingerprint
 
 To protect accessing your wallet, register a new PIN and your fingerprint. \
-Firmware below v.2.5.5 only supports 4-digit PIN length.
+_Firmware below v.2.5.5 only supports 4-digit PIN length._
 
 ### Register a new PIN (4 to 8 digits)
 
@@ -72,13 +72,13 @@ Use **∧**(Up, increase number value) or **∨**(Down, decrease number value) b
 
 ![](<../.gitbook/assets/1 (3).png>)
 
-When you have entered 4 digits, you will see '**OK'** text on the screen. If you wish to set your PIN to 4-digits long, then press the OK button on the hardware wallet.&#x20;
+When you have entered 4 digits, you will see "**OK"** text on the screen. If you wish to set your PIN to 4-digits long, then press the OK button on the hardware wallet.&#x20;
 
-If you wish to set the PIN to a longer digit, you can change the ('**OK**' text) value on the screen by pressing the Up or Down button. **Your PIN can be set to 4, 5, 6, 7, or 8 digits long**.   &#x20;
+If you wish to set the PIN to a longer digit, you can change the ("**OK**" text) value on the screen by pressing the Up or Down button. **Your PIN can be set to 4, 5, 6, 7, or 8 digits long**.   &#x20;
 
 ![](<../.gitbook/assets/2 (4).png>)
 
-If you ever see a screen with a warning on '**Security level is low**', this means the PIN you have entered is a weak password. If you wish to use such a PIN, press the 'OK' button on the hardware wallet to continue.&#x20;
+If you register a 4-digit PIN, you will see a “Security level is low” warning on the screen. If you wish to use such a PIN, press the "OK" button on the hardware wallet to continue.&#x20;
 
 ### Verify your &#xD;PIN
 
@@ -177,19 +177,7 @@ There are 6 lists with total of 24 words and each list has 4 words shown. Make s
 
 ### &#xD;Recovery Seeds Verification
 
-You will be asked to take a simple quiz. From the 24 words listed, you will be asked to enter 2 randomly selected words to complete the verification.
-
-{% hint style="success" %}
-From firmware version 2.9.2 or higher, the quiz will ask the user to enter all 24 words for verification.
-{% endhint %}
-
-<div align="left">
-
-<img src="../.gitbook/assets/image (49).png" alt="Quiz example">
-
-</div>
-
-Enter the correct word that corresponds to the question asked.
+Enter all 24 words written on the recovery card to proceed with verification.
 
 #### Enter the first 3 characters
 
@@ -213,7 +201,9 @@ From the list of words available, select the correct word using ∧/∨ buttons 
 
 </div>
 
-※ If you find yourself having written down the words incorrectly, you can press "Back" button to revisit the recovery seeds from the lists for review.
+※ If you find yourself having written down the words incorrectly, you can press "OK" button(RETRY) to re-enter the recovery seeds from the lists for review.
+
+Complete your review by entering all 24 words this way.
 
 ## Step-4 : Completing the Initial Setup
 
