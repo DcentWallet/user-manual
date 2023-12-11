@@ -2,6 +2,10 @@
 
 In order to receive cryptocurrency assets, you must first create an account to check the address where you can receive them.
 
+{% hint style="warning" %}
+**When adding a cryptocurrency account to your D'CENT wallet, please make sure it is on the same network as sender's coins. If the support network is different, you will not receive coins.**
+{% endhint %}
+
 {% content-ref url="../mobile-app/create-account/" %}
 [create-account](../mobile-app/create-account/)
 {% endcontent-ref %}
@@ -25,9 +29,9 @@ D'CENT Biometric Wallet offers a convenient feature of showing the account addre
 
 ## Receive coin using Mobile App
 
-Run the mobile app and you will see your accounts in the main screen.
+Run the mobile app and you will see your accounts in the My Wallet tab.
 
-![](../.gitbook/assets/mobileapp-account-address\_en.png)
+![](../.gitbook/assets/코인받기-eng.png)
 
 * From your coin account, click "**Receive**" to view your account address.
 * Your account address in QR code can be scanned by the sender's camera.
