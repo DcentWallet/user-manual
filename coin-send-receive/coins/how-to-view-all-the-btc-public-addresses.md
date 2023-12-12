@@ -2,13 +2,13 @@
 
 ### Viewing all the BTC addresses
 
-When your BTC account is created on D'CENT Wallet, it will automatically generate 15 public addresses that you can use. To see the full list of BTC public addresses, run the mobile app and do the following:
+Bitcoin uses 15 public addresses, and when you create a BTC account in D'CENT wallet, 15 public addresses are automatically created. To see the full list of BTC public addresses, run the mobile app and do the following:
 
-1\) Press the "Receive" button on your Bitcoin account.\
+![](../../.gitbook/assets/BTC전체주소확인-eng.png)
+
+1\) Press the **"Receive"** button on your BTC account.\
 \
-2\) On the next screen press the **down arrow** ( **∨** ) under the current BTC address.&#x20;
+2\) Press the down arrow (∨) button to the right of **“View all BITCOIN addresses”**.
 
-In the last screen shot, you can see a list of your public addresses. The current BTC address is highlighted in "mint" color.
-
-![](../../.gitbook/assets/view\_btc\_addresses\_en.png)
+3\) You can check all 15 public addresses. For your reference, the address shown on the "Receive" screen of your BTC account defaults to the first address in the list of 15 addresses.
 
