@@ -14,7 +14,7 @@ If you are using the Biometric Wallet mode, you can send coins only when your Bi
 
 1\) From the mobile app, press the **"Send"** button of the coin account to be used for the transaction.
 
-2\) You can directly enter the address of the other party (Receiver) in the address field, or&#x20;
+2\) You can directly enter the address of the other party (Receiver) in the address field.
 
 **Ⓐ** Press "**QR Scan"** to operate the camera. \
 **Ⓑ** Click "**Paste"** to enter the copied address.
