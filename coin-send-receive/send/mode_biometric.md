@@ -34,8 +34,8 @@ If you are using the Biometric Wallet mode, you can send coins only when your Bi
 
 **Ⓐ** You can also enter local currency amounts.
 
-**Ⓑ** Set the transaction fee. (Economic / Normal / Fast) \
-By setting it to "fast" and paying more fees, it is likely that the processing time of the transfer transaction will be reduced.
+**Ⓑ** Set the transaction fee. (Very Slow / Medium / Fast) \
+By setting it to "Fast" and paying more fees, it is likely that the processing time of the transfer transaction will be reduced.
 
 Once you have set the amount and fee, click the "**Next**" button.
 
