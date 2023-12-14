@@ -14,7 +14,7 @@ If you are using the Biometric Wallet mode, you can send coins only when your Bi
 
 1\) From the mobile app, press the **"Send"** button of the coin account to be used for the transaction.
 
-2\) You can directly enter the address of the other party (Receiver) in the address field.
+2\) You can directly enter the address of the other party (Receiver) in the address field or
 
 **Ⓐ** Press "**QR Scan"** to operate the camera. \
 **Ⓑ** Click "**Paste"** to enter the copied address.
@@ -30,19 +30,14 @@ If you are using the Biometric Wallet mode, you can send coins only when your Bi
 
 </div>
 
-1\) Enter the number of cryptocurrency you want to send.
+1\) Enter the number of cryptocurrency you want to send, or enter the amount in local currency.
 
-**Ⓐ** You can also enter local currency amounts.
-
-**Ⓑ** Set the transaction fee. (Very Slow / Medium / Fast) \
+2\) Set the transaction fee. (Very Slow / Medium / Fast) \
 By setting it to "Fast" and paying more fees, it is likely that the processing time of the transfer transaction will be reduced.
 
-Once you have set the amount and fee, click the "**Next**" button.
+3\) Once you have set the amount and fee, click the "**Next**" button.
 
-2\) Check if the transaction details displayed on the screen are correct and click the "**Send**" button.
-
-3\) After verifying the transaction information, proceed with signing in your Biometric wallet.\
-
+4\) Check if the transaction details displayed on the screen are correct and click the "**Send**" button.
 
 ### Final confirmation from your Biometric Wallet
 
