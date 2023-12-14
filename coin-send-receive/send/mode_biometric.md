@@ -4,19 +4,20 @@
 If you are using the Biometric Wallet mode, you can send coins only when your Biometric Wallet is connected with the mobile app.&#x20;
 {% endhint %}
 
-### Enter the Recipient address
+### Enter the Receiver address
 
 <div align="left">
 
-<img src="../../.gitbook/assets/mode_biometric_send_01_en.png" alt="">
+<img src="../../.gitbook/assets/지문인증-eng01.png" alt="">
 
 </div>
 
-1\) From the mobile app, press the “Send” button of the coin account to be used for the transaction.
+1\) From the mobile app, press the **"Send"** button of the coin account to be used for the transaction.
 
-2\) You can directly enter the address of the other party (recipient) in the address field, or \
-&#x20;    A. Press **QR Scan** to operate the camera. \
-&#x20;    B. Click **Paste** to enter the copied address.
+2\) You can directly enter the address of the other party (Receiver) in the address field, or&#x20;
+
+**Ⓐ** Press "**QR Scan"** to operate the camera. \
+**Ⓑ** Click "**Paste"** to enter the copied address.
 
 3\) When the address is entered, click the "**Next**" button.\
 
@@ -25,29 +26,33 @@ If you are using the Biometric Wallet mode, you can send coins only when your Bi
 
 <div align="left">
 
-<img src="../../.gitbook/assets/mode_biometric_send_02_en.png" alt="">
+<img src="../../.gitbook/assets/지문인증-eng02.png" alt="">
 
 </div>
 
-1\) Enter the number of cryptocurrency you want to send, or enter the amount in local currency.
+1\) Enter the number of cryptocurrency you want to send.
 
-2\) Set the transaction fee. (Economic / Normal / Fast) \
+**Ⓐ** You can also enter local currency amounts.
+
+**Ⓑ** Set the transaction fee. (Economic / Normal / Fast) \
 By setting it to "fast" and paying more fees, it is likely that the processing time of the transfer transaction will be reduced.
 
-3\) Once you have set the amount and fee, click the "**Next**" button.
+Once you have set the amount and fee, click the "**Next**" button.
 
-4\) Check if the transaction details displayed on the screen are correct and click the "**Send**" button.\
+2\) Check if the transaction details displayed on the screen are correct and click the "**Send**" button.
+
+3\) After verifying the transaction information, proceed with signing in your Biometric wallet.\
 
 
 ### Final confirmation from your Biometric Wallet
 
 <div align="left">
 
-<img src="../../.gitbook/assets/mode_biometric_send_03_en.png" alt="">
+<img src="../../.gitbook/assets/지문인증-eng03.png" alt="">
 
 </div>
 
-1\) Check the transaction information displayed on the Biometric Wallet again. If the information is correct, click the "**OK**" button.
+1\) Check the transaction information displayed on the Biometric Wallet again. If the information is correct, click the "**OK**" button(CONFIRM).
 
 2\) Scan your fingerprint for final approval of the SEND transaction. If the fingerprint is not registered, enter the PIN number for the final approval.
 
