@@ -4,11 +4,12 @@
 
 After **sending or receiving** a transfer to your wallet account address, you can check the transaction history from the mobile app.
 
-![](../.gitbook/assets/btc-transaction-info.png)
+![](../.gitbook/assets/거래내역-eng.png)
 
-1\) Press the main body of a cryptocurrency account.
+1\) From thw mobile app, press the **"Details History"** button of the coin account you want to check transaction history.
 
-2\) The picture in the middle is where your transactions are listed. The red numbers indicate send transfers made and the green numbers indicate receive transfers. Next to each transaction, there is a status icon such as a 'check' mark which indicates the state of the transaction. A 'check' mark for instance, indicates the transfer is completed.
+2\) In the Details history screen, you can check the amount of coins you have and transaction history. The black color is indicate send transfers made and the green color is indicate receive transfers. It also displayed transaction status as **“Confirmed”, “Pending”, “Fail”,** etc.
 
-3\) More detailed information is shown when you press a transaction. Detailed information screen shows the transaction ID\(txid\) and the addresses involved in the transaction.
+Click the **“See full history”** button, you can access Blockchain Explorer and search your wallet address.
 
+3\) More detailed information is shown when you press a transaction. Detailed information screen shows the "Confirmations", "TXID(Transaction ID) and the addresses involved in the transaction.
