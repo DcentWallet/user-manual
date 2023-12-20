@@ -64,17 +64,18 @@ To perform Device Wipe, you must enter your PIN, read the warning message displa
 When you confirm \[OK\&OFF] to Device Wipe, all information will be deleted including private keys. Make sure you have your Mnemonic Codes before you perform Device Wipe.
 {% endhint %}
 
-### Seed Check
-
-From the Seed Check menu, you can check whether the mnemonic code (24 words) you have matches with the mnemonic code in the device you are currently using.
-
-After entering all 24 words, click "I am ready" on the next Review screen to start the match verification.
-
-If the 24 words you have entered are correct, it will be marked as "Match" on the screen.
-
 ### 25th Word (the Passphrase)
 
 The passphrase (25th word) is an advanced security feature available on the D’CENT Biometric hardware wallet. It adds an extra word to your existing mnemonic code (24 words) to create a completely new set of private keys (accounts). You can find detailed information in the link below.
+
+### Seed Check
+
+From the Seed Check menu, you can check whether the mnemonic code (24 words or 25th word) you have matches with the mnemonic code in the device you are currently using.
+
+24 word : After entering all 24 words, click "I am ready" on the next Review screen to start the match verification. \
+If the 24 words you have entered are correct, it will be marked as "Match" on the screen.\
+\
+25 word : If you have set the 25th word (the Passphrase), you can check by first entering all 24 words and then entering the word you set as the 25th word.
 
 {% content-ref url="25th-word-the-passphrase.md" %}
 [25th-word-the-passphrase.md](25th-word-the-passphrase.md)
