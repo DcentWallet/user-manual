@@ -44,7 +44,7 @@
 
 ## 지원되는 네트워크 목록
 
-2021년 5월을 기준으로 현재 지원하는 블록체인 네트워크 기준은 다음과 같습니다. 앞으로도 다양한 블록체인 네트워크가 추가로 지원될 계획입니다.
+2023년 12월 기준으로 현재 지원하는 블록체인 네트워크 기준은 다음과 같습니다. 앞으로도 다양한 블록체인 네트워크가 추가로 지원될 계획입니다.
 
 댑 브라우저에서 네트워크를 선택하는 방법은 아래 링크를 참고하세요.
 
@@ -75,6 +75,13 @@
 * Celo
 * Cronos Chain
 * OEC
+* Klaytn-EVM
+* Optimism
+* MEVerse
+* BASE
+* Kroma
+* Astar-EVM
+* Tezos
 
 ### 테스트넷
 
@@ -82,6 +89,7 @@
 * Ethereum Testnet Rinkeby
 * Ethereum Testnet Goerli
 * Ethereum Testnet Kovan
+* Ethereum Testnet Sepolia
 * Binance Smart Chain Testnet
 * Polygon Testnet Mumbai
 * RSK Testnet
@@ -92,19 +100,40 @@
 * Arbitrum Testnet Rinkeby
 * Harmony Testnet
 * Orbit Chain Testnet
+* BASE Testnet Goerli
+* Kroma Testnet Sepolia
+* Tezos Testnet
 
 ## 서비스 목록
 
-2020년 9월 현재 리스팅된 서비스 목록은 다음과 같습니다. 서비스에 대한 보다 명확한 내용은 각 서비스의 웹사이트를 참고하시는 것이 좋습니다.
+2023년 12월 현재 리스팅된 서비스 목록은 다음과 같습니다. 서비스에 대한 보다 명확한 내용은 각 서비스의 웹사이트를 참고하시는 것이 좋습니다.
 
-* 문페이 (MoonPay, [https://www.moonpay.io/](https://www.moonpay.io/)) : 신용카드로 암호화폐를 구매할 수 있는 서비스
+* 암호화폐 구매 \
+  문페이 (MoonPay, [https://www.moonpay.io/](https://www.moonpay.io/)), 심플렉스 (Simplex, [https://buy.simplex.com/](https://buy.simplex.com/)) : 신용카드로 암호화폐를 구매할 수 있는 서비스
+* 교환 ([https://exchange.dcentwallet.com/](https://exchange.dcentwallet.com/)) : 암호화폐 교환 서비스
+* 스왑 ([https://swap.dcentwallet.com/](https://swap.dcentwallet.com/)) : 토큰 교환 서비스
+* 메타마스크 연동 ([https://qrbase.dcentwallet.com/](https://qrbase.dcentwallet.com/)) : 디센트 지갑의 EVM 주소를 메타마스크와 연결하는 기능
+* FTSO Portal ([https://ftsoportal.com/](https://ftsoportal.com/)) : 원하는 FTSO provider 에 Vote Power 를 위임하고 보상을 받을 수 있는 서비스
+* 스파클스 NFT (Sparkles NFT, [https://sparklesnft.com/](https://sparklesnft.com/)) :  Flare, Songbird 네트워크 기반 NFT를 사고 팔 수 있는 마켓플레이스 서비스
+* 클레이스왑 (KLAYswap, [https://klayswap.com/](https://klayswap.com/)) : 유동성 풀 기반의 토큰 교환과 유동성 마이닝을 통한  예치, 스테이킹 등을 할 수 있는 DeFi 서비스
+* 스왑스캐너 (SwapScanner, [https://swapscanner.io/](https://swapscanner.io/ko)) : 주요 DEX 거래소를 연결하여 토큰 교환과 암호화폐 예치를 통해 이자를 받을 수 있는 서비스
+* 벨트파이 (Belt.fi, [https://belt.fi/](https://belt.fi/)) : 암호화폐를 예치하고 AMM(Automated Market Maker) 프로토콜을 기반으로 최적화된 수익률을 제공해주는 서비스
+* 디피닉스 (Definix, [https://definix.com/](https://definix.com/)) : 멀티체인 기반의 탈중앙화 금융 플랫폼 서비스&#x20;
+* 오르빗 브릿지 (Orbit Bridge, [https://bridge.orbitchain.io/](https://bridge.orbitchain.io/)) : 각 메인넷 간의 토큰 전환을 지원하는 브릿지 서비스&#x20;
+* Celer cBridge ([https://cbridge.celer.network/](https://cbridge.celer.network/)) : 다중 블록체인 브릿지 서비스와 블록체인 간에 자산을 저렴한 수수료로 전송할 수 있는 서비스&#x20;
+* 클레이파이 (KlayFi, [https://klayfi.finance/](https://klayfi.finance/)) : 사용자 중심의 최적화 된 경험을 제공하여 최대의 수익률을 제공하는 디파이 서비스&#x20;
+* 블루웨일 프로토콜 (Bluewhale Protocol, [https://bwpm.io/](https://bwpm.io/)) : 클레이튼 네트워크 기반의 디파이 서비스&#x20;
+* 클레이스테이션 (KLAYSTATION, [https://klaystation.io/](https://klaystation.io/)) : 클레이튼 기반 KLAY 스테이킹 서비스
+* 토카막 DAO (Tokamak DAO, [https://dao.tokamak.network/](https://dao.tokamak.network/)) : TON 코인 보유자들이 토카막 네트워크 생태계에 영향을 주는 주요한 의제(Agenda)에 관한 의사결정에 직접 참여할 수 있는 서비스&#x20;
+* 네버루즈머니 (Neverlose.money, [https://neverlose.money/](https://neverlose.money/)) : 이더리움 기반의 암호화폐 장기 투자 촉진 서비스&#x20;
+* Zapper ([https://zapper.xyz/](https://zapper.xyz/)) : 이더리움 기반의 디파이 대시보드 서비스
 * 컴파운드 (Compound, [https://compound.finance/](https://compound.finance/)) : 암호화폐를 예치하고 이자를 받을 수 있는 서비스
-* 메이커다오 오아시스 (MakerDAO Oasis, [https://makerdao.com/](https://makerdao.com/)) : 암호화폐를 담보로 스테이블 코인인 DAI를 대출 받을 수 있는 서비스
 * 풀투게더 (PoolTogether, [https://www.pooltogether.com/](https://www.pooltogether.com/)) : 예치된 암호화폐의 이자를 모아 당첨자에게 몰아주는 서비스
 * 유니스왑 (Uniswap, [https://uniswap.org/](https://uniswap.org/)) : 유동성 공급과 토큰 교환 서비스
+* Yearn.fi ([https://yearn.fi/](https://yearn.fi/)) : 다양한 디파이 서비스를 모아 자동화된 프로토콜을 통해 최대의 수익을 얻기위한 방법을 제공하는 서비스
 * 1inch.exchange ([https://1inch.exchange/](https://1inch.exchange/)) : 주요 DEX 거래소를 연결하여 토큰을 교환할 수 있는 서비스
 * 오픈씨 (OpenSea, [https://opensea.io/](https://opensea.io/)) : 수집품, 게임 아이템, 디지털 아트와 같은 NFT를 사고 팔 수 있는 서비스
-* 체인지나우 (ChangeNOW, [https://changenow.io/](https://changenow.io/)) : 암호화폐 교환 서비스
-* 클레이스테이션 (KLAYSTATION, [https://klaystation.io/](https://klaystation.io/)) : 클레이튼 기반 KLAY 스테이킹 서비스
+* 라리블 (Rarible, [https://rarible.com/](https://rarible.com/)) : 예술 작품, 게임 아이템 등과 같은 아이템을 NFT로 쉽게 만들고 사고 팔 수 있는 서비스
+* 클레이포탈 (KLAYportal, [https://klayportal.hashquark.io/#/?inApp=true](https://klayportal.hashquark.io/#/?inApp=true)) : 해시쿼크에서 개발한 간단하고 안전한 방식으로 KLAY를 스테이킹할 수 있는 서비스
 
 이 밖에도 다양한 서비스를 추가해 나갈 계획입니다.&#x20;
