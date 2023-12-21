@@ -120,6 +120,7 @@
 * 벨트파이 (Belt.fi, [https://belt.fi/](https://belt.fi/)) : 암호화폐를 예치하고 AMM(Automated Market Maker) 프로토콜을 기반으로 최적화된 수익률을 제공해주는 서비스
 * 디피닉스 (Definix, [https://definix.com/](https://definix.com/)) : 멀티체인 기반의 탈중앙화 금융 플랫폼 서비스&#x20;
 * 오르빗 브릿지 (Orbit Bridge, [https://bridge.orbitchain.io/](https://bridge.orbitchain.io/)) : 각 메인넷 간의 토큰 전환을 지원하는 브릿지 서비스&#x20;
+* XDSea ([https://xdsea.com/](https://xdsea.com/)) : XDC 기반의 NFT를 사고파는 P2P 분산형 시장 서비스
 * Celer cBridge ([https://cbridge.celer.network/](https://cbridge.celer.network/)) : 다중 블록체인 브릿지 서비스와 블록체인 간에 자산을 저렴한 수수료로 전송할 수 있는 서비스&#x20;
 * 클레이파이 (KlayFi, [https://klayfi.finance/](https://klayfi.finance/)) : 사용자 중심의 최적화 된 경험을 제공하여 최대의 수익률을 제공하는 디파이 서비스&#x20;
 * 블루웨일 프로토콜 (Bluewhale Protocol, [https://bwpm.io/](https://bwpm.io/)) : 클레이튼 네트워크 기반의 디파이 서비스&#x20;
@@ -133,7 +134,7 @@
 * Yearn.fi ([https://yearn.fi/](https://yearn.fi/)) : 다양한 디파이 서비스를 모아 자동화된 프로토콜을 통해 최대의 수익을 얻기위한 방법을 제공하는 서비스
 * 1inch.exchange ([https://1inch.exchange/](https://1inch.exchange/)) : 주요 DEX 거래소를 연결하여 토큰을 교환할 수 있는 서비스
 * 오픈씨 (OpenSea, [https://opensea.io/](https://opensea.io/)) : 수집품, 게임 아이템, 디지털 아트와 같은 NFT를 사고 팔 수 있는 서비스
-* 라리블 (Rarible, [https://rarible.com/](https://rarible.com/)) : 예술 작품, 게임 아이템 등과 같은 아이템을 NFT로 쉽게 만들고 사고 팔 수 있는 서비스
+* 라리블 (Rarible, [https://rarible.com/](https://rarible.com/)) : 예술 작품, 게임 아이템 등과 같은 아이템을 NFT로 쉽게 만들고 사고 팔 수 있는 크리에이터 중심의 NFT 마켓플레이스 서비스
 * 클레이포탈 (KLAYportal, [https://klayportal.hashquark.io/#/?inApp=true](https://klayportal.hashquark.io/#/?inApp=true)) : 해시쿼크에서 개발한 간단하고 안전한 방식으로 KLAY를 스테이킹할 수 있는 서비스
 
 이 밖에도 다양한 서비스를 추가해 나갈 계획입니다.&#x20;
