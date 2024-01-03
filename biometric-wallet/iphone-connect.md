@@ -59,7 +59,7 @@ From the iPhone Setting menu, turn on Bluetooth.
 
 ### Connecting from your iPhone
 
-1\) Go to the main tab(Account) of D'CENT mobile app. Notice the Bluetooth icon (red color) located on the top left corner of the screen. Red color indicates Bluetooth connection is not established. Click on this icon to connect with Biometric Wallet.
+1\) Go to the main tab(My Wallet) of D'CENT mobile app. Notice the Bluetooth icon (red color) located on the top left corner of the screen. Red color indicates Bluetooth connection is not established. Click on this icon to connect with Biometric Wallet.
 
 <div align="left">
 

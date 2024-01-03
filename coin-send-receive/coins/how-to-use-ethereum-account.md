@@ -20,7 +20,7 @@ From your coin account, click "Receive" to view your account address.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (218).png" alt="">
+<img src="../../.gitbook/assets/이더리움-eng01.png" alt="" width="563">
 
 </div>
 
@@ -42,7 +42,7 @@ The procedures to send ETH coin are same as sending general coin. You can see in
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (215).png" alt="">
+<img src="../../.gitbook/assets/이더리움-eng02.png" alt="" width="344">
 
 </div>
 
@@ -58,14 +58,14 @@ If the fee is set too low, the transaction may not get confirmed in the blockcha
 
 The fee of ethereum is consist of "GAS fee" and "GAS Limit". The unit of GAS fee is "gwei" which is one of ETH's sub unit.
 
-`1 ETH = 1,000,000,000 gwei`
+**`1 ETH = 1,000,000,000 gwei`**
 
-The real fee to be paid is calculated as `“Used GAS amount” x “GAS fee”` .
+The real fee to be paid is calculated as **`“Used GAS amount” x “GAS fee”`** .
 
 You can set the maximum amount of GAS as setting GAS Limit. Transaction can be confirmed faster if GAS fee is higher. You can manually set the GAS Limit and GAS fee on "Advanced" fee setting option.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (221).png" alt="">
+<img src="../../.gitbook/assets/이더리움-eng03.png" alt="">
 
 </div>
