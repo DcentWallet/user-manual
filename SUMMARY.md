@@ -93,7 +93,7 @@
 ## 트러블 슈팅 <a href="#troubleshooting" id="troubleshooting"></a>
 
 * [지갑 복구 주의 사항 - 레거시 계정 주소](troubleshooting/notes-on-wallet-recovery.md)
-* [이메일 인증 오류시 확인해야 할 점](troubleshooting/check-points-on-email-verification-error.md)
+* [이메일 인증 오류 시 확인해야 할 점](troubleshooting/check-points-on-email-verification-error.md)
 
 ## 오입금 해결 방법 <a href="#mistransmission" id="mistransmission"></a>
 

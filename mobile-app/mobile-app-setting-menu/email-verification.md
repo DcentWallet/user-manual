@@ -71,3 +71,11 @@
 {% hint style="info" %}
 반드시 이용하려는 거래소에서 인증 작업에 필요한 요구 사항들을 미리 확인하시고 진행해주시기 바랍니다.
 {% endhint %}
+
+
+
+이메일 인증 기능에서 문제가 발생하는 경우에는 아래 트러블 슈팅 가이드를 참고하여 주시기 바랍니다.
+
+{% content-ref url="../../troubleshooting/check-points-on-email-verification-error.md" %}
+[check-points-on-email-verification-error.md](../../troubleshooting/check-points-on-email-verification-error.md)
+{% endcontent-ref %}
