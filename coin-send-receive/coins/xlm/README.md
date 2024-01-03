@@ -8,6 +8,10 @@
 [firmware-update-from-computer](../../../biometric-wallet/firmware-update-from-computer/)
 {% endcontent-ref %}
 
+{% content-ref url="../../../biometric-wallet/firmware-update-from-mobile.md" %}
+[firmware-update-from-mobile.md](../../../biometric-wallet/firmware-update-from-mobile.md)
+{% endcontent-ref %}
+
 ## 스텔라 계정 생성
 
 스텔라 계정이 없다면 생성해 주세요. 코인 이름은 "Stellar (XLM)"로 되어 있습니다.  계정을 생성하는 방법은 아래 링크를 참고해주세요.
@@ -22,11 +26,11 @@
 현재 사용중인 펌웨어 버전이 v2.1.0 이상인데 스텔라 계정을 생성할 수 없는 경우가 있습니다. 하드웨어 지갑을 처음 구매시 제품에 탑재된 펌웨어 버전이 v2.0.1 보다 낮은 경우 스텔라에서 사용하는 새로운 알고리즘을 사용할 수 없기 때문입니다.
 {% endhint %}
 
-모바일앱에서 스텔라 계정을 생성할 수 없는 경우 아래 그림과 같이 스텔라 코인을 검색해도 표시가되지 않습니다.
+모바일 앱에서 스텔라 계정을 생성할 수 없는 경우 아래 그림과 같이 스텔라 코인을 검색해도 표시가되지 않습니다.
 
 <div align="left">
 
-<img src="../../../.gitbook/assets/unable-to-create-stellar-account_kr.png" alt="">
+<img src="../../../.gitbook/assets/스텔라01.png" alt="">
 
 </div>
 
@@ -50,7 +54,7 @@
 
 <div align="left">
 
-<img src="../../../.gitbook/assets/xlm-send-all_kr.jpg" alt="">
+<img src="../../../.gitbook/assets/스텔라02.png" alt="" width="344">
 
 </div>
 
@@ -72,7 +76,7 @@
 
 <div align="left">
 
-<img src="../../../.gitbook/assets/stellar-receive_kr.jpg" alt="">
+<img src="../../../.gitbook/assets/스텔라03.png" alt="" width="344">
 
 </div>
 
@@ -84,7 +88,7 @@
 
 <div align="left">
 
-<img src="../../../.gitbook/assets/stellar-send-option_kr.jpg" alt="">
+<img src="../../../.gitbook/assets/스텔라04.png" alt="" width="344">
 
 </div>
 
@@ -92,7 +96,7 @@
 
 <div align="left">
 
-<img src="../../../.gitbook/assets/stellar-send-confirm_kr.jpg" alt="">
+<img src="../../../.gitbook/assets/스텔라05.png" alt="" width="344">
 
 </div>
 
