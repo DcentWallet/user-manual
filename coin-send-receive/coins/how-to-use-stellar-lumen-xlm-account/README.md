@@ -8,6 +8,10 @@ Stellar (XLM) coin is supported on the hardware wallet installed with firmware v
 [firmware-update-from-computer](../../../biometric-wallet/firmware-update-from-computer/)
 {% endcontent-ref %}
 
+{% content-ref url="../../../biometric-wallet/firmware-update-from-mobile.md" %}
+[firmware-update-from-mobile.md](../../../biometric-wallet/firmware-update-from-mobile.md)
+{% endcontent-ref %}
+
 ## How to create a Stellar Lumen (XLM) account
 
 If you don't have a Stellar Lumen account, create a new account. The coin name for Stellar Lumen is "Stellar (XLM)".
@@ -28,7 +32,7 @@ In the event when trying to create a Stellar account from the mobile app, the se
 
 <div align="left">
 
-<img src="../../../.gitbook/assets/unable-to-create-stellar-account_en.png" alt="">
+<img src="../../../.gitbook/assets/스텔라-eng01.png" alt="">
 
 </div>
 
@@ -54,7 +58,7 @@ In addition, **1XLM in the account will be permanently locked-up**. For example,
 
 <div align="left">
 
-<img src="../../../.gitbook/assets/xlm-send-all_en.jpg" alt="">
+<img src="../../../.gitbook/assets/스텔라-eng02.png" alt="" width="344">
 
 </div>
 
@@ -76,7 +80,7 @@ From your XLM account, click "Receive" to view your account address.
 
 <div align="left">
 
-<img src="../../../.gitbook/assets/stellar-receive_en.jpg" alt="">
+<img src="../../../.gitbook/assets/스텔라-eng03.png" alt="" width="344">
 
 </div>
 
@@ -90,7 +94,7 @@ If you are sending Stellar coins to a personal wallet such as D'CENT Wallet, ent
 
 <div align="left">
 
-<img src="../../../.gitbook/assets/stellar-send-option_en.jpg" alt="">
+<img src="../../../.gitbook/assets/스텔라-eng04.png" alt="" width="344">
 
 </div>
 
@@ -98,6 +102,6 @@ When sending money, check the address and memo once again before making the fina
 
 <div align="left">
 
-<img src="../../../.gitbook/assets/stellar-send-confirm_en.jpg" alt="">
+<img src="../../../.gitbook/assets/스텔라-eng05.png" alt="" width="344">
 
 </div>
