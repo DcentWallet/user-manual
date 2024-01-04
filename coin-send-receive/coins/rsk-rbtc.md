@@ -16,11 +16,11 @@ RSK 계정이 없다면 생성해 주세요. 코인 이름은 "RSK Smart Bitcoin
 
 ## RSK 코인(RBTC) 받기
 
-코인 계정에서 "받기"를 클릭하면 이더리움 계정 주소를 확인할 수 있습니다.
+코인 계정에서 "받기"를 클릭하면 주소를 확인할 수 있습니다.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (214).png" alt="">
+<img src="../../.gitbook/assets/RBTC.png" alt="" width="563">
 
 </div>
 
