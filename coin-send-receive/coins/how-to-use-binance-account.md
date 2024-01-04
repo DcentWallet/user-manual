@@ -35,7 +35,7 @@ For more details of receiving coin, click below link.
 [receive.md](../receive.md)
 {% endcontent-ref %}
 
-## Send BNB Coin
+## Send Binance (BNB) Coin
 
 If you are sending Binance (BNB) coins to your exchange account, you MUST enter the Memo. If you are sending Binance (BNB) coins to a personal wallet such as D'CENT Wallet, entering Memo is optional. You can enter any notes in the Memo field or check No Memo.
 
@@ -53,7 +53,7 @@ When sending money, check the address and memo once again before making the fina
 
 </div>
 
-### The fee for Binance
+### The fee for Binance (BNB)
 
 <div align="left">
 
