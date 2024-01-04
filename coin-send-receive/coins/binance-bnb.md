@@ -14,13 +14,18 @@ description: Binance 계정에서 BNB 코인 보내기 받기
 [create-account](../../mobile-app/create-account/)
 {% endcontent-ref %}
 
-## BNB 코인 받기
+## 바이낸스 (BNB) 메모
+
+거래소에서 사용되는 바이낸스(BNB) 지갑은 한개의 주소를 사용합니다. 즉, 거래소 사용자 모두 같은 주소를 사용함으로 사용자의 계정을 구별하기 위해 고유 식별 문자(Memo)를 할당하여 관리합니다. \
+**따라서, 거래소에서 생성한 바이낸스(BNB) 계정 주소로 송금을 보낼 경우 반드시 Memo를 입력해야 사용자의 거래소 지갑 계정으로 정상적인 입금이 완료됩니다.**
+
+## 바이낸스 (BNB) 코인 받기
 
 생성된 바이낸스 코인 계정의 “받기”를 클릭하면 바이낸스 코인 주소를 확인 할 수 있습니다.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (220).png" alt="">
+<img src="../../.gitbook/assets/BNB-01.png" alt="" width="563">
 
 </div>
 
@@ -30,20 +35,30 @@ description: Binance 계정에서 BNB 코인 보내기 받기
 [receive.md](../receive.md)
 {% endcontent-ref %}
 
-## BNB 코인 보내기
+## 바이낸스 (BNB) 코인 보내기
 
-바이낸스 코인을 전송하는 방법은 일반적인 코인 보내기와 같습니다. 코인 보내기에 대한 일반적인 방법은 다음 항목을 참고하세요.
-
-{% content-ref url="../send/" %}
-[send](../send/)
-{% endcontent-ref %}
-
-### 바이낸스 코인 수수료
+바이낸스 (BNB) 코인을 거래소 계정으로 보내는 경우 반드시 Memo를 입력하셔야 합니다. 거래소가 아닌 디센트 월렛과 같이 개인이 직접 생성한 바이낸스 (BNB) 지갑 주소의 Memo는 옵션입니다. 임의의 Memo를 입력하거나 Memo 없음을 체크하세요.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (222).png" alt="">
+<figure><img src="../../.gitbook/assets/BNB-02.png" alt="" width="344"><figcaption></figcaption></figure>
 
 </div>
 
-바이낸스 코인의 수수료는 고정 값을 사용합니다. 바이낸스 코인 보내기를 할 때마다 “0.000375 BNB” 가 발생합니다.
+송금 시에는 송금 확인 창에서 다시 한번 주소와 메모를 확인해주세요
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/BNB-04.png" alt="" width="344"><figcaption></figcaption></figure>
+
+</div>
+
+### 바이낸스 (BNB) 코인 수수료
+
+<div align="left">
+
+<img src="../../.gitbook/assets/BNB-03.png" alt="" width="344">
+
+</div>
+
+바이낸스 코인의 수수료는 고정 값을 사용합니다. 바이낸스 코인 보내기를 할 때마다 “0.000075 BNB” 가 발생합니다.
