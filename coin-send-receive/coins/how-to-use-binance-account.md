@@ -2,7 +2,7 @@
 description: Send and Receive Binance (BNB) coin
 ---
 
-# How to use Binance account
+# How to use Binance (BNB) account
 
 ## How to create an Binance account
 
@@ -14,13 +14,18 @@ For more details of creating an account, click below link.
 [create-account](../../mobile-app/create-account/)
 {% endcontent-ref %}
 
-## Receive BNB coin
+## Binance (BNB) Memo
+
+The Binance wallet used by an exchange service uses a single address. In other words, all users of the exchange have the same address. To distinguish each user's account, the exchange service manages the user accounts by assigning a unique identification character (Memo) to each user. \
+**Therefore, when sending BNB to a recipient wallet address created from the Exchange, you MUST enter the Memo so that the Exchange will complete the deposit to the recipient's wallet account.**
+
+## Receive Binance (BNB) coin
 
 From your coin account, click "Receive" to view your account address.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (224).png" alt="">
+<img src="../../.gitbook/assets/BNB-eng01.png" alt="" width="563">
 
 </div>
 
@@ -32,18 +37,28 @@ For more details of receiving coin, click below link.
 
 ## Send BNB Coin
 
-The procedures to send BNB coin are same as sending general coin. You can see in the below link to check how to send coin.
-
-{% content-ref url="../send/" %}
-[send](../send/)
-{% endcontent-ref %}
-
-### The fee for Binance
-
-The fee of BNB is fixed as "0.000375 BNB" per transaction.
+If you are sending Binance (BNB) coins to your exchange account, you MUST enter the Memo. If you are sending Binance (BNB) coins to a personal wallet such as D'CENT Wallet, entering Memo is optional. You can enter any notes in the Memo field or check No Memo.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (223).png" alt="">
+<figure><img src="../../.gitbook/assets/BNB-eng02.png" alt="" width="344"><figcaption></figcaption></figure>
 
 </div>
+
+When sending money, check the address and memo once again before making the final confirmation.
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/BNB-eng04.png" alt="" width="344"><figcaption></figcaption></figure>
+
+</div>
+
+### The fee for Binance
+
+<div align="left">
+
+<img src="../../.gitbook/assets/BNB-eng03.png" alt="" width="344">
+
+</div>
+
+The fee of BNB is fixed as "0.000075 BNB" per transaction.

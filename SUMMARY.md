@@ -66,7 +66,7 @@
     * [Using Trust Line for XRPL](coin-send-receive/coins/ripple-xrp/using-trust-line-for-xrpl.md)
   * [How to use KLAY account](coin-send-receive/coins/klaytn-klay.md)
   * [How to use RSK account](coin-send-receive/coins/how-to-use-rsk-account.md)
-  * [How to use Binance account](coin-send-receive/coins/how-to-use-binance-account.md)
+  * [How to use Binance (BNB) account](coin-send-receive/coins/how-to-use-binance-account.md)
   * [How to use Binance Smart Chain account](coin-send-receive/coins/how-to-use-binance-smart-chain-account.md)
   * [How to use MONA account](coin-send-receive/coins/how-to-use-mona-account.md)
   * [How to use Stellar Lumens (XLM) account](coin-send-receive/coins/how-to-use-stellar-lumen-xlm-account/README.md)
