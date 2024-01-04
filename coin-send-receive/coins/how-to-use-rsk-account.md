@@ -20,7 +20,7 @@ From your coin account, click "Receive" to view your account address.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (211).png" alt="">
+<img src="../../.gitbook/assets/RBTC-eng.png" alt="" width="563">
 
 </div>
 
