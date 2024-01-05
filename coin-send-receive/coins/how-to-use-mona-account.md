@@ -20,13 +20,13 @@ From your coin account, click "Receive" to view your account address.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (210).png" alt="">
+<img src="../../.gitbook/assets/mona-eng.png" alt="">
 
 </div>
 
 The account of Monacoin supports HD wallet. "HD wallet" is the technical standard suggested in BIP-44 from bitcoin improvement proposal. A monacoin account of D'CENT wallet manage 15 addresses. Any address in the account can be used to receive coin.
 
-Click "v" to see all of the addresses list and choose the address you want to use.
+Click the down arrow (∨) button to the right of **“View all MONACOIN addresses”** to see all of the addresses list.
 
 For more information about receiving coin, click below link.
 
