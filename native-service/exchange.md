@@ -75,5 +75,5 @@ Depending on the type of cryptocurrency you've chosen to receive, there may be d
 {% hint style="warning" %}
 **NOTE on Exchange History**&#x20;
 
-Exchange ID and its transaction record will be maintained by the D'CENT App for 3 days and will be deleted thereafter. Please back up this information for referencing in the future before it gets deleted.
+Exchange ID and its transaction record will be maintained by the D'CENT App for 15 days and will be deleted thereafter. Please back up this information for referencing in the future before it gets deleted.
 {% endhint %}
