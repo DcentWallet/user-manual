@@ -1,8 +1,10 @@
 # FTSO 포털 - 투표권 위임
 
+## FTSO 포털 소개
+
 FTSO 포털 (FTSO Portal) 은 송버드(Songbird) 와 플레어(Flare) 네트워크에서 FTSO 기능과 상호 작용할 수 있는 기능입니다. SGB와 FLR 보유자는 송버드/플레어 네트워크에서 선호하는 FTSO 제공자에게 투표권을 위임할 수 있습니다.
 
-## FTSO 포털 액세스 <a href="#id-1d67" id="id-1d67"></a>
+### FTSO 포털 액세스 <a href="#id-1d67" id="id-1d67"></a>
 
 FTSO 포털은 디센트 모바일 앱의 Discovery 탭(DApp 브라우저)에서 찾을 수 있습니다.
 
