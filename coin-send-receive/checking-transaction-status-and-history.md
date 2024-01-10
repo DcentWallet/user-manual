@@ -1,8 +1,14 @@
 # Checking transaction status and history
 
+After **sending or receiving** a transfer to your wallet account address, you can check the transaction history from the mobile app.
+
 ## How to check transaction history
 
-After **sending or receiving** a transfer to your wallet account address, you can check the transaction history from the mobile app.
+<div align="left">
+
+<figure><img src="../.gitbook/assets/History-eng.gif" alt="" width="300"><figcaption></figcaption></figure>
+
+</div>
 
 ![](../.gitbook/assets/거래내역-eng.png)
 
