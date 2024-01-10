@@ -10,6 +10,8 @@ Instead of using Bluetooth connection, you can also use the OTG cable to physica
 
 ### Prepare to pair your Biometric Wallet
 
+{% embed url="https://youtu.be/eoGuV5wHOeE?feature=shared" %}
+
 1\) Power on your device and authenticate yourself to access the wallet.
 
 2\) On your device, scroll down and choose the "**Setting**" menu.
