@@ -10,6 +10,8 @@
 
 ### 콜드월렛 페어링 준비
 
+{% embed url="https://youtu.be/oSkJH3WmP8s?feature=shared" %}
+
 1\) 콜드월렛 전원을 켜고 인증을 해주세요.
 
 2\) 콜드월렛의 설정 (Setting) 메뉴를 선택해주세요.

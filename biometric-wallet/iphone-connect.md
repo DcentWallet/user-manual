@@ -63,6 +63,8 @@
 
 ### 아이폰에서 연결
 
+{% embed url="https://youtu.be/WSB8pD0dnAY?feature=shared" %}
+
 1\) 디센트 앱 My Wallet 탭의 왼쪽 위에 블루투스 연결 아이콘을 확인하세요. 아래와 같이 빨간색 아이콘이면 연결이 안되어 있다는 의미이니 아이콘을 클릭하세요
 
 <div align="left">
