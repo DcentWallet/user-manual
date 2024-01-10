@@ -1,12 +1,12 @@
 # 월렛모드 변경
 
-디센트는 하나의 모바일 앱을 통해 콜드월렛(지문인증형, 카드타입) 혹은 소프트웨어 월렛(앱 월렛)을 쉽고 간편하게 관리할수 있습니다.
-
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/Setting-08.png" alt="" width="287"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/walletmode (1).gif" alt="" width="254"><figcaption></figcaption></figure>
 
 </div>
+
+디센트는 하나의 모바일 앱을 통해 콜드월렛(지문인증형, 카드타입) 혹은 소프트웨어 월렛(앱 월렛)을 쉽고 간편하게 관리할수 있습니다.
 
 ## 월렛모드 변경하기 <a href="#wallet-mode" id="wallet-mode"></a>
 
