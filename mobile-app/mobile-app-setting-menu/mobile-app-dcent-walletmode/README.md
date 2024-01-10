@@ -4,7 +4,7 @@ D'CENT allows easy and convenient management of Cold wallets (Biometric, Card ty
 
 <div align="left">
 
-<img src="../../../.gitbook/assets/Setting-eng08.png" alt="" width="287">
+<img src="../../../.gitbook/assets/walletmode-eng.gif" alt="" width="256">
 
 </div>
 
