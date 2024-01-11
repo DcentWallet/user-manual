@@ -10,6 +10,12 @@ FTSO 포털은 디센트 모바일 앱의 Discovery 탭(DApp 브라우저)에서
 
 <div align="left">
 
+<figure><img src="../.gitbook/assets/FTSO.gif" alt="" width="246"><figcaption></figcaption></figure>
+
+</div>
+
+<div align="left">
+
 <img src="../.gitbook/assets/FTSO-01.png" alt="">
 
 </div>
