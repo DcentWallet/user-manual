@@ -10,6 +10,12 @@ FTSO portal can be found from the Discovery Tab(DApp browser) of the D’CENT Mo
 
 <div align="left">
 
+<figure><img src="../.gitbook/assets/FTSO-eng.gif" alt="" width="245"><figcaption></figcaption></figure>
+
+</div>
+
+<div align="left">
+
 <img src="../.gitbook/assets/FTSO-eng01.png" alt="">
 
 </div>
