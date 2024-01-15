@@ -28,6 +28,8 @@ The account of Monacoin supports HD wallet. "HD wallet" is the technical standar
 
 Click the down arrow (∨) button to the right of **“View all MONACOIN addresses”** to see all of the addresses list.
 
+For your reference, the address shown on the "Receive" screen of your MONA account defaults to the first address in the list of 15 addresses.
+
 For more information about receiving coin, click below link.
 
 {% content-ref url="../receive.md" %}
