@@ -22,6 +22,8 @@ Tron 계정을 활성화된 상태로 유지하려면 Tron 계정의 잔액이 0
 
 <mark style="color:red;">**Tron 계정 활성화 유지 비용 = 0.1 TRX**</mark>
 
+<figure><img src="../../.gitbook/assets/TRON.png" alt=""><figcaption></figcaption></figure>
+
 ## 자주 묻는 질문
 
 **Tron 계정에 있는 내 USDT 토큰(TRC20)이 표시되지 않습니다. 어떻게 해야 하나요?**
