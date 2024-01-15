@@ -24,6 +24,8 @@ To keep your Tron account in the activated state, your Tron account must maintai
 
 <mark style="color:red;">**Tron account activation fee = 0.1 TRX**</mark>&#x20;
 
+<figure><img src="../../.gitbook/assets/TRON-eng.png" alt=""><figcaption></figcaption></figure>
+
 ## Frequently asked question
 
 **My USDT token (TRC20) in the Tron account does not show up, what do I do?**\
