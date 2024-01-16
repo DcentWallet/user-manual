@@ -30,6 +30,10 @@ D'CENT Biometric Wallet is equipped with 4-buttons for navigation.
 
 To power on the device, press and hold the power button for 3 seconds, which is located on the right-side.
 
+{% hint style="info" %}
+If the cold wallet does not power on, please charge its battery using the USB cable included in the package box, and then turn it on.
+{% endhint %}
+
 ### Select Language
 
 Use ∧(Up**)** or ∨(Down**)** button to select your language and press **OK** button.
@@ -167,6 +171,10 @@ There are 6 lists with total of 24 words and each list has 4 words shown. Make s
 
 </div>
 
+{% hint style="info" %}
+When writing down the recovery words, **make sure to check that the spelling is correct**
+{% endhint %}
+
 3\) When you have written down all 24 words, press OK button to continue.
 
 <div align="left">
@@ -175,7 +183,13 @@ There are 6 lists with total of 24 words and each list has 4 words shown. Make s
 
 </div>
 
-### &#xD;Recovery Seeds Verification
+{% hint style="warning" %}
+Do not take pictures or save images of your recovery words or recovery cards. You are responsible for securely handling your recovery words. D'CENT is not liable for any damage or loss of crypto assets resulting from user negligence, such as the theft of recovery cards or the storage of image files.&#x20;
+
+Special care must be taken to ensure safe storage (away from fire, water, sunlight or pets).
+{% endhint %}
+
+### Recovery Seeds Verification
 
 Enter all 24 words written on the recovery card to proceed with verification.
 
@@ -189,11 +203,11 @@ Enter all 24 words written on the recovery card to proceed with verification.
 
 ※ How to input : Use the Up/Down buttons - ∧(increase value from a to z) or ∨(decrease value z to a)&#x20;
 
-When you have selected the first character, press "OK" button to enter the value. Repeat entering second and third characters.
+For example, if the recovery word is "patch", enter the first character "p" and press the "OK" button > enter the second character "a" and press the "OK" button > enter the third character "t" and press the "OK" button.
 
 #### Finding suggestion from the list shown
 
-From the list of words available, select the correct word using ∧/∨ buttons and press "OK" to choose as the answer.
+From the list of words available, select the correct word(_patch_) using ∧/∨ buttons and press "OK" to choose as the answer.
 
 <div align="left">
 
