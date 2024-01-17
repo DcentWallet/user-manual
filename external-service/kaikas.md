@@ -19,11 +19,11 @@ description: 디센트 지문인증형 하드웨어 지갑과 카이카스 지�
 \[**디센트 브릿지 프로그램 다운로드**]\
 [Download D’CENT bridge program](https://bridge.dcentwallet.com/v2/download)
 
-**Step 2)** PC의 USB 포트에 디센트 지문인증형 지갑을 연결하고 사용자 인증을 통해 하드웨어 지갑을 언락(unlock)합니다.
+**Step 2)** PC의 USB 포트에 디센트 지문인증형 지갑을 연결하고 지문 인증(또는 PIN 인증)을 통해 콜드월렛을 해제(unlock)합니다.
 
 <div align="left">
 
-<img src="../.gitbook/assets/connect-biometric-to-pc.png" alt="">
+<img src="../.gitbook/assets/카이카스-01.png" alt="" width="559">
 
 </div>
 
@@ -31,34 +31,42 @@ description: 디센트 지문인증형 하드웨어 지갑과 카이카스 지�
 
 <div align="left">
 
-<img src="../.gitbook/assets/kaikas-extension-on-pc.png" alt="">
+<img src="../.gitbook/assets/카이카스-02.png" alt="" width="557">
 
 </div>
 
-**Step 4)** 비밀번호를 입력하여 카이카스에 접속하고 상단 메뉴에 위치한 **Manage Accounts(계정 관리)** 아이콘을 클릭합니다.
+**Step 4)** 비밀번호를 입력하여 카이카스에 접속하고 상단 메뉴에 위치한 **계정 관리** 아이콘을 클릭합니다.
 
 <div align="left">
 
-<img src="../.gitbook/assets/kaikas-1.png" alt="">
+<img src="../.gitbook/assets/카이카스-03.png" alt="">
 
 </div>
 
-**Step 5)** 계정 관리 화면에서 **Connect** 버튼을 클릭합니다. 다음 화면에서는 **D’CENT**를 사용할 하드웨어 지갑으로 선택하고 **Connect** 버튼을 눌러줍니다.
+**Step 5)** 계정 관리 화면에서 **연결** 버튼을 클릭합니다. 다음 화면에서는 **D’CENT**를 사용할 하드웨어 지갑으로 선택하고 **연결** 버튼을 눌러줍니다.
 
 <div align="left">
 
-<img src="../.gitbook/assets/kaikas-2.png" alt="">
+<img src="../.gitbook/assets/카이카스-04.png" alt="">
 
 </div>
 
-**Step 6)** 다시 PC의 브라우저에서 **카이카스 지갑 아이콘**을 클릭하여 지갑에 재접속합니다. 재접속 후 카이카스 지갑에서는 기존 계정이 아닌 **디센트 지문인증형 지갑에서 존재하는 클레이튼 계정 주소**를 표시해줍니다.
+**Step 5)** PC 브라우저에서 브릿지 프로그램이 연결되었다는 페이지가 실행되면서 연결할 계정(주소)를 선택하는 화면이 나타납니다. 연결할 계정을 선택하고 **다음** 버튼을 누릅니다.
 
-<div align="left">
+<figure><img src="../.gitbook/assets/카이카스-05.png" alt=""><figcaption></figcaption></figure>
 
-<img src="../.gitbook/assets/kaikas-3.png" alt="">
+<figure><img src="../.gitbook/assets/카이카스-06.png" alt=""><figcaption></figcaption></figure>
 
-</div>
+{% hint style="warning" %}
+카이카스 지갑에는 디센트 지문인증형 지갑의 클레이튼 계정을 하나만 연결할 수 있으며, 여러 개의 클레이튼 계정이 있어도 **제일 먼저 생성된 하나의 계정만** 연결이 가능합니다.
 
-{% hint style="info" %}
-&#x20;**계정 관리** 아이콘을 통해 여러개의 클레이튼 계정을 바꿔가며 관리가 가능합니다.
+클레이튼 레거시 계정 혹은 클레이튼 계정이 모두 생성되어 있더라도 하나만 연결할 수 있습니다.
 {% endhint %}
+
+**Step 7)** 다시 PC의 브라우저에서 **카이카스 지갑 아이콘**을 클릭하여 지갑에 재접속합니다. 재접속 후 카이카스 지갑에서는 기존 계정이 아닌 **디센트 지문인증형 지갑에서 존재하는 클레이튼 계정 주소**를 표시해줍니다.
+
+<div align="left">
+
+<img src="../.gitbook/assets/카이카스-07.png" alt="">
+
+</div>
