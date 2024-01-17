@@ -19,7 +19,7 @@ Kaikas is a PC browser based extension wallet for the Klaytn platform. Users wil
 
 <div align="left">
 
-<img src="../.gitbook/assets/connect-biometric-to-pc.png" alt="">
+<img src="../.gitbook/assets/카이카스-eng01.png" alt="" width="559">
 
 </div>
 
@@ -27,7 +27,7 @@ Kaikas is a PC browser based extension wallet for the Klaytn platform. Users wil
 
 <div align="left">
 
-<img src="../.gitbook/assets/kaikas-extension-on-pc.png" alt="">
+<img src="../.gitbook/assets/카이카스-eng02.png" alt="" width="557">
 
 </div>
 
@@ -35,7 +35,7 @@ Kaikas is a PC browser based extension wallet for the Klaytn platform. Users wil
 
 <div align="left">
 
-<img src="../.gitbook/assets/kaikas-1.png" alt="">
+<img src="../.gitbook/assets/카이카스-eng03.png" alt="">
 
 </div>
 
@@ -43,18 +43,26 @@ Kaikas is a PC browser based extension wallet for the Klaytn platform. Users wil
 
 <div align="left">
 
-<img src="../.gitbook/assets/kaikas-2.png" alt="">
+<img src="../.gitbook/assets/카이카스-eng04.png" alt="">
 
 </div>
+
+**Step 5)** From your browser will display a page confirming the successful connection to the bridge program. and a screen for selecting an account (address) to connect will be displayed. Select the account you want to connect to and press the **Next** button.
+
+<figure><img src="../.gitbook/assets/카이카스-eng05.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/카이카스-eng06.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+Only one Klaytn account created in the D'CENT biometric wallet can be connected to the Kaikas wallet. **Even if you have created multiple Klaytn accounts in your D'CENT biometric wallet, you can only connect to the first account created.**
+
+Furthermore, if you have both a Klaytn legacy account and a Klaytn account, you can only connect one.
+{% endhint %}
 
 **Step 6)** From your browser, click on the **Kaikas extension** icon again to open the wallet service. You will notice that the Kaikas wallet now displays the **Klaytn account from the D’CENT Biometric Wallet.**
 
 <div align="left">
 
-<img src="../.gitbook/assets/kaikas-3.png" alt="">
+<img src="../.gitbook/assets/카이카스-eng07.png" alt="">
 
 </div>
-
-{% hint style="info" %}
-&#x20;You can always switch between multiple Klaytn wallet accounts by pressing the **Manage Accounts** icon.
-{% endhint %}
