@@ -22,9 +22,9 @@ WalletConnect는 QR 코드를 스캔을 사용하여 브라우저의 DApp을 모
 
 ![](../../.gitbook/assets/walletconnect-02.png)
 
-**Step 3)** 휴대폰에서 디센트 모바일 앱을 실행하고 **"Discovery"** 탭으로 이동합니다. 상단 좌측 모서리의 QR-Code 스캔 아이콘을 클릭하여 QR-Code 를 스캔합니다.
+**Step 3)** 휴대폰에서 디센트 모바일 앱을 실행하고 **"Discovery"** 탭으로 이동합니다. 상단 좌측 모서리의 QR-Code 스캔 아이콘을 클릭하여 QR-Code를 스캔합니다.
 
-QR-CODE를 스캔하면 연결 요청 화면이 표시됩니다. **"네, 맞아요"** 버튼을 클릭하면 PoolTogether DApp에 지갑 주소를 사용하여 연결됩니다.
+QR-Code를 스캔하면 연결 요청 화면이 표시됩니다. **"네, 맞아요"** 버튼을 클릭하면 PoolTogether DApp에 지갑 주소를 사용하여 연결됩니다.
 
 <div align="left">
 
