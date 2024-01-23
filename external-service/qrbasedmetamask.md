@@ -6,10 +6,6 @@ The MetaMask is a wallet used in various DApp sites by supporting EVM blockchain
 
 The D’CENT App provides a function to link D’CENT accounts (EVM) with Metamask using the QR-based protocol.
 
-{% hint style="warning" %}
-Camera devices without the support for the **autofocusing** function will have difficulty reading the QR code, barcode, or text. For the best user experience, please make sure the camera on your computer supports this function.
-{% endhint %}
-
 ## Download and Install MetaMask
 
 First, download the [MetaMask Chrome extension](https://metamask.io/download/) from ([https://metamask.io/download/](https://metamask.io/download/)) and follow its instructions to install.
@@ -26,7 +22,11 @@ This function is supported only in **Biometric Wallet** and **App Wallet(Softwar
 {% endhint %}
 
 {% hint style="danger" %}
-The QR-based protocol supported by the MetaMask can only be used when a camera is installed on the computer.
+The QR-based protocol supported by the MetaMask can only be used when a camera(webcam) is installed on the computer.
+
+If you use an external camera device, please check if the camera supports the auto focuing and QR code scanning function.
+
+
 {% endhint %}
 
 {% embed url="https://youtu.be/JaUyBXWZ8Pw" %}
