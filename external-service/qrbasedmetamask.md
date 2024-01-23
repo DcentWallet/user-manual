@@ -24,9 +24,7 @@ This function is supported only in **Biometric Wallet** and **App Wallet(Softwar
 {% hint style="danger" %}
 The QR-based protocol supported by the MetaMask can only be used when a camera(webcam) is installed on the computer.
 
-If you use an external camera device, please check if the camera supports the auto focuing and QR code scanning function.
-
-
+If you use an external camera device, please check if the camera supports the **auto focuing and QR code scanning function.**
 {% endhint %}
 
 {% embed url="https://youtu.be/JaUyBXWZ8Pw" %}
