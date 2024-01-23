@@ -64,7 +64,7 @@ Make sure to click on **disconnect** after when you finish using the DApp servic
 
 **Step 5)** Click **"Yes, I want"** button to confirm the request to connect Wallet Address to the DApp.
 
-![](../../.gitbook/assets/walletconnect-eng06.png)
+![](<../../.gitbook/assets/walletconnect-eng06 (1).png>)
 
 **Step 7)** Now your D’CENT Wallet address is connected to the DApp.
 
