@@ -8,10 +8,6 @@
 
 디센트 앱에서는 해당 QR-based 프로토콜을 이용해 디센트 계정(EVM계열)을 메타마스크와 연동시켜주는 기능을 제공합니다.
 
-{% hint style="warning" %}
-**자동 초점 조절** 기능을 지원하지 않는 카메라 기기는 QR코드, 바코드 또는 텍스트를 인식하기 어렵습니다. 최상의 사용자 경험을 위해 사용하시는컴퓨터의 카메라가 이 기능을 지원하는지 확인하세요.
-{% endhint %}
-
 ## 메타마스크 다운로드 및 설치 <a href="#download-and-install-metamask" id="download-and-install-metamask"></a>
 
 먼저 Chrome용 메타마스크를 다운로드([https://metamask.io/download/](https://metamask.io/download/))하고 절차에 따라 설치를 진행 합니다.
@@ -31,6 +27,8 @@
 
 {% hint style="danger" %}
 메타마스크에서 지원하는 QR-based 프로토콜은 컴퓨터에 **카메라가 설치** 되어있어야만 이용이 가능합니다.
+
+별도의 웹캠을 사용한다면 해당 웹캠이 **자동 포커스(Auto Focus) 기능과 QR코드 스캔 기능**을 지원하는 지 확인하여 주시기 바랍니다.
 {% endhint %}
 
 {% embed url="https://youtu.be/XTY0rZejZOc" %}
