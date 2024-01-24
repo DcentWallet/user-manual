@@ -10,11 +10,13 @@ For **Mac**, you can check the bridge version that appears on the taskbar. If th
 
 First, disconnect your D’CENT wallet from your computer.&#x20;
 
-Press and hold both the **"Down button"** + **"Power button"** for few seconds to force the device to power off.\
+Press and hold both the **"Down (v) button"** + **"Power button"** for few seconds to force the device to power off.\
 \
 If your device is "brick"ed during the firmware update, you can still access the bootloader mode by pressing and holding both **"OK button"** + **"Power button"** for 10 seconds.&#x20;
 
 From the bootloader mode, you can try updating the firmware to recover your Biometric Wallet.
+
+<figure><img src="../../.gitbook/assets/트러블슈팅-eng.png" alt=""><figcaption></figcaption></figure>
 
 ## From the D'CENT firmware update webpage, I pressed "Update Firmware" button, but I get the following message; "Your D'CENT is disconnected. Firmware Update process is cancelled". What should I do?
 
