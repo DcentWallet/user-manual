@@ -56,7 +56,7 @@
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (147).png" alt="">
+<img src="../../.gitbook/assets/PC업데이트-01.png" alt="">
 
 </div>
 
@@ -68,21 +68,25 @@
 
 다운로드가 완료된 파일을 클릭하여 브릿지 프로그램을 설치합니다.
 
-![](<../../.gitbook/assets/fw02 (1).png>)
-
-설치가 완료되면 화면 하단의 **"Refresh page"** 버튼을 클릭하세요.
-
 <div align="left">
 
-<img src="../../.gitbook/assets/image (54).png" alt="">
+<img src="../../.gitbook/assets/PC업데이트-02.png" alt="">
 
 </div>
 
-
+설치가 완료되면 Windows 의 작업 표시줄 영역에 **디센트 브릿지 아이콘**이 표시됩니다. 최신 버전이 작동 중인지 확인하시기 바랍니다.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (54).png" alt="">
+<figure><img src="../../.gitbook/assets/PC업데이트-10 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+설치를 완료한 후 펌웨어 업데이트 페이지 화면 하단의 **"Refresh page"** 버튼을 클릭하세요.
+
+<div align="left">
+
+<img src="../../.gitbook/assets/PC업데이트-03.png" alt="">
 
 </div>
 
@@ -106,7 +110,7 @@
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (54).png" alt="">
+<img src="../../.gitbook/assets/PC업데이트-03.png" alt="">
 
 </div>
 
@@ -116,13 +120,17 @@
 
 2\) 콜드월렛에 지문 인증을 하여 잠금을 해제합니다.
 
-3\) 연결 후 아래와 같은 화면이 나타난다면 **"Retry to find device"** 버튼을 클릭하세요.
+3\) 연결 후 펌웨어업데이트 페이지에서 자동으로 장치를 찾습니다.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (186).png" alt="">
+<img src="../../.gitbook/assets/PC업데이트-04.png" alt="">
 
 </div>
+
+4\) 콜드월렛이 정상적으로 연결되지 않은 상태라면 아래 화면과 같이 표시됩니다. 안내에 따라 조치를 한 후 **"확인"** 버튼을 클릭합니다.
+
+<figure><img src="../../.gitbook/assets/PC업데이트-05.png" alt=""><figcaption></figcaption></figure>
 
 ### 펌웨어 버전 확인
 
@@ -130,21 +138,15 @@
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (114).png" alt="">
+<img src="../../.gitbook/assets/PC업데이트-06.png" alt="">
 
 </div>
 
-2\) **"Update to version ..."** 버튼을 클릭합니다.
+2\) **"시작하기"** 버튼을 클릭합니다.
 
-### 부트로더 모드로 변경
+3\) 콜드월렛이 부트로더 모드로 자동 재부팅 됩니다.
 
-화면에 나온 안내에 따라 진행합니다.
-
-1\) 디센트 콜드월렛을 컴퓨터에서 분리합니다.
-
-2\) 콜드월렛의 전원을 종료합니다.
-
-3\) 부트로드 모드로 진입하기 위해 콜드월렛의 **`OK`**버튼과 **`전원`** 버튼을 10초간 동시에 누릅니다.
+<figure><img src="../../.gitbook/assets/PC업데이트-07.png" alt=""><figcaption></figcaption></figure>
 
 부트로드 모드로 진입하면 콜드월렛의 디스플레이에 다음과 같은 화면이 나옵니다.
 
@@ -154,23 +156,21 @@
 
 </div>
 
-4\) USB 케이블을 사용하여 콜드월렛과 PC를 다시 연결합니다.
-
-5\) **"Update Firmware"** 버튼을 클릭합니다.
+4\) **"Update"** 버튼을 클릭하여 펌웨어 업데이트를 시작합니다.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (64).png" alt="">
+<img src="../../.gitbook/assets/PC업데이트-08.png" alt="">
 
 </div>
 
 ### 펌웨어 업데이트 진행
 
-페이지에서 펌웨어 업데이트가 시작되면, 100% 완료될 때 까지 약 5분 간 기다려 주세요.&#x20;
+페이지에서 펌웨어 업데이트가 시작되면, 100% 완료될 때 까지 약 5\~10분 간 기다려 주세요.&#x20;
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (10).png" alt="">
+<img src="../../.gitbook/assets/PC업데이트-09.png" alt="">
 
 </div>
 
@@ -185,6 +185,8 @@
 ### 펌웨어 업데이트 완료
 
 펌웨어 업데이트가 완료되면 콜드월렛이 자동으로 재부팅 됩니다.
+
+펌웨어 업데이트 진행에 문제가 있다면 아래 트러블 슈팅 가이드를 참고하여 주시기 바랍니다.
 
 {% content-ref url="firmware-trouble-shooting-windows.md" %}
 [firmware-trouble-shooting-windows.md](firmware-trouble-shooting-windows.md)
