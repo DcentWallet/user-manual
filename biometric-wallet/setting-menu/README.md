@@ -85,6 +85,14 @@ If the 24 words you have entered are correct, it will be marked as "Match" on th
 
 You can change the language used on the Biometric Wallet.
 
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/지갑 설정.webp" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Language support : English, Korean, Chinese, Japanese, Spanish
+
 ## Device Info Menu <a href="#undefined-3" id="undefined-3"></a>
 
 You can check the Biometric Wallet device information from this menu.\
