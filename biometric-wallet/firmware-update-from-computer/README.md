@@ -120,7 +120,7 @@
 
 2\) 콜드월렛에 지문 인증을 하여 잠금을 해제합니다.
 
-3\) 연결 후 펌웨어업데이트 페이지에서 자동으로 장치를 찾습니다.
+3\) 연결 후 펌웨어 0업데이트 페이지에서 자동으로 장치를 찾습니다.
 
 <div align="left">
 
@@ -185,6 +185,18 @@
 ### 펌웨어 업데이트 완료
 
 펌웨어 업데이트가 완료되면 콜드월렛이 자동으로 재부팅 됩니다.
+
+<figure><img src="../../.gitbook/assets/PC업데이트-11.png" alt=""><figcaption></figcaption></figure>
+
+휴대폰의 디센트 모바일 앱을 실행하고 콜드월렛을 연결하면 최신 펌웨어 정보를 확인할 수 있습니다.
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/PC업데이트-12.png" alt="" width="287"><figcaption></figcaption></figure>
+
+</div>
+
+
 
 펌웨어 업데이트 진행에 문제가 있다면 아래 트러블 슈팅 가이드를 참고하여 주시기 바랍니다.
 
