@@ -79,6 +79,12 @@
 
 콜드월렛의 언어 설정을 변경할 수 있습니다.
 
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/지갑 설정.webp" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 지원 언어 : 영어, 한국어, 중국어, 일본어, 스페인어
 
 ## 기기 정보 메뉴
