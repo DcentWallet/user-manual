@@ -148,7 +148,7 @@
 
 <figure><img src="../../.gitbook/assets/PC업데이트-07.png" alt=""><figcaption></figcaption></figure>
 
-부트로드 모드로 진입하면 콜드월렛의 디스플레이에 다음과 같은 화면이 나옵니다.
+부트로더 모드로 진입하면 콜드월렛의 디스플레이에 다음과 같은 화면이 나옵니다.
 
 <div align="left">
 
