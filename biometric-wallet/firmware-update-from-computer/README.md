@@ -158,7 +158,7 @@ When entering bootloader mode, the following screen appears on the display of th
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (18).png" alt="">
+<img src="../../.gitbook/assets/업데이트-eng01.png" alt="" width="210">
 
 </div>
 
@@ -180,7 +180,7 @@ From the Biometric Wallet, you can also check the progress of firmware update.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (179).png" alt="">
+<img src="../../.gitbook/assets/업데이트-eng02.png" alt="" width="210">
 
 </div>
 
