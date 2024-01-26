@@ -152,7 +152,7 @@
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (18).png" alt="">
+<img src="../../.gitbook/assets/업데이트-01.png" alt="" width="210">
 
 </div>
 
@@ -178,7 +178,7 @@
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (179).png" alt="">
+<img src="../../.gitbook/assets/업데이트-02.png" alt="" width="210">
 
 </div>
 
