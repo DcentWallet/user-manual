@@ -76,12 +76,15 @@
 * Cronos Chain
 * OEC
 * Klaytn-EVM
+* Oasys Games
 * Optimism
 * MEVerse
 * BASE
 * Kroma
 * Astar-EVM
+* Astar-zkEVM
 * Tezos
+* Astar
 
 ### 테스트넷
 
