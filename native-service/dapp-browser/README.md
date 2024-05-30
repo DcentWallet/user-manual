@@ -58,6 +58,7 @@ You can see how to switch blockchain network of dapp-browser in the below link.
 
 ### Mainnet
 
+*
 * Ethereum
 * Binance Smart Chain
 * Polygon
@@ -80,12 +81,15 @@ You can see how to switch blockchain network of dapp-browser in the below link.
 * Cronos Chain
 * OEC
 * Klaytn-EVM
+* Oasys Games
 * Optimism
 * MEVerse
 * BASE
 * Kroma
 * Astar-EVM
+* Astar-zkEVM
 * Tezos
+* Astar
 
 ### Testnet
 
