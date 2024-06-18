@@ -2,7 +2,7 @@
 description: Binance 계정에서 BNB 코인 보내기 받기
 ---
 
-# 바이낸스 지갑 계정 사용법
+# 바이낸스 (BNB) 지갑 계정 사용법
 
 ## 계정 생성
 
@@ -62,3 +62,8 @@ description: Binance 계정에서 BNB 코인 보내기 받기
 </div>
 
 바이낸스 코인의 수수료는 고정 값을 사용합니다. 바이낸스 코인 보내기를 할 때마다 “0.000075 BNB” 가 발생합니다.
+
+
+
+[강력한 보안, 지문으로 완성하다 **\[디센트 암호화폐 지갑\] 보러 가기 >>**](https://store-kr.dcentwallet.com/pages/dcent-biometric-crypto-wallet?utm\_source=userguide\&utm\_medium=dcent-web\&utm\_campaign=202406\_binance-bnb)
+

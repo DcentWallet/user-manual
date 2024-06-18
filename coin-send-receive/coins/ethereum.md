@@ -67,3 +67,8 @@ GAS Limit을 통해 트랜잭션에서 사용하는 GAS의 최대양을 설정�
 <img src="../../.gitbook/assets/이더리움03.png" alt="">
 
 </div>
+
+
+
+[강력한 보안, 지문으로 완성하다 **\[디센트 암호화폐 지갑\] 보러 가기 >>**](https://store-kr.dcentwallet.com/pages/dcent-biometric-crypto-wallet?utm\_source=userguide\&utm\_medium=dcent-web\&utm\_campaign=202406\_ethereum)
+

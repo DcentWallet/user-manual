@@ -40,3 +40,8 @@
 {% hint style="info" %}
 **디센트 월렛과 같이 개인이 직접 생성한 리플 지갑 주소는 Destination Tag가 없습니다.**&#x20;
 {% endhint %}
+
+
+
+[강력한 보안, 지문으로 완성하다 **\[디센트 암호화폐 지갑\] 보러 가기 >>**](https://store-kr.dcentwallet.com/pages/dcent-biometric-crypto-wallet?utm\_source=userguide\&utm\_medium=dcent-web\&utm\_campaign=202406\_ripple-xrp)
+

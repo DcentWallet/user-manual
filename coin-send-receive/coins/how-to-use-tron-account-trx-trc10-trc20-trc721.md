@@ -26,6 +26,11 @@ Tron 계정을 활성화된 상태로 유지하려면 Tron 계정의 잔액이 0
 
 ## 자주 묻는 질문
 
-**Tron 계정에 있는 내 USDT 토큰(TRC20)이 표시되지 않습니다. 어떻게 해야 하나요?**
+**Q. Tron 계정에 있는 내 USDT 토큰(TRC20)이 표시되지 않습니다. 어떻게 해야 하나요?**
 
-Tron 계정의 TRX 잔액이 0.1 TRX 미만으로 떨어지면 비활성화됩니다. 최소 0.1 TRX의 잔액을 계정에 보유하고 있으면 Tron 계정(TRC10 및 TRC20 포함)이 활성화된 상태로 유지되고 Tron(TRX) 및 토큰 계정(TRC10 및 TRC20)에 대한 계정 정보가 표시됩니다.
+A. Tron 계정의 TRX 잔액이 0.1 TRX 미만으로 떨어지면 비활성화됩니다. 최소 0.1 TRX의 잔액을 계정에 보유하고 있으면 Tron 계정(TRC10 및 TRC20 포함)이 활성화된 상태로 유지되고 Tron(TRX) 및 토큰 계정(TRC10 및 TRC20)에 대한 계정 정보가 표시됩니다.
+
+
+
+[강력한 보안, 지문으로 완성하다 **\[디센트 암호화폐 지갑\] 보러 가기 >>**](https://store-kr.dcentwallet.com/pages/dcent-biometric-crypto-wallet?utm\_source=userguide\&utm\_medium=dcent-web\&utm\_campaign=202406\_how-to-use-tron-account-trx-trc10-trc20-trc721)
+

@@ -55,3 +55,8 @@ description: Monacoin 계정에서 코인 보내기 받기
 {% hint style="warning" %}
 수수료를 너무 낮게 책정하면 트랜잭션이 블록체인에서 승인되지 않아 송금이 이루어지지 않을 수 있습니다.
 {% endhint %}
+
+
+
+[강력한 보안, 지문으로 완성하다 **\[디센트 암호화폐 지갑\] 보러 가기 >>**](https://store-kr.dcentwallet.com/pages/dcent-biometric-crypto-wallet?utm\_source=userguide\&utm\_medium=dcent-web\&utm\_campaign=202406\_monacoin)
+
