@@ -34,3 +34,4 @@ A. Tron 계정의 TRX 잔액이 0.1 TRX 미만으로 떨어지면 비활성화�
 
 [강력한 보안, 지문으로 완성하다 **\[디센트 암호화폐 지갑\] 보러 가기 >>**](https://store-kr.dcentwallet.com/pages/dcent-biometric-crypto-wallet?utm\_source=userguide\&utm\_medium=dcent-web\&utm\_campaign=202406\_how-to-use-tron-account-trx-trc10-trc20-trc721)
 
+<figure><img src="../../.gitbook/assets/dcent-biometric-crypto-wallet_banner 1.png" alt=""><figcaption></figcaption></figure>

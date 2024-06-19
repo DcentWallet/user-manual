@@ -56,3 +56,4 @@ RSK의 수수료는 보내는 금액을 입력하면 자동으로 계산됩니�
 
 [강력한 보안, 지문으로 완성하다 **\[디센트 암호화폐 지갑\] 보러 가기 >>**](https://store-kr.dcentwallet.com/pages/dcent-biometric-crypto-wallet?utm\_source=userguide\&utm\_medium=dcent-web\&utm\_campaign=202406\_rsk-rbtc)
 
+<figure><img src="../../.gitbook/assets/dcent-biometric-crypto-wallet_banner 1.png" alt=""><figcaption></figcaption></figure>

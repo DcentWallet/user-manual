@@ -16,3 +16,4 @@
 
 [강력한 보안, 지문으로 완성하다 **\[디센트 암호화폐 지갑\] 보러 가기 >>**](https://store-kr.dcentwallet.com/pages/dcent-biometric-crypto-wallet?utm\_source=userguide\&utm\_medium=dcent-web\&utm\_campaign=202406\_how-to-view-all-the-btc-public-addresses)
 
+<figure><img src="../../.gitbook/assets/dcent-biometric-crypto-wallet_banner 1.png" alt=""><figcaption></figcaption></figure>
