@@ -58,7 +58,6 @@ You can see how to switch blockchain network of dapp-browser in the below link.
 
 ### Mainnet
 
-*
 * Ethereum
 * Binance Smart Chain
 * Polygon
@@ -114,13 +113,14 @@ You can see how to switch blockchain network of dapp-browser in the below link.
 
 ## Listed Services
 
-As of December, 2023, following services are listed. For detailed information on each services, please visit the services sites.
+As of July, 2024, following services are listed. For detailed information on each services, please visit the services sites.
 
 * **Buy Cryptocurrency**\
   **MoonPay** ([https://www.moonpay.io/](https://www.moonpay.io/)), **Simplex** ([https://buy.simplex.com/](https://buy.simplex.com/)) : Buy crypto using your payment or credit card
 * **Exchange** ([https://exchange.dcentwallet.com/](https://exchange.dcentwallet.com/)) : Cryptocurrency coin exchange service
 * **Swap** ([https://swap.dcentwallet.com/](https://swap.dcentwallet.com/)) : Token swap exchange service
 * **Metamask Integreation** ([https://qrbase.dcentwallet.com/](https://qrbase.dcentwallet.com/)) : EVM compatible address in the D'CENT Wallet can be connected with the Metamask
+* **Astar portal** ([https://portal.astar.network/](https://portal.astar.network/)) : The official application service for using everything offered by Astar Network, including staking, cross-chain asset transfers, and bridges
 * **FTSO Portal** ([https://ftsoportal.com/](https://ftsoportal.com/)) : A service that allows users to delegate vote power to their preferred FTSO provider and earn rewards
 * **Sparkles NFT** ([https://sparklesnft.com/](https://sparklesnft.com/)) : Flare and Songbird network-based NFT marketplace
 * **KLAYswap** ([https://klayswap.com/](https://klayswap.com/)) : Klaytn-based DeFi service that allows for token exchange based on liquidity pool and deposit and staking through liquidity mining
