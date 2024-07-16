@@ -48,7 +48,7 @@ Users can save the visiting service site as a favorite (or bookmark), which crea
 
 ## **Supported Networks**
 
-As of December, 2023, following networks are supported on D'CENT wallet's dapp-browser. More networks will be added overtime.
+As of July, 2024, following networks are supported on D'CENT wallet's dapp-browser. More networks will be added overtime.
 
 You can see how to switch blockchain network of dapp-browser in the below link.
 
