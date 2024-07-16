@@ -116,7 +116,7 @@
 * 교환 ([https://exchange.dcentwallet.com/](https://exchange.dcentwallet.com/)) : 암호화폐 교환 서비스
 * 스왑 ([https://swap.dcentwallet.com/](https://swap.dcentwallet.com/)) : 토큰 교환 서비스
 * 메타마스크 연동 ([https://qrbase.dcentwallet.com/](https://qrbase.dcentwallet.com/)) : 디센트 지갑의 EVM 주소를 메타마스크와 연결하는 기능
-* 아스타포탈 ([https://portal.astar.network/](https://portal.astar.network/)) : 스테이킹, 파라체인 간 자산 전송, 브릿지 등 Astar Network에서 제공하는 모든 것을 사용하기 위한 공식 애플리케이션 서비스
+* 아스타포탈 ([https://portal.astar.network/](https://portal.astar.network/)) : 스테이킹, 크로스체인 자산 전송, 브릿지 등 Astar Network에서 제공하는 모든 것을 사용하기 위한 공식 애플리케이션 서비스
 * FTSO Portal ([https://ftsoportal.com/](https://ftsoportal.com/)) : 원하는 FTSO provider 에 Vote Power 를 위임하고 보상을 받을 수 있는 서비스
 * 스파클스 NFT (Sparkles NFT, [https://sparklesnft.com/](https://sparklesnft.com/)) :  Flare, Songbird 네트워크 기반 NFT를 사고 팔 수 있는 마켓플레이스 서비스
 * 클레이스왑 (KLAYswap, [https://klayswap.com/](https://klayswap.com/)) : 유동성 풀 기반의 토큰 교환과 유동성 마이닝을 통한  예치, 스테이킹 등을 할 수 있는 DeFi 서비스
