@@ -44,13 +44,9 @@ To exchange your cryptocurrency, please follow the instructions below. In this m
 
 ![](../.gitbook/assets/교환eng-02.png)
 
-You can enter the amount you wish to exchange and click **"More"** to compare and select the exchange service you want to use.
+**4.** You can enter the amount you wish to exchange and click **"More"** to compare and select the exchange service(**ChangeNOW, Changelly)** you want to use.
 
-Depending on the type of cryptocurrency you've chosen to receive, there may be different exchange services that can be used. Each exchange service provides different exchange ratio and minimum amount requirement for the exchange to proceed.
-
-**4.** This is the **ChangeNOW** exchange service (check the estimated receivable amount).
-
-**5.** This is the **Changelly** exchange service (check the estimated receivable amount).
+**5.** Depending on the type of cryptocurrency you've chosen to receive, there may be different exchange services that can be used. Each exchange service provides different exchange ratio and minimum amount requirement for the exchange to proceed.
 
 **6.** Once you've decided on an exchange to use, scroll down to bottom and tick on the box. Press the **"Next"** button to continue.
 
