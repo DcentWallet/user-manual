@@ -3,7 +3,7 @@
 D'CENT Wallet in partnership with 3rd party service providers (Changelly and ChangeNOW), offers the in-app exchange function which enables exchange of an asset type to a second asset type.\
 For example, ETH asset can be traded to BTC asset directly from the wallet without the need to visit your external exchanges.
 
-**Exchange** service is accessible from the Discovery Tab of the D'CENT App.
+**Exchange** service is accessible from the My Wallet Tab or Discovery Tab of the D'CENT App.
 
 {% hint style="danger" %}
 **Exchange** is an integration of 3rd party services operated by Changelly and ChangeNOW.&#x20;
