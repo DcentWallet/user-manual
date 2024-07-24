@@ -83,7 +83,7 @@ To exchange your cryptocurrency, please follow the instructions below. In this m
 
 **14.** You can check the status of your exchange request from the Exchange History tab.&#x20;
 
-**15.** For detailed information, click on the Exchange ID, you can view detailed information on the exchange service provider's website. (In the case of Changelly, the detailed exchange history is not displayed even if you click the Exchange ID).
+**15.** For detailed information, click on the Exchange ID, you can view detailed information on the exchange service provider's website.
 
 {% hint style="warning" %}
 **NOTE on Exchange History**&#x20;
