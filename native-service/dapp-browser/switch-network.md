@@ -4,7 +4,7 @@ description: 댑 브라우저를 위한 네트워크 선택 및 변경
 
 # 블록체인 네트워크 선택
 
-"Discovery" 탭 우측 상단의 network 아이콘을 클릭하여, 댑브라우저와 연결할 지갑의 네트워크를 선택할 수 있습니다.
+"Discovery" 탭 우측 상단의 network 아이콘을 클릭하여, 댑 브라우저와 연결할 지갑의 네트워크를 선택할 수 있습니다.
 
 ![](<../../.gitbook/assets/Switchnetwork (1).gif>)
 
