@@ -40,7 +40,7 @@
 
 <figure><img src="../.gitbook/assets/Swap-5.png" alt=""><figcaption></figcaption></figure>
 
-## &#x20;<a href="#start-swapping" id="start-swapping"></a>
+
 
 ## **토큰 스왑 진행하기**  <a href="#start-swapping" id="start-swapping"></a>
 
@@ -62,7 +62,7 @@
 
 **3)** 스왑으로 받고자 하는 토큰까지 선택을 완료 하였다면 **Send** 에서 스왑할 토큰의 수량을 입력해주세요. **Ⓐ** 에서 숫자를 직접 입력할 수 있고 **Ⓑ** 에서 비율로 수량을 선택할 수 있습니다.
 
-수량 입력을 완료하였다면 **Get** 항목의 **Ⓒ** 에서 받을 토큰큰의 수량을 확인할 수 있고 **Ⓓ** 에서 예상 수수료(가스비)를 확인할 수 있습니다.
+수량 입력을 완료하였다면 **Get** 항목의 **Ⓒ** 에서 받을 토큰의 수량을 확인할 수 있고 **Ⓓ** 에서 예상 수수료(가스비)를 확인할 수 있습니다.
 
 ![](../.gitbook/assets/Swap-10.png)
 
