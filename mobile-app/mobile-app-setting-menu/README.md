@@ -75,4 +75,4 @@ KRW(한국 원화), USD(미국 달러), JPY(일본 엔화), EUR(유럽 유로), 
 테스트넷은 **개발자 및 디앱(DApp) 서비스 테스트를 목적**으로 사용되며 네트워크의 모든 테스트용 자산은 금전적 가치가 없습니다.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Setting-07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Setting-07 (1).png" alt=""><figcaption></figcaption></figure>
