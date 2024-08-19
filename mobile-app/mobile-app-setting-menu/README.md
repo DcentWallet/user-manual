@@ -77,4 +77,4 @@ When adding a testnet account to your wallet, simply search for the name of the 
 Testnet is **used by developers for the purpose of testing DApp services.** All assets on the test networks have no monetary value.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Setting-eng07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Setting-eng07 (1).png" alt=""><figcaption></figcaption></figure>
