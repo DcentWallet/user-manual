@@ -49,7 +49,7 @@
     * [지문인증형 콜드월렛](mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/biometric-wallet.md)
     * [카드타입 콜드월렛](mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/card-wallet.md)
     * [소프트웨어 월렛](mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/software-wallet.md)
-  * [트래블룰 본인 인증(이메일 인증 기능)](mobile-app/mobile-app-setting-menu/email-verification.md)
+  * [거래소 개인 지갑 인증 (이메일 인증 기능)](mobile-app/mobile-app-setting-menu/email-verification.md)
 
 ## 코인 보내기/받기 <a href="#coin-send-receive" id="coin-send-receive"></a>
 
