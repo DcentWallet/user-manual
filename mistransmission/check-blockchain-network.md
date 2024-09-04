@@ -8,7 +8,7 @@ description: 오입금한 자산이 이더리움 기반인지 클레이튼 기�
 
 디센트의 지원 코인 리스트에서 오전송한 자산을 검색하여 이더리움 기반의 자산인지 클레이튼 기반의 자산인지 확인할 수 있습니다.&#x20;
 
-디센트 지원 코인 리스트 : [https://dcentwallet.com/SupportedCoin](https://dcentwallet.com/SupportedCoin)
+디센트 지원 코인 리스트 : [https://www.dcentwallet.com/ko/supportedcoin](https://www.dcentwallet.com/ko/supportedcoin)
 
 * "ERC20"으로 표시된 경우 : 이더리움 기반 자산
 * "KCT"로 표시된 경우 : 클레이튼 기반 자산

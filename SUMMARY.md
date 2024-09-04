@@ -2,8 +2,8 @@
 
 * [시작하기](README.md)
 * [자주 묻는 질문 (FAQ)](faq.md)
-* [지원코인 리스트](https://dcentwallet.com/SupportedCoin)
-* [디센트 공식 홈페이지](https://dcentwallet.com/)
+* [지원코인 리스트](https://www.dcentwallet.com/ko/supportedcoin)
+* [디센트 공식 홈페이지](https://www.dcentwallet.com/ko)
 
 ## 지문인증형 콜드월렛 <a href="#biometric-wallet" id="biometric-wallet"></a>
 

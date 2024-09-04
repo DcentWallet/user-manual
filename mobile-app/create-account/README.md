@@ -27,12 +27,12 @@ My Wallet 탭의 **"계정 추가`+` "** 버튼을 눌러 계정을 생성할 �
 </div>
 
 {% hint style="info" %}
-디센트 월렛에서 지원하는 전체 코인 리스트는 [**여기**](https://dcentwallet.com/SupportedCoin)를 참고하세요.
+디센트 월렛에서 지원하는 전체 코인 리스트는 [**여기**](https://www.dcentwallet.com/ko/supportedcoin)를 참고하세요.
 {% endhint %}
 
 ### 추가하려는 코인/토큰이 없는 경우
 
-추가하고자 하는 코인이나 토큰이 없는 경우에는 [**"토큰 추가 요청"**](https://docs.google.com/forms/d/e/1FAIpQLSddydt7fv7D0ATnw49tCsBsex9DpHinAr0sebGb\_eQb0ne37g/viewform) 링크를 클릭하여, 코인이나 토큰 추가를 요청해주세요. 디센트 팀에서는 최대한 빠르게 지원할 수 있도록 노력하고 있습니다.
+추가하고자 하는 코인이나 토큰이 없는 경우에는 [**"토큰 추가 요청"**](https://docs.google.com/forms/d/e/1FAIpQLScj4yDDb4JpquEdhm6KjM2cM-eUvlGaBeSs-Ko9g-dQN456OQ/viewform) 링크를 클릭하여, 코인이나 토큰 추가를 요청해주세요. 디센트 팀에서는 최대한 빠르게 지원할 수 있도록 노력하고 있습니다.
 
 <div align="left">
 

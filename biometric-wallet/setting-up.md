@@ -229,7 +229,7 @@ PIN 값은 초기 설정 완료 후에 [설정 메뉴](setting-menu/)를 통해 
 * [아이폰과 연결해서 사용하기](iphone-connect.md)
 
 {% hint style="info" %}
-※ 디센트 지문인증형 콜드월렛에서 지원하는 전체 코인 리스트는 [https://dcentwallet.com/SupportedCoin](https://dcentwallet.com/SupportedCoin) 에서 확인할 수 있습니다.
+※ 디센트 지문인증형 콜드월렛에서 지원하는 전체 코인 리스트는 [https://www.dcentwallet.com/ko/supportedcoin](https://www.dcentwallet.com/ko/supportedcoin) 에서 확인할 수 있습니다.
 {% endhint %}
 
 ### 펌웨어 확인

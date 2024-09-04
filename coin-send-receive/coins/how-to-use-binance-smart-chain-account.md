@@ -16,7 +16,7 @@ Binance Smart Chain은 기존 Binance Chain에 프로그래밍 가능성과 상�
 **👉** [**iOS 용**](https://apps.apple.com/kr/app/dcent-hardware-wallet/id1447206611)
 
 디센트 지문인증형 지갑을 사용하시는 경우 공식 펌웨어 업데이트 사이트에서 최신 버전 (v.2.6.0 이상)으로 업그레이드하셔야합니다.\
-👉 [**공식 펌웨어 업데이트 사이트**](https://dcentwallet.com/support/FirmwareUpdate)
+👉 [**공식 펌웨어 업데이트 사이트**](https://www.dcentwallet.com/ko/firmwareupdate)
 
 디센트 지문인증형 지갑의 펌웨어 업데이트 방법은 아래 링크를 참고해주세요. \
 👉 [**디센트 펌웨어 업데이트 사용자 가이드**](https://userguide.dcentwallet.com/v/kr/biometric-wallet/firmware-update)

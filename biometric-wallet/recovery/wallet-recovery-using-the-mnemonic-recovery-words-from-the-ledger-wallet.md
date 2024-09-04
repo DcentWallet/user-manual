@@ -35,7 +35,7 @@
 
 디센트 지갑에서 지원(나열)된 디지털 자산은 아래 링크를 통해 쉽게 검색하실 수 있습니다.
 
-{% embed url="https://dcentwallet.com/SupportedCoin" %}
+[https://www.dcentwallet.com/ko/supportedcoin](https://www.dcentwallet.com/ko/supportedcoin)
 
 찾고 있는 토큰 자산이 목록에 표시되지 않는 경우 사용자는 직접 해당 계정을 커스텀 토큰 계정으로 수동으로 추가할 수도 있습니다. 자세한 지침은 아래 가이드를 참조하세요.
 
