@@ -2,8 +2,8 @@
 
 * [Getting Started](README.md)
 * [Frequently asked questions (FAQ)](faq.md)
-* [Supported Coins & Tokens](https://dcentwallet.com/SupportedCoin)
-* [D'CENT Wallet Homepage](https://dcentwallet.com/)
+* [Supported Coins & Tokens](https://www.dcentwallet.com/en/supportedcoin)
+* [D'CENT Wallet Homepage](https://www.dcentwallet.com/en)
 
 ## Biometric Wallet
 

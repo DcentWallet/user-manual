@@ -111,7 +111,7 @@ Scan your fingerprint one last time to verify registered fingerprint.
 
 ※ If fingerprint verification fails, your fingerprint will not be saved.
 
-## Step-3 : enter the recovery words <a href="#3" id="3"></a>
+## Step-3 : enter the recovery words <a href="#id-3" id="id-3"></a>
 
 1\) Enter the 24 recovery words recorded on the recovery card, numbered 1 through 24.
 
@@ -160,7 +160,7 @@ After completing the wallet recovery, connect your hardware wallet to the D'CENT
 * [How to connect with iOS phone](../iphone-connect.md)
 
 {% hint style="info" %}
-You can find the complete list of cryptocurrency assets supported on D'CENT Biometric Wallet from [https://dcentwallet.com/SupportedCoin](https://dcentwallet.com/SupportedCoin)
+You can find the complete list of cryptocurrency assets supported on D'CENT Biometric Wallet from [https://www.dcentwallet.com/en/supportedcoin](https://www.dcentwallet.com/en/supportedcoin)
 {% endhint %}
 
 ### Important notes after recovering your wallet

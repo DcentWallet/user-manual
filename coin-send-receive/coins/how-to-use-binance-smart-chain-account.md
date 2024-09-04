@@ -19,7 +19,7 @@ If you are using an older version of the firmware on D’CENT Biometric Wallet, 
 👉 [**Official Firmware Update Site**](https://dcentwallet.com/support/FirmwareUpdate)
 
 You can also find a fully detailed instructions guide below.\
-👉 [**Firmware update user guide**](https://userguide.dcentwallet.com/biometric-wallet/firmware-update)
+👉 [**Firmware update user guide**](https://www.dcentwallet.com/en/firmwareupdate)
 
 ## How to add Binance Smart Chain account in D’CENT Wallet
 

@@ -233,7 +233,7 @@ Congratulation, you have passed the quiz and your new wallet is created. From yo
 * [How to connect with iOS phone](iphone-connect.md)
 
 {% hint style="info" %}
-You can find the complete list of cryptocurrency assets supported on D'CENT Biometric Wallet from [https://dcentwallet.com/SupportedCoin](https://dcentwallet.com/SupportedCoin)
+You can find the complete list of cryptocurrency assets supported on D'CENT Biometric Wallet from [https://www.dcentwallet.com/en/supportedcoin](https://www.dcentwallet.com/en/supportedcoin)
 {% endhint %}
 
 ### Check for the latest Firmware

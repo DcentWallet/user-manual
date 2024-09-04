@@ -36,7 +36,7 @@ IoTrust does not operate a server that manages customer's private key and person
 
 ## Which cryptocurrency assets are supported on D'CENT Biometric Wallet?
 
-You can see the full list of all the coins supported: [https://dcentwallet.com/SupportedCoin](https://dcentwallet.com/SupportedCoin)&#x20;
+You can see the full list of all the coins supported: [https://www.dcentwallet.com/en/supportedcoin](https://www.dcentwallet.com/en/supportedcoin)
 
 ## How do I connect D'CENT Biometric Wallet to the mobile app?
 

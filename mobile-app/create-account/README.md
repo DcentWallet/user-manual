@@ -27,7 +27,7 @@ Select the coin you want to add from the list. You can also search by coin name 
 </div>
 
 {% hint style="info" %}
-Click [here](https://dcentwallet.com/SupportedCoin) for a full list of cryptocurrencies supported by D'CENT Wallet.
+Click [here](https://www.dcentwallet.com/en/supportedcoin) for a full list of cryptocurrencies supported by D'CENT Wallet.
 {% endhint %}
 
 ### What if the Coin/Token you want to add is not on the list?

@@ -87,7 +87,7 @@ Discovery is a browsing function that allows you to use blockchain-based decentr
 
 ## **How to request for Token listing**
 
-Visit [D’CENT Homepage](https://dcentwallet.com) and make a request.
+Visit [D’CENT Homepage](https://www.dcentwallet.com/en) and make a request.
 
 ## **How to receive a small amount of MATIC coin**
 
