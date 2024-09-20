@@ -1,5 +1,9 @@
 # Connect with Kaikas wallet extension
 
+{% hint style="info" %}
+Klaytn Chain was rebranded as Kaia, and accordingly, the name of Kaikas Wallet was changed to **Kaia Wallet.**
+{% endhint %}
+
 ## Using Kaikas extension with Biometric wallet
 
 Kaikas is a PC browser based extension wallet for the Klaytn platform. Users will be able to interact with the Kaikas wallet to perform Klaytn-based transactions including KLAY and BApps, while the owner verification and authorization are performed through biometric authentication on the D’CENT Biometric hardware wallet.
