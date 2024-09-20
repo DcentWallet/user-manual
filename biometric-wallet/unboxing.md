@@ -28,11 +28,11 @@ Seal이 뜯어져 있거나 없는 경우 제품에 훼손이 있을 수 있습�
 
 * 디센트 지문인증형 콜드월렛 장치 (본체)
 * USB 케이블 (USB 마이크로 5핀)
-* 복구용 니모닉 코드 작성 카드
+* 복구 단어 기록 시트
 * 웰컴 가이드
 * 제품 사양 시트
 
-![](../.gitbook/assets/\_-.png)
+<figure><img src="../.gitbook/assets/제품 언박싱.webp" alt=""><figcaption></figcaption></figure>
 
 ## 배터리 충전시 주의 사항
 
