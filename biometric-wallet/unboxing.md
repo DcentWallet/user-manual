@@ -1,5 +1,5 @@
 ---
-description: 디센트 콜드 월렛을 받았을 때 체크리스트
+description: 디센트 지문인증형 콜드월렛을 받았을 때 체크리스트
 ---
 
 # 언박싱
@@ -27,13 +27,12 @@ Seal이 뜯어져 있거나 없는 경우 제품에 훼손이 있을 수 있습�
 디센트 지문인증형 콜드월렛은 다음과 같이 구성되어 있습니다.
 
 * 디센트 지문인증형 콜드월렛 장치 (본체)
-* USB 케이블 (USB 마이크로 5핀)
 * 복구 단어 기록 시트
 * 웰컴 가이드
 * 제품 사양 시트
 
-<figure><img src="../.gitbook/assets/제품 언박싱.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/UserGuide_Bio_Package_kr.png" alt=""><figcaption></figcaption></figure>
 
-## 배터리 충전시 주의 사항
+## 배터리 충전 시 주의 사항
 
-출력 전압 6V이상인 충전기 및 5V를 초과하여 가변하는 일부 고속 충전기(PD Charger 포함)를 사용할 경우 제품 고장의 원인이 될 수 있습니다.
+출력 전압 6V 이상인 충전기 및 5V를 초과하여 가변하는 일부 고속 충전기(PD Charger 포함)를 사용할 경우 제품 고장의 원인이 될 수 있습니다.
