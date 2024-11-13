@@ -26,7 +26,7 @@
 **펌웨어 업데이트 이후 이전 버전으로 복구 불가**
 {% endhint %}
 
-업데이트를 진행하시고 난 후에는 이전 버전으로 다시 돌아갈 수 없습니다.
+업데이트를 진행하고 난 후에는 이전 버전으로 다시 돌아갈 수 없습니다.
 
 펌웨어 업데이트 시간은 약 5\~10분 정도 소요됩니다.&#x20;
 
@@ -56,7 +56,7 @@
 
 <div align="left">
 
-<img src="../../.gitbook/assets/PC업데이트-01.png" alt="">
+<img src="../../.gitbook/assets/PC업데이트-01 (1).png" alt="">
 
 </div>
 
@@ -86,7 +86,7 @@
 
 <div align="left">
 
-<img src="../../.gitbook/assets/PC업데이트-03.png" alt="">
+<img src="../../.gitbook/assets/PC업데이트-03 (1).png" alt="">
 
 </div>
 
@@ -110,7 +110,7 @@
 
 <div align="left">
 
-<img src="../../.gitbook/assets/PC업데이트-03.png" alt="">
+<img src="../../.gitbook/assets/PC업데이트-03 (1).png" alt="">
 
 </div>
 
@@ -124,13 +124,13 @@
 
 <div align="left">
 
-<img src="../../.gitbook/assets/PC업데이트-04.png" alt="">
+<img src="../../.gitbook/assets/PC업데이트-04 (1).png" alt="">
 
 </div>
 
 4\) 콜드월렛이 정상적으로 연결되지 않은 상태라면 아래 화면과 같이 표시됩니다. 안내에 따라 조치 한 후 **"확인"** 버튼을 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/PC업데이트-05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/PC업데이트-05 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 펌웨어 버전 확인
 
@@ -138,7 +138,7 @@
 
 <div align="left">
 
-<img src="../../.gitbook/assets/PC업데이트-06.png" alt="">
+<img src="../../.gitbook/assets/PC업데이트-06 (1).png" alt="">
 
 </div>
 
@@ -146,7 +146,7 @@
 
 3\) 콜드월렛이 부트로더 모드로 자동 재부팅 됩니다.
 
-<figure><img src="../../.gitbook/assets/PC업데이트-07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/PC업데이트-07 (1).png" alt=""><figcaption></figcaption></figure>
 
 부트로더 모드로 진입하면 콜드월렛의 디스플레이에 다음과 같은 화면이 나옵니다.
 
@@ -160,7 +160,7 @@
 
 <div align="left">
 
-<img src="../../.gitbook/assets/PC업데이트-08.png" alt="">
+<img src="../../.gitbook/assets/PC업데이트-08 (1).png" alt="">
 
 </div>
 
@@ -170,7 +170,7 @@
 
 <div align="left">
 
-<img src="../../.gitbook/assets/PC업데이트-09.png" alt="">
+<img src="../../.gitbook/assets/PC업데이트-09 (1).png" alt="">
 
 </div>
 
@@ -186,7 +186,7 @@
 
 펌웨어 업데이트가 완료되면 콜드월렛이 자동으로 재부팅 됩니다.
 
-<figure><img src="../../.gitbook/assets/PC업데이트-11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/PC업데이트-11 (1).png" alt=""><figcaption></figcaption></figure>
 
 휴대폰의 디센트 모바일 앱을 실행하고 콜드월렛을 연결하면 최신 펌웨어 정보를 확인할 수 있습니다.
 
