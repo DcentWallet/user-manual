@@ -54,7 +54,7 @@ OTG 제품의 종류로는 젠더 타입, 케이블 타입 등이 있으며, 별
 
 <div align="left">
 
-<img src="../../.gitbook/assets/연결 예시 (3).png" alt="젠더 타입 연결 / 디센트 2 IN 1 OTG 케이블 연결 / C to C 케이블 연결">
+<img src="../../.gitbook/assets/연결 예시 (4).png" alt="젠더 타입 연결 / 디센트 2 IN 1 OTG 케이블 연결 / C to C 케이블 연결">
 
 </div>
 
