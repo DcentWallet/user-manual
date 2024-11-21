@@ -59,7 +59,7 @@ OTG 제품은 안드로이드 폰에 USB 장치를 연결할 수 있게 해주�
 
 가지고 있는 OTG 제품에 따라 다음 그림과 같이 콜드월렛과 안드로이드 폰을 연결해 주세요.
 
-<figure><img src="../.gitbook/assets/연결 예시.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/연결 예시 (4).png" alt=""><figcaption></figcaption></figure>
 
 디센트 지문인증형 콜드월렛을 OTG 제품으로 안드로이드 폰과 연결하면 폰 화면에 팝업이 표시되며 이때 반드시 "**확인"** 버튼을 눌러주세요.
 
