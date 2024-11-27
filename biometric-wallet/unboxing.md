@@ -28,7 +28,7 @@ A package with D'CENT Wallet contains the following:
 
 * D'CENT Biometric Wallet (main device)
 * Recovery phrase record sheet
-* Welcome Card
+* Welcome Guide
 * Specification sheet
 
 ![](../.gitbook/assets/UserGuide_Bio_Package_en.png)
