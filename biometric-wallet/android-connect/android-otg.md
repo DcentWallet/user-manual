@@ -28,7 +28,7 @@ Please use an OTG device that is compatible with your Android phone or Biometric
 
 ### Launch the D'CENT mobile app
 
-Please launch the descent mobile app first. (Biometric Wallet mode)\
+Please launch the D'CENT mobile app first. (Biometric Wallet mode)\
 \
 Below is a picture showing that there is no connection to with the Biometric Wallet.
 
@@ -36,7 +36,7 @@ Below is a picture showing that there is no connection to with the Biometric Wal
 
 ### Connect Android device and Biometric Wallet with OTG device <a href="#otg-2" id="otg-2"></a>
 
-Depending on the OTG device you own, connect the Biometric Wallet and the Android device as shown in the figure below.
+Depending on the OTG device you own, connect the Biometric Wallet and the Android device as shown in the picture below.
 
 <div align="left"><img src="../../.gitbook/assets/연결 예시.png" alt=""></div>
 
