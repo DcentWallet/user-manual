@@ -12,9 +12,9 @@
 
 우선, 디센트 콜드월렛을 컴퓨터로부터 분리합니다.&#x20;
 
-디센트 장치의 **"Down (v) 버튼" + "전원 버튼"**을 동시에 누른 상태로 몇 초가 지나면 강제로 전원이 꺼지게 됩니다.&#x20;
+디센트 장치의 **"Down (v) 버튼" + "전원 버튼"**&#xC744; 동시에 누른 상태로 몇 초가 지나면 강제로 전원이 꺼지게 됩니다.&#x20;
 
-만일 펌웨어 업데이트의 실패로 인해 벽돌(먹통) 상태가 되더라도 **"OK 버튼" + "전원 버튼"**을 동시에 누른 상태로 몇 초가 지나면 Bootloader 모드로 진입이 가능합니다.&#x20;
+만일 펌웨어 업데이트의 실패로 인해 벽돌(먹통) 상태가 되더라도 **"OK 버튼" + "전원 버튼"**&#xC744; 동시에 누른 상태로 몇 초가 지나면 Bootloader 모드로 진입이 가능합니다.&#x20;
 
 Bootloader 모드에서 다시 펌웨어 업데이트를 진행하여 디센트 지갑을 복구할 수 있습니다.
 
@@ -42,7 +42,7 @@ Bootloader 모드에서 다시 펌웨어 업데이트를 진행하여 디센트 
 
 키보드에서 **Windows + R** 키를 함께 눌러 줍니다.
 
-입력란에 "**cmd"**를 입력하고 Enter를 눌러주면 Command Prompt(검은색 창)이 실행됩니다.
+입력란에 "**cmd"**&#xB97C; 입력하고 Enter를 눌러주면 Command Prompt(검은색 창)이 실행됩니다.
 
 입력란에 **devmgmt.msc**를 입력하고 **Enter**를 눌러줍니다.
 
@@ -50,19 +50,11 @@ Bootloader 모드에서 다시 펌웨어 업데이트를 진행하여 디센트 
 
 **오류가 표시된** (노란색 삼각형) **USB 입력 장치**가 디센트 콜드월렛이 맞는지 확인합니다:
 
-<div align="left">
-
-<img src="../../.gitbook/assets/image (143).png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/image (143).png" alt=""></div>
 
 해당 장치에 오른쪽 마우스 클릭 후 **속성**을 선택합니다.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/image (39).png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/image (39).png" alt=""></div>
 
 * USB 입력 장치 속성 창에서, 자세히 탭을 클릭 합니다.
 * 속성아래에, 하드웨어 ID로 변경합니다.
@@ -70,6 +62,6 @@ Bootloader 모드에서 다시 펌웨어 업데이트를 진행하여 디센트 
 
 오류로 표시된 **USB 입력 장치**를 오른쪽 마우스 클릭 후 디바이스 제거를 선택합니다.&#x20;
 
-![](../../.gitbook/assets/troubleshooot\_remove-error-device.png)
+![](../../.gitbook/assets/troubleshooot_remove-error-device.png)
 
 다음, **휴먼 인터페이스 장치**를 오른쪽 마우스 클릭 후 **하드웨어 변경 사항 검색**을 선택합니다. 장치 드라이버의 설치가 마무리되면 디센트 콜드월렛이 정상적으로 인식됩니다. 이후 펌웨어 업데이트를 다시 시도할 수 있습니다.&#x20;

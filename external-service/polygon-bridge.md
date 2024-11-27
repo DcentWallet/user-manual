@@ -10,7 +10,7 @@
 
 ### **STEP 1: 이더리움 계정 생성 및 자산 입금**
 
-![](https://cdn-images-1.medium.com/max/800/1\*AUiRmcjxmJ4QKBI1kTpYhQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*AUiRmcjxmJ4QKBI1kTpYhQ.png)
 
 **1)** 메인 화면에서 (+) 버튼을 누르고 이더리움 계정을 추가하기\
 **2)** 추가할 이더리움 계정 선택\
@@ -19,25 +19,21 @@
 
 ### **STEP 2: 폴리곤 (메인넷) 계정 생성**
 
-<div align="center">
-
-<img src="https://cdn-images-1.medium.com/max/800/1*-1Ez3UNIVfeYvK4AgDKh0w.png" alt="">
-
-</div>
+<div align="center"><img src="https://cdn-images-1.medium.com/max/800/1*-1Ez3UNIVfeYvK4AgDKh0w.png" alt=""></div>
 
 **1)** 메인 화면에서 (+) 버튼을 누르고 폴리곤 (메인넷) 계정을 추가하기\
-**2)** Polygon을 검색하고 **Polygon (MATIC)**을 선택
+**2)** Polygon을 검색하고 **Polygon (MATIC)**&#xC744; 선택
 
 ### **STEP 3: 댑 브라우저의 네트워크를 이더리움으로 변경**
 
-![](https://cdn-images-1.medium.com/max/800/1\*cD1yk3fmrXKaOp7r4XQ3dw.png)
+![](https://cdn-images-1.medium.com/max/800/1*cD1yk3fmrXKaOp7r4XQ3dw.png)
 
 **1)** 디스커버리 탭에서 상단 우측에 위치한 네트워크 아이콘 클릭\
 **2)** 네트워크 설정을 Ethereum으로 선택
 
 ### **STEP 4: 폴리곤(구 매틱) 브릿지 사이트로 이동 및 로그인**
 
-![](https://cdn-images-1.medium.com/max/800/1\*T0JpqGlDeqNxfL\_r\_rAGqw.png)
+![](https://cdn-images-1.medium.com/max/800/1*T0JpqGlDeqNxfL_r_rAGqw.png)
 
 **1)** 디스커버리 탭에서 폴리곤 브릿지 사이트 URL 입력: [**https://wallet.matic.network**](https://wallet.matic.network)\
 **2)** 사이트에 로그인시 사용할 지갑을 **Metamask**로 선택\
@@ -46,14 +42,14 @@
 
 ### **STEP 5: 자산 이동 신청**
 
-![](https://cdn-images-1.medium.com/max/800/1\*o10z7b5ICdKEI\_r6IS-9UQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*o10z7b5ICdKEI_r6IS-9UQ.png)
 
 **1) Move funds to Matic Mainnet** 버튼 클릭\
 **2)** 이동할 자산을 선택하려면 **Ether**로 표시된 버튼 클릭\
 **3)** 이동할 자산을 검색 (예: USDT)\
 **4)** 이동할 자산의 수량을 설정 후 **Transfer** 버튼 클릭
 
-![](https://cdn-images-1.medium.com/max/800/1\*hFh0wQRfLaXyNLafW3cTQA.png)
+![](https://cdn-images-1.medium.com/max/800/1*hFh0wQRfLaXyNLafW3cTQA.png)
 
 **5)** 계속 진행하려면 **Continue** 클릭\
 **6)** 자산 이동에 필요한 비용을 확인하고 **Continue** 클릭\
@@ -61,7 +57,7 @@
 
 ### **STEP 6: 자산 이동 거래를 지갑에서 승인하기**
 
-![](https://cdn-images-1.medium.com/max/800/1\*ZWuqQDVaEi9XXxIAALZUGg.png)
+![](https://cdn-images-1.medium.com/max/800/1*ZWuqQDVaEi9XXxIAALZUGg.png)
 
 **1)** 거래 승인을 위해 OK 클릭 후 지갑에서 인증(지문인증 or 비밀번호) \
 **2)** 완료될 때까지 대기\
@@ -69,10 +65,10 @@
 
 ### **STEP 7: 폴리곤 메인넷으로 이동된 자산 확인하기**
 
-![](https://cdn-images-1.medium.com/max/800/1\*sws4B57WEWzKepYRKxeODA.png)
+![](https://cdn-images-1.medium.com/max/800/1*sws4B57WEWzKepYRKxeODA.png)
 
 **1)** Polygon (**mainnet**) 계정에서 **History**를 클릭\
-**2)** 거래내역 화면에서 **여기(here)**를 클릭
+**2)** 거래내역 화면에서 **여기(here)**&#xB97C; 클릭
 
 ![](<../.gitbook/assets/1 (10).png>)
 
@@ -82,7 +78,7 @@
 
 ### **STEP 8: 디센트 지갑에서 커스텀 토큰 계정 추가하기**
 
-![](https://cdn-images-1.medium.com/max/800/1\*OAA0kyCz71QlFhDG\_OHYaw.png)
+![](https://cdn-images-1.medium.com/max/800/1*OAA0kyCz71QlFhDG_OHYaw.png)
 
 **1)** 디센트 지갑에서 **Add Custom Token** 버튼 클릭\
 **2)** 생성하려는 토큰이 종속된 네트워크인 (**POLYGON-ERC20**)을 클릭\

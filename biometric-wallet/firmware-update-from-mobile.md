@@ -71,11 +71,7 @@ Settings 탭으로 이동하여 **펌웨어 업데이트**를 누릅니다.
 
 ### 펌웨어 업데이트 진행
 
-<div align="left">
-
-<img src="../.gitbook/assets/펌웨어03.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/펌웨어03 (1).png" alt=""></div>
 
 **1. "업데이트"** 버튼을 누릅니다.&#x20;
 
@@ -83,11 +79,7 @@ Settings 탭으로 이동하여 **펌웨어 업데이트**를 누릅니다.
 
 **3.** 다음 화면에서 "**업데이트 시작"** 버튼을 누릅니다.
 
-<div align="left">
-
-<img src="../.gitbook/assets/펌웨어04.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/펌웨어04.png" alt=""></div>
 
 **4.** "**부트로더 모드로 재부팅"** 버튼을 누릅니다.&#x20;
 
@@ -95,11 +87,7 @@ Settings 탭으로 이동하여 **펌웨어 업데이트**를 누릅니다.
 
 **6.** **"업데이트 계속"** 버튼을 눌러주세요.
 
-<div align="left">
-
-<img src="../.gitbook/assets/펌웨어05.png" alt="" width="563">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/펌웨어05.png" alt="" width="563"></div>
 
 **7.** 펌웨어 업데이트가 완료될 때 까지 (약 10분 소요) 기다려주세요. 업데이트가 완료되면 지문인증형 콜드월렛이 자동으로 정상 모드로 재부팅됩니다.&#x20;
 

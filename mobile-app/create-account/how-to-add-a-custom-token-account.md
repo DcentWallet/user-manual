@@ -62,11 +62,7 @@
 
 예를들어 ERC20 토큰을 추가하려면 먼저 이더리움 계정이 추가된 상태어야 합니다.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/계정추가eng-07 (2).png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/계정추가eng-07 (2).png" alt=""></div>
 
 1\) **"+Add Custom Token"** 을 클릭하세요.
 
@@ -76,11 +72,11 @@
 
 <figure><img src="../../.gitbook/assets/계정추가-08.png" alt=""><figcaption></figcaption></figure>
 
-4\) **스마트 컨트랙트 주소, Symbol, 및 Decimals(소수점)**를 입력합니다.
+4\) **스마트 컨트랙트 주소, Symbol, 및 Decimals(소수점)**&#xB97C; 입력합니다.
 
 5\) 각 항목이 정상적으로 입력되었는 지 확인 후 **"다음"** 버튼을 누릅니다.
 
-6\) 입력된 **소수점(Decimals)**이 정확한 지 확인한 후 **"계속"** 버튼을 누릅니다.
+6\) 입력된 **소수점(Decimals)**&#xC774; 정확한 지 확인한 후 **"계속"** 버튼을 누릅니다.
 
 7\) 계정 이름을 설정하고 **"만들기"** 버튼을 누르면 토큰이 추가됩니다.
 

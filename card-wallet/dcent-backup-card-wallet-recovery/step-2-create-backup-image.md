@@ -30,7 +30,7 @@
 
 <figure><img src="../../.gitbook/assets/그림7 (3).png" alt=""><figcaption></figcaption></figure>
 
-**7. 올인원 지갑의 PIN**을 입력합니다**.**
+**7. 올인원 지갑의 PIN**을 입력합니&#xB2E4;**.**
 
 **8.** 휴대폰 뒷면에서 **올인원 지갑을 탭**하여 스캔합니다.
 

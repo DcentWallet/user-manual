@@ -8,11 +8,7 @@ description: 콜드월렛에 새로운 지갑 생성하기
 
 ## 시작하기 전에 <a href="#before-start" id="before-start"></a>
 
-<div align="left">
-
-<img src="../.gitbook/assets/img-howtouse-dongle-ko.png" alt="디센트 지문인증형 콜드월렛 사용자 인터페이스">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/img-howtouse-dongle-ko.png" alt="디센트 지문인증형 콜드월렛 사용자 인터페이스"></div>
 
 디센트 지문인증형 콜드월렛은 4개의 네비게이션 버튼으로 구성되어 있습니다.
 
@@ -36,11 +32,7 @@ description: 콜드월렛에 새로운 지갑 생성하기
 
 ∨ 버튼을 눌러 원하는 언어로 이동 후 OK 버튼을 누릅니다.
 
-<div align="left">
-
-<img src="../.gitbook/assets/image (40).png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/image (40).png" alt=""></div>
 
 지원 언어 : 영어, 한국어, 중국어, 일본어, 스페인어
 
@@ -52,11 +44,7 @@ description: 콜드월렛에 새로운 지갑 생성하기
 
 새로운 지갑을 생성하기 위하여 "지갑 생성" 메뉴를 선택합니다.
 
-<div align="left">
-
-<img src="../.gitbook/assets/image (3) (1).png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/image (3) (1).png" alt=""></div>
 
 {% hint style="info" %}
 지갑 생성을 선택하면 새로운 키로 지갑이 생성됩니다. 예전에 생성했던 지갑을 복구하시려면 [여기](recovery/)를 참고하세요.
@@ -65,7 +53,7 @@ description: 콜드월렛에 새로운 지갑 생성하기
 ## 2단계 : PIN (4\~8자리) 및 지문 등록
 
 지갑 접근을 관리하기 위한 PIN과 지문을 등록합니다. \
-_펌웨어 2.5.5 이하 버전에서는 4자리 PIN만 지원합니다._
+&#xNAN;_&#xD38C;웨어 2.5.5 이하 버전에서는 4자리 PIN만 지원합니다._
 
 ### PIN 설정
 
@@ -95,31 +83,19 @@ PIN 값은 초기 설정 완료 후에 [설정 메뉴](setting-menu/)를 통해 
 
 1\) 지문 센서에 등록하실 손가락을 지문 센서 위에 터치합니다.
 
-<div align="left">
-
-<img src="../.gitbook/assets/image (14).png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/image (14).png" alt=""></div>
 
 지문 센서는 콜드월렛 하단의 버튼 가운데에 있습니다. [지문 센서의 위치](setting-up.md#before-start)를 확인해주세요.
 
 2\) 같은 손가락을 100%가 될 때까지 위치를 조금씩 옮겨가며 터치합니다. (약 8회)
 
-<div align="left">
-
-<img src="../.gitbook/assets/image (9).png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/image (9).png" alt=""></div>
 
 ### 지문 등록 확인
 
 등록한 손가락을 지문 센서 위에 터치하여 지문 등록이 잘 되었는지 확인합니다.
 
-<div align="left">
-
-<img src="../.gitbook/assets/image (44).png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/image (44).png" alt=""></div>
 
 ※ 지문 등록이 실패한 경우에는 처음부터 지문 등록 프로세스를 시작합니다.
 
@@ -149,21 +125,13 @@ PIN 값은 초기 설정 완료 후에 [설정 메뉴](setting-menu/)를 통해 
 
 1\) 위 내용이 설명된 안내문을 읽고 이해하셨다면 "OK" 버튼을 눌러주세요.
 
-<div align="left">
-
-<img src="../.gitbook/assets/image (140).png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/image (140).png" alt=""></div>
 
 2\) 콜드월렛에 표시되는 단어를 복구카드에 기재한 후 "OK" 버튼(NEXT)을 눌러 다음 페이지로 이동합니다.
 
 복구 단어는 한 페이지 당 4개 단어씩 총 6페이지에 24개 단어가 표시됩니다.
 
-<div align="left">
-
-<img src="../.gitbook/assets/image (153).png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/image (153).png" alt=""></div>
 
 {% hint style="info" %}
 복구단어의 **스펠링을 정확하게 확인**하여 적으시기 바랍니다.
@@ -177,11 +145,7 @@ PIN 값은 초기 설정 완료 후에 [설정 메뉴](setting-menu/)를 통해 
 
 3\) 복구 단어를 다 적으셨다면 안내 문구 확인 후 ‘OK’ 버튼을 눌러 다음 페이지로 이동합니다.
 
-<div align="left">
-
-<img src="../.gitbook/assets/image (21).png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/image (21).png" alt=""></div>
 
 ### &#xD;적어놓은 단어 확인
 
@@ -189,11 +153,7 @@ PIN 값은 초기 설정 완료 후에 [설정 메뉴](setting-menu/)를 통해 
 
 #### 알파벳 첫 3개 입력
 
-<div align="left">
-
-<img src="../.gitbook/assets/image (51).png" alt="단어 입력 화면 예시">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/image (51).png" alt="단어 입력 화면 예시"></div>
 
 ※ 입력방법 : **∧(a에서 z로 이동)** 또는 **∨(z에서 a로 이동)** 버튼을 이용
 
@@ -205,11 +165,7 @@ PIN 값은 초기 설정 완료 후에 [설정 메뉴](setting-menu/)를 통해 
 
 3개 알파벳 기반 단어 리스트에서 ∧/∨ 버튼을 이용하여 맞는 단어(_patch_)를 찾은 후 "OK" 버튼을 누릅니다.
 
-<div align="left">
-
-<img src="../.gitbook/assets/image (177).png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/image (177).png" alt=""></div>
 
 ※ 복구 단어와 입력 단어가 틀린 경우, "OK" 버튼(RETRY)을 눌러 복구 단어를 다시 입력할&#x20;수 있습니다.
 
@@ -217,11 +173,7 @@ PIN 값은 초기 설정 완료 후에 [설정 메뉴](setting-menu/)를 통해 
 
 ## 4단계 : 지갑 생성 완료
 
-<div align="left">
-
-<img src="../.gitbook/assets/image (136).png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/image (136).png" alt=""></div>
 
 축하합니다. 지갑 생성이 완료되었습니다. 이제 콜드월렛에 코인 계정을 추가하여 자산을 관리할 수 있습니다. 모바일 앱을 이용해서 지갑을 사용해보세요.
 

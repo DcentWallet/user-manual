@@ -10,11 +10,7 @@ OTG 제품으로 연결하여 사용하시는 경우, 안드로이드 폰의 블
 
 OTG는 On-The-Go의 약자로 안드로이드 폰에 USB 장치를 연결할 수 있게 해주는 케이블 또는 젠더 형태 제품이며, 보통 한쪽은 스마트폰의 충전단자 반대쪽은 표준 USB(USB Type A)포트에 연결할 수 있습니다.&#x20;
 
-<div align="left">
-
-<img src="../../.gitbook/assets/image (66).png" alt="OTG 케이블 예시">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/image (66).png" alt="OTG 케이블 예시"></div>
 
 {% hint style="info" %}
 OTG 제품은 디센트 콜드월렛 패키지에 포함되어 있지 않으며, 시중에서 판매하는 제품을 별도로 구매하셔야 합니다.
@@ -26,11 +22,7 @@ OTG 제품의 종류로는 젠더 타입, 케이블 타입 등이 있으며, 별
 
 이용하시는 안드로이드 폰과 콜드월렛 충전단자에 맞는 OTG 제품을 이용하여 주시길 바랍니다.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/OTG 예시.png" alt="OTG 제품 종류 예시 : 젠더 타입 / 케이블 타입 / 디센트 2 IN 1 OTG 케이블 / C to C 케이블">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/OTG 예시.png" alt="OTG 제품 종류 예시 : 젠더 타입 / 케이블 타입 / 디센트 2 IN 1 OTG 케이블 / C to C 케이블"></div>
 
 
 
@@ -42,39 +34,23 @@ OTG 제품의 종류로는 젠더 타입, 케이블 타입 등이 있으며, 별
 
 콜드월렛과 연결되지 않았다는 표시가 나타납니다.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/OTG-01.png" alt="" width="563">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/OTG-01.png" alt="" width="563"></div>
 
 ### 안드로이드 폰과 콜드월렛 OTG 케이블로 연결
 
 가지고 있는 OTG 제품에 따라 다음 그림과 같이 콜드월렛과 안드로이드 폰을 연결해 주세요.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/연결 예시 (4).png" alt="젠더 타입 연결 / 디센트 2 IN 1 OTG 케이블 연결 / C to C 케이블 연결">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/연결 예시 (4).png" alt="젠더 타입 연결 / 디센트 2 IN 1 OTG 케이블 연결 / C to C 케이블 연결"></div>
 
 ### USB 접근 확인
 
-1\) OTG 제품이 연결되면 다음과 같은 팝업이 나타납니다. **"확인"**을 눌러주세요.
+1\) OTG 제품이 연결되면 다음과 같은 팝업이 나타납니다. **"확인"**&#xC744; 눌러주세요.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/OTG-02.png" alt="" width="287">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/OTG-02.png" alt="" width="287"></div>
 
 2\) 연결이 완료되면 콜드월렛과 동기화가 진행되고, 월렛을 사용할 수 있습니다.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/OTG-03.png" alt="" width="563">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/OTG-03.png" alt="" width="563"></div>
 
 ### 펌웨어 업데이트
 
