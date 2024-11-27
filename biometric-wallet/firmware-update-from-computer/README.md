@@ -42,7 +42,8 @@ To perform the firmware update, use the USB cable that came included inside the 
 
 ✅ Must use Google **Chrome browser**.
 
-✅ Must use a USB cable that is **capable of data transfer**.&#x20;
+✅ Must use a USB cable that is **capable of data transfer**. \
+&#xNAN;_(If your Biometric Wallet's charging port is Micro USB 5 PIN Type, we recommend using the USB cable included in the package box)_
 
 ✅ The **latest version** of D'CENT bridge program is installed and running on your computer.
 
