@@ -58,23 +58,15 @@ From the Manager Tab, click on **Firmware Update**.
 
 ### Proceed with the firmware update
 
-<div align="left">
-
-<img src="../.gitbook/assets/펌웨어-eng03.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/펌웨어-eng03.png" alt=""></div>
 
 **1.** Click on **"Update"** button.&#x20;
 
-**2.** Wait until the **Biometric Wallet** is detected**.**&#x20;
+**2.** Wait until the **Biometric Wallet** is detecte&#x64;**.**&#x20;
 
 **3.** Click on **"Start the update"** button.&#x20;
 
-<div align="left">
-
-<img src="../.gitbook/assets/펌웨어-eng04.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/펌웨어-eng04.png" alt=""></div>
 
 **4.** Click on **"Reboot in bootloader mode"** button.&#x20;
 
@@ -82,11 +74,7 @@ From the Manager Tab, click on **Firmware Update**.
 
 **6.** Click on **"Keep updating"** button.
 
-<div align="left">
-
-<img src="../.gitbook/assets/펌웨어-eng05.png" alt="" width="563">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/펌웨어-eng05.png" alt="" width="563"></div>
 
 **7.** Wait patiently (approximately 10 minutes) for the firmware update to complete. When the firmware update has completed, the Biometric Wallet will automatically reboot to its normal working mode.&#x20;
 

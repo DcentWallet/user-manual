@@ -10,11 +10,7 @@ description: Creating new wallet on the Biometric Wallet
 
 
 
-<div align="left">
-
-<img src="../.gitbook/assets/img-howtouse-dongle.png" alt="D&#x27;CENT Biometric Wallet user interfaces">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/img-howtouse-dongle.png" alt="D&#x27;CENT Biometric Wallet user interfaces"></div>
 
 D'CENT Biometric Wallet is equipped with 4-buttons for navigation.
 
@@ -36,13 +32,9 @@ If the cold wallet does not power on, please charge its battery using the USB ca
 
 ### Select Language
 
-Use ∧(Up**)** or ∨(Down**)** button to select your language and press **OK** button.
+Use ∧(U&#x70;**)** or ∨(Dow&#x6E;**)** button to select your language and press **OK** button.
 
-<div align="left">
-
-<img src="../.gitbook/assets/image (149).png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/image (149).png" alt=""></div>
 
 Language support : English, Korean, Chinese, Japanese, Spanish
 
@@ -54,11 +46,7 @@ After setting up your cold wallet, you can change the Language from the [Setting
 
 To create a new wallet, select "Create Wallet" from the menu.
 
-<div align="left">
-
-<img src="../.gitbook/assets/image (68).png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/image (68).png" alt=""></div>
 
 {% hint style="info" %}
 Selecting "Create Wallet" will create a wallet from a new private key. \
@@ -68,7 +56,7 @@ If you wish to recover an existing wallet, please refer [here](recovery/).
 ## Step-2 : Register PIN & Fingerprint
 
 To protect accessing your wallet, register a new PIN and your fingerprint. \
-_Firmware below v.2.5.5 only supports 4-digit PIN length._
+&#xNAN;_&#x46;irmware below v.2.5.5 only supports 4-digit PIN length._
 
 ### Register a new PIN (4 to 8 digits)
 
@@ -100,32 +88,20 @@ After setting up your cold wallet, you can change the PIN value from the Biometr
 
 1\) To register your fingerprint, touch your finger on the sensor to scan.
 
-<div align="left">
-
-<img src="../.gitbook/assets/image (183).png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/image (183).png" alt=""></div>
 
 Fingerprint sensor is located in the middle of where the navigational buttons are located. \
 Check the location of [fingerprint sensor](setting-up.md#before-start).
 
 2\) Slightly change the angular positioning of the same finger when scanning and repeat until 100% (8 correct scans) is reached.
 
-<div align="left">
-
-<img src="../.gitbook/assets/image (135).png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/image (135).png" alt=""></div>
 
 ### Verify Fingerprint
 
 Scan your fingerprint one last time to verify registered fingerprint.&#x20;
 
-<div align="left">
-
-<img src="../.gitbook/assets/image (184).png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/image (184).png" alt=""></div>
 
 ※ If the fingerprint does not match, you will have to restart the Fingerprint registration..
 
@@ -155,21 +131,13 @@ If you lose your recovery card, there is no other way to recover your existing w
 
 1\) Press **OK** button only when you have fully understood the WARNING notice.
 
-<div align="left">
-
-<img src="../.gitbook/assets/image (159).png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/image (159).png" alt=""></div>
 
 2\) Write down all the recovery seeds (words) shown on the screen of your cold wallet. Press OK button to see the next list of words.&#x20;
 
 There are 6 lists with total of 24 words and each list has 4 words shown. Make sure you write them down correctly and in the exact same order as shown.
 
-<div align="left">
-
-<img src="../.gitbook/assets/image (103).png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/image (103).png" alt=""></div>
 
 {% hint style="info" %}
 When writing down the recovery words, **make sure to check that the spelling is correct**
@@ -177,11 +145,7 @@ When writing down the recovery words, **make sure to check that the spelling is 
 
 3\) When you have written down all 24 words, press OK button to continue.
 
-<div align="left">
-
-<img src="../.gitbook/assets/image (92).png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/image (92).png" alt=""></div>
 
 {% hint style="warning" %}
 Do not take pictures or save images of your recovery words or recovery cards. You are responsible for securely handling your recovery words. D'CENT is not liable for any damage or loss of crypto assets resulting from user negligence, such as the theft of recovery cards or the storage of image files.&#x20;
@@ -195,11 +159,7 @@ Enter all 24 words written on the recovery card to proceed with verification.
 
 #### Enter the first 3 characters
 
-<div align="left">
-
-<img src="../.gitbook/assets/image (122).png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/image (122).png" alt=""></div>
 
 ※ How to input : Use the Up/Down buttons - ∧(increase value from a to z) or ∨(decrease value z to a)&#x20;
 
@@ -209,11 +169,7 @@ For example, if the recovery word is "patch", enter the first character "p" and 
 
 From the list of words available, select the correct word(_patch_) using ∧/∨ buttons and press "OK" to choose as the answer.
 
-<div align="left">
-
-<img src="../.gitbook/assets/image (56).png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/image (56).png" alt=""></div>
 
 ※ If you find yourself having written down the words incorrectly, you can press "OK" button(RETRY) to re-enter the recovery seeds from the lists for review.
 
@@ -221,11 +177,7 @@ Complete your review by entering all 24 words this way.
 
 ## Step-4 : Completing the Initial Setup
 
-<div align="left">
-
-<img src="../.gitbook/assets/image (65).png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/image (65).png" alt=""></div>
 
 Congratulation, you have passed the quiz and your new wallet is created. From your cold wallet, you can check the lists of coin accounts available. You are now ready to use your new wallet together with the mobile application.
 
