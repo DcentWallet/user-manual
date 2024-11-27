@@ -95,7 +95,7 @@ In the **Taskbar**, there should be a **D'CENT Bridge icon**, make sure to check
 
 ### Connect Biometric Wallet to your computer
 
-1\) Connect the computer and the Biometric Wallet using the USB cable included in the original package
+1\) Connect the computer and the Biometric Wallet using the USB cable&#x20;
 
 2\) Authenticate with fingerprint or PIN to unlock your Biometric Wallet
 
