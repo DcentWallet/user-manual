@@ -59,6 +59,6 @@ Please refer to the user guide below for instructions on how to update the firmw
 {% embed url="https://userguide.dcentwallet.com/biometric-wallet/firmware-update-from-mobile" %}
 
 {% hint style="info" %}
-In order to update the firmware, your OTG device must support data transfer.
+In order to update the firmware, your OTG device must capable of data transfer.
 {% endhint %}
 
