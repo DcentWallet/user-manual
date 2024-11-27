@@ -26,7 +26,7 @@ Unlike other products, your wallet will still remain safely intact inside the se
 **After you update the firmware, you cannot roll-back to the previous version**
 {% endhint %}
 
-To perform the firmware update, use the USB cable that came included inside the original D'CENT package. Firmware update will take approximately 10 minutes to complete.&#x20;
+Firmware update will take approximately 10 minutes to complete.&#x20;
 
 {% hint style="info" %}
 **It is recommended that the D'CENT mobile app is not running during the firmware update.**
