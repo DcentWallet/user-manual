@@ -5,20 +5,26 @@
 {% hint style="danger" %}
 **Currently the mobile firmware update is only possible for the Android Phones.**&#x20;
 
-Android users with an **OTG cable** can perform firmware update directly from their phone.&#x20;
-
-**Mobile Firmware update is available from D'CENT App v5.15.0 or higher.**
+Android users with an **OTG device** can perform firmware update directly from their phone.&#x20;
 {% endhint %}
 
-### D'CENT Genuine OTG cable
+### OTG device
 
-OTG cable is a special type of USB cable that makes your Android phone to act as a Host(Master) device that can update the firmware on the Biometric wallet (the slave device).
+OTG device is an adapter or cable-type device that can update the firmware of the Biometric wallet on an Android phone. Please use an OTG device that is compatible with your Android phone or Biometric Wallet charging port.
 
-![](<../.gitbook/assets/그림1 (2) (1).png>)
+![Example of OTG devices](<../.gitbook/assets/OTG 예시.png>)
+
+{% hint style="warning" %}
+In order to update the firmware, your OTG device must capable of data transfer.
+{% endhint %}
+
+
+
+If your Biometric Wallet's charging port is Micro USB 5 PIN Type, you can update using D'CENT Genuine OTG cable.
 
 D'CENT Genuine OTG cable can be purchase from D'CENT official website.
 
-{% embed url="https://store.dcentwallet.com/collections/frontpage/products/2-in-1-otg-cable" %}
+{% embed url="https://store.dcentwallet.com/products/2-in-1-otg-cable" %}
 
 {% embed url="https://youtu.be/ZxszWmFvx-0" %}
 
@@ -42,13 +48,18 @@ Unlike other products, your wallet will still remain safely intact inside the se
 **After you update the firmware, you cannot roll-back to the previous version**
 {% endhint %}
 
-To perform the firmware update, it is recommended to use the original D'CENT OTG cable. Firmware update will take approximately 5\~10 minutes to complete.&#x20;
+If you use a separate OTG device, it must be capable of data transfer.\
+Firmware update will take approximately 5\~10 minutes to complete.&#x20;
 
 ## Updating the firmware from an Android phone
 
-### Connect Biometric Wallet with Android Phone using OTG cable
+### Connect Biometric Wallet with Android Phone using OTG device
 
-When the Biometric Wallet is connected with Android phone using the OTG cable, a pop-up will show up on the phone's screen. Make sure you press **"OK"** to allow connection.
+Depending on the OTG device you own, connect the Biometric Wallet and the Android device as shown in the picture below.
+
+<figure><img src="../.gitbook/assets/연결 예시.png" alt=""><figcaption></figcaption></figure>
+
+When the Biometric Wallet is connected with Android phone using the OTG device, a pop-up will show up on the phone's screen. Make sure you press **"OK"** to allow connection.
 
 ![](../.gitbook/assets/펌웨어-eng01.png)
 
@@ -58,7 +69,7 @@ From the Manager Tab, click on **Firmware Update**.
 
 ### Proceed with the firmware update
 
-<div align="left"><img src="../.gitbook/assets/펌웨어-eng03.png" alt=""></div>
+<div align="left"><img src="../.gitbook/assets/펌웨어-eng03 (1).png" alt=""></div>
 
 **1.** Click on **"Update"** button.&#x20;
 
