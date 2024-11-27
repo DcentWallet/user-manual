@@ -1,56 +1,30 @@
-# Using OTG cable for physical connection
+# Using OTG device for physical connection
 
-By connecting the mobile phone and OTG cable, you can communicate with the Biometric Wallet via USB instead of Bluetooth.
-
-{% hint style="info" %}
-If you are using the OTG cable to connect, it is recommended to disable the Bluetooth function on your Android Phone.
-{% endhint %}
-
-## What is an OTG cable? <a href="#otg" id="otg"></a>
-
-This is a device that allows you to connect a USB device to a smartphone. One side is a micro 5 pin or USB C type, and the other side is a cable with a standard USB port. Just connect the OTG cable to your Android device.
-
-<div align="left">
-
-<img src="../../.gitbook/assets/image (88).png" alt="Example of OTG cable">
-
-</div>
+By connecting the Android Phone and OTG device, you can synchronize with the Biometric Wallet via OTG device instead of Bluetooth.
 
 {% hint style="info" %}
-The OTG cable is not included in the D'CENT Biometric Wallet package and must be purchased separately. Click [**here**](https://store.dcentwallet.com/products/2-in-1-otg-cable) to purchase genuine D'CENT OTG cable.
+If you are using the OTG device to connect, it is recommended to disable the Bluetooth function on your Android Phone.
 {% endhint %}
 
-### Micro 5pin OTG cable <a href="#5-otg" id="5-otg"></a>
+## What is an OTG device? <a href="#otg" id="otg"></a>
 
-If your Android device's charging port is micro 5 pin, you must use a micro 5 pin OTG cable.
+OTG stands for **'On-The-Go'** and refers to cable or adapter device that allow USB devices to connect to Android phones. Typically, one side connects to the mobile phone's charging port, while the other side is a standard USB port (USB Type A). Just connect the OTG device to your Android phone.
 
-<div align="left">
+<div align="left"><img src="../../.gitbook/assets/image (88).png" alt="Example of OTG cable"></div>
 
-<img src="../../.gitbook/assets/image (31).png" alt="Micro 5pin cable port">
+{% hint style="info" %}
+OTG devices are not included in the D'CENT Biometric Wallet package and must be purchased separately.
+{% endhint %}
 
-</div>
+### Types of OTG devices <a href="#id-5-otg" id="id-5-otg"></a>
 
-### USB C type OTG cable <a href="#usb-c-otg" id="usb-c-otg"></a>
+There are various types of OTG devices, such as Adapter type and Cable type, and there is a C to C cable type device that can be directly connected to the mobile phone and Biometric Wallet charging port without Adapter or Cable.
 
-If your Android device's charging port is USB C type, you must use a USB C type OTG cable.
+Please use an OTG device that is compatible with your Android phone or Biometric Wallet charging port.
 
-<div align="left">
+<div align="left"><img src="../../.gitbook/assets/OTG 예시.png" alt="Example of OTG devices : Adapter type / Cable type / D&#x27;CENT 2-IN-1 OTG Cable / C to C cable"></div>
 
-<img src="../../.gitbook/assets/image (20).png" alt="Example of USB C Type OTG cable">
-
-</div>
-
-### D'CENT 2 in 1 OTG Cable
-
-D'CENT 2 in 1 OTG cable supports both micro 5-pin and USB C types as smartphone charging ports.
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/OTG.png" alt="" width="375"><figcaption><p>Example of D'CENT 2 In 1 OTG cable</p></figcaption></figure>
-
-</div>
-
-## Using Biometric Wallet by connecting with an OTG cable <a href="#otg-1" id="otg-1"></a>
+## Using Biometric Wallet by connecting with an OTG device <a href="#otg-1" id="otg-1"></a>
 
 ### Launch the D'CENT mobile app
 
@@ -58,36 +32,33 @@ Please launch the descent mobile app first. (Biometric Wallet mode)\
 \
 Below is a picture showing that there is no connection to with the Biometric Wallet.
 
-<div align="left">
+<div align="left"><img src="../../.gitbook/assets/OTG-eng01.png" alt="" width="563"></div>
 
-<img src="../../.gitbook/assets/OTG-eng01.png" alt="" width="563">
+### Connect Android device and Biometric Wallet with OTG device <a href="#otg-2" id="otg-2"></a>
 
-</div>
+Depending on the OTG device you own, connect the Biometric Wallet and the Android device as shown in the figure below.
 
-### Connect Android device and Biometric Wallet with OTG cable <a href="#otg-2" id="otg-2"></a>
-
-Connect the Biometric Wallet and the Android device as shown in the figure below.
-
-<div align="left">
-
-<img src="../../.gitbook/assets/image (188).png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/연결 예시.png" alt=""></div>
 
 ### Allow USB access <a href="#usb" id="usb"></a>
 
-1\) When an OTG cable is connected, you will see the following pop-up. Press **"OK".**
+1\) When an OTG device is connected, you will see the following pop-up. Press **"OK".**
 
-<div align="left">
-
-<img src="../../.gitbook/assets/OTG-eng02.png" alt="" width="287">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/OTG-eng02.png" alt="" width="287"></div>
 
 2\) When connection is made, Synchronization will begin with the Biometric Wallet and you can start using it when it finishes.
 
-<div align="left">
+<div align="left"><img src="../../.gitbook/assets/OTG-eng03.png" alt="" width="563"></div>
 
-<img src="../../.gitbook/assets/OTG-eng03.png" alt="" width="563">
+### Firmware Update
 
-</div>
+You can update the firmware of Biometric Wallet from the mobile phone using an OTG device.
+
+Please refer to the user guide below for instructions on how to update the firmware using an OTG device.
+
+{% embed url="https://userguide.dcentwallet.com/biometric-wallet/firmware-update-from-mobile" %}
+
+{% hint style="info" %}
+In order to update the firmware, your OTG device must support data transfer.
+{% endhint %}
+
