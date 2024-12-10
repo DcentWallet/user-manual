@@ -1,18 +1,18 @@
 ---
-description: Send and Receive Klaytn (KLAY) coin
+description: Send and Receive KAIA coin
 ---
 
-# How to use KLAY account
+# How to use KAIA account
 
-## How to create an KLAY account
+## How to create a KAIA account
 
-If you don't have Klaytn account, create new account. Coin name for KLAY is "Klaytn \(KLAY\)".
+If you don't have Kaia account, create new account. Coin name for KAIA is "Kaia \(KAIA\)".
 
 For more details of creating an account, click below link.
 
 {% page-ref page="../mobile-app/create-account.md" %}
 
-## Receive KLAY coin
+## Receive KAIA coin
 
 From your coin account, click "Receive" to view your account address.
 
@@ -22,9 +22,9 @@ For more details of receiving coin, click below link.
 
 {% page-ref page="receive.md" %}
 
-## Sending KLAY Coin
+## Sending KAIA Coin
 
-The procedures to send KLAY coin are same as sending general coin. You can see in the below link to check how to send coin.
+The procedures to send KAIA coin are same as sending general coin. You can see in the below link to check how to send coin.
 
 {% page-ref page="send/" %}
 

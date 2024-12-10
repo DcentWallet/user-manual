@@ -1,4 +1,4 @@
-# Connect with Kaikas wallet extension
+# Connect with Kaia wallet extension
 
 {% hint style="info" %}
 Klaytn Chain was rebranded as Kaia, and accordingly, the name of Kaikas Wallet was changed to **Kaia Wallet.**
@@ -6,13 +6,13 @@ Klaytn Chain was rebranded as Kaia, and accordingly, the name of Kaikas Wallet w
 
 ## Using Kaikas extension with Biometric wallet
 
-Kaikas is a PC browser based extension wallet for the Klaytn platform. Users will be able to interact with the Kaikas wallet to perform Klaytn-based transactions including KLAY and BApps, while the owner verification and authorization are performed through biometric authentication on the D’CENT Biometric hardware wallet.
+Kaikas is a PC browser based extension wallet for the Kaia platform. Users will be able to interact with the Kaia wallet to perform Kaia-based transactions including Kaia and BApps, while the owner verification and authorization are performed through biometric authentication on the D’CENT Biometric hardware wallet.
 
-\[**Kaikas is available here**]\
-[Download Kaikas from Chrome Web Store](https://chrome.google.com/webstore/detail/kaikas/jblndlipeogpafnldhgmapagcccfchpi?h)\
-[Download Kaikas from Firefox Add-on Store](https://addons.mozilla.org/ko/firefox/addon/kaikas/?src=search)
+\[**Kaia wallet is available here**]\
+[Download Kaia wallet from Chrome Web Store](https://chrome.google.com/webstore/detail/kaikas/jblndlipeogpafnldhgmapagcccfchpi?h)\
+[Download Kaia wallet from Firefox Add-on Store](https://addons.mozilla.org/ko/firefox/addon/kaikas/?src=search)
 
-### How to connect Kaikas with Biometric wallet
+### How to connect Kaia wallet with Biometric wallet
 
 **Step 1)** Download and install the D’CENT bridge program on your PC. Installing the bridge program will enable communication between the PC browser and the hardware wallet.
 
@@ -27,7 +27,7 @@ Kaikas is a PC browser based extension wallet for the Klaytn platform. Users wil
 
 </div>
 
-**Step 3)** From your browser, click on the **Kaikas extension** icon.
+**Step 3)** From your browser, click on the **Kaia wallet extension** icon.
 
 <div align="left">
 
@@ -35,7 +35,7 @@ Kaikas is a PC browser based extension wallet for the Klaytn platform. Users wil
 
 </div>
 
-**Step 4)** Unlock Kaikas wallet and click the **Manage Accounts** icon on the top menu.
+**Step 4)** Unlock Kaia wallet and click the **Manage Accounts** icon on the top menu.
 
 <div align="left">
 
@@ -58,12 +58,12 @@ Kaikas is a PC browser based extension wallet for the Klaytn platform. Users wil
 <figure><img src="../.gitbook/assets/카이카스-eng06.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-Only one Klaytn account created in the D'CENT biometric wallet can be connected to the Kaikas wallet. **Even if you have created multiple Klaytn accounts in your D'CENT biometric wallet, you can only connect to the first account created.**
+Only one Kaia account created in the D'CENT biometric wallet can be connected to the Kaia wallet. **Even if you have created multiple Kaia accounts in your D'CENT biometric wallet, you can only connect to the first account created.**
 
-Furthermore, if you have both a Klaytn legacy account and a Klaytn account, you can only connect one.
+Furthermore, if you have both a Kaia legacy account and a Kaia account, you can only connect one.
 {% endhint %}
 
-**Step 6)** From your browser, click on the **Kaikas extension** icon again to open the wallet service. You will notice that the Kaikas wallet now displays the **Klaytn account from the D’CENT Biometric Wallet.**
+**Step 6)** From your browser, click on the **Kaia extension** icon again to open the wallet service. You will notice that the Kaia wallet now displays the **Kaia account from the D’CENT Biometric Wallet.**
 
 <div align="left">
 
