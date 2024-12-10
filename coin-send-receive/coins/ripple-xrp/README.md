@@ -2,9 +2,9 @@
 
 ## Ripple (XRP) account activation
 
-If you have added your Ripple (XRP) wallet address for the first time, it is disabled. [Ripple's policy](https://xrpl.org/reserves.html) **requires a purchase or transfer of Ripple of 10 XRP or higher** to convert the Ripple wallet address to an activated state. Therefore, the corresponding 10 XRP will permanently lock-up at the corresponding wallet address.\
+If you have added your Ripple (XRP) wallet address for the first time, it is disabled. [Ripple's policy](https://xrpl.org/reserves.html) **requires a purchase or transfer of Ripple of 1 XRP or higher** to convert the Ripple wallet address to an activated state. Therefore, the corresponding 1 XRP will permanently lock-up at the corresponding wallet address.\
 \
-If a permanent lockup is made at the address of the Ripple wallet, it is assumed that only 990 XRP can be transferred, excluding the 10 XRP, which is the permanent lockup amount.\
+If a permanent lockup is made at the address of the Ripple wallet, it is assumed that only 99 XRP can be transferred, excluding the 1 XRP, which is the permanent lockup amount.\
 
 
 ## XRP Destination Tag
@@ -13,19 +13,11 @@ Users' ripple wallets assigned by the Exchanges use the same address. In other w
 \
 **Therefore, when sending XRP to a recipient wallet address created from the Exchange, you MUST enter the Destination Tag so that the Exchange will complete the deposit to the recipient's wallet account**.
 
-<div align="left">
-
-<img src="../../../.gitbook/assets/exchange_xrp_address_en.png" alt="">
-
-</div>
+<div align="left"><img src="../../../.gitbook/assets/exchange_xrp_address_en.png" alt=""></div>
 
 ## Example of XRP account created from an Exchange
 
-<div align="left">
-
-<img src="../../../.gitbook/assets/exchange_xrp_account_en.png" alt="">
-
-</div>
+<div align="left"><img src="../../../.gitbook/assets/exchange_xrp_account_en.png" alt=""></div>
 
 Picture above is an example of XRP wallet account created from an Exchange such as Binance.\
 When you press "Deposit" for XRP, it will show the XRP deposit Tag (**9-digit unique number**).\
