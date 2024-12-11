@@ -1,12 +1,12 @@
 ---
-description: Send and Receive Klaytn (KLAY) coin
+description: Send and Receive Kaia (KAIA) coin
 ---
 
-# How to use KLAY account
+# How to use KAIA account
 
-## How to create an KLAY account
+## How to create an KAIA account
 
-If you don't have Klaytn account, create new account. Coin name for KLAY is **"Klaytn (KLAY)"**.
+If you don't have Kaia account, create new account. Coin name for KAIA is **"Kaia (KAIA)"**.
 
 For more details of creating an account, click below link.
 
@@ -14,15 +14,11 @@ For more details of creating an account, click below link.
 [create-account](../../mobile-app/create-account/)
 {% endcontent-ref %}
 
-## Receive KLAY coin
+## Receive KAIA coin
 
 From your coin account, click **"Receive"** to view your account address.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/클레이튼-eng.png" alt="" width="563">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/카이아-eng01.png" alt="" width="563"></div>
 
 For more details of receiving coin, click below link.
 
@@ -30,30 +26,26 @@ For more details of receiving coin, click below link.
 [receive.md](../receive.md)
 {% endcontent-ref %}
 
-## Sending KLAY Coin
+## Sending KAIA Coin
 
-The procedures to send KLAY coin are same as sending general coin. You can see in the below link to check how to send coin.
+The procedures to send KAIA coin are same as sending general coin. You can see in the below link to check how to send coin.
 
 {% content-ref url="../send/" %}
 [send](../send/)
 {% endcontent-ref %}
 
-### Set the fee for Klaytn
+### Set the fee for Kaia
 
-The fee of Klaytn is consist of GAS fee and GAS limit. The unit of GAS fee is "Ston" which is one of KLAY's sub unit.
+The fee of Kaia is consist of GAS fee and GAS limit. The unit of GAS fee is "Ston" which is one of KAIA's sub unit.
 
-**`1 KLAY = 1,000,000,000 ston`**
+**`1 KAIA = 1,000,000,000 ston`**
 
 The real fee to be paid is calculated as **`"Used GAS amount" x  "GAS fee"`**.
 
-GAS fee is fixed on Klaytn, and you can change GAS Limit on fee setting stage.
+GAS fee is fixed on Kaia, and you can change GAS Limit on fee setting stage.
 
 {% hint style="info" %}
 GAS Limit is automatically calculated in D'CENT mobile application.
 {% endhint %}
 
-<div align="left">
-
-<img src="../../.gitbook/assets/클레이튼-eng02.png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/카이아-eng02.png" alt=""></div>
