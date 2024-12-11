@@ -30,7 +30,7 @@ description: KAIA 코인 보내기/받기 기본 사용법
 
 실제 지출되는 수수료는 **`"실제 사용한 GAS" x  "GAS fee"`**&#xB85C; 결정됩니다.
 
-클레이튼에서 GAS fee는 고정되어 있으며, 수수료 설정 입력화면에서 GAS Limit을 변경할 수 있습니다.
+카이아에서 GAS fee는 고정되어 있으며, 수수료 설정 입력화면에서 GAS Limit을 변경할 수 있습니다.
 
 {% hint style="info" %}
 디센트 월렛에서 GAS Limit를 자동으로 계산해줍니다.
