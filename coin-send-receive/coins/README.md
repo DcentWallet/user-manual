@@ -16,8 +16,8 @@ description: How to send and receive each coin
 [ripple-xrp](ripple-xrp/)
 {% endcontent-ref %}
 
-{% content-ref url="klaytn-klay.md" %}
-[klaytn-klay.md](klaytn-klay.md)
+{% content-ref url="kaia.md" %}
+[kaia.md](kaia.md)
 {% endcontent-ref %}
 
 {% content-ref url="how-to-use-rsk-account.md" %}
