@@ -16,8 +16,8 @@ description: 각 코인/토큰별 보내기, 받기 사용법
 [ripple-xrp](ripple-xrp/)
 {% endcontent-ref %}
 
-{% content-ref url="klaytn-klay.md" %}
-[klaytn-klay.md](klaytn-klay.md)
+{% content-ref url="kaia.md" %}
+[kaia.md](kaia.md)
 {% endcontent-ref %}
 
 {% content-ref url="rsk-rbtc.md" %}
