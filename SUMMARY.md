@@ -98,7 +98,7 @@
 * [Connect with HashPack wallet extension (including HBAR native staking)](external-service/connect-with-hashpack-wallet-extension-including-hbar-native-staking.md)
 * [Connect with Blade wallet extension (including HBAR native staking)](external-service/connect-with-blade-wallet-extension-including-hbar-native-staking.md)
 * [Connect with MetaMask (QR-based)](external-service/qrbasedmetamask.md)
-* [Connect with Kaia Wallet extension](external-service/kaikas.md)
+* [Connect with Kaia Wallet extension](external-service/kaiawallet.md)
 * [Connect with Nifty Wallet extension (Discontinued)](external-service/nifty.md)
 * [Klaystation Staking](external-service/klaystation.md)
 * [How to use PancakeSwap](external-service/pancakeswap.md)

@@ -50,8 +50,8 @@ If you need to change the network from Ethereum to Polygon, click on the network
 
 First, connect your Biometric wallet with Kaikas. Detailed instructions can be found in the User Guide below.
 
-{% content-ref url="kaikas.md" %}
-[kaikas.md](kaikas.md)
+{% content-ref url="kaiawallet.md" %}
+[kaiawallet.md](kaiawallet.md)
 {% endcontent-ref %}
 
 Go to the OpenSea site and click on the Wallet icon and select Kaikas from the list. From Kaikas wallet, you will see a pop-up message asking for approval on connecting to this site. Read all details and press **Connect(OK)** button.&#x20;
