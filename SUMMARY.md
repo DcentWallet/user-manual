@@ -107,7 +107,7 @@
 * [해시팩 지갑 연결하기 (HBAR 스테이킹 가이드)](external-service/connect-with-hashpack-wallet-extension-including-hbar-native-staking.md)
 * [블레이드 지갑 연결하기 (HBAR 스테이킹 가이드)](external-service/connect-with-blade-wallet-extension-including-hbar-native-staking.md)
 * [메타마스크 연결하기(QR-based)](external-service/qrbasedmetamask.md)
-* [카이아 월렛과 연결하기](external-service/kaikas.md)
+* [카이아 월렛과 연결하기](external-service/kaiawallet.md)
 * [니프티(Nifty) 지갑과 연결하기 (서비스 운영 종료)](external-service/nifty.md)
 * [클레이스테이션 Staking](external-service/klaystation.md)
 * [팬케익스왑 이용 방법](external-service/pancakeswap.md)

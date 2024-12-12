@@ -50,8 +50,8 @@ PC환경에서 오픈씨 사이트에 접속하는 경우 디센트 앱의 Walle
 
 먼저 디센트 지문인증형 지갑과 카이카스를 연결해주세요. 연동 방법은 아래 사용자 가이드를 참고해주세요.
 
-{% content-ref url="kaikas.md" %}
-[kaikas.md](kaikas.md)
+{% content-ref url="kaiawallet.md" %}
+[kaiawallet.md](kaiawallet.md)
 {% endcontent-ref %}
 
 오픈씨 사이트에 접속한 후 지갑 연결하기에서 Kaikas를 선택합니다. 카이카스 지갑에서 서비스 연결 요청이 새 창으로 뜹니다. 내용을 읽어보시고 연결 버튼을 누릅니다.
