@@ -11,7 +11,7 @@
 니모닉 코드를 백업해 놓지 않은 상태에서 디센트 모바일 앱을 삭제하거나 모바일 폰을 분실하신 경우, 소프트웨어 지갑에 있는 모든 코인을 잃게 됩니다.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Setting-19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1 (24).jpg" alt=""><figcaption></figcaption></figure>
 
 **앱 월렛을 백업하는 방법은 다음과 같습니다.**
 
@@ -23,7 +23,7 @@
 
 4\) 민감 정보에 대한 경고 팝업을 확인한 후 **"내용을 확인했습니다"** 버튼을 누릅니다.
 
-<figure><img src="../../../.gitbook/assets/Setting-20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2 (22).jpg" alt=""><figcaption></figcaption></figure>
 
 5\) 화면에 표시된 **24개의 니모닉 코드를 정확하게 순서대로 적어주세요**. 또는 **"니모닉 공유"** 버튼을 눌러서 일시적으로 클립보드 등에 저장할 수있습니다. "**백업 완료하고 니모닉 검증하기"**&#xB97C; 누르고 다음으로 진행합니다.&#x20;
 
@@ -33,7 +33,7 @@
 
 8\) 백업을 완료하였다면 **"지갑 사용하기"**&#xB97C; 눌러주세요.
 
-<figure><img src="../../../.gitbook/assets/Setting-21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3 (17).jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -53,7 +53,7 @@
 
 4\) 적어놓은 **24개의 니모닉 코드를 정확한 순서로 모두 입력**합니다. 또는 '**붙여넣기**' 버튼을 사용하여 클립보드에 일시적으로 저장한 정보를 붙여넣을 수 있습니다. '**복구하기**' 버튼을 누르면 복구가 진행됩니다.
 
-![](../../../.gitbook/assets/Setting-22.png)
+<figure><img src="../../../.gitbook/assets/4 (11).jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 백업해 놓은 니모닉 코드는 디센트 지문인증형 콜드월렛에서 복구할 수 있습니다. 지문인증형 콜드월렛 복구에 대한 자세한 내용은 [여기](../../../biometric-wallet/recovery/)를 참고하세요.

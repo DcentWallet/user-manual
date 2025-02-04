@@ -12,11 +12,7 @@
 
 또는 [**여기**](https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet)를 클릭하여 바로 설치 할 수 있습니다.
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/구글 플레이 스토어.webp" alt=""><figcaption><p>구글 플레이스토어 디센트 월렛 검색 화면</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/구글 플레이 스토어.webp" alt=""><figcaption><p>구글 플레이스토어 디센트 월렛 검색 화면</p></figcaption></figure></div>
 
 ### 아이폰 앱 <a href="#iphone" id="iphone"></a>
 
@@ -24,23 +20,19 @@
 
 또는 [**여기**](https://apps.apple.com/kr/app/dcent-hardware-wallet/id1447206611)를 클릭하여 바로 설치 할 수 있습니다.
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/아이폰.png" alt="" width="234"><figcaption><p>앱스토어 디센트 월렛 검색 화면</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/아이폰.png" alt="" width="234"><figcaption><p>앱스토어 디센트 월렛 검색 화면</p></figcaption></figure></div>
 
 ## 주요 기능
 
-<figure><img src="../.gitbook/assets/Mobile App.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Frame 1321315556 (2).jpg" alt=""><figcaption></figcaption></figure>
 
-**My Wallet** : 코인 계정을 추가하거나 생성된 계정 목록을 보여줍니다. 또한 디센트 지갑에서 보유하고 있는 코인의 수량, 잔액, 시세 정보 등의 포트폴리오를 한 화면에서 볼 수 있고 My Wallet 탭을 통해 코인 보내기와 받기를 할 수 있습니다.
+**My Wallet** : 가지고 있는 코인 계정을 확인하거나 새롭게 추가할 수 있습니다. 원하는 코인은 보내거나 받을 수 있으며 거래 내역을 확인할 수 있습니다.
 
-**NFT** : 디센트 지갑에서 보유하고 있는 NFT 자산을 콜렉션 형태로 확인할 수 있고 다른 주소로 NFT 자산을 간편하게 보낼 수 있습니다. 또한 Opensea 나 Rarible 과 같은 NFT 마켓 플레이스와 연동할 수 있습니다.
+**Insight** : 코인의 가격과 현재 거래 트렌드를 알 수 있습니다. 또한, 각 자산의 플랫폼별 가격을 비교할 수 있습니다.
 
 _아이폰 모바일 앱에선 NFT 탭이 제공되지 않습니다. 아이폰 유저의 NFT 자산 확인  방법은_ [_여기_](https://userguide.dcentwallet.com/v/kr/coin-send-receive/nft#nft-1)_를 참고하세요._
 
-**Insight** : 코인게코와 코인마켓캡에서 사용자들이 가장 많이 검색한 암호화폐의 실시간 트렌드 Top7 리스트를 확인할 수 있습니다. Top7 리스트에서 마음에 드는 코인이 있다면 "Swap" 서비스로 코인을 바로 구매할 수 있습니다.
+**Insight** : 원하는 자산을 거래할 수 있으며, 서로 다른 네트워크 간 거래도 지원하고 있습니다. Insight 탭은 모바일 앱 버전 6.0.0 이상부터 지원합니다.
 
 _Insight 탭은 모바일 앱 버전 6.0.0 이상부터 지원합니다._
 

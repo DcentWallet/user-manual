@@ -62,23 +62,31 @@
 
 예를들어 ERC20 토큰을 추가하려면 먼저 이더리움 계정이 추가된 상태어야 합니다.
 
-<div align="left"><img src="../../.gitbook/assets/계정추가eng-07 (2).png" alt=""></div>
+<figure><img src="../../.gitbook/assets/1 (16).jpg" alt=""><figcaption></figcaption></figure>
 
-1\) **"+Add Custom Token"** 을 클릭하세요.
+1\) 자산 추가 버튼을 누릅니다.
 
-2\) 추가하려는 토큰이 발행된 올바른 블록체인 네트워크를 선택합니다.
+2\) **Custom 탭**을 선택합니다.
 
-3\) 수수료 계정을 선택하고 **"다음"** 버튼을 누릅니다.
+3\) **네트워크 영역**을 눌러 지원 네트워크 목록을 확인하세요.&#x20;
 
-<figure><img src="../../.gitbook/assets/계정추가-08.png" alt=""><figcaption></figcaption></figure>
 
-4\) **스마트 컨트랙트 주소, Symbol, 및 Decimals(소수점)**&#xB97C; 입력합니다.
 
-5\) 각 항목이 정상적으로 입력되었는 지 확인 후 **"다음"** 버튼을 누릅니다.
+<figure><img src="../../.gitbook/assets/2 (14).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-6\) 입력된 **소수점(Decimals)**&#xC774; 정확한 지 확인한 후 **"계속"** 버튼을 누릅니다.
+\
+\
+4\) 목록에서 추가하려는 토큰이 발행된 네트워크를 선택하고 다음버튼을 누릅니다.
 
-7\) 계정 이름을 설정하고 **"만들기"** 버튼을 누르면 토큰이 추가됩니다.
+5\) 해당 계정으로 거래시 **수수료를 납부할 계정을 선택** 후 다음 버튼을 누릅니다.
+
+<figure><img src="../../.gitbook/assets/3 (12).jpg" alt=""><figcaption></figcaption></figure>
+
+6\) 컨트랙트 주소를 입력하고 하단부에 표시되는 코인 정보를 확인합니다. 올바르게 입력되었을 경우 다음 버튼을 누릅니다.
+
+7\) 마지막으로 입력한 소수점이 맞는지 확인 후 다음 버튼을 누릅니다.
+
+8\) 계정 이름을 설정하고 **"만들기"** 버튼을 누르면 토큰이 추가됩니다.
 
 {% hint style="info" %}
 스마트 컨트랙트 주소, Symbol, 및 Decimals 은 블록체인 익스플로러 또는 토큰 발행 업체를 통해 확인할 수 있습니다.

@@ -10,11 +10,7 @@ description: 디센트 모바일 앱 설정
 모바일 앱 버전 6.0.0 이상부터 "Manager" 탭이 Setting 탭 내로 이동하였습니다.
 {% endhint %}
 
-<div align="left">
-
-<img src="../../.gitbook/assets/Setting-01.png" alt="" width="287">
-
-</div>
+<figure><img src="../../.gitbook/assets/1 (19).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## 월렛모드 변경 <a href="#currency" id="currency"></a>
 
@@ -22,7 +18,9 @@ description: 디센트 모바일 앱 설정
 
 **"지문인증형", "카드타입", "앱 월렛(소프트웨어)"** 중 사용할 지갑으로 변경할 수 있으며, 월렛모드가 변경되면 각 모드에 맞는 계정 정보를 다시 불러오게 됩니다.
 
-<figure><img src="../../.gitbook/assets/Setting-02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (17).jpg" alt=""><figcaption></figcaption></figure>
+
+
 
 월렛모드 변경 및 각 모드별 D'CENT 매니저 메뉴 사용 방법은 아래 링크를 참고해주세요.
 
@@ -38,7 +36,7 @@ description: 디센트 모바일 앱 설정
 * 영어
 * 일본어
 
-<figure><img src="../../.gitbook/assets/Setting-03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (13).jpg" alt=""><figcaption></figcaption></figure>
 
 ## 현지 통화 설정 <a href="#currency" id="currency"></a>
 
@@ -46,7 +44,7 @@ description: 디센트 모바일 앱 설정
 
 KRW(한국 원화), USD(미국 달러), JPY(일본 엔화), EUR(유럽 유로), GBP(영국 파운드), CNY(중국 위안화) 등 총 39개의 법정 화폐와 BTC(비트코인), ETH(이더리움) 암호화폐로 가격을 표시할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/Setting-04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (9).jpg" alt=""><figcaption></figcaption></figure>
 
 ## 비밀번호 변경 <a href="#auth-method" id="auth-method"></a>
 
@@ -54,7 +52,7 @@ KRW(한국 원화), USD(미국 달러), JPY(일본 엔화), EUR(유럽 유로), 
 
 모바일 앱의 비밀번호 6자리는 앱을 초기에 설정할 때 등록한 비밀번호입니다.
 
-<figure><img src="../../.gitbook/assets/Setting-05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (4).jpg" alt=""><figcaption></figcaption></figure>
 
 ## 모바일 앱의 추가 인증 방법 설정 <a href="#auth-method" id="auth-method"></a>
 
@@ -63,7 +61,7 @@ KRW(한국 원화), USD(미국 달러), JPY(일본 엔화), EUR(유럽 유로), 
 안드로이드 기기는 지문 인증을 추가 인증 수단으로 사용할 수 있습니다.\
 아이폰은 Touch ID나 Face ID를 추가 인증 수단으로 사용할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/Setting-06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6 (4).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 테스트넷 활성화
 
@@ -75,4 +73,4 @@ KRW(한국 원화), USD(미국 달러), JPY(일본 엔화), EUR(유럽 유로), 
 테스트넷은 **개발자 및 디앱(DApp) 서비스 테스트를 목적**으로 사용되며 네트워크의 모든 테스트용 자산은 금전적 가치가 없습니다.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Setting-07 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7 (3).jpg" alt=""><figcaption></figcaption></figure>

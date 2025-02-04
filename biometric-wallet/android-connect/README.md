@@ -84,7 +84,7 @@
 
 모바일 앱을 처음 설치하셨다면 지갑 모드를 선택해야 합니다. **"지문인증형 콜드월렛"**&#xC744; 선택해 주세요.
 
-<div align="left"><img src="../../.gitbook/assets/안드로이드05.png" alt="디센트 모바일 앱 첫 실행화면" width="287"></div>
+<figure><img src="../../.gitbook/assets/Frame 1321315556 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 월렛(지갑) 모드는 모바일 앱 하단 메뉴인 Settings 탭에서도 변경이 가능합니다. 지문인증형 지갑을 사용하시는 분이라면 반드시 모바일 앱의 월렛 모드를 지문인증형 콜드월렛으로 설정하셔야 합니다.&#x20;
 
@@ -97,7 +97,7 @@
 
 디센트 모바일 앱 보호를 위한 6자리 비밀번호를 등록해야 합니다. 앱 비밀번호는 디센트 모바일 앱을 실행할 때마다 필요하니 반드시 기억해주시기 바랍니다.
 
-<figure><img src="../../.gitbook/assets/안드로이드06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Frame 1321315555 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 앱 비밀번호는 [앱 설정 메뉴](../../mobile-app/mobile-app-setting-menu/)를 통해 나중에 변경하실 수 있습니다. 앱 비밀번호 이외에도 지문 인식을 통해 앱을 보호할 수 있습니다. 자세한 내용은 [앱 설정 메뉴 항목](../../mobile-app/mobile-app-setting-menu/)을 참고하세요.
@@ -109,17 +109,22 @@
 
 만약, 이를 허용하지 않는다면 콜드월렛을 동기화 할 수 없어 사용이 제한되니 반드시 앱 권한을 허용해야 합니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/안드로이드07.png" alt="" width="287"><figcaption></figcaption></figure></div>
+
+
+<figure><img src="../../.gitbook/assets/Frame 1321315557.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 팝업이 표시되지 않는다면 아래 그림과 같은 방법으로 모바일 앱의 권한 허용을 할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/안드로이드08.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/Frame 1321315582.jpg" alt=""><figcaption></figcaption></figure>
 
 ### 모바일 앱 설정 완료
 
-이제 모든 준비가 거의 끝나갑니다. 모바일 앱과 콜드월렛을 동기화하고 필요한 코인을 추가하면 됩니다.
+이제 모든 준비가 거의 끝나갑니다. 모바일 앱과 콜드월렛을 동기화하고 필요한 코인을 추가하면 됩니다.\
 
-<div align="left"><img src="../../.gitbook/assets/안드로이드09.png" alt="지문인증형 콜드월렛 모드 첫 화면" width="563"></div>
+
+<figure><img src="../../.gitbook/assets/Frame 1321315558 (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 콜드월렛과 디센트앱 동기화
 
@@ -127,12 +132,14 @@
 
 모바일 앱이 열려있는 상태에서 콜드월렛의 전원을 켭니다. 안드로이드 폰과 콜드월렛이 [블루투스 페어링](./#bluetooth-paring)이 되어 있다면 자동으로 동기화가 진행됩니다. 동기화가 시작되는데 수 초 정도 걸릴 수 있습니다.
 
-<div align="left"><img src="../../.gitbook/assets/안드로이드10.png" alt="" width="287"></div>
+<figure><img src="../../.gitbook/assets/Frame 1321315559.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 _※ 동기화가 시작되지 않는다면, 콜드월렛의 전원을 껐다가 다시 켜면 동기화가 진행됩니다._
 
 동기화가 완료되면 모바일 앱의 왼쪽 상단에 연결 표시가 나타나고, 콜드월렛의 오른쪽 상단에 푸른색의 블루투스 연결 상태등이 켜집니다.
 
-<div align="left"><img src="../../.gitbook/assets/안드로이드11.png" alt="" width="563"></div>
+
+
+<figure><img src="../../.gitbook/assets/Frame 1321315561.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 이제 가지고 계신 코인 계정을 추가하여 디센트 월렛을 사용할 수 있습니다. 코인 계정 추가에 대한 자세한 안내는 [**여기**](../../mobile-app/create-account/)를 참고하세요.

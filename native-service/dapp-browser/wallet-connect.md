@@ -26,11 +26,7 @@ WalletConnect는 QR 코드를 스캔을 사용하여 브라우저의 DApp을 모
 
 QR-Code를 스캔하면 연결 요청 화면이 표시됩니다. **"네, 맞아요"** 버튼을 클릭하면 PoolTogether DApp에 지갑 주소를 사용하여 연결됩니다.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/walletconnect-03.png" alt="" width="563">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/23.jpg" alt=""></div>
 
 **Step 4)** 디센트 지갑이 DApp 서비스에 연결되면 다음과 같은 화면을 디센트앱과 PC화면에서 표시됩니다. PoolTogether DApp에서 오른쪽 상단에는 서비스와 연결된 디센트 지갑 주소를 확인할 수 있습니다.
 
@@ -50,11 +46,7 @@ DApp 서비스에서 사용이 끝나면 **"연결 종료"** 버튼을 클릭해
 
 **Step 2)** 리스트에서 **WalletConnect** 를 클릭합니다.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/walletconnect-05 (1).png" alt="" width="563">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/20.jpg" alt=""></div>
 
 **Step 3)** 휴대폰에 디센트 모바일 앱이 설치되어 있는 경우 선택이 가능한 옵션으로 표시됩니다. **D’CENT**를 선택합니다.
 
@@ -62,7 +54,7 @@ DApp 서비스에서 사용이 끝나면 **"연결 종료"** 버튼을 클릭해
 
 **Step 5)** **"네, 맞아요"** 버튼을 클릭하여 DApp에서 지갑 주소와 연결하는 요청을 승인합니다.
 
-![](../../.gitbook/assets/walletconnect-06.png)
+![](../../.gitbook/assets/21.jpg)
 
 **Step 6)** 디센트 지갑 주소와 DApp 서비스가 연결된 것을 확인할 수 있습니다.
 
@@ -72,11 +64,7 @@ DApp 서비스에서 사용이 끝나면 **"연결 종료"** 버튼을 클릭해
 DApp 서비스에서 사용이 끝나면 **"연결 종료"** 버튼을 클릭해 주시기 바랍니다.
 {% endhint %}
 
-<div align="left">
-
-<img src="../../.gitbook/assets/walletconnect-07.png" alt="" width="563">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/22.jpg" alt=""></div>
 
 ## 디센트 지갑의 댑 브라우저를 사용해서 DApp에 연결하는 방법
 
@@ -84,8 +72,4 @@ DApp 서비스에서 사용이 끝나면 **"연결 종료"** 버튼을 클릭해
 
 DApp 서비스가 Web3 인터페이스를 지원하지 않는 경우 WalletConnect를 선택하여 DApp에 연결할 수 있습니다. 연결 방법은 위 섹션에서 설명한 이전 방식과 유사합니다.
 
-<div align="center">
-
-<img src="../../.gitbook/assets/walletconnect.gif" alt="" width="245">
-
-</div>
+<div align="center"><img src="../../.gitbook/assets/walletconnect.gif" alt="" width="245"></div>

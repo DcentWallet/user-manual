@@ -6,11 +6,7 @@
 
 My Wallet 탭의 **"계정 추가`+` "** 버튼을 눌러 계정을 생성할 수 있습니다.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/계정추가-01.png" alt="" width="288">
-
-</div>
+<figure><img src="../../.gitbook/assets/1 (14).jpg" alt="" width="376"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 지문인증형 지갑을 사용한다면 콜드월렛이 디센트 모바일 앱과 블루투스로 연결된 상태에서 계정을 추가할 수 있습니다.
@@ -20,11 +16,7 @@ My Wallet 탭의 **"계정 추가`+` "** 버튼을 눌러 계정을 생성할 �
 
 리스트에서 추가하려는 코인을 선택하세요. 코인 이름이나 심볼 이름으로 검색도 가능합니다.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/계정추가-02.png" alt="" width="563">
-
-</div>
+<figure><img src="../../.gitbook/assets/2 (13).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 디센트 월렛에서 지원하는 전체 코인 리스트는 [**여기**](https://www.dcentwallet.com/ko/supportedcoin)를 참고하세요.
@@ -34,11 +26,7 @@ My Wallet 탭의 **"계정 추가`+` "** 버튼을 눌러 계정을 생성할 �
 
 추가하고자 하는 코인이나 토큰이 없는 경우에는 [**"토큰 추가 요청"**](https://docs.google.com/forms/d/e/1FAIpQLScj4yDDb4JpquEdhm6KjM2cM-eUvlGaBeSs-Ko9g-dQN456OQ/viewform) 링크를 클릭하여, 코인이나 토큰 추가를 요청해주세요. 디센트 팀에서는 최대한 빠르게 지원할 수 있도록 노력하고 있습니다.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/계정추가-06.png" alt="" width="288">
-
-</div>
+<figure><img src="../../.gitbook/assets/3 (10).jpg" alt="" width="376"><figcaption></figcaption></figure>
 
 ### 수수료 계정이 없는 상태에서 토큰을 추가하려 하는 경우
 
@@ -49,11 +37,7 @@ ERC20, BEP20, RRC20, KCT 등과 같은 토큰 계정을 생성하기 위해서�
 * RRC20 토큰 계정 생성 시 : RSK 계정 필요&#x20;
 * KCT 토큰 계정 생성 시 :  클레이튼 계정 필요&#x20;
 
-<div align="left">
-
-<img src="../../.gitbook/assets/계정추가-05.png" alt="" width="288">
-
-</div>
+<figure><img src="../../.gitbook/assets/4 (8).jpg" alt="" width="376"><figcaption></figcaption></figure>
 
 ## 계정 이름 설정
 
@@ -61,21 +45,13 @@ ERC20, BEP20, RRC20, KCT 등과 같은 토큰 계정을 생성하기 위해서�
 
 계정이름은 각 계정이 가지고 있는 별명이며, 모바일 앱의 계정 정보와 지문인증형 콜드월렛의 계정 정보에 표시됩니다.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/계정추가-03.png" alt="" width="288">
-
-</div>
+<figure><img src="../../.gitbook/assets/5 (3).jpg" alt="" width="376"><figcaption></figcaption></figure>
 
 ## 계정 생성 완료
 
 계정 생성이 완료되면 블록체인에서 잔액 정보를 불러오고 My Wallet 화면에 계정 정보가 표시됩니다.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/계정추가-04.png" alt="" width="288">
-
-</div>
+<figure><img src="../../.gitbook/assets/6 (3).jpg" alt="" width="376"><figcaption></figcaption></figure>
 
 이제 코인을 보내거나 받아보세요.
 
