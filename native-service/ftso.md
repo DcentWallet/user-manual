@@ -10,7 +10,7 @@ FTSO 포털은 디센트 모바일 앱의 Discovery 탭(DApp 브라우저)에서
 
 <div align="left"><figure><img src="../.gitbook/assets/FTSO.gif" alt="" width="246"><figcaption></figcaption></figure></div>
 
-<div align="left"><img src="../.gitbook/assets/FTSO-01.png" alt=""></div>
+<div align="left"><img src="../.gitbook/assets/07.jpg" alt=""></div>
 
 1. 댑 브라우저(Discovery)의 목록에서 **FTSO Portal** 을 클릭합니다.
 2. 이동된 FTSO 포털 사이트에서 송버드 혹은 플레어 지갑 주소로 접속(연결)합니다 .
