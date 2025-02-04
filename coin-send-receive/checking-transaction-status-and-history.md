@@ -4,13 +4,7 @@
 
 ## 거래 내역을 확인하는 방법&#x20;
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/History.gif" alt="" width="300"><figcaption></figcaption></figure>
-
-</div>
-
-![](../.gitbook/assets/거래내역.png)
+![](<../.gitbook/assets/10 (5).png>)
 
 1\) 디센트 모바일 앱에서 거래 내역을 확인할 코인 계정의 **"계정상세 거래내역"** 버튼을 누릅니다.
 

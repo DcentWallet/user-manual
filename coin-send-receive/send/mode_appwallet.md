@@ -6,11 +6,7 @@
 
 ### 상대방의 주소 입력
 
-<div align="left">
-
-<img src="../../.gitbook/assets/앱지갑-01.png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/7 (6).png" alt=""></div>
 
 1\) 디센트 모바일 앱에서 거래에 사용할 코인 계정의 **"보내기"** 버튼을 누릅니다.
 
@@ -24,11 +20,7 @@
 
 ### 보내는 금액 및 수수료 입력
 
-<div align="left">
-
-<img src="../../.gitbook/assets/앱지갑-02.png" alt="" width="563">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/8 (6).png" alt=""></div>
 
 1\) 보내려는 암호화폐 코인 수량을 입력합니다.  또는 현지 통화 금액으로 입력할 수 있습니다.
 
@@ -42,11 +34,7 @@
 
 ### 앱 월렛에서 최종 승인
 
-<div align="left">
-
-<img src="../../.gitbook/assets/앱지갑-03.png" alt="" width="563">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/9 (7).png" alt=""></div>
 
 1\) 모바일 앱을 처음 설정할 때 등록한 비밀번호(6자리)를 입력합니다.\
 &#x20;   모바일 앱에 추가 인증을 설정하였다면 지문 또는 Face ID로 인증할 수 있습니다.

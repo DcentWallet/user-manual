@@ -27,7 +27,7 @@
 
 디센트 모바일 앱을 실행하면 My Wallet 에 내가 추가한 코인 계정이 표시됩니다. &#x20;
 
-<div align="left"><img src="../.gitbook/assets/코인받기.png" alt=""></div>
+<div align="left"><img src="../.gitbook/assets/코인받기_update (1).png" alt=""></div>
 
 * 내 코인 계정의 주소를 확인하려면 **"받기"**&#xB97C; 눌러줍니다.
 * 화면에 표시되는 내 계정 주소 (QR 코드 형태)는 송금을 보내주려는 상대방의 카메라로 읽을 수 있습니다.

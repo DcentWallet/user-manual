@@ -6,11 +6,7 @@
 
 ### 상대방의 주소 입력
 
-<div align="left">
-
-<img src="../../.gitbook/assets/지문인증-01.png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/Frame 1321315598.png" alt=""></div>
 
 1\) 디센트 모바일 앱에서 거래에 사용할 코인 계정의 **"보내기"** 버튼을 누릅니다.
 
@@ -24,11 +20,7 @@
 
 ### 보내는 금액 및 수수료 입력
 
-<div align="left">
-
-<img src="../../.gitbook/assets/지문인증-02.png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/Frame 1321315599.png" alt=""></div>
 
 1\) 보내려는 암호화폐 코인 수량을 입력합니다.  또는 현지 통화 금액으로 입력할 수 있습니다.
 
@@ -41,11 +33,7 @@
 
 ### 지문인증형 콜드월렛에서 최종 승인
 
-<div align="left">
-
-<img src="../../.gitbook/assets/지문인증-03 (1).png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/Frame 1321315600.png" alt=""></div>
 
 1\)  지문인증형 콜드월렛 화면에 표시되는 이체 정보를 한번 더 확인합니다. 정보가 올바른 경우 "**OK**" 버튼 (CONFIRM) 을 누릅니다.
 
