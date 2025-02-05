@@ -16,11 +16,7 @@ description: Monacoin 계정에서 코인 보내기 받기
 
 생성된 모나코인 계정의 “받기”를 클릭하면 모나코인 주소를 확인 할 수 있습니다.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/Mona-01.png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/35.png" alt=""></div>
 
 모나코인은 HD 지갑 기술을 지원 합니다. HD 지갑 기술은 비트코인의 표준인 BIP-44에서 제안되었으며 하나의 계정에 여러 개의 모나코인 주소를 가지고 있을 수 있습니다. 디센트의 모나코인 계정은 15개의 모나코인 주소를 관리합니다. &#x20;
 
@@ -44,13 +40,9 @@ description: Monacoin 계정에서 코인 보내기 받기
 
 ### 모나코인 수수료
 
-<div align="left">
+<div align="left"><img src="../../.gitbook/assets/36.png" alt=""></div>
 
-<img src="../../.gitbook/assets/image (207).png" alt="">
-
-</div>
-
-모나코인의 수수료는 보내는 금액을 입력하면 자동으로 계산됩니다. 수수료는 현재 블록체인 트랜잭션의 평균 수수료를 바탕으로 기본 설정됩니다. 수수료 슬라이드를 조정하거나 고급 설정을 통해 수수료를 조정할 수 있습니다.
+모나코인의 수수료는 보내는 금액을 입력하면 자동으로 계산됩니다. 수수료는 현재 블록체인 트랜잭션의 평균 수수료를 바탕으로 기본 설정됩니다. 고급 설정을 통해 수수료를 조정할 수 있습니다.
 
 {% hint style="warning" %}
 수수료를 너무 낮게 책정하면 트랜잭션이 블록체인에서 승인되지 않아 송금이 이루어지지 않을 수 있습니다.
@@ -58,6 +50,6 @@ description: Monacoin 계정에서 코인 보내기 받기
 
 
 
-[강력한 보안, 지문으로 완성하다 **\[디센트 암호화폐 지갑\] 보러 가기 >>**](https://store-kr.dcentwallet.com/pages/dcent-biometric-crypto-wallet?utm\_source=userguide\&utm\_medium=dcent-web\&utm\_campaign=202406\_monacoin)
+[강력한 보안, 지문으로 완성하다 **\[디센트 암호화폐 지갑\] 보러 가기 >>**](https://store-kr.dcentwallet.com/pages/dcent-biometric-crypto-wallet?utm_source=userguide\&utm_medium=dcent-web\&utm_campaign=202406_monacoin)
 
 <figure><img src="../../.gitbook/assets/dcent-biometric-crypto-wallet_banner 1.png" alt=""><figcaption></figcaption></figure>

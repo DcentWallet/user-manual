@@ -25,13 +25,13 @@ Binance Smart Chain은 기존 Binance Chain에 프로그래밍 가능성과 상�
 
 디센트 모바일 앱을 실행하고 인증하여 액세스를 잠금 해제하십시오.
 
-![](<../../.gitbook/assets/1 (6).png>)
+![](../../.gitbook/assets/32.png)
 
 **Step 1)** 계정 탭에서 **(+)** 버튼을 눌러 지갑 계정을 추가하세요.\
 **Step 2)** 검색 필드에 ‘**Binance’**&#xB97C; 입력하여 검색합니다.\
 **Step 3)** 표시된 목록에서 **Binance Smart Chain**을 선택합니다.
 
-![](<../../.gitbook/assets/2 (7).png>)
+![](../../.gitbook/assets/33.png)
 
 **Step 4)** ‘**만들기**’ 버튼을 눌러 계속 진행합니다.\
 **Step 5)** 계정 탭에서 새로운 바이낸스 스마트 체인 계정이 포트폴리오에 추가되었음을 확인합니다.
@@ -40,7 +40,7 @@ Binance Smart Chain은 기존 Binance Chain에 프로그래밍 가능성과 상�
 
 ‘Discovery’탭에있는 내장된 댑 브라우저를 사용하여 다양한 블록체인 서비스에 액세스 할 수 있습니다.
 
-![](<../../.gitbook/assets/3 (6).png>)
+![](<../../.gitbook/assets/34 (2).png>)
 
 S**tep 1)** 하단 메뉴의 ‘**Discovery**’탭으로 이동합니다.\
 **Step 2)** 오른쪽 상단에있는 네트워크 아이콘 (지구 아이콘)을 클릭합니다.\

@@ -14,7 +14,7 @@ description: KAIA 코인 보내기/받기 기본 사용법
 
 코인 계정에서 **"받기"**&#xB97C; 클릭하면 카이아 계정 주소를 확인할 수 있습니다.
 
-<div align="left"><img src="../../.gitbook/assets/KAIA 코인 받기 (1).png" alt=""></div>
+<div align="left"><img src="../../.gitbook/assets/28.png" alt=""></div>
 
 코인 받기에 대한 자세한 내용은 [**여기**](../receive.md)를 참고하세요.
 
@@ -36,7 +36,7 @@ description: KAIA 코인 보내기/받기 기본 사용법
 디센트 월렛에서 GAS Limit를 자동으로 계산해줍니다.
 {% endhint %}
 
-<div align="left"><img src="../../.gitbook/assets/KAIA 코인 보내기.png" alt=""></div>
+<div align="left"><img src="../../.gitbook/assets/29.png" alt=""></div>
 
 
 

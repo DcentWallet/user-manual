@@ -2,7 +2,7 @@
 
 ## 트러스트 라인 추가하는 방법 <a href="#id-7d2a" id="id-7d2a"></a>
 
-<div align="left"><img src="../../../.gitbook/assets/XLM트러스트-01.png" alt=""></div>
+<div align="left"><img src="../../../.gitbook/assets/42.png" alt=""></div>
 
 **NOTE**: 스텔라 (XLM) 원장에 트러스트 라인을 추가하게되면 0.5 XLM이 계정에 락(lock)됩니다.
 
@@ -18,7 +18,7 @@
 
 단순히 트러스트 라인을 추가한다고 해서 이 계정으로 신탁 자산(발행 통화)을 받을 수 있는 것은 아닙니다. 트러스트 라인 계정에 자금을 받으려면 먼저 Trustline을 설정(활성화)해야 합니다.
 
-<div align="left"><img src="../../../.gitbook/assets/XLM트러스트-02.png" alt=""></div>
+<div align="left"><img src="../../../.gitbook/assets/43.png" alt=""></div>
 
 **1.** 트러스트 라인 계정(예: SHX)을 클릭하고 "**받기"** 버튼을 클릭합니다.
 
@@ -32,7 +32,7 @@
 
 잔액이 존재하지 않는 트러스트 라인 계정은 언제든지 비활성화 할 수 있습니다. **비활성화를 진행하면 기존에 락(lock)되었던 0.5 XLM을 다시 사용하실 수 있습니다.**
 
-<div align="left"><img src="../../../.gitbook/assets/XLM트러스트-03.png" alt=""></div>
+<div align="left"><img src="../../../.gitbook/assets/44.png" alt=""></div>
 
 **1.** 비활성화 하려는 트러스트 라인 계정을 (예: SHX) 클릭하고 **"계정상세/거래내역"**&#xC744; 클릭합니다.
 

@@ -22,7 +22,7 @@ Tron 계정을 활성화된 상태로 유지하려면 Tron 계정의 잔액이 0
 
 <mark style="color:red;">**Tron 계정 활성화 유지 비용 = 0.1 TRX**</mark>
 
-<figure><img src="../../.gitbook/assets/TRON.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/45.png" alt=""><figcaption></figcaption></figure>
 
 ## 자주 묻는 질문
 
@@ -32,6 +32,6 @@ A. Tron 계정의 TRX 잔액이 0.1 TRX 미만으로 떨어지면 비활성화�
 
 
 
-[강력한 보안, 지문으로 완성하다 **\[디센트 암호화폐 지갑\] 보러 가기 >>**](https://store-kr.dcentwallet.com/pages/dcent-biometric-crypto-wallet?utm\_source=userguide\&utm\_medium=dcent-web\&utm\_campaign=202406\_how-to-use-tron-account-trx-trc10-trc20-trc721)
+[강력한 보안, 지문으로 완성하다 **\[디센트 암호화폐 지갑\] 보러 가기 >>**](https://store-kr.dcentwallet.com/pages/dcent-biometric-crypto-wallet?utm_source=userguide\&utm_medium=dcent-web\&utm_campaign=202406_how-to-use-tron-account-trx-trc10-trc20-trc721)
 
 <figure><img src="../../.gitbook/assets/dcent-biometric-crypto-wallet_banner 1.png" alt=""><figcaption></figcaption></figure>
