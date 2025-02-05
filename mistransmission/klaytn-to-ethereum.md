@@ -18,7 +18,7 @@
 
 이더리움 계정에서 ‘**받기**’ 버튼을 누르고 ‘**주소 복사**’를 눌러줍니다.
 
-![](../.gitbook/assets/6666.jpg)
+<figure><img src="../.gitbook/assets/27.jpg" alt=""><figcaption></figcaption></figure>
 
 ### **2단계 :** 복사한 이더리움 주소를 블록 익스플로러에서 검색
 
@@ -44,7 +44,7 @@
 
 정상적으로 계정이 추가되면 아래와 같이 Account탭에 클레이튼 계정이 하나 더 추가된것을 확인할 수 있습니다.
 
-<div align="center"><img src="../.gitbook/assets/7777.jpg" alt=""></div>
+<div align="center"><img src="../.gitbook/assets/28.jpg" alt=""></div>
 
 ### **2단계 :** 새로 추가한 임시 계정에 **토큰 계정** 추가 하기
 
@@ -68,7 +68,7 @@
 
 안정적인 전송을 위해서 1 Klay 이상의 클레이를 새로 추가한 클레이 계정에 받습니다.
 
-![](../.gitbook/assets/9999.jpg)
+![](../.gitbook/assets/29.jpg)
 
 클레이를 받았다면 다음 단계로 넘어 갑니다.
 
@@ -80,11 +80,11 @@
 
 KORC 토큰 계정에서 ‘**보내기**’를 누르고 복사한 주소를 ‘**붙여넣기’** 합니다.
 
-![](../.gitbook/assets/121212.jpg)
+![](../.gitbook/assets/30.jpg)
 
 **‘전액’**&#xC744; 눌러 복원할 토큰을 모두 전송 합니다.
 
-![](../.gitbook/assets/1313.jpg)
+<figure><img src="../.gitbook/assets/31.jpg" alt=""><figcaption></figcaption></figure>
 
 복원할 토큰을 전송 후, 해당 거래가 완료 될 때까지 기다립니다. 거래가 완료 되면 다음 단계로 넘어갑니다.
 
