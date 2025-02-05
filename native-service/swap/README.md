@@ -111,7 +111,7 @@ To(받는 토큰) 에서 선택한 토큰 별로 보내는 토큰의 최소 수�
 
 이때 **"내역 보기" 버튼**을 누르면 스왑 내역을 확인할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/13.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/13 (2).jpg" alt=""><figcaption></figcaption></figure>
 
 스왑이 완료 되면 스왑 상세 화면에서 **TXID 를 클릭하면** 실제 트랜잭션 정보를 Block Explorer로 확인할 수 있습니다.
 
@@ -119,7 +119,7 @@ To(받는 토큰) 에서 선택한 토큰 별로 보내는 토큰의 최소 수�
 
 **7)** 이제 "My Wallet" 탭을 통해 스왑된 암호화폐를 확인할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/14.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/14 (2).jpg" alt=""><figcaption></figcaption></figure>
 
 
 

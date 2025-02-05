@@ -10,7 +10,7 @@ FTSO 포털은 디센트 모바일 앱의 Discovery 탭(DApp 브라우저)에서
 
 <div align="left"><figure><img src="../.gitbook/assets/FTSO.gif" alt="" width="246"><figcaption></figcaption></figure></div>
 
-<div align="left"><img src="../.gitbook/assets/07.jpg" alt=""></div>
+<div align="left"><img src="../.gitbook/assets/16.jpg" alt=""></div>
 
 1. 댑 브라우저(Discovery)의 목록에서 **FTSO Portal** 을 클릭합니다.
 2. 이동된 FTSO 포털 사이트에서 송버드 혹은 플레어 지갑 주소로 접속(연결)합니다 .
@@ -21,13 +21,13 @@ FTSO 제공자에게 투표권을 위임하려면 먼저 **SGB 또는 FLR 토큰
 
 여기서는 송버드 네트워크로 FTSO 포털에 접속하여 SGB를 WSGB로 교환해보겠습니다.
 
-<div align="left"><img src="../.gitbook/assets/FTSO-02.png" alt=""></div>
+<div align="left"><img src="../.gitbook/assets/17.jpg" alt=""></div>
 
 1. 교환 버튼을 클릭합니다.
 2. 교환할 토큰의 수량을 설정하고 아래 버튼을 클릭하세요.
 3. 계속하려면 **"확인"**&#xC744; 누르십시오.
 
-<div align="left"><img src="../.gitbook/assets/FTSO-03.png" alt=""></div>
+<div align="left"><img src="../.gitbook/assets/19.jpg" alt=""></div>
 
 4. **"승인"**&#xC744; 누르고 인증하여 이 거래에 서명합니다.
 5. 계속하려면 **"확인"**&#xC744; 누르십시오.
@@ -35,13 +35,13 @@ FTSO 제공자에게 투표권을 위임하려면 먼저 **SGB 또는 FLR 토큰
 
 ### WSGB를 통한 투표권 위임 <a href="#id-99f9" id="id-99f9"></a>
 
-<div align="left"><img src="../.gitbook/assets/FTSO-04.png" alt=""></div>
+<div align="left"><img src="../.gitbook/assets/01.jpg" alt=""></div>
 
 1. "**내 FTSO 위임 현황"**&#xAE4C;지 아래로 스크롤하고 **"+ 추가 위임하기"**&#xB97C; 클릭합니다. 현재 최대 2개까지 위임을 추가할 수 있습니다.
 2. 투표율이 보이는 FTSO 제공자 목록은 임의의 순서로 표시됩니다. FTSO 제공자에게 투표권을 위임하려면 제공자 이름 옆에 있는 드롭다운 버튼을 클릭하십시오.
 3. 위임할 비율(% rate)을 입력합니다. 예를 들어, 잔액에 100 WSGB가 있습니다. 위임 비율을 50%로 설정하면 **100 WSGB x 0.50% = 50 WSGB**를 위임합니다. 각 위임에 대한 보상 기간도 확인할 수 있습니다.
 
-<div align="left"><img src="../.gitbook/assets/FTSO-05.png" alt=""></div>
+<div align="left"><img src="../.gitbook/assets/02.jpg" alt=""></div>
 
 4. 위임을 완료하려면 거래에 서명해야 합니다. 계속하려면 **"확인"**&#xC744; 누르세요.
 5. **"승인"**&#xC744; 누르고 인증하면 해당 거래에 서명됩니다.
@@ -49,7 +49,7 @@ FTSO 제공자에게 투표권을 위임하려면 먼저 **SGB 또는 FLR 토큰
 
 ### 나의 위임 상태 확인하기 <a href="#b38a" id="b38a"></a>
 
-<div align="left"><img src="../.gitbook/assets/FTSO-06.png" alt=""></div>
+<div align="left"><img src="../.gitbook/assets/03.jpg" alt=""></div>
 
 1. FTSO 제공자에게 투표권을 위임한다고 해서 WSGB가 전송되는 것은 아니며 모든 WSGB가 지갑에 남습니다.
 2. "**내 FTSO 위임 현황**" 에서 FTSO 제공자에게 위임된 **50 WSGB(Vote Power)**&#xC758; 위임 현황을 확인할 수 있습니다.
@@ -59,7 +59,7 @@ FTSO 제공자에게 투표권을 위임하려면 먼저 **SGB 또는 FLR 토큰
 
 ### 투표권 위임 해제 <a href="#id-7299" id="id-7299"></a>
 
-<div align="left"><img src="../.gitbook/assets/FTSO-07.png" alt=""></div>
+<div align="left"><img src="../.gitbook/assets/04.jpg" alt=""></div>
 
 1. FTSO에서 귀하의 투표권 위임을 해지하려면 "**내 FTSO 위임 현황**" 에서 **"위임 해제"** 버튼을 클릭합니다.
 2. 해제할 FTSO 제공자를 선택하여 **"위임 해제"** 버튼을 클릭합니다.
