@@ -28,7 +28,7 @@
 
 클레이튼 스코프 사이트에 접속후 1단계에서 복사한 클레이튼 주소를 검색합니다.
 
-![](<../.gitbook/assets/03 (3).jpg>)
+![](<../.gitbook/assets/03 (3) (1).jpg>)
 
 위에 처럼 **\[Token Balance] 탭**에서 오전송된 자산이 보인다면, 해당 자산은 본래 클레이튼 주소로 복원 할 수 있습니다.
 
@@ -84,7 +84,7 @@ KORC 토큰 계정에서 ‘**보내기**’를 누르고 복사한 주소를 �
 
 **‘전액’**&#xC744; 눌러 복원할 토큰을 모두 전송 합니다.
 
-<figure><img src="../.gitbook/assets/31.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/01.jpg" alt=""><figcaption></figcaption></figure>
 
 복원할 토큰을 전송 후, 해당 거래가 완료 될 때까지 기다립니다. 거래가 완료 되면 다음 단계로 넘어갑니다.
 
@@ -92,7 +92,7 @@ KORC 토큰 계정에서 ‘**보내기**’를 누르고 복사한 주소를 �
 
 아래와 같이 본래 주소를 ‘**붙여넣기**’ 하고 전액을 전송합니다.
 
-![](../.gitbook/assets/32.jpg)
+![](../.gitbook/assets/02.jpg)
 
 클레이튼 전송 거래가 완료될 때까지 기다립니다. 거래가 완료되면 다음으로 넘어갑니다.
 
