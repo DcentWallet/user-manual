@@ -6,10 +6,6 @@ description: 디센트 모바일 앱 설정
 
 "Setting" 메뉴를 이용하여 모바일 앱의 여러가지 설정을 변경할 수 있습니다.
 
-{% hint style="info" %}
-모바일 앱 버전 6.0.0 이상부터 "Manager" 탭이 Setting 탭 내로 이동하였습니다.
-{% endhint %}
-
 <figure><img src="../../.gitbook/assets/1 (19).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## 월렛모드 변경 <a href="#currency" id="currency"></a>
