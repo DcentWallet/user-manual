@@ -1,5 +1,6 @@
 ---
 description: Binance 계정에서 BNB 코인 보내기 받기
+hidden: true
 ---
 
 # 바이낸스 (BNB) 지갑 계정 사용법
@@ -23,11 +24,7 @@ description: Binance 계정에서 BNB 코인 보내기 받기
 
 생성된 바이낸스 코인 계정의 “받기”를 클릭하면 바이낸스 코인 주소를 확인 할 수 있습니다.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/BNB-01.png" alt="" width="563">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/BNB-01.png" alt="" width="563"></div>
 
 코인 받기에 대한 자세한 내용은 다음 항목을 참고하세요.
 
@@ -39,32 +36,20 @@ description: Binance 계정에서 BNB 코인 보내기 받기
 
 바이낸스 (BNB) 코인을 거래소 계정으로 보내는 경우 반드시 Memo를 입력하셔야 합니다. 거래소가 아닌 디센트 월렛과 같이 개인이 직접 생성한 바이낸스 (BNB) 지갑 주소의 Memo는 옵션입니다. 임의의 Memo를 입력하거나 Memo 없음을 체크하세요.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/BNB-02.png" alt="" width="344"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/BNB-02.png" alt="" width="344"><figcaption></figcaption></figure></div>
 
 송금 시에는 송금 확인 창에서 다시 한번 주소와 메모를 확인해주세요
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/BNB-04.png" alt="" width="344"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/BNB-04.png" alt="" width="344"><figcaption></figcaption></figure></div>
 
 ### 바이낸스 (BNB) 코인 수수료
 
-<div align="left">
-
-<img src="../../.gitbook/assets/BNB-03.png" alt="" width="344">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/BNB-03.png" alt="" width="344"></div>
 
 바이낸스 코인의 수수료는 고정 값을 사용합니다. 바이낸스 코인 보내기를 할 때마다 “0.000075 BNB” 가 발생합니다.
 
 
 
-[강력한 보안, 지문으로 완성하다 **\[디센트 암호화폐 지갑\] 보러 가기 >>**](https://store-kr.dcentwallet.com/pages/dcent-biometric-crypto-wallet?utm\_source=userguide\&utm\_medium=dcent-web\&utm\_campaign=202406\_binance-bnb)
+[강력한 보안, 지문으로 완성하다 **\[디센트 암호화폐 지갑\] 보러 가기 >>**](https://store-kr.dcentwallet.com/pages/dcent-biometric-crypto-wallet?utm_source=userguide\&utm_medium=dcent-web\&utm_campaign=202406_binance-bnb)
 
 <figure><img src="../../.gitbook/assets/dcent-biometric-crypto-wallet_banner 1.png" alt=""><figcaption></figcaption></figure>

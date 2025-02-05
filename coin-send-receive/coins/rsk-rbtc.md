@@ -18,11 +18,7 @@ RSK 계정이 없다면 생성해 주세요. 코인 이름은 "RSK Smart Bitcoin
 
 코인 계정에서 "받기"를 클릭하면 주소를 확인할 수 있습니다.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/RBTC.png" alt="" width="563">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/RSK 코인(RBTC) 받기.png" alt=""></div>
 
 코인 받기에 대한 자세한 내용은 다음 항목을 참고하세요.
 
@@ -40,11 +36,7 @@ RSK 코인을 전송하는 방법은 일반적인 코인 보내기와 같습니�
 
 ### RSK 수수료 입력
 
-<div align="left">
-
-<img src="../../.gitbook/assets/image (213).png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/RSK 코인(RBTC) 수수료 입력.png" alt=""></div>
 
 RSK의 수수료는 보내는 금액을 입력하면 자동으로 계산됩니다. 수수료는 현재 블록체인 트랜잭션의 평균 수수료를 바탕으로 기본 설정됩니다. 수수료 슬라이드를 조정하거나 고급 설정을 통해 수수료를 조정할 수 있습니다.
 
@@ -54,6 +46,6 @@ RSK의 수수료는 보내는 금액을 입력하면 자동으로 계산됩니�
 
 
 
-[강력한 보안, 지문으로 완성하다 **\[디센트 암호화폐 지갑\] 보러 가기 >>**](https://store-kr.dcentwallet.com/pages/dcent-biometric-crypto-wallet?utm\_source=userguide\&utm\_medium=dcent-web\&utm\_campaign=202406\_rsk-rbtc)
+[강력한 보안, 지문으로 완성하다 **\[디센트 암호화폐 지갑\] 보러 가기 >>**](https://store-kr.dcentwallet.com/pages/dcent-biometric-crypto-wallet?utm_source=userguide\&utm_medium=dcent-web\&utm_campaign=202406_rsk-rbtc)
 
 <figure><img src="../../.gitbook/assets/dcent-biometric-crypto-wallet_banner 1.png" alt=""><figcaption></figcaption></figure>
