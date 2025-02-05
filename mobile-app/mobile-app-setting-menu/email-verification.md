@@ -13,7 +13,7 @@
 
 ## 거래소 개인 지갑 인증 가입하기
 
-<figure><img src="../../.gitbook/assets/가입-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/가입-01 (2).png" alt=""><figcaption></figcaption></figure>
 
 1\) 디센트 모바일 앱 **"Setting"** 탭에서 **"거래소 개인 지갑 인증"** 메뉴를 선택합니다.
 
@@ -50,25 +50,25 @@
 
 ## 거래소 개인 지갑 인증 로그인하기
 
-<figure><img src="../../.gitbook/assets/로그인-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/로그인-01 (2).png" alt=""><figcaption></figcaption></figure>
 
 1\) 디센트 모바일 앱 **"Setting"** 탭에서 **"거래소 개인 지갑 인증"** 메뉴를 선택합니다.
 
 2\) 가입된 이메일 주소와 비밀번호를 입력하고 **"로그인"** 버튼을 누릅니다.
 
-3\) 로그인을 완료하면 가입된 이름과 이메일 주소를 확인할 수 있습니다.
+3\) 로그인을 완료하면 **"거래소 개인 지갑 인증"** 메뉴에 <mark style="color:green;">**"인증됨"**</mark> 아이콘이 표시됩니다.
 
 ### 코인 계정 받기 화면에서 로그인된 정보 확인하기
 
 거래소 정책에 따라 개인 지갑 정보 인증과 함께 지갑 주소 확인을 요청할 수 있습니다. 거래소 개인 지갑 인증 메뉴에 로그인을 하면 지갑 주소와 로그인된 정보를 한 화면에서 확인할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/인증.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/인증 (2).png" alt=""><figcaption></figcaption></figure>
 
-1\) 거래소 개인 지갑 인증 메뉴에 로그인 후 화면 좌측 상단 "내 정보" 글씨 옆의 **"← 화살표"** 버튼을 누릅니다.&#x20;
+1\) 모바일 앱의 **"My Wallet"** 탭을 누릅니다.
 
-2\) 모바일 앱의 "My Wallet" 탭을 누르고 거래소에 인증할 코인 계정의 **"받기"** 버튼을 누릅니다.
+2\) 거래소에 인증할 코인 계정의 **"Receive(받기)"** 버튼을 누릅니다.
 
-3\) 로그인된 상태에서 받기 화면 우측 상단의 사람 모양 아이콘이 추가 표시됩니다. 이를 누르면 로그인된 정보를 표시할 수 있습니다.
+3\) 받기 화면 하단에 **"내 정보"** 항목이 표시되고 로그인 된 사용자 정보가 표시됩니다.
 
 해당 화면을 스크린샷으로 캡쳐하여 거래소로 보내면 관련 인증 작업에 도움이 될 수 있습니다.
 
