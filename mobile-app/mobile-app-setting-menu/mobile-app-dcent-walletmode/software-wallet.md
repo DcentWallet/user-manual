@@ -11,11 +11,11 @@
 니모닉 코드를 백업해 놓지 않은 상태에서 디센트 모바일 앱을 삭제하거나 모바일 폰을 분실하신 경우, 소프트웨어 지갑에 있는 모든 코인을 잃게 됩니다.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/1 (24).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1 (28).jpg" alt=""><figcaption></figcaption></figure>
 
 **앱 월렛을 백업하는 방법은 다음과 같습니다.**
 
-1\) D'CENT Manager 탭에서 "**앱 월렛 백업**"을 선택합니다.
+1\) Settings 탭에서 "**앱 월렛 백업**"을 선택합니다.
 
 2\) 모바일 앱의 6자리 비밀번호를 입력해주세요.
 

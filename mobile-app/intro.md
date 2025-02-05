@@ -12,7 +12,7 @@
 
 또는 [**여기**](https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet)를 클릭하여 바로 설치 할 수 있습니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/구글 플레이 스토어.webp" alt=""><figcaption><p>구글 플레이스토어 디센트 월렛 검색 화면</p></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/8 (3).jpg" alt=""><figcaption></figcaption></figure>
 
 ### 아이폰 앱 <a href="#iphone" id="iphone"></a>
 
@@ -24,7 +24,7 @@
 
 ## 주요 기능
 
-<figure><img src="../.gitbook/assets/Frame 1321315556 (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (27).jpg" alt=""><figcaption></figcaption></figure>
 
 **My Wallet** : 가지고 있는 코인 계정을 확인하거나 새롭게 추가할 수 있습니다. 원하는 코인은 보내거나 받을 수 있으며 보유 수량과 시세 정보 및 거래 내역을 확인할 수 있습니다. 또한 **NFTs** 탭을 클릭하면 지갑에 보유하고 있는 모든 NFT 자산을 한번에 확인할 수 있습니다.
 

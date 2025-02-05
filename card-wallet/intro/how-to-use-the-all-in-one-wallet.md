@@ -56,9 +56,9 @@
 
 2\) 현재 PIN을 새로운 PIN으로 변경할 때
 
+<figure><img src="../../.gitbook/assets/1 (25).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
-![올바르지 않은 PIN을 입력한 경우](../../.gitbook/assets/pin-block.png)
 
 {% hint style="danger" %}
 <mark style="color:red;">보안을 위해 올바른 PIN을 입력하기 위해 총 10번의 시도를 할 수 있습니다. 올인원 지갑의 보안 칩셋은 인증 시도가 실패한 횟수를 계속 카운트합니다. 잘못된 PIN을 10회 연속으로 입력하면 하드웨어 지갑의 보안 칩셋이 영구적으로 차단됩니다. 즉, 올인원 지갑에 저장된 모든 암호화폐 자산에 더 이상 액세스할 수 없고 영원히 손실됩니다.</mark>
