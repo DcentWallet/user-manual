@@ -12,7 +12,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/8.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/8 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 **3.** '**백업 이미지 생성**'을 선택합니다.
 

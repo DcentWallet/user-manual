@@ -86,7 +86,7 @@ Android의 경우 NFC 기능을 '**표준/기본 모드**'로 활성화합니다
 
 **10.** 휴대폰 뒷면에서 올인원 지갑을 탭하여 스캔합니다.
 
-<figure><img src="../../.gitbook/assets/7 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 **11.** '**확인**'을 클릭하여 설정을 완료합니다.
 

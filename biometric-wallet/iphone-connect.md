@@ -61,14 +61,14 @@
 
 2\) 아이콘을 클릭하여 연결 가능한 디센트 디바이스를 선택하세요
 
-<figure><img src="../.gitbook/assets/4.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 3\) 디센트 디바이스 선택 후 지갑 동기화가 자동으로 진행됩니다. 동기화가 시작되는데 수 초 정도 걸릴 수 있습니다.
 
-<figure><img src="../.gitbook/assets/5.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 동기화가 완료되면 모바일 앱의 왼쪽 상단에 연결 표시가 나타나고, 콜드월렛의 오른쪽 상단에 푸른색의 블루투스 연결 상태등이 켜집니다.
 
-<figure><img src="../.gitbook/assets/6.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/6 (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 이제 가지고 계신 코인 계정을 추가하여 디센트 월렛을 사용할 수 있습니다. 코인 계정 추가에 대한 자세한 안내는 [**여기**](../mobile-app/create-account/)를 참고하세요.

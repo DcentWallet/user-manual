@@ -34,7 +34,7 @@ OTG 제품의 종류로는 젠더 타입, 케이블 타입 등이 있으며, 별
 
 콜드월렛과 연결되지 않았다는 표시가 나타납니다.
 
-<figure><img src="../../.gitbook/assets/1 (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1) (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 안드로이드 폰과 콜드월렛 OTG 케이블로 연결
 
@@ -48,11 +48,11 @@ OTG 제품의 종류로는 젠더 타입, 케이블 타입 등이 있으며, 별
 
 
 
-<figure><img src="../../.gitbook/assets/2 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (1) (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 2\) 연결이 완료되면 콜드월렛과 동기화가 진행되고, 월렛을 사용할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/3 (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1) (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
