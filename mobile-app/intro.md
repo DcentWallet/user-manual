@@ -12,7 +12,7 @@
 
 또는 [**여기**](https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet)를 클릭하여 바로 설치 할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/8 (3).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/8 (3).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ### 아이폰 앱 <a href="#iphone" id="iphone"></a>
 
