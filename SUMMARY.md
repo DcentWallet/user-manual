@@ -86,7 +86,7 @@
   * [dApp 허용(권한) 철회하는 방법](native-service/dapp-browser/how-to-revoke-dapp-allowances.md)
 * [인사이트 (Insight)](native-service/insight.md)
 * [스왑 (Swap)](native-service/swap/README.md)
-  * [스왑 지원 네트워크 목록](native-service/swap/undefined.md)
+  * [스왑 지원 네트워크 목록](native-service/swap/supported-networks.md)
 * [교환 (Exchange)](native-service/exchange.md)
 * [FTSO 포털 - 투표권 위임](native-service/ftso.md)
 * [스택스 스택킹 위임 서비스](native-service/stacks-stacking-delegation-service.md)
