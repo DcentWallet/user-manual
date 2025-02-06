@@ -19,7 +19,7 @@
 * **③** 디센트 앱 → 하단 **GNB 영역**의 **‘스왑’ 아이콘** 클릭
 * **④** 디센트 앱 → **\[Insight] 탭의 코인별 상세 화면** → **‘스왑’ 버튼** 클릭
 
-<figure><img src="../../.gitbook/assets/1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (25).jpg" alt=""><figcaption></figcaption></figure>
 
 **2)** 스왑 서비스에 접속하면 **From(보내는 토큰)** 과 **To(받는 토큰)**&#xC744; 선택할 수 있는 화면이 뜹니다.
 

@@ -56,7 +56,7 @@
 
 2\) 현재 PIN을 새로운 PIN으로 변경할 때
 
-<figure><img src="../../.gitbook/assets/1 (25).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (25) (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
