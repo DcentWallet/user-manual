@@ -4,7 +4,7 @@
 
 비트코인은 15개의 공개 주소를 사용하며, 디센트 지갑에서 BTC 계정을 만들면 15개의 공개 주소가 자동으로 생성됩니다. BTC 공개 주소 전체 목록을 확인하려면 모바일 앱을 실행하여 다음과 같이 진행해주세요.
 
-![](<../../.gitbook/assets/16 (6).png>)
+<figure><img src="../../.gitbook/assets/16.png" alt=""><figcaption></figcaption></figure>
 
 1\) BTC 계정에서 **"받기"** 버튼을 누르세요.
 

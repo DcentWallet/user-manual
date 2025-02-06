@@ -18,7 +18,7 @@ description: ETH 코인 보내기/받기 기본 사용법
 
 코인 계정에서 "받기"를 클릭하면 이더리움 계정 주소를 확인할 수 있습니다.
 
-<div align="left"><img src="../../.gitbook/assets/17 (4).png" alt=""></div>
+<div align="left"><img src="../../.gitbook/assets/17.png" alt=""></div>
 
 코인 받기에 대한 자세한 내용은 다음 항목을 참고하세요.
 
