@@ -72,4 +72,4 @@ DApp 서비스에서 사용이 끝나면 **"연결 종료"** 버튼을 클릭해
 
 DApp 서비스가 Web3 인터페이스를 지원하지 않는 경우 WalletConnect를 선택하여 DApp에 연결할 수 있습니다. 연결 방법은 위 섹션에서 설명한 이전 방식과 유사합니다.
 
-<div align="center"><img src="../../.gitbook/assets/walletconnect.gif" alt="" width="245"></div>
+<div align="center"><img src="../../.gitbook/assets/월렛커넥트-KOR.gif" alt="" width="375"></div>
