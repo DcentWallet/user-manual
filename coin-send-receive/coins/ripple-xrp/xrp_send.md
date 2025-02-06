@@ -2,7 +2,7 @@
 
 ### 상대방의 주소 및 Destination Tag 입력
 
-<div align="left"><img src="../../../.gitbook/assets/20 (1).png" alt=""></div>
+<div align="left"><img src="../../../.gitbook/assets/20 (3).png" alt=""></div>
 
 1. 모바일앱에서 거래에 사용할 리플 (XRP) 계정의 “**보내기**” 버튼를 눌러줍니다.\
 
