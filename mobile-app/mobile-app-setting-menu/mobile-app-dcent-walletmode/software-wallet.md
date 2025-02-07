@@ -11,11 +11,11 @@
 니모닉 코드를 백업해 놓지 않은 상태에서 디센트 모바일 앱을 삭제하거나 모바일 폰을 분실하신 경우, 소프트웨어 지갑에 있는 모든 코인을 잃게 됩니다.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/1 (28).jpg" alt=""><figcaption></figcaption></figure>
-
 **앱 월렛을 백업하는 방법은 다음과 같습니다.**
 
-1\) Settings 탭에서 "**앱 월렛 백업**"을 선택합니다.
+1\) My wallet 탭의 상단 배너에서 백업하기 버튼을 누르거나, Settings 탭에서 앱 월렛 백업 버튼을 눌러 백업화면으로 이동합니다.
+
+<figure><img src="../../../.gitbook/assets/1 (31).jpg" alt=""><figcaption></figcaption></figure>
 
 2\) 모바일 앱의 6자리 비밀번호를 입력해주세요.
 
@@ -23,9 +23,9 @@
 
 4\) 민감 정보에 대한 경고 팝업을 확인한 후 **"내용을 확인했습니다"** 버튼을 누릅니다.
 
-<figure><img src="../../../.gitbook/assets/2 (22).jpg" alt=""><figcaption></figcaption></figure>
-
 5\) 화면에 표시된 **24개의 니모닉 코드를 정확하게 순서대로 적어주세요**. 또는 **"니모닉 공유"** 버튼을 눌러서 일시적으로 클립보드 등에 저장할 수있습니다. "**백업 완료하고 니모닉 검증하기"**&#xB97C; 누르고 다음으로 진행합니다.&#x20;
+
+<figure><img src="../../../.gitbook/assets/2 (24).jpg" alt=""><figcaption></figcaption></figure>
 
 6\) 적어놓은 니모닉 코드를 확인하여 화면에 표시된 단어들을 선택해서 니모닉 코드를 순서대로 배열하세요.
 
@@ -33,9 +33,7 @@
 
 8\) 백업을 완료하였다면 **"지갑 사용하기"**&#xB97C; 눌러주세요.
 
-<figure><img src="../../../.gitbook/assets/3 (17).jpg" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../.gitbook/assets/3 (19).jpg" alt=""><figcaption></figcaption></figure>
 
 ## 앱 월렛 복구 <a href="#recover_appwallet" id="recover_appwallet"></a>
 
