@@ -24,6 +24,7 @@
 * Ethereum
 * Ethereum Classic
 * Fantom Opera
+* Flare
 * Gnosis
 * Harmony
 * Hedera Hashgraph
