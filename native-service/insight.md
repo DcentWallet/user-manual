@@ -62,6 +62,6 @@ Purchases can be made through the '**Swap**' service using the coins held in the
 
 For more information on how to use the Swap service, please check the link below.
 
-{% content-ref url="swap/" %}
-[swap](swap/)
+{% content-ref url="swap.md" %}
+[swap.md](swap.md)
 {% endcontent-ref %}
