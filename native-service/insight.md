@@ -13,11 +13,7 @@ Insight service is supported from D'CENT mobile app **version 6.0.0** **or highe
 **1)** You can access the Insight service by touching the **"Insight"** tab on the bottom of the D'CENT app.\
 If you cannot see the Insight tab, please update D'CENT mobile app to the latest version.
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/insight-eng1.png" alt="" width="287"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/insight-eng1.png" alt="" width="287"><figcaption></figcaption></figure></div>
 
 **2)** When you access the Insight tab, you can see the **Top7 list of the currently most popular cryptocurrencies** on **CoinGecko and CoinMarketCap.**\
 You can **easily switch between services by swiping left and right on the Top7 list screen** and compare the ranking of popular coins on each service.
@@ -50,11 +46,7 @@ If you wanted to purchase the coin, you can purchase it through the Swap service
 
 When you scroll down the screen, you can see the trading volume for the last 24 hours, and **"Details"** will display the coin's maket cap, circulating supply, total supply, explorers (supported blockchain), and more information.
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/insight-eng7.png" alt="" width="287"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/insight-eng7.png" alt="" width="287"><figcaption></figcaption></figure></div>
 
 ## Buy coin in Insight
 
@@ -70,6 +62,6 @@ Purchases can be made through the '**Swap**' service using the coins held in the
 
 For more information on how to use the Swap service, please check the link below.
 
-{% content-ref url="swap.md" %}
-[swap.md](swap.md)
+{% content-ref url="swap/" %}
+[swap](swap/)
 {% endcontent-ref %}
