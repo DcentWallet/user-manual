@@ -24,8 +24,8 @@
   * [렛저 지갑의 복구 코드를 사용하여 디센트 지갑에서 복구하는 방법](biometric-wallet/recovery/wallet-recovery-using-the-mnemonic-recovery-words-from-the-ledger-wallet.md)
 * [콜드월렛의 계정 정보 확인하기](biometric-wallet/account-info.md)
 * [콜드월렛 설정 메뉴](biometric-wallet/setting-menu/README.md)
+  * [콜드월렛 복구 단어 확인하기](biometric-wallet/setting-menu/seed-check.md)
   * [25번째 단어 (the Passphrase)](biometric-wallet/setting-menu/25th-word-the-passphrase.md)
-* [콜드월렛 복구 단어 확인하기](biometric-wallet/undefined.md)
 
 ## 카드타입 콜드월렛 <a href="#card-wallet" id="card-wallet"></a>
 
