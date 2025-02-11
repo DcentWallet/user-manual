@@ -8,7 +8,7 @@
 블루투스를 이용하지 않고 OTG 케이블을 이용해서 안드로이드 폰과 콜드월렛을 연결할 수도 있습니다. 자세한 방법은 [여기](android-otg.md)를 참고하세요.
 {% endhint %}
 
-### 콜드월렛 페어링 준비
+### 콜드월렛 페어링 준비 <a href="#prepare-to-pair-your-biometric-wallet" id="prepare-to-pair-your-biometric-wallet"></a>
 
 {% embed url="https://youtu.be/oSkJH3WmP8s?feature=shared" %}
 
@@ -36,7 +36,7 @@
 
 이 때 콜드월렛의 오른쪽 상단에서 파란 빛이 깜빡이면 정상입니다.
 
-### 안드로이드 폰에서 연결
+### 안드로이드 폰에서 연결 <a href="#connecting-from-the-android-phone" id="connecting-from-the-android-phone"></a>
 
 1\) 안드로이드 폰에서 블루투스 메뉴로 들어가세요.
 
@@ -66,11 +66,11 @@
 
 휴대폰에 지문인증형 지갑이 등록된 상태라면 다음에 사용할 때 디센트 앱을 실행하면 휴대폰과 지문인증형 지갑간의 블루투스 연결이 자동으로 이루어집니다.
 
-## 앱 다운로드
+## 앱 다운로드 <a href="#mobile-app-download" id="mobile-app-download"></a>
 
 [**링크**](https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet)를 클릭하여 디센트 모바일 앱을 설치합니다.
 
-### 구글 플레이 스토어에서 검색하여 설치
+### 구글 플레이 스토어에서 검색하여 설치 <a href="#install-by-searching-from-google-play-store" id="install-by-searching-from-google-play-store"></a>
 
 구글 플레이 스토어에서 검색하여 디센트 모바일 앱을 설치할 수도 있습니다.
 
@@ -78,9 +78,9 @@
 
 <div align="left"><img src="../../.gitbook/assets/image (84).png" alt=""></div>
 
-## 모바일 앱 기본 설정
+## 모바일 앱 기본 설정 <a href="#basic-setup-for-mobile-app" id="basic-setup-for-mobile-app"></a>
 
-### 지갑 모드 선택
+### 지갑 모드 선택 <a href="#select-wallet-mode" id="select-wallet-mode"></a>
 
 모바일 앱을 처음 설치하셨다면 지갑 모드를 선택해야 합니다. **"지문인증형 콜드월렛"**&#xC744; 선택해 주세요.
 
@@ -93,7 +93,7 @@
 **Settings 탭** > **월렛모드 변경** > **지문인증형 콜드월렛**&#x20;
 {% endhint %}
 
-### 앱 비밀번호 등록
+### 앱 비밀번호 등록 <a href="#egister-password-for-mobile-app" id="egister-password-for-mobile-app"></a>
 
 디센트 모바일 앱 보호를 위한 6자리 비밀번호를 등록해야 합니다. 앱 비밀번호는 디센트 모바일 앱을 실행할 때마다 필요하니 반드시 기억해주시기 바랍니다.
 
@@ -103,7 +103,7 @@
 앱 비밀번호는 [앱 설정 메뉴](../../mobile-app/mobile-app-setting-menu/)를 통해 나중에 변경하실 수 있습니다. 앱 비밀번호 이외에도 지문 인식을 통해 앱을 보호할 수 있습니다. 자세한 내용은 [앱 설정 메뉴 항목](../../mobile-app/mobile-app-setting-menu/)을 참고하세요.
 {% endhint %}
 
-### 모바일 앱 권한 설정
+### 모바일 앱 권한 설정 <a href="#setting-mobile-app-permissions" id="setting-mobile-app-permissions"></a>
 
 디센트 모바일 앱 권한 허용 안내 팝업이 표시됩니다. "허용" 버튼을 눌러야 콜드월렛과 동기화를 할 수 있습니다.
 
@@ -119,14 +119,14 @@
 
 <figure><img src="../../.gitbook/assets/Frame 1321315582.jpg" alt=""><figcaption></figcaption></figure>
 
-### 모바일 앱 설정 완료
+### 모바일 앱 설정 완료 <a href="#completing-the-basic-setup-on-mobile-app" id="completing-the-basic-setup-on-mobile-app"></a>
 
 이제 모든 준비가 거의 끝나갑니다. 모바일 앱과 콜드월렛을 동기화하고 필요한 코인을 추가하면 됩니다.\
 
 
 <figure><img src="../../.gitbook/assets/Frame 1321315558 (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-## 콜드월렛과 디센트앱 동기화
+## 콜드월렛과 디센트앱 동기화 <a href="#synchronizing-mobile-app-and-biometric-wallet" id="synchronizing-mobile-app-and-biometric-wallet"></a>
 
 앱 기본 설정이 끝났다면 콜드월렛과 모바일 앱의 동기화를 진행해주세요.
 
