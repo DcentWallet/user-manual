@@ -42,7 +42,7 @@
 * [모바일 앱 소개](mobile-app/intro.md)
 * [계정 만들기](mobile-app/create-account/README.md)
   * [커스텀 토큰을 추가하는 방법](mobile-app/create-account/how-to-add-a-custom-token-account.md)
-  * [생성한 계정 제거 (숨기기) 방법](mobile-app/create-account/undefined.md)
+  * [생성한 계정 제거 (숨기기) 방법](mobile-app/create-account/how-to-remove-hide-a-coin-account.md)
   * [커스텀 경로 BTC 계정 추가하는 방법](mobile-app/create-account/btc.md)
 * [앱 설정 메뉴](mobile-app/mobile-app-setting-menu/README.md)
   * [월렛모드 변경](mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/README.md)
