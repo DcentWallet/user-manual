@@ -8,8 +8,8 @@ description: 각 코인/토큰별 보내기, 받기 사용법
 [how-to-view-all-the-btc-public-addresses.md](how-to-view-all-the-btc-public-addresses.md)
 {% endcontent-ref %}
 
-{% content-ref url="ethereum.md" %}
-[ethereum.md](ethereum.md)
+{% content-ref url="how-to-use-ethereum-account.md" %}
+[how-to-use-ethereum-account.md](how-to-use-ethereum-account.md)
 {% endcontent-ref %}
 
 {% content-ref url="ripple-xrp/" %}
