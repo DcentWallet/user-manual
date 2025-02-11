@@ -4,15 +4,15 @@ description: 현재 콜드월렛에 설정되어 있는 복구 단어(니모닉�
 
 # 콜드월렛 복구 단어 확인하기
 
-## 요구사항
+## 요구사항 <a href="#requirements-for-seed-check" id="requirements-for-seed-check"></a>
 
-### **펌웨어 버전 확인**
+### **펌웨어 버전 확인** <a href="#check-the-firmware-version" id="check-the-firmware-version"></a>
 
 콜드월렛 펌웨어 버전 v2.15.3.90ef 부터 복구 단어 확인이 가능합니다. 펌웨어를 업데이트하는 방법은 아래 링크를 참고해주세요.
 
 {% embed url="https://userguide.dcentwallet.com/v/kr/biometric-wallet/firmware-update" %}
 
-### EdDSA 마스터 키 활성화 상태 확인&#x20;
+### EdDSA 마스터 키 활성화 상태 확인  <a href="#check-the-eddas-key" id="check-the-eddas-key"></a>
 
 1.  콜드월렛의 설정 메뉴를 선택해주세요.
 
@@ -28,9 +28,9 @@ description: 현재 콜드월렛에 설정되어 있는 복구 단어(니모닉�
 
     ![](../../.gitbook/assets/슬라이드10.png)
 
-## 복구단어가 일치하지 확인하는 방법
+## 복구단어가 일치하지 확인하는 방법 <a href="#how-to-check-seed-phrase" id="how-to-check-seed-phrase"></a>
 
-### **적어놓은 복구 단어 입력**
+### **적어놓은 복구 단어 입력** <a href="#enter-seed-phrase" id="enter-seed-phrase"></a>
 
 1.  콜드월렛의 설정 메뉴를 선택해주세요.
 
