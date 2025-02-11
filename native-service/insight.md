@@ -56,7 +56,7 @@ Check the details of a coin in the Top7 list in the Insight tab. You can touch t
 Currently the Insight **only offers purchasing an asset via Swap service**. If the coin network is a one that is not supported by the Swap Service, the "Buy" button will be inactive (stays in shaded grey).
 {% endhint %}
 
-Purchases can be made through the '**Swap**' service using the coins held in the D'CENT wallet. You can select the desired coin from the ones you have, or confirm the transaction pair by swapping the coin through the '**Popular Swap Pairs**'.
+Purchases can be made through the '**Swap**' service using the coins held in the D'CENT wallet. You can select the desired coin from the ones you have.
 
 <figure><img src="../.gitbook/assets/Frame 1321315652.jpg" alt=""><figcaption></figcaption></figure>
 
