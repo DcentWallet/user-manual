@@ -58,7 +58,7 @@ Currently the Insight **only offers purchasing an asset via Swap service**. If t
 
 Purchases can be made through the '**Swap**' service using the coins held in the D'CENT wallet. You can select the desired coin from the ones you have, or confirm the transaction pair by swapping the coin through the '**Popular Swap Pairs**'.
 
-<figure><img src="../.gitbook/assets/insight-eng8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Frame 1321315652.jpg" alt=""><figcaption></figcaption></figure>
 
 For more information on how to use the Swap service, please check the link below.
 

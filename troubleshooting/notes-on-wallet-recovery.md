@@ -14,7 +14,7 @@ A legacy account is a cryptocurrency account that was created by the user before
 
 A legacy account will be marked with a label icon "**Legacy**" on the account. Below is an example of what a Legacy account looks like.
 
-![](../.gitbook/assets/old-accounts.png)
+![](<../.gitbook/assets/Frame 1321315618.jpg>)
 
 If you have previously created **Klaytn, ETC, or RSK** in your D'CENT Wallet before this update (firmware(**v2.9.2**) or App Wallet(**v5.3.1**)), and if you have just recovered your wallet, you will have to **add the Legacy account** in the D'CENT App to see your account balance again.
 
