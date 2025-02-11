@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Check points on Email verification error
 
 {% hint style="info" %}
