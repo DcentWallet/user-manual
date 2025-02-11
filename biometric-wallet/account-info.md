@@ -6,15 +6,11 @@
 콜드월렛이 모바일 앱과 동기화되지 않더라도 각 코인별 기본 계정 정보를 콜드월렛에서 확인할 수 있습니다.
 {% endhint %}
 
-## 계정 정보 확인
+## 계정 정보 확인 <a href="#check-account-info" id="check-account-info"></a>
 
 콜드월렛에서 계정 정보를 확인하기 위해서는 초기 화면에서 해당 코인을 선택하면 가능합니다.
 
-<div align="left">
-
-<img src="../.gitbook/assets/1 (12).png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/1 (12).png" alt=""></div>
 
 모바일 앱과 연결하여 계정을 생성하는 방법은 [여기](../mobile-app/create-account/)를 참조해 주세요.
 
@@ -24,17 +20,13 @@
 계정 정보에 표시된 날짜와 시간은 콜드월렛에 마지막으로 추가된 코인 계정이 생성된 시간입니다.
 {% endhint %}
 
-## 계정 주소 확인
+## 계정 주소 확인 <a href="#check-account-address" id="check-account-address"></a>
 
 모바일 앱을 사용하지 않고도 콜드월렛에서 계정 주소와 계정 주소의 QR 코드를 확인할 수 있습니다.
 
-<div align="left">
+<div align="left"><img src="../.gitbook/assets/2 (10).png" alt=""></div>
 
-<img src="../.gitbook/assets/2 (10).png" alt="">
-
-</div>
-
-## 콜드 월렛에서 계정 정보 삭제
+## 콜드 월렛에서 계정 정보 삭제 <a href="#deleting-account-info-on-the-biometric-wallet" id="deleting-account-info-on-the-biometric-wallet"></a>
 
 사용하지 않는 계정이 너무 많아 계정 정보를 삭제하고 싶은 경우 아래와 같이 가능합니다. **이 경우 모든 계정 정보가 삭제 됩니다.**
 
