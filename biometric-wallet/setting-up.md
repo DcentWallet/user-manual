@@ -16,11 +16,11 @@ description: 콜드월렛에 새로운 지갑 생성하기
 * OK 버튼 : 메뉴를 선택합니다.
 * Back 버튼 : 선택을 취소하거나 이전 화면으로 돌아갑니다.
 
-## 1단계 : 언어 선택 및 지갑 생성
+## 1단계 : 언어 선택 및 지갑 생성 <a href="#step-1-select-language-and-create-wallet" id="step-1-select-language-and-create-wallet"></a>
 
 {% embed url="https://www.youtube.com/watch?v=iUwj1L_8F8c&feature=youtu.be" %}
 
-### 전원 켜기
+### 전원 켜기 <a href="#power-on-dcent-biometric-wallet" id="power-on-dcent-biometric-wallet"></a>
 
 기기 오른쪽 옆 전원 버튼을 3초 이상 눌러 전원을 켭니다.
 
@@ -28,7 +28,7 @@ description: 콜드월렛에 새로운 지갑 생성하기
 전원이 켜지질 않는다면 가지고 있는 USB 충전 케이블을 통해 콜드월렛의 배터리를 충전한 후 전원을 켜주시기 바랍니다.
 {% endhint %}
 
-### 언어 선택
+### 언어 선택 <a href="#select-language" id="select-language"></a>
 
 ∨ 버튼을 눌러 원하는 언어로 이동 후 OK 버튼을 누릅니다.
 
@@ -40,7 +40,7 @@ description: 콜드월렛에 새로운 지갑 생성하기
 초기화가 끝난 후에도 콜드월렛의 [설정 메뉴](setting-menu/)를 통해 언어를 변경할 수 있습니다.
 {% endhint %}
 
-### "지갑 생성" 선택
+### "지갑 생성" 선택 <a href="#select-create-wallet" id="select-create-wallet"></a>
 
 새로운 지갑을 생성하기 위하여 "지갑 생성" 메뉴를 선택합니다.
 
@@ -50,12 +50,12 @@ description: 콜드월렛에 새로운 지갑 생성하기
 지갑 생성을 선택하면 새로운 키로 지갑이 생성됩니다. 예전에 생성했던 지갑을 복구하시려면 [여기](recovery/)를 참고하세요.
 {% endhint %}
 
-## 2단계 : PIN (4\~8자리) 및 지문 등록
+## 2단계 : PIN (4\~8자리) 및 지문 등록 <a href="#step-2-register-pin-and-fingerprint" id="step-2-register-pin-and-fingerprint"></a>
 
 지갑 접근을 관리하기 위한 PIN과 지문을 등록합니다. \
 &#xNAN;_&#xD38C;웨어 2.5.5 이하 버전에서는 4자리 PIN만 지원합니다._
 
-### PIN 설정
+### PIN 설정 (4\~8자리) <a href="#register-a-new-pin-4-to-8-digits" id="register-a-new-pin-4-to-8-digits"></a>
 
 ∧(위, 숫자 증가) 또는 ∨(아래, 숫자 감소) 버튼을 이용하여 4\~8자리 PIN을 설정합니다. 원하는 숫자값이 정해지면 OK버튼을 눌러 해당 숫자를 입력합니다.
 
@@ -69,7 +69,7 @@ description: 콜드월렛에 새로운 지갑 생성하기
 
 PIN을 4자리로 등록한다면 "보안이 낮다는" 메세지가 표시됩니다. 이와 상관없이 입력한 PIN을 사용하길 희망하는 경우 하드웨어 지갑의 OK버튼을 눌러주세요.&#x20;
 
-### 설정한 &#xD;PIN 확인
+### 설정한 &#xD;PIN 확인 <a href="#verify-your-pin" id="verify-your-pin"></a>
 
 위에서 설정한 값과 같은 PIN을 입력합니다.
 
@@ -79,7 +79,7 @@ PIN을 4자리로 등록한다면 "보안이 낮다는" 메세지가 표시됩�
 
 PIN 값은 초기 설정 완료 후에 [설정 메뉴](setting-menu/)를 통해 변경할 수 있습니다.
 
-### 지문 등록&#xD;
+### 지문 등록&#xD; <a href="#register-fingerprint" id="register-fingerprint"></a>
 
 1\) 지문 센서에 등록하실 손가락을 지문 센서 위에 터치합니다.
 
@@ -91,7 +91,7 @@ PIN 값은 초기 설정 완료 후에 [설정 메뉴](setting-menu/)를 통해 
 
 <div align="left"><img src="../.gitbook/assets/image (9).png" alt=""></div>
 
-### 지문 등록 확인
+### 지문 등록 확인 <a href="#verify-fingerprint" id="verify-fingerprint"></a>
 
 등록한 손가락을 지문 센서 위에 터치하여 지문 등록이 잘 되었는지 확인합니다.
 
@@ -105,9 +105,9 @@ PIN 값은 초기 설정 완료 후에 [설정 메뉴](setting-menu/)를 통해 
 
 ※ 지문 등록 확인이 실패한 경우에 지문은 저장되지 않습니다.
 
-## 3단계 : 지갑 복구 단어 저장
+## 3단계 : 지갑 복구 단어 저장 <a href="#step-3-write-down-the-recovery-seeds" id="step-3-write-down-the-recovery-seeds"></a>
 
-### 시작하기 전에 - 복구 단어(니모닉 코드)란?
+### 시작하기 전에 - 복구 단어(니모닉 코드)란? <a href="#before-you-begin-what-are-recovery-seeds-mnemonic-code" id="before-you-begin-what-are-recovery-seeds-mnemonic-code"></a>
 
 복구 단어는 사용자의 지갑을 복구할 수 있는 코드입니다.&#x20;
 
@@ -121,7 +121,7 @@ PIN 값은 초기 설정 완료 후에 [설정 메뉴](setting-menu/)를 통해 
 
 복구 카드 분실 시 지갑을 복구하지 못할 뿐 아니라 콜드월렛에 있는 자산이 위험할 수 있습니다.
 
-### 지갑 복구 단어 리스트 작성
+### 지갑 복구 단어 리스트 작성 <a href="#write-down-the-recovery-seeds-from-the-lists" id="write-down-the-recovery-seeds-from-the-lists"></a>
 
 1\) 위 내용이 설명된 안내문을 읽고 이해하셨다면 "OK" 버튼을 눌러주세요.
 
@@ -147,11 +147,11 @@ PIN 값은 초기 설정 완료 후에 [설정 메뉴](setting-menu/)를 통해 
 
 <div align="left"><img src="../.gitbook/assets/image (21).png" alt=""></div>
 
-### &#xD;적어놓은 단어 확인
+### &#xD;적어놓은 단어 확인 <a href="#recovery-seeds-verification" id="recovery-seeds-verification"></a>
 
 복구 단어를 다 적으셨다면, 복구 단어를 확인하는 절차를 거치게 됩니다. 복구 카드에 적어놓은 24개 단어를 모두 입력하여 복구 단어를 정확하게 적었는 지 확인합니다.
 
-#### 알파벳 첫 3개 입력
+#### 알파벳 첫 3개 입력 <a href="#enter-the-first-3-characters" id="enter-the-first-3-characters"></a>
 
 <div align="left"><img src="../.gitbook/assets/image (51).png" alt="단어 입력 화면 예시"></div>
 
@@ -161,7 +161,7 @@ PIN 값은 초기 설정 완료 후에 [설정 메뉴](setting-menu/)를 통해 
 
 
 
-#### 단어 찾기
+#### 단어 찾기 <a href="#finding-suggestion-from-the-list-shown" id="finding-suggestion-from-the-list-shown"></a>
 
 3개 알파벳 기반 단어 리스트에서 ∧/∨ 버튼을 이용하여 맞는 단어(_patch_)를 찾은 후 "OK" 버튼을 누릅니다.
 
@@ -171,7 +171,7 @@ PIN 값은 초기 설정 완료 후에 [설정 메뉴](setting-menu/)를 통해 
 
 해당 방법으로 24개 단어를 모두 입력하여 검토를 완료합니다.
 
-## 4단계 : 지갑 생성 완료
+## 4단계 : 지갑 생성 완료 <a href="#step-4-completing-the-initial-setup" id="step-4-completing-the-initial-setup"></a>
 
 <div align="left"><img src="../.gitbook/assets/image (136).png" alt=""></div>
 
@@ -184,7 +184,7 @@ PIN 값은 초기 설정 완료 후에 [설정 메뉴](setting-menu/)를 통해 
 ※ 디센트 지문인증형 콜드월렛에서 지원하는 전체 코인 리스트는 [https://www.dcentwallet.com/ko/supportedcoin](https://www.dcentwallet.com/ko/supportedcoin) 에서 확인할 수 있습니다.
 {% endhint %}
 
-### 펌웨어 확인
+### 펌웨어 확인 <a href="#check-for-the-latest-firmware" id="check-for-the-latest-firmware"></a>
 
 디센트 콜드월렛 세팅이 끝난 후에는 홈페이지를 통해 하드웨어 업데이트를 꼭 확인해 보시기 바랍니다. 추가 코인, 콜드월렛 기능 추가 등 펌웨어가 업데이트 되었을 수 있습니다.
 
