@@ -1,10 +1,10 @@
 # 아이폰과 연결하기
 
-## 앱 다운로드
+## 앱 다운로드 <a href="#mobile-app-download" id="mobile-app-download"></a>
 
 [**링크**](https://apps.apple.com/kr/app/dcent-hardware-wallet/id1447206611)를 클릭하여 디센트 모바일 앱을 설치합니다.
 
-### 앱 스토어에서 검색하여 설치
+### 앱 스토어에서 검색하여 설치 <a href="#install-by-searching-from-the-app-store" id="install-by-searching-from-the-app-store"></a>
 
 앱 스토어에서 검색하여 디센트 모바일 앱을 설치할 수도 있습니다.
 
@@ -12,9 +12,9 @@
 
 <div align="left"><img src="../.gitbook/assets/아이폰-01.png" alt="" width="274"></div>
 
-## 모바일 앱 기본 설정
+## 모바일 앱 기본 설정 <a href="#basic-setup-for-mobile-app" id="basic-setup-for-mobile-app"></a>
 
-### 지갑 모드 선택
+### 지갑 모드 선택 <a href="#select-wallet-mode" id="select-wallet-mode"></a>
 
 모바일 앱을 처음 설치하셨다면 지갑 모드를 선택해야 합니다. **"지문인증형 콜드월렛"**&#xC744; 선택해 주세요.
 
@@ -27,7 +27,7 @@
 **Settings 탭** > **월렛모드 변경** > **지문인증형 콜드월렛**&#x20;
 {% endhint %}
 
-### 앱 비밀번호 입력
+### 앱 비밀번호 입력 <a href="#register-password-for-mobile-app" id="register-password-for-mobile-app"></a>
 
 디센트 모바일 앱 보호를 위한 6자리 비밀번호를 등록해야 합니다. 앱 비밀번호는 디센트 모바일 앱을 실행할 때마다 필요하니 반드시 기억해주시기 바랍니다.
 
@@ -37,19 +37,19 @@
 앱 비밀번호는 [앱 설정 메뉴](../mobile-app/mobile-app-setting-menu/)를 통해 나중에 변경하실 수 있습니다. 앱 비밀번호 이외에도 TouchID나 FaceID를 통해 앱을 보호할 수 있습니다. 자세한 내용은 [앱 설정 메뉴 항목](../mobile-app/mobile-app-setting-menu/)을 참고하세요.
 {% endhint %}
 
-### 블루투스 설정
+### 블루투스 설정 <a href="#bluetooth-setting" id="bluetooth-setting"></a>
 
 아이폰의 설정 메뉴에서 블루투스를 켜주세요.
 
 <div align="left"><img src="../.gitbook/assets/아이폰-04.png" alt="" width="274"></div>
 
-## 콜드월렛과 블루투스로 연결
+## 콜드월렛과 블루투스로 연결 <a href="#bluetooth-connection-with-biometric-wallet" id="bluetooth-connection-with-biometric-wallet"></a>
 
-### 콜드월렛 전원 켜기
+### 콜드월렛 전원 켜기 <a href="#turn-on" id="turn-on"></a>
 
 먼저 콜드월렛의 전원을 켜고 지문인증을 진행해주세요.
 
-### 아이폰에서 연결
+### 아이폰에서 연결 <a href="#connecting-from-your-iphone" id="connecting-from-your-iphone"></a>
 
 {% embed url="https://youtu.be/WSB8pD0dnAY?feature=shared" %}
 
