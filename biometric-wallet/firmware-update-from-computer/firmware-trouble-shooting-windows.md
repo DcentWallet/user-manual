@@ -1,6 +1,6 @@
 # 트러블 슈팅 가이드 (Windows)
 
-## 컴퓨터에 설치된 디센트 브릿지 프로그램의 버전을 확인하세요. <a href="#check-the-version-of-the-dcent-bridge-program-running-on-your-computer" id="check-the-version-of-the-dcent-bridge-program-running-on-your-computer"></a>
+## 컴퓨터에 설치된 디센트 브릿지 프로그램의 버전을 확인하세요. <a href="#check-the-version-of-the-dcent-bridge-program" id="check-the-version-of-the-dcent-bridge-program"></a>
 
 최신 버전의 디센트 브릿지 프로그램을 사용하고 있는지 확인하시기 바랍니다.
 
@@ -8,7 +8,7 @@
 
 ![](../../.gitbook/assets/fw03.png)
 
-## 펌웨어 업데이트를 진행하다가 중간에 연결이 끊어졌어요. 콜드월렛이 정지된 화면에서 먹통 상태로 유지되고 전원도 꺼지지가 않아요. 어떻게 하면 될까요? <a href="#my-dcent-wallet-was-disconnected-while-the-firmware-was-being-updated.-the-device-is-stuck-on-a-scre" id="my-dcent-wallet-was-disconnected-while-the-firmware-was-being-updated.-the-device-is-stuck-on-a-scre"></a>
+## 펌웨어 업데이트를 진행하다가 중간에 연결이 끊어졌어요. 콜드월렛이 정지된 화면에서 먹통 상태로 유지되고 전원도 꺼지지가 않아요. 어떻게 하면 될까요? <a href="#trouble-shooting-1" id="trouble-shooting-1"></a>
 
 우선, 디센트 콜드월렛을 컴퓨터로부터 분리합니다.&#x20;
 
@@ -20,11 +20,11 @@ Bootloader 모드에서 다시 펌웨어 업데이트를 진행하여 디센트 
 
 <figure><img src="../../.gitbook/assets/트러블슈팅 (1).png" alt=""><figcaption></figcaption></figure>
 
-## 디센트 펌웨어 업데이트 웹페이지에서 “Update Firmware” 버튼을 눌렀는데, 동글 접속이 차단되 어 업데이트가 취소되었다는 메시지가 나옵니다. 어떻게 하면 될까요? <a href="#from-the-dcent-firmware-update-webpage-i-pressed-update-firmware-button-but-i-get-the-following-mess" id="from-the-dcent-firmware-update-webpage-i-pressed-update-firmware-button-but-i-get-the-following-mess"></a>
+## 디센트 펌웨어 업데이트 웹페이지에서 “Update Firmware” 버튼을 눌렀는데, 동글 접속이 차단되 어 업데이트가 취소되었다는 메시지가 나옵니다. 어떻게 하면 될까요? <a href="#trouble-shooting-2" id="trouble-shooting-2"></a>
 
 윈도우 시스템에서 디센트 콜드월렛을 인식하지 못하는 경우가 드물게 발생합니다. 해당 문제는 윈도우의 장치관리자를 통하여 오류로 표시된 장치를 삭제 후 다시 설치하여 해결이 가능합니다.
 
-### 장치 관리자에 접근하는 방법1 <a href="#how-to-access-device-manager-method-1" id="how-to-access-device-manager-method-1"></a>
+### 장치 관리자에 접근하는 방법1 <a href="#device-manager-method-1" id="device-manager-method-1"></a>
 
 키보드에서 **Windows + R** 키를 함께 눌러 줍니다.
 
@@ -38,7 +38,7 @@ Bootloader 모드에서 다시 펌웨어 업데이트를 진행하여 디센트 
 * Windows 11, 10 및 Windows 8의 경우, **장치 및 프린터** 카테고리에서 찾을 수 있습니다.
 * Windows 7의 경우 **시스템** 카테고리에서 찾을 수 있습니다.
 
-### 장치 관리자에 빠르게 접근하는 방법2 <a href="#how-to-quickly-access-device-manager-method-2" id="how-to-quickly-access-device-manager-method-2"></a>
+### 장치 관리자에 빠르게 접근하는 방법2 <a href="#device-manager-method-2" id="device-manager-method-2"></a>
 
 키보드에서 **Windows + R** 키를 함께 눌러 줍니다.
 
