@@ -20,8 +20,8 @@ description: 각 코인/토큰별 보내기, 받기 사용법
 [kaia.md](kaia.md)
 {% endcontent-ref %}
 
-{% content-ref url="rsk-rbtc.md" %}
-[rsk-rbtc.md](rsk-rbtc.md)
+{% content-ref url="how-to-use-rsk-account.md" %}
+[how-to-use-rsk-account.md](how-to-use-rsk-account.md)
 {% endcontent-ref %}
 
 {% content-ref url="binance-bnb.md" %}
