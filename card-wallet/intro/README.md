@@ -2,7 +2,7 @@
 
 <figure><img src="../../.gitbook/assets/1 (5).jpg" alt=""><figcaption><p>디센트 올인원 지갑 - 이더리움 EVM 호환 네트워크를 위한 가장 혁신적인 카드형 하드웨어 지갑</p></figcaption></figure>
 
-## 디센트 올인원 지갑이란?
+## 디센트 올인원 지갑이란? <a href="#what-is-dcent-all-in-one-wallet" id="what-is-dcent-all-in-one-wallet"></a>
 
 **디센트 올인원 지갑**은 암호화폐 자산을 안전하고 편리하게 보관하고 관리할 수 있는 방법을 찾는 모든 분들을 위한 최고의 솔루션입니다. <mark style="color:red;">은행 등급 인증을 받은 보안 칩셋과 개인키를 위한 암호화된 저장소</mark>를 통해 사용자는 자산을 안전하게 보호할 수 있습니다.&#x20;
 

@@ -4,7 +4,7 @@
 <mark style="color:red;">iOS 휴대폰 장치에서 올인원 지갑을 사용하려면 NFC 기능이 필요합니다. NFC 기능은 iPhone7 이상 모델부터 지원됩니다. 또한 iOS 버전이 13 이상이어야 합니다.</mark>
 {% endhint %}
 
-## 모바일폰의NFC 기능 활성화
+## 모바일폰의 NFC 기능 활성화 <a href="#enable-nfc-on-your-phone" id="enable-nfc-on-your-phone"></a>
 
 iOS 휴대폰의 경우 NFC 기능이 기본적으로 활성화되어 있습니다.&#x20;
 
@@ -20,7 +20,7 @@ Android의 경우 NFC 기능을 '**표준/기본 모드**'로 활성화합니다
 
 {% embed url="https://apps.apple.com/kr/app/dcent-hardware-wallet/id1447206611" %}
 
-## 디센트 앱 설정하기
+## 디센트 앱 설정하기 <a href="#first-set-up-your-dcent-app" id="first-set-up-your-dcent-app"></a>
 
 <figure><img src="../../.gitbook/assets/1 (6).jpg" alt=""><figcaption></figcaption></figure>
 
@@ -28,7 +28,7 @@ Android의 경우 NFC 기능을 '**표준/기본 모드**'로 활성화합니다
 
 **2.** '**카드형 콜드월렛**'을.클릭합니다.&#x20;
 
-### 디센트 앱의 비밀번호 설정하기&#x20;
+### 디센트 앱의 비밀번호 설정하기  <a href="#set-up-a-password-to-dcent-app" id="set-up-a-password-to-dcent-app"></a>
 
 디센트 앱에 6자리 비밀번호를 등록하세요. **이 비밀번호는 디센트 앱 잠금을 해제하기 위한 비밀번호입니다.** 6자리 비밀번호가 기억나지 않는 경우 디센트 앱을 다시 설치해야 합니다.
 
@@ -40,9 +40,9 @@ Android의 경우 NFC 기능을 '**표준/기본 모드**'로 활성화합니다
 
 **5.** 생체 인증을 건너뛰거나 활성화합니다. 6자리 PIN만 사용하여 디센트 앱 잠금을 해제하려면 건너뛰셔도 됩니다.
 
-## 올인원 지갑 설정하기
+## 올인원 지갑 설정하기 <a href="#set-up-the-all-in-one-wallet" id="set-up-the-all-in-one-wallet"></a>
 
-### 올인원 지갑 스캔하기
+### 올인원 지갑 스캔하기 <a href="#scan-your-all-in-one-wallet" id="scan-your-all-in-one-wallet"></a>
 
 <figure><img src="../../.gitbook/assets/3 (5).jpg" alt=""><figcaption></figcaption></figure>
 
@@ -56,7 +56,7 @@ Android의 경우 NFC 기능을 '**표준/기본 모드**'로 활성화합니다
 휴대폰에 보호 커버가 있는 경우 카드 지갑을 스캔하는 데 방해가 될 수 있습니다. 휴대폰의 인식 성능을 개선하려면 보호커버를 제거한 후 다시 시도하세요.
 {% endhint %}
 
-### 공장 초기 비밀번호를 내 비밀번호로 변경하기&#x20;
+### 공장 초기 비밀번호를 내 비밀번호로 변경하기  <a href="#change-the-factory-pin-to-your-own-pin" id="change-the-factory-pin-to-your-own-pin"></a>
 
 올인원 지갑의 공장 초기 PIN을 본인의 PIN으로 변경해야 사용할 수 있습니다.
 

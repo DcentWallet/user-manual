@@ -4,7 +4,7 @@ description: 현재 콜드월렛에 설정되어 있는 복구 단어(니모닉�
 
 # 콜드월렛 복구 단어 확인하기
 
-## 요구사항 <a href="#requirements-for-seed-check" id="requirements-for-seed-check"></a>
+## 요구사항 <a href="#requirements" id="requirements"></a>
 
 ### **펌웨어 버전 확인** <a href="#check-the-firmware-version" id="check-the-firmware-version"></a>
 
