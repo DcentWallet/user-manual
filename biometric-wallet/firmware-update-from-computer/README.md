@@ -127,7 +127,7 @@
 
 <div align="left"><img src="../../.gitbook/assets/PC업데이트-08 (1).png" alt=""></div>
 
-### 펌웨어 업데이트 진행 <a href="#tart-the-firmware-update" id="tart-the-firmware-update"></a>
+### 펌웨어 업데이트 진행 <a href="#start-the-firmware-update" id="start-the-firmware-update"></a>
 
 페이지에서 펌웨어 업데이트가 시작되면, 100% 완료될 때 까지 약 5\~10분 간 기다려 주세요.&#x20;
 
