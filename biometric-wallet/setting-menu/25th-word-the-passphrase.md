@@ -10,9 +10,9 @@
 25번째 단어를 설정하면 새로운 개인키로 대체되어 기존에 관리하던 코인 계정이 연동되지 않으므로 주의하여 주시기 바랍니다.
 {% endhint %}
 
-## 25번째 단어 설정하기
+## 25번째 단어 설정하기 <a href="#how-to-set-up-the-25th-word-passphrase" id="how-to-set-up-the-25th-word-passphrase"></a>
 
-### 요구 사항
+### 요구 사항 <a href="#requirements" id="requirements"></a>
 
 25번째 단어 기능은 디센트 지문인증형 지갑의 보안 칩셋에 **KSM 버전 1.1 이상**의 소프트웨어를 탑재한 기기에서 사용이 가능합니다. 요구 사항보다 낮은 KSM 버전을 탑재한 이전 모델의 지문인증형 지갑은 25번째 단어 기능을 지원하지 않습니다.
 
@@ -20,7 +20,7 @@ KSM 버전 확인은 **"설정 > 기기 정보"** 메뉴를 통해 확인이 가
 
 <figure><img src="../../.gitbook/assets/25번째-01.png" alt="" width="563"><figcaption></figcaption></figure>
 
-### **25번째 단어 설정**
+### **25번째 단어 설정** <a href="#set-up-the-25th-word" id="set-up-the-25th-word"></a>
 
 **Step 1)** 25번째 단어 메뉴로 진입하기:  **설정 > 보안 > 25번째 단어**
 
