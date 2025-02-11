@@ -6,7 +6,7 @@
 
 <figure><img src="../../.gitbook/assets/그림2 (1) (2).png" alt=""><figcaption></figcaption></figure>
 
-## 복구 호환 자산 목록&#x20;
+## 복구 호환 자산 목록  <a href="#list-of-recovery-compatible-assets-mainnets" id="list-of-recovery-compatible-assets-mainnets"></a>
 
 아래 암호화폐의 지갑 생성 경로는 렛저 지갑과 디센트 지갑에서 서로 **동일**합니다. **이는 렛저의 니모닉 코드 (복구 단어)를 이용하여 동일한 계정(개인 키)을 디센트 지갑에 생성할 수 있음을 의미합니다.**&#x20;
 
@@ -25,7 +25,7 @@
 * 지캐시 (ZEC)&#x20;
 * 트론 (TRX)
 
-### 토큰 자산 복구하기 (예: ERC20, BEP20, TRC10, 등)
+### 토큰 자산 복구하기 (예: ERC20, BEP20, TRC10, 등) <a href="#how-to-recover-token-assets-ie-erc20-bep20-trc10-...etc" id="how-to-recover-token-assets-ie-erc20-bep20-trc10-...etc"></a>
 
 렛저 지갑에서 토큰 자산도 보유했을 가능성이 있습니다. 토큰 자산이란 Ethereum, Binance Smart Chain, Tron, Polygon 등과 같은 EVM 호환 네트워크에 존재하는 스마트 컨트랙트를 통해 블록체인 프로젝트(서비스 제공자)가 직접발행한 디지털 자산입니다.
 
