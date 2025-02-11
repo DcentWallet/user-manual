@@ -8,17 +8,9 @@ FTSO Portal is a feature that allows users to interact with FTSO features on the
 
 FTSO portal can be found from the Discovery Tab(DApp browser) of the D’CENT Mobile App.
 
-<div align="left">
+<div align="left"><figure><img src="../.gitbook/assets/FTSO-eng.gif" alt="" width="245"><figcaption></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/FTSO-eng.gif" alt="" width="245"><figcaption></figcaption></figure>
-
-</div>
-
-<div align="left">
-
-<img src="../.gitbook/assets/FTSO-eng01.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/Frame 1321315637.jpg" alt=""></div>
 
 1. Go to the Discovery Tab and click **"FTSO Portal"** from the list.
 2. Connect to the FTSO Portal site with your wallet (Songbird or Flare) address to continue.
@@ -29,21 +21,13 @@ To delegate your vote power to an FTSO provider, you must first to **swap SGB or
 
 For example, we will connect to the FTSO portal using the Songbird Network and swap SGB to WSGB.
 
-<div align="left">
-
-<img src="../.gitbook/assets/FTSO-eng02.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/Frame 1321315638.jpg" alt=""></div>
 
 1. Click on the Swap button.
 2. Set the amount to swap and click the button below.
 3. Press **"Confirm"** to continue.
 
-<div align="left">
-
-<img src="../.gitbook/assets/FTSO-eng03.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/Frame 1321315639.jpg" alt=""></div>
 
 4. Press **"OK"** and authenticate to sign this transaction.
 5. Press **"Confirm"** to continue.
@@ -51,21 +35,13 @@ For example, we will connect to the FTSO portal using the Songbird Network and s
 
 ### Vote Power delegation with WSGB <a href="#id-49a0" id="id-49a0"></a>
 
-<div align="left">
-
-<img src="../.gitbook/assets/FTSO-eng04.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/Frame 1321315640.jpg" alt=""></div>
 
 1. Scroll down to "**My Delegation**' and click on **+ Add delegation**. Note that you can currently add up to 2 delegations.
 2. List of FTSO providers with voting power rates is shown in random order. To delegate Vote Power to an FTSO provider, click on the drop-down button next to the provider’s name.
 3. Enter the amount(**% rate**) you want to delegate. For example, we have 100 WSGB in the balance. Setting the delegation rate to 50% will delegate **100 WSGB \* 0.50% =** **50 WSGB**. Note that you can also check when the reward period will be for each delegation.
 
-<div align="left">
-
-<img src="../.gitbook/assets/FTSO-eng05.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/Frame 1321315641.jpg" alt=""></div>
 
 4. To finalize the delegation, you will need to sign a transaction. Press **"Confirm"** to continue.
 5. Press **"OK"** and authenticate, which will sign this transaction.
@@ -73,11 +49,7 @@ For example, we will connect to the FTSO portal using the Songbird Network and s
 
 ### Checking my delegation status <a href="#id-64b3" id="id-64b3"></a>
 
-<div align="left">
-
-<img src="../.gitbook/assets/FTSO-eng06.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/Frame 1321315644.jpg" alt=""></div>
 
 1. Note that delegating Vote Power to an FTSO provider does not transfer your WSGB and all of your WSGB stays in your wallet.
 2. From **"My Delegation",** you can see the delegation status of 50 WSGB(Vote Power) delegated to an FTSO provider.
@@ -87,11 +59,7 @@ For example, we will connect to the FTSO portal using the Songbird Network and s
 
 ### Undelegating Vote Power <a href="#id-5a41" id="id-5a41"></a>
 
-<div align="left">
-
-<img src="../.gitbook/assets/FTSO-eng07.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/Frame 1321315643.jpg" alt=""></div>
 
 1. To un-delegate your Vote Power from an FTSO, from **"My Delegation"** Click the **"Undelegate"** button.
 2. Select the FTSO provider you want to undelegate and click the **“Undelegate”** button.
@@ -100,11 +68,7 @@ For example, we will connect to the FTSO portal using the Songbird Network and s
 
 ### D’CENT FTSO Partners List <a href="#ce1a" id="ce1a"></a>
 
-<div align="left">
-
-<img src="../.gitbook/assets/FTSO-eng08.png" alt="" width="344">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/FTSO-eng08.png" alt="" width="344"></div>
 
 [FTSO AU](https://www.ftso.com.au/) | [AlphaOracle](https://www.alphaoracle.io/) | [ScandiNodes FTSO](https://ftso.scandinodes.com/) | [Aureus Ox](https://aureusox.com/) | [FTSO UK](https://www.ftso.uk/)\
 [Use Your Spark](https://www.useyourspark.com/) | [Defi Oracles](https://defioracles.org/) | [FTSO EU](https://www.ftso.eu/) | [Best FTSO](https://bestftso.xyz/) | [Bifrost Oracle](https://towolabs.com/) | [FlareFi](https://flarefi.tech)\

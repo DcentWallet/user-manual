@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Stacks Stacking Delegation Service
 
 ## Stacks Stacking guide
