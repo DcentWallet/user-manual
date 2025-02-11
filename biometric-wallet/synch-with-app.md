@@ -12,15 +12,15 @@
 [iphone-connect.md](iphone-connect.md)
 {% endcontent-ref %}
 
-## 동기화 절차
+## 동기화 절차 <a href="#synchronization-process" id="synchronization-process"></a>
 
 동기화는 콜드월렛의 정보와 모바일 앱의 정보를 일치시키기 위한 작업입니다. 콜드월렛에 저장된 계정 정보를 조회하여 모바일 앱 계정 정보에 반영합니다. 동기화는 다음의 절차를 따라 진행됩니다.
 
-### 기존 동기화 정보 확인
+### 기존 동기화 정보 확인 <a href="#verify-previously-synchronized-information" id="verify-previously-synchronized-information"></a>
 
 이미 콜드월렛과 동기화한 이력이 있는지 여부를 확인합니다. 연결된 콜드월렛과 동기화한 이력이 없다면 계정 정보 동기화 과정에서 콜드월렛의 주소를 조회하여 모바일 앱에 자동으로 계정이 추가됩니다.
 
-### 계정 정보 동기화
+### 계정 정보 동기화 <a href="#synchronize-account-information" id="synchronize-account-information"></a>
 
 1\) 콜드월렛의 계정 정보를 조회하여 모바일 앱에 등록되어 있는 계정 정보와 비교합니다.
 
