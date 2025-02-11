@@ -2,11 +2,11 @@
 
 When visiting a decentralized application service (dApp service or blockchain based service), the website will **usually detect** the decentralized wallet being used and **will automatically trigger** wallet connection request. In this case, simply click on 'Connect' button and your wallet gets connected to the website.
 
-![](<../../.gitbook/assets/auto trigger.png>)
+![](<../../.gitbook/assets/Frame 1321315624.jpg>)
 
 When visiting a dApp service, wallet connection may not be triggered by the website. In this case, you can simply press the "Connect Wallet" button from the website menu.
 
-![](<../../.gitbook/assets/manual trigger (1).png>)
+![](<../../.gitbook/assets/Frame 1321315625.jpg>)
 
 If a website shows D'CENT as a wallet option, click on the logo to connect to the website (dApp).
 

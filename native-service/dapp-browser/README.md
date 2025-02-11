@@ -2,7 +2,7 @@
 
 D’CENT Mobile App features a native DApp browser that is built into the application, which allows accessing web-based blockchain services by connecting a wallet account to log in.
 
-![](../../.gitbook/assets/1.png)
+![](<../../.gitbook/assets/Frame 1321315620.jpg>)
 
 From the DApp browser, you can use **Ethereum-based DApp** such as Maker Dao, Compound, Uniswap, and **Klaytn-based BApp** service such as KLAYSTATION.
 
@@ -18,17 +18,13 @@ For iPhone, D'CENT App does not show a list of 3rd party DApp service due to App
 
 Unlisted DApp services can be accessed by entering the **URL or through Google search.**
 
-![](../../.gitbook/assets/디스커버리-eng01.png)
+![](<../../.gitbook/assets/Frame 1321315621.jpg>)
 
 ### Using the Bookmark function
 
 Users can save the visiting service site as a favorite (or bookmark), which creates a **shortcut** for faster access the next time.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/디스커버리-eng02.png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/Frame 1321315622.jpg" alt=""></div>
 
 1\) Search for the name of the DApp service or enter the URL.
 
@@ -36,11 +32,7 @@ Users can save the visiting service site as a favorite (or bookmark), which crea
 
 3\) From the service site accessed, click on the Bookmark icon located at the bottom.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/디스커버리-eng03.png" alt="" width="563">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/Frame 1321315623.jpg" alt=""></div>
 
 4\) Double check that the network used for accessing this site is correct and click on **Add** button.
 
