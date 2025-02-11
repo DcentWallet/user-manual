@@ -44,8 +44,8 @@
 
 댑 브라우저에서 네트워크를 선택하는 방법은 아래 링크를 참고하세요.
 
-{% content-ref url="switch-network.md" %}
-[switch-network.md](switch-network.md)
+{% content-ref url="switch-blockchain-network.md" %}
+[switch-blockchain-network.md](switch-blockchain-network.md)
 {% endcontent-ref %}
 
 ### 메인넷

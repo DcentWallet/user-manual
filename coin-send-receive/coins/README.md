@@ -28,11 +28,11 @@ description: 각 코인/토큰별 보내기, 받기 사용법
 [binance-bnb.md](binance-bnb.md)
 {% endcontent-ref %}
 
-{% content-ref url="how-to-use-mona-account.md" %}
-[how-to-use-mona-account.md](how-to-use-mona-account.md)
+{% content-ref url="monacoin.md" %}
+[monacoin.md](monacoin.md)
 {% endcontent-ref %}
 
-{% content-ref url="how-to-use-stellar-lumen-xlm-account/" %}
-[how-to-use-stellar-lumen-xlm-account](how-to-use-stellar-lumen-xlm-account/)
+{% content-ref url="xlm/" %}
+[xlm](xlm/)
 {% endcontent-ref %}
 

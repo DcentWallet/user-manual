@@ -71,25 +71,25 @@
   * [RSK (RBTC) 지갑 계정 사용법](coin-send-receive/coins/how-to-use-rsk-account.md)
   * [바이낸스 (BNB) 지갑 계정 사용법](coin-send-receive/coins/binance-bnb.md)
   * [바이낸스 스마트 체인 계정 사용법](coin-send-receive/coins/how-to-use-binance-smart-chain-account.md)
-  * [모나코인 지갑 계정 사용법](coin-send-receive/coins/how-to-use-mona-account.md)
-  * [스텔라루멘 (XLM) 지갑 계정 사용법](coin-send-receive/coins/how-to-use-stellar-lumen-xlm-account/README.md)
-    * [스텔라 Trustline 사용법](coin-send-receive/coins/how-to-use-stellar-lumen-xlm-account/using-trustline-for-xlml.md)
+  * [모나코인 지갑 계정 사용법](coin-send-receive/coins/monacoin.md)
+  * [스텔라루멘 (XLM) 지갑 계정 사용법](coin-send-receive/coins/xlm/README.md)
+    * [스텔라 Trustline 사용법](coin-send-receive/coins/xlm/using-trustline-for-xlml.md)
   * [트론 지갑 계정 사용법 (TRX, TRC10, TRC20, TRC721)](coin-send-receive/coins/how-to-use-tron-account-trx-trc10-trc20-trc721.md)
-* [코인베이스 거래소 사용법 (비트코인 예시)](coin-send-receive/coinbase.md)
-* [바이낸스 거래소 사용법 (리플 예시)](coin-send-receive/binance.md)
+* [코인베이스 거래소 사용법 (비트코인 예시)](coin-send-receive/using-coinbase-for-transfers-bitcoin-example.md)
+* [바이낸스 거래소 사용법 (리플 예시)](coin-send-receive/using-binance-exchange-for-transfers-xrp-example.md)
 
 ## 디센트 내부 서비스 <a href="#native-service" id="native-service"></a>
 
 * [댑 브라우저 (Discovery)](native-service/dapp-browser/README.md)
   * [댑 사이트에 지갑 연결하기](native-service/dapp-browser/connecting-wallet-to-dApp.md)
-  * [블록체인 네트워크 선택](native-service/dapp-browser/switch-network.md)
-  * [Wallet Connect 사용법](native-service/dapp-browser/wallet-connect.md)
+  * [블록체인 네트워크 선택](native-service/dapp-browser/switch-blockchain-network.md)
+  * [Wallet Connect 사용법](native-service/dapp-browser/using-wallet-connect.md)
   * [dApp 허용(권한) 철회하는 방법](native-service/dapp-browser/how-to-revoke-dapp-allowances.md)
 * [인사이트 (Insight)](native-service/insight.md)
 * [스왑 (Swap)](native-service/swap/README.md)
   * [스왑 지원 네트워크 목록](native-service/swap/supported-networks.md)
 * [교환 (Exchange)](native-service/exchange.md)
-* [FTSO 포털 - 투표권 위임](native-service/ftso.md)
+* [FTSO 포털 - 투표권 위임](native-service/ftso-portal-vote-delegation.md)
 * [스택스 스택킹 위임 서비스](native-service/stacks-stacking-delegation-service.md)
 
 ## 트러블 슈팅 <a href="#troubleshooting" id="troubleshooting"></a>
