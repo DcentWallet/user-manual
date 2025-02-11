@@ -1,6 +1,6 @@
 # 펌웨어 업데이트 (모바일에서)
 
-## 모바일 펌웨어 업데이트
+## 모바일 펌웨어 업데이트 <a href="#mobile-firmware-update" id="mobile-firmware-update"></a>
 
 {% hint style="danger" %}
 **현재 모바일 펌웨어 업데이트는 안드로이드 폰에서만 가능합니다.**
@@ -8,7 +8,7 @@
 안드로이드 폰 사용자는 **OTG 제품**을 보유한 경우 디센트 모바일 앱에서 펌웨어 업데이트를 할 수 있습니다.
 {% endhint %}
 
-### OTG 제품
+### OTG 제품 <a href="#otg-device" id="otg-device"></a>
 
 OTG 제품은 안드로이드 폰에 USB 장치를 연결할 수 있게 해주는 케이블 또는 젠더 형태 제품이며, 보통 한쪽은 휴대폰의 충전단자 반대쪽은 표준 USB(USB Type A)포트에 연결할 수 있습니다.
 
@@ -30,13 +30,13 @@ OTG 제품은 안드로이드 폰에 USB 장치를 연결할 수 있게 해주�
 
 {% embed url="https://youtu.be/GHCrIS7303I" %}
 
-## 펌웨어 업데이트 표시
+## 펌웨어 업데이트 표시 <a href="#firmware-update-indicator" id="firmware-update-indicator"></a>
 
 새로운 코인이 추가되거나, 버그 수정을 위해 펌웨어가 업데이트됩니다. 펌웨어 업데이트가 필요한 경우 모바일 앱에 다음과 같이 표시됩니다.
 
 <figure><img src="../.gitbook/assets/1 (4).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-### 펌웨어 업데이트 전 숙지 사항
+### 펌웨어 업데이트 전 숙지 사항 <a href="#before-you-update-the-firmware" id="before-you-update-the-firmware"></a>
 
 {% hint style="danger" %}
 **24개의 니모닉 코드 확인**
@@ -53,9 +53,9 @@ OTG 제품은 안드로이드 폰에 USB 장치를 연결할 수 있게 해주�
 별도의 OTG 제품을 이용할 경우 반드시 데이터 전송 기능을 지원하는 제품을 사용하여 주시길 바랍니다. \
 펌웨어 업데이트 시간은 약 5\~10분 정도 소요됩니다.
 
-## 안드로이드 폰에서 펌웨어 업데이트하기
+## 안드로이드 폰에서 펌웨어 업데이트하기 <a href="#updating-the-firmware-from-an-android-phone" id="updating-the-firmware-from-an-android-phone"></a>
 
-### OTG 제품을 사용하여 안드로이드 폰과 콜드월렛 연결
+### OTG 제품을 사용하여 안드로이드 폰과 콜드월렛 연결 <a href="#connect-biometric-wallet-with-android-phone-using-otg-device" id="connect-biometric-wallet-with-android-phone-using-otg-device"></a>
 
 가지고 있는 OTG 제품에 따라 다음 그림과 같이 콜드월렛과 안드로이드 폰을 연결해 주세요.
 
@@ -69,7 +69,7 @@ Settings 탭으로 이동하여 **펌웨어 업데이트**를 누릅니다.
 
 <figure><img src="../.gitbook/assets/3 (3).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-### 펌웨어 업데이트 진행
+### 펌웨어 업데이트 진행 <a href="#proceed-with-the-firmware-update" id="proceed-with-the-firmware-update"></a>
 
 <figure><img src="../.gitbook/assets/5 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
