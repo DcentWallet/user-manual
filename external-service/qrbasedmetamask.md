@@ -12,7 +12,7 @@
 
 먼저 Chrome용 메타마스크를 다운로드([https://metamask.io/download/](https://metamask.io/download/))하고 절차에 따라 설치를 진행 합니다.
 
-<img src="../.gitbook/assets/image (248).png" alt="" data-size="original">
+<img src="../.gitbook/assets/메타마스크.png" alt="" data-size="original">
 
 ## 메타마스크와 디센트지갑 연결 <a href="#how-to-connect-dcent-wallet-with-metamask" id="how-to-connect-dcent-wallet-with-metamask"></a>
 
@@ -35,27 +35,25 @@
 
 ### \[Step 1] 디센트 앱에서 메타마스크 연결 준비하기 <a href="#step-1-preparing-to-connect-the-metamask-in-the-dcent-app" id="step-1-preparing-to-connect-the-metamask-in-the-dcent-app"></a>
 
-![](<../.gitbook/assets/image (256).png>)
+![](../.gitbook/assets/메타마스크-01.png)
 
-**a)** 디센트 앱을 실행 후, 디스커버리 탭으로 진입합니다.&#x20;
+**1)** 디센트 앱을 실행 후, Discovery 탭으로 진입합니다.&#x20;
 
 {% hint style="info" %}
 EVM계열 계정이 없는 경우, [계정 만들기 사용자 가이드](https://userguide.dcentwallet.com/v/kr/mobile-app/create-account)_를 참조하여 계정을 생성한 후 사용해주시기 바랍니다._
 {% endhint %}
 
-**b)** 목록에서 **메타마스크 연동**을 선택합니다. 또는 [https://qrbase.dcentwallet.com](https://qrbase.dcentwallet.com) 링크로 접속합니다.
+**2)** 목록에서 **메타마스크 연동**을 선택합니다.&#x20;
 
-**c) 서비스 바로가기**를 터치 합니다.
+**3) 서비스 바로가기**를 터치 합니다.
 
-![](<../.gitbook/assets/image (253).png>)
+![](../.gitbook/assets/메타마스크-02.png)
 
+**4)** 메타마스크 연동 화면에서 **메타마스크 계정 연결**을 터치 합니다.
 
+**5)** 계정 연결 리스트에서 연결할 계정을 선택 후 **연결하기** 버튼을 터치 합니다.
 
-**d)** 메타마스크 연동 화면에서 **메타마스크 계정 연결**을 터치 합니다.
-
-**e)** 계정 연결 리스트에서 연결할 계정을 선택 후 **연결하기** 버튼을 터치 합니다.
-
-**f)** QR 코드가 생성되는 것을 확인 후, 아래 **\[Step 2]** 컴퓨터에서 연결하기를 진행합니다.
+**6)** QR 코드가 생성되는 것을 확인 후, 아래 **\[Step 2]** 컴퓨터에서 연결하기를 진행합니다.
 
 {% hint style="danger" %}
 절대 다른 사람과 QR코드 화면을 공유하지 마세요.
@@ -63,23 +61,23 @@ EVM계열 계정이 없는 경우, [계정 만들기 사용자 가이드](https:
 
 ### \[Step 2] 컴퓨터에서 QR 코드 스캔하여 지갑 연결하기 <a href="#step-2-connect-the-dcent-wallet-by-scanning-the-qr-code-on-your-computer" id="step-2-connect-the-dcent-wallet-by-scanning-the-qr-code-on-your-computer"></a>
 
-![](<../.gitbook/assets/image (246).png>)
+![](<../.gitbook/assets/메타마스크-03 (1).png>)
 
-**a)** 메타마스크 메인화면 우측 상단의 **계정 아이콘**을 클릭합니다.
+**1)** 메타마스크 메인화면 상단 중앙의 Account 버튼을 클릭합니다.
 
-**b) 하드웨어 지갑 연결**를 클릭합니다.
+**2)** 계정 또는 하드웨어 지갑 추가 버튼을 선택하고 **하드웨어 지갑 추가**를 클릭합니다.
 
-![](<../.gitbook/assets/image (259).png>)
+![](../.gitbook/assets/메타마스크-04.png)
 
-**c) QR-based** 선택 후 하단의 **계속** 버튼을 클릭합니다.
+**3) QR-based** 선택 후 하단의 **계속** 버튼을 클릭합니다.
 
-**d)** QR코드 스캔화면으로 전환됩니다.
+**4)** QR코드 스캔화면으로 전환됩니다.
 
-![](<../.gitbook/assets/image (258).png>)
+![](../.gitbook/assets/메타마스크-05.png)
 
-**e)** **\[Step 1]**&#xC5D0;서 준비한 QR 코드를 컴퓨터의 카메라를 이용하여 스캔합니다.
+**5)** **\[Step 1]**&#xC5D0;서 준비한 QR 코드를 컴퓨터의 카메라를 이용하여 스캔합니다.
 
-**f)** QR코드 스캔이 정상적으로 완료되면 계정 선택 확면으로 전환됩니다.
+**6)** QR코드 스캔이 정상적으로 완료되면 계정 선택 확면으로 전환됩니다.
 
 <figure><img src="../.gitbook/assets/그림5.png" alt=""><figcaption></figcaption></figure>
 
@@ -89,13 +87,13 @@ EVM계열 계정이 없는 경우, [계정 만들기 사용자 가이드](https:
 
 
 
-![](<../.gitbook/assets/image (247).png>)
+![](../.gitbook/assets/메타마스크-06.png)
 
-**g)** 계정 선택화면에서 **첫번째 계정**을 선택 후 **잠금 해제**를 클릭합니다.
+**7)** 계정 선택화면에서 **첫 번째 계정**을 선택 후 **잠금 해제**를 클릭합니다.
 
 _(디센트 계정의 경우, QR스캔시 목록에 보이는 계정이 모두 동일하기 때문에 어떤 계정을 선택해도 무관합니다.)_
 
-**h)** 디센트 지갑의 계정과 메타마스크가 연동된 화면을 확인할 수 있습니다.
+**8)** 디센트 지갑의 계정과 메타마스크가 연동된 화면을 확인할 수 있습니다.
 
 ## 메타마스크를 이용하여 ETH 보내기 <a href="#example-send-eth-ropsten-test-net-using-metamask" id="example-send-eth-ropsten-test-net-using-metamask"></a>
 
@@ -103,62 +101,60 @@ _(디센트 계정의 경우, QR스캔시 목록에 보이는 계정이 모두 �
 
 ### **\[Step 1] 메타마스크로 ETH 트랜잭션을 생성하기** <a href="#step-1-create-eth-transaction-with-metamask" id="step-1-create-eth-transaction-with-metamask"></a>
 
-![](<../.gitbook/assets/image (254).png>)
+![](../.gitbook/assets/메타마스크-07.png)
 
-**a)** 메타마스크 메인화면에서 우측 상단의 버튼을 클릭합니다.
+**1)** 메타마스크 메인화면에서 **보내기** 버튼을 클릭합니다.
 
-**b)** 메타마스크와 연동한 디센트 지갑 계정(**DCENT1**)을 선택합니다.
+**2)** 코인을 보낼 상대방의 주소를 입력하고 **계속** 버튼을 클릭합니다.&#x20;
 
-![](<../.gitbook/assets/그림5 (3).png>)
+![](<../.gitbook/assets/메타마스크-08 (1).png>)
 
-**c)** 화면 중앙의 **보내기** 버튼을 클릭합니다.
+**3)** 보내고자 하는 금액을 입력한 후 **계속** 버튼을 클릭한 뒤 거래 내역을 확인한 후 **컨펌** 버튼을 클릭합니다.
 
-**d)** 보낼 주소를 입력하고 원하는 금액을 설정한 후 **다음**을 클릭합니다.
+(_**편집 옵션**을 선택하여 거래 수수료를 원하는 한도로 조정 가능합니다._)
 
-<figure><img src="../.gitbook/assets/그림1.png" alt=""><figcaption></figcaption></figure>
+**4)** QR코드 형식의 서명 요청 화면으로 전환됩니다.
 
-**e)** 거래 내역을 확인한 후 **확인** 버튼을 클릭합니다.
 
-(_**고급→편집 옵션**을 선택하여 거래 수수료를 원하는 한도로 조정 가능합니다._)
-
-**f)** QR코드 형식의 서명 요청 화면으로 전환됩니다.
 
 ### \[Step 2] 디센트 앱을 이용하여 트랜잭션에 대한 서명 생성 하기 <a href="#step-2-create-a-signature-for-the-transaction-using-the-dcent-app" id="step-2-create-a-signature-for-the-transaction-using-the-dcent-app"></a>
 
-![](<../.gitbook/assets/image (245).png>)
+![](../.gitbook/assets/메타마스크-10.png)
 
-**a)** 메타마스크 연동에 접속합니다. (서명 요청 QR을 스캔하는 방식은 2가지 방법이 존재합니다.)
+서명 요청 QR을 스캔하는 방식은 2가지 방법이 존재합니다.
 
-**a-i)** 디센트 앱의 디스커버리 탭에 접속하여 **메타마스크 연동 -->** **메타마스크 QR 스캔** 버튼을 터치합니다. 또는 [https://qrbase.dcentwallet.com](https://qrbase.dcentwallet.com)로 접속합니다.
+**1)** 디센트 앱의 Discovery 탭에 접속하여 **메타마스크 연동 >** **메타마스크 QR 스캔** 버튼을 터치합니다.&#x20;
 
-**a-ii)** 또는, 디스커버리 탭 좌측 상단의 **QR스캔** 버튼을 터치합니다.
+**2)** 또는, Discovery 탭 좌측 상단의 **QR스캔** 버튼을 터치합니다.
 
-<figure><img src="../.gitbook/assets/그림2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/메타마스크-11.png" alt=""><figcaption></figcaption></figure>
 
-**b)** QR코드 스캔 화면으로 전환되면, **\[Step 1]**&#xC5D0;서 생성한 서명 요청 QR 코드를 스캔합니다.
+**3)** QR코드 스캔 화면으로 전환되면, **\[Step 1]**&#xC5D0;서 생성한 서명 요청 QR 코드를 스캔합니다.
 
-**c)** 메타마스크에서 요청한 거래 정보와 동일한지 확인 후, **서명하기** 버튼을 터치합니다.
+**4)** 보내려는 주소가 맞는 지 확인한 후 **계속하기** 버튼을 터치합니다.
 
-![](<../.gitbook/assets/image (257) (1).png>)
+**5)** 메타마스크에서 요청한 거래 정보와 동일한지 확인 후, **서명하기** 버튼을 터치합니다.
 
-**d)** 비밀번호 또는 지문을 사용하여 서명을 진행합니다.
+![](../.gitbook/assets/메타마스크-12.png)
 
-**d-i)** 지문인증형 콜드월렛인 경우, 화면에 표시되는 정보를 한번 더 확인 후, 정보가 올바른 경우 **OK** 버튼을 누르고 **지문**이나 **PIN번호**를 입력합니다.
+**6)** 지문인증형 콜드월렛인 경우, 화면에 표시되는 정보를 한번 더 확인 후, 정보가 올바른 경우 **OK** 버튼을 누르고 **지문**이나 **PIN번호**를 입력합니다.
 
-**d-ii)** 앱 월렛인 경우, 처음 실행시 등록한 **비밀번호(6자리)**&#xB97C; 입력합니다.
+**7)** 앱 월렛인 경우, 처음 실행시 등록한 **비밀번호(6자리)**&#xB97C; 입력합니다.
 
-![](../.gitbook/assets/그림3.png)
 
-**e)** 서명이 완료되면 QR코드 형식의 서명을 확인할 수 있습니다.
+
+![](../.gitbook/assets/메타마스크-13.png)
+
+**8)** 서명이 완료되면 QR코드 형식의 서명을 확인할 수 있습니다.
 
 ### \[Step 3] 생성된 서명을 메타마스크로 보내기 <a href="#step-3-sending-signed-data-to-metamask" id="step-3-sending-signed-data-to-metamask"></a>
 
-<figure><img src="../.gitbook/assets/그림4 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/메타마스크-14.png" alt=""><figcaption></figcaption></figure>
 
-**a)** 메타마스크의 서명 요청 화면에서 **서명 받기** 버튼을 클릭합니다.
+**1)** 메타마스크의 서명 요청 화면에서 **서명 받기** 버튼을 클릭합니다.
 
-**b)** 디센트 앱에서 표시된 QR 코드를 컴퓨터의 카메라를 이용하여 스캔합니다.
+**2)** 디센트 앱에서 표시된 QR 코드를 컴퓨터의 카메라를 이용하여 스캔합니다.
 
-![](<../.gitbook/assets/그림8 (1).png>)
+![](../.gitbook/assets/메타마스크-15.png)
 
-**c)** QR 코드 스캔이 완료되면, 트랜잭션 내역을 활동 탭에서 확인 할 수 있습니다.
+**3)** QR 코드 스캔이 완료되면, **활동** 탭에서 트랜잭션 내역을 확인할 수 있습니다.
