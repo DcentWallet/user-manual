@@ -1,6 +1,6 @@
 # 스텔라루멘 (XLM) 지갑 계정 사용법
 
-## 펌웨어 버전 확인
+## 펌웨어 버전 확인 <a href="#check-the-firmware-version" id="check-the-firmware-version"></a>
 
 하드웨어 지갑 펌웨어 버전 v2.1.0 부터 스텔라 코인을 지원합니다. 펌웨어를 업데이트하는 방법은 아래 링크를 참고해주세요.
 
@@ -12,7 +12,7 @@
 [firmware-update-from-mobile.md](../../../biometric-wallet/firmware-update-from-mobile.md)
 {% endcontent-ref %}
 
-## 스텔라 계정 생성
+## 스텔라 계정 생성 <a href="#how-to-create-a-stellar-lumen-xlm-account" id="how-to-create-a-stellar-lumen-xlm-account"></a>
 
 스텔라 계정이 없다면 생성해 주세요. 코인 이름은 "Stellar (XLM)"로 되어 있습니다.  계정을 생성하는 방법은 아래 링크를 참고해주세요.
 
@@ -20,7 +20,7 @@
 [create-account](../../../mobile-app/create-account/)
 {% endcontent-ref %}
 
-## 스텔라 계정을 생성할 수 없는 경우&#x20;
+## 스텔라 계정을 생성할 수 없는 경우  <a href="#if-you-cant-create-a-stellar-account" id="if-you-cant-create-a-stellar-account"></a>
 
 {% hint style="info" %}
 현재 사용중인 펌웨어 버전이 v2.1.0 이상인데 스텔라 계정을 생성할 수 없는 경우가 있습니다. 하드웨어 지갑을 처음 구매시 제품에 탑재된 펌웨어 버전이 v2.0.1 보다 낮은 경우 스텔라에서 사용하는 새로운 알고리즘을 사용할 수 없기 때문입니다.
@@ -30,7 +30,7 @@
 
 <div align="left"><img src="../../../.gitbook/assets/37.png" alt=""></div>
 
-### 해결 방안
+### 해결 방안 <a href="#solution" id="solution"></a>
 
 하드웨어 지갑의 설정 메뉴에서 기기 초기화 후 복구단어를 사용하여 지갑을 복구하면 스텔라 지갑 계정을 생성할 수 있습니다.
 
@@ -42,7 +42,7 @@
 주의!! 복구단어 분실 상태에서 절대로 기기를 초기화 하지 마세요!&#x20;
 {% endhint %}
 
-## 스텔라 (XLM) 지갑 활성화
+## 스텔라 (XLM) 지갑 활성화 <a href="#stellar-xlm-wallet-activation" id="stellar-xlm-wallet-activation"></a>
 
 스텔라 (XLM) 지갑을 추가하시면 비활성화(스텔라 네트워크에서 생성되지 않은) 상태입니다. 스텔라의 정책으로 스텔라 주소에는 **1XLM 이상의 자금을 양도 받아야 해당 계정이 스텔라 네트워크에서 활성화 됩니다**. 거래소에 따라 비활성화 계좌에 송금이 제한되어 있을 수 있습니다.&#x20;
 
@@ -57,12 +57,12 @@
 
 현재 디센트 월렛에서는 생성한 스텔라 주소에 대해 계정 활성화를 위한 이벤트 중입니다. 아래 **스텔라 코인 받기** 항목을 참고하세요.&#x20;
 
-## 스텔라 메모
+## 스텔라 메모 <a href="#stellar-memo" id="stellar-memo"></a>
 
 거래소에서 사용되는 스텔라 지갑은 한개의 주소를 사용합니다. 즉, 거래소 사용자 모두 같은 주소를 사용함으로 사용자의 계정을 구별하기 위해 고유 식별 문자(Memo)를 할당하여 관리합니다.\
 **따라서, 거래소에서 생성한 스텔라 계정 주소로 송금을 보낼 경우 반드시 Memo를 입력해야 사용자의 거래소 지갑 계정으로 정상적인 입금이 완료됩니다.**
 
-## 스텔라 코인 받기
+## 스텔라 코인 받기 <a href="#receive-stellar-coin" id="receive-stellar-coin"></a>
 
 생성된 스텔라 계정의 '**받기**'를 클릭하면 스텔라 계정의 주소를 확인할 수 있습니다.
 
@@ -70,7 +70,7 @@
 
 &#x20;만약 계정이 비활성화 상태라면 이벤트 링크를 통해 계정을 활성화 해주세요.
 
-## 스텔라 코인 보내기
+## 스텔라 코인 보내기 <a href="#sending-stellar-coin" id="sending-stellar-coin"></a>
 
 스텔라 코인을 거래소 계정으로 보내는 경우 반드시 Memo를 입력하셔야 합니다. 거래소가 아닌 디센트 월렛과 같이 개인이 직접 생성한 스텔라 지갑 주소의 Memo는 옵션입니다. 임의의 Memo를 입력하거나 Memo 옵션을 변경해주세요.
 
