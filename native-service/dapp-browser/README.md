@@ -6,7 +6,7 @@
 
 댑 브라우저를 통하여 메이커다오, 컴파운드, 유니스왑과 같은 **이더리움 기반의 댑**과 클레이스테이션과 같은 **클레이튼 기반의 댑** 서비스를 이용할 수 있습니다.
 
-## 디스커버리 탭에서 댑 서비스 사용
+## 디스커버리 탭에서 댑 서비스 사용 <a href="#using-dapp-service-on-the-discovery-tab" id="using-dapp-service-on-the-discovery-tab"></a>
 
 앱 하단에 위치한 “**Discovery**” 탭에서 댑 서비스를 이용할 수 있습니다. 디센트 지갑과 연동하여 사용할 수 있는 서비스 목록이 있습니다. 서비스를 클릭하여 간단히 댑에 접속할 수 있습니다.
 
@@ -20,7 +20,7 @@
 
 ![](<../../.gitbook/assets/02 (5).jpg>)
 
-### 즐겨찾기(북마크) 사용하기
+### 즐겨찾기(북마크) 사용하기 <a href="#using-the-bookmark-function" id="using-the-bookmark-function"></a>
 
 사용자는 방문한 댑 서비스 사이트를 즐겨찾기 (북마크)로 저장하여 다음에 더 빨리 액세스 할 수 있는 **바로가기**를 만들 수 있습니다. 예를 들어 Flare Portal 서비스를 검색하고 접속한 사이트를 북마크로 저장합니다.
 
@@ -38,7 +38,7 @@
 
 5\) 디스커버리 탭의 목록에는 댑 서비스 사이트가 즐겨찾기로 추가된것을 확인 가능합니다.&#x20;
 
-## 지원되는 네트워크 목록
+## 지원되는 네트워크 목록 <a href="#supported-networks" id="supported-networks"></a>
 
 2024년 7월 기준으로 현재 지원하는 블록체인 네트워크 기준은 다음과 같습니다. 앞으로도 다양한 블록체인 네트워크가 추가로 지원될 계획입니다.
 
@@ -48,7 +48,7 @@
 [switch-blockchain-network.md](switch-blockchain-network.md)
 {% endcontent-ref %}
 
-### 메인넷
+### 메인넷 <a href="#mainnet" id="mainnet"></a>
 
 * Ethereum
 * Binance Smart Chain
@@ -82,7 +82,7 @@
 * Tezos
 * Astar
 
-### 테스트넷
+### 테스트넷 <a href="#testnet" id="testnet"></a>
 
 * Ethereum Testnet Ropsten
 * Ethereum Testnet Rinkeby
@@ -103,7 +103,7 @@
 * Kroma Testnet Sepolia
 * Tezos Testnet
 
-## 서비스 목록
+## 서비스 목록 <a href="#listed-services" id="listed-services"></a>
 
 2024년 10월 현재 리스팅된 서비스 목록은 다음과 같습니다. 서비스에 대한 보다 명확한 내용은 각 서비스의 웹사이트를 참고하시는 것이 좋습니다.
 
