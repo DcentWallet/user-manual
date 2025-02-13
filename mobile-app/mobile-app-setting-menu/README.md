@@ -8,7 +8,7 @@ description: 디센트 모바일 앱 설정
 
 <figure><img src="../../.gitbook/assets/1 (19).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-## 월렛모드 변경 <a href="#currency" id="currency"></a>
+## 월렛모드 변경 <a href="#switch-wallet-mode" id="switch-wallet-mode"></a>
 
 사용하는 지갑에 따라 월렛모드를 변경할 수 있습니다.&#x20;
 
@@ -24,7 +24,7 @@ description: 디센트 모바일 앱 설정
 [mobile-app-dcent-walletmode](mobile-app-dcent-walletmode/)
 {% endcontent-ref %}
 
-## 언어 변경 <a href="#currency" id="currency"></a>
+## 언어 변경 <a href="#change-language" id="change-language"></a>
 
 디센트 모바일 앱의 언어를 변경할 수 있습니다. 다음 언어를 지원합니다.
 
@@ -42,7 +42,7 @@ KRW(한국 원화), USD(미국 달러), JPY(일본 엔화), EUR(유럽 유로), 
 
 <figure><img src="../../.gitbook/assets/4 (9).jpg" alt=""><figcaption></figcaption></figure>
 
-## 비밀번호 변경 <a href="#auth-method" id="auth-method"></a>
+## 비밀번호 변경 <a href="#change-password" id="change-password"></a>
 
 디센트 모바일 앱의 6자리 비밀번호를 변경할 수 있습니다.
 
@@ -59,7 +59,7 @@ KRW(한국 원화), USD(미국 달러), JPY(일본 엔화), EUR(유럽 유로), 
 
 <figure><img src="../../.gitbook/assets/6 (4).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-## 테스트넷 활성화
+## 테스트넷 활성화 <a href="#testnet" id="testnet"></a>
 
 "테스트넷 활성화" 메뉴를 오른쪽으로 밀면 해당 기능을 활성화 할 수 있습니다.
 

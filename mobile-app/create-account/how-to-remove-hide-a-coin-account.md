@@ -6,7 +6,7 @@
 지문인증형 지갑을 사용한다면 콜드월렛이 디센트 모바일 앱과 블루투스로 연결된 상태어야 하며, 숨기기를 한 계정이 콜드월렛에도 동기화가 됩니다.
 {% endhint %}
 
-## 계정 숨기기
+## 계정 숨기기 <a href="#hide-account" id="hide-account"></a>
 
 <figure><img src="../../.gitbook/assets/1 (17).jpg" alt=""><figcaption></figcaption></figure>
 
@@ -22,7 +22,7 @@
 숨기려는 암호화폐 계정에 연결된 토큰 계정이 존재하는 경우 먼저 연결된 토큰 계정을 모두 숨긴 이후 해당 계정 숨기기가 가능합니다.
 {% endhint %}
 
-## 숨겨진 계정 다시 추가하기
+## 숨겨진 계정 다시 추가하기 <a href="#re-add-hidden-account" id="re-add-hidden-account"></a>
 
 숨겨진 계정은 "My Wallet" 탭에서만 보이지 않는 것일 뿐 영구적으로 삭제되는 것은 아닙니다. 따라서 숨겨진 계정은 언제든지 다시 추가를 할 수 있습니다.
 

@@ -56,7 +56,7 @@
 ✅ ASTAR-EVM (ASTAR-ERC20)\
 ✅ ASTAR (ASTR-ERC20)
 
-## 커스텀 토큰을 추가하는 방법
+## 커스텀 토큰을 추가하는 방법 <a href="#how-to-add-a-custom-token-account" id="how-to-add-a-custom-token-account"></a>
 
 커스텀 토큰을 추가하는 방법은 매우 간단합니다. 특정 블록체인의 커스텀 토큰을 추가하려면 먼저 해당 블록체인의 계정이 추가되어있어야 합니다.
 
