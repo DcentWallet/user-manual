@@ -30,7 +30,7 @@
 **PIN 을 분실할 경우 카드타입 콜드월렛 사용이 차단될 수 있습니다.**
 {% endhint %}
 
-## 카드 백업 및 복구
+## 카드 백업 및 복구 <a href="#backup-and-recover-card" id="backup-and-recover-card"></a>
 
 카드타입 콜드월렛을 분실 및  파손되거나 PIN 인증을 10회 이상 실패하여 사용이 차단될 경우에 대비하기 위해 카드타입 콜드월렛의 백업 이미지를 생성하고 복구할 수 있습니다.
 
@@ -38,7 +38,7 @@
 
 자세한 방법은 [**여기**](../../../card-wallet/dcent-backup-card-wallet-recovery/)를 참고하여 주시기 바랍니다.
 
-## 새 카드 스캔
+## 새 카드 스캔 <a href="#scan-new-card" id="scan-new-card"></a>
 
 **"D'CENT 매니저 메뉴" 를** 선택하고 **"새 카드 스캔"** 메뉴를 통해 다른 카드타입 콜드 월렛으로 변경할 수 있습니다.
 

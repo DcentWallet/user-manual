@@ -11,7 +11,7 @@
 거래소 개인 지갑 인증은 디센트 사용을 위한 필수 사항은 아니며, **가입 또는 로그인을 하지 않더라도 디센트 지갑의 모든 기능을 사용할 수 있습니다.**
 {% endhint %}
 
-## 거래소 개인 지갑 인증 가입하기
+## 거래소 개인 지갑 인증 가입하기 <a href="#sign-up" id="sign-up"></a>
 
 <figure><img src="../../.gitbook/assets/가입-01 (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -48,7 +48,7 @@
 
 
 
-## 거래소 개인 지갑 인증 로그인하기
+## 거래소 개인 지갑 인증 로그인하기 <a href="#log-in" id="log-in"></a>
 
 <figure><img src="../../.gitbook/assets/로그인-01 (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -58,7 +58,7 @@
 
 3\) 로그인을 완료하면 **"거래소 개인 지갑 인증"** 메뉴에 <mark style="color:green;">**"인증됨"**</mark> 아이콘이 표시됩니다.
 
-### 코인 계정 받기 화면에서 로그인된 정보 확인하기
+### 코인 계정 받기 화면에서 로그인된 정보 확인하기 <a href="#verified" id="verified"></a>
 
 거래소 정책에 따라 개인 지갑 정보 인증과 함께 지갑 주소 확인을 요청할 수 있습니다. 거래소 개인 지갑 인증 메뉴에 로그인을 하면 지갑 주소와 로그인된 정보를 한 화면에서 확인할 수 있습니다.
 

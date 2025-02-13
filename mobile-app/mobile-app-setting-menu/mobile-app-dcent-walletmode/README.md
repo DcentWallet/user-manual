@@ -16,7 +16,7 @@
 
 <figure><img src="../../../.gitbook/assets/2 (18).jpg" alt=""><figcaption></figcaption></figure>
 
-## 각 모드별 메뉴 구성
+## 각 모드별 메뉴 구성 <a href="#menu-composition-for-each-mode" id="menu-composition-for-each-mode"></a>
 
 다음 항목에서 각 월렛 모드별 매니저 메뉴 사용법을 확인할 수 있습니다.
 
