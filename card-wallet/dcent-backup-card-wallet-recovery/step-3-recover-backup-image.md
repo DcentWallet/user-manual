@@ -1,6 +1,6 @@
 # Step 3: 백업 이미지 복구
 
-## 백업 이미지 복구 하는 방법
+## 백업 이미지 복구 하는 방법 <a href="#how-to-recover-the-backup-image" id="how-to-recover-the-backup-image"></a>
 
 백업 이미지를 복구하기 위해 <mark style="background-color:green;">**백업 카드**</mark>를 준비하세요.
 

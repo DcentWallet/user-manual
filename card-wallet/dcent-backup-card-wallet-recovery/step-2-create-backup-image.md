@@ -1,6 +1,6 @@
 # Step 2: 백업 이미지 생성
 
-## 올인원 지갑의 백업 이미지 생성하는 방법
+## 올인원 지갑의 백업 이미지 생성하는 방법 <a href="#how-to-create-the-backup-image" id="how-to-create-the-backup-image"></a>
 
 지갑을 복구할 때 반드시 필요한 백업 이미지를 생성하려면 <mark style="background-color:green;">**올인원 지갑**</mark>을 준비하세요.
 

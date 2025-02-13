@@ -4,7 +4,7 @@
 
 또한 암호화폐 계정을 추가하고 가지고 있는 코인의 포트폴리오를 한 화면에서 확인하거나 코인 주고 받기 등 모바일 앱을 통해 쉽고 간편하게 암호화폐 자산을 관리할 수 있습니다.
 
-## 모바일 앱 다운로드
+## 모바일 앱 다운로드 <a href="#mobile-app-download" id="mobile-app-download"></a>
 
 ### 안드로이드 앱 <a href="#android" id="android"></a>
 
@@ -22,7 +22,7 @@
 
 <div align="left"><figure><img src="../.gitbook/assets/아이폰.png" alt="" width="234"><figcaption><p>앱스토어 디센트 월렛 검색 화면</p></figcaption></figure></div>
 
-## 주요 기능
+## 주요 기능 <a href="#main-features" id="main-features"></a>
 
 <figure><img src="../.gitbook/assets/1 (29).jpg" alt=""><figcaption></figcaption></figure>
 
