@@ -1,8 +1,8 @@
 # 코인베이스 거래소 사용법 (비트코인 예시)
 
-## 코인베이스 월렛 주로 입금 받기
+## 코인베이스 월렛 주로 입금 받기 <a href="#sending-fund-to-your-coinbase-wallet-account" id="sending-fund-to-your-coinbase-wallet-account"></a>
 
-### 코인베이스 월렛에서 송금 받을 주소 확인
+### 코인베이스 월렛에서 송금 받을 주소 확인 <a href="#check-the-receiving-address-on-coinbase" id="check-the-receiving-address-on-coinbase"></a>
 
 코인베이스의 계정으로 암호화폐를 보내려면 주소를 알아야합니다. 먼저 코인베이스 계정에 로그인하고 '**Receive**' 버튼을 누르십시오.
 
@@ -16,7 +16,7 @@
 
 <div align="left"><img src="../.gitbook/assets/coinbase2.png" alt=""></div>
 
-### 디센트 월렛에서 송금 거래 준비
+### 디센트 월렛에서 송금 거래 준비 <a href="#preparing-for-a-send-transaction" id="preparing-for-a-send-transaction"></a>
 
 모바일 앱을 먼저 실행하고 디센트 기기과 함께 연결된 상태인지 반드시 확인하시기 바랍니다.&#x20;
 
@@ -60,9 +60,9 @@
 
 <div align="left"><img src="../.gitbook/assets/coinbase8.png" alt=""></div>
 
-## 디센트 월렛 주소로 입금 받기
+## 디센트 월렛 주소로 입금 받기 <a href="#sending-fund-to-your-dcent-wallet" id="sending-fund-to-your-dcent-wallet"></a>
 
-### 디센트 월렛에서 송금 받을 주소 확인
+### 디센트 월렛에서 송금 받을 주소 확인 <a href="#check-the-receiving-address" id="check-the-receiving-address"></a>
 
 디센트 월렛 계정으로 암호화폐를 송금 받으려면 주소를 알아야합니다. \
 모바일앱에서 '**받기**' 버튼을 눌러 계정 주소를 확인하십시오.
@@ -73,7 +73,7 @@
 Option1) **복사** - 메시지나 이메일에 붙여넣기를 위한 주소를 복사합니다. \
 Option2) **공유** - 주소를 복사하여 스마트폰에 설치된 특정 SNS 앱을 통하여 공유가 가능합니다.
 
-### 코인베이스 계정에서 송금 거래 준비
+### 코인베이스 계정에서 송금 거래 준비 <a href="#preparing-for-a-send-transaction-from-your-coinbase-account" id="preparing-for-a-send-transaction-from-your-coinbase-account"></a>
 
 코인베이스 계정에서 '**Send**' 버튼을 누르십시오.
 

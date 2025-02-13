@@ -1,8 +1,8 @@
 # 바이낸스 거래소 사용법 (리플 예시)
 
-## 바이낸스 월렛 주소로 입금 받기&#x20;
+## 바이낸스 월렛 주소로 입금 받기  <a href="#sending-fund-to-your-binance-wallet-account" id="sending-fund-to-your-binance-wallet-account"></a>
 
-### 바이낸스 월렛에서 송금 받을 주소 확인
+### 바이낸스 월렛에서 송금 받을 주소 확인 <a href="#check-the-receiving-address-on-binance" id="check-the-receiving-address-on-binance"></a>
 
 ![](../.gitbook/assets/binance1.png)
 
@@ -18,7 +18,7 @@
 
 4\) 추가적으로 바이낸스 거래소의 XRP 지갑 주소가 표시된 것을 확인하실 수 있습니다.
 
-### 디센트 월렛에서 송금 거래 준비
+### 디센트 월렛에서 송금 거래 준비 <a href="#preparing-for-a-send-transaction" id="preparing-for-a-send-transaction"></a>
 
 모바일 앱을 먼저 실행하고 디센트 기기과 함께 연결된 상태인지 반드시 확인하시기 바랍니다.
 
@@ -48,9 +48,9 @@
 
 10\) 바이낸 계정으로 돌아가 디센트월렛에서 송금을 보낸 암호화폐가 입금되었는지 확인하십시오.
 
-## 디센트 월렛 주소로 입금 받기&#x20;
+## 디센트 월렛 주소로 입금 받기  <a href="#sending-fund-to-your-dcent-wallet" id="sending-fund-to-your-dcent-wallet"></a>
 
-### 디센트 월렛에서 송금 받을 주소 확인
+### 디센트 월렛에서 송금 받을 주소 확인 <a href="#check-the-receiving-address" id="check-the-receiving-address"></a>
 
 디센트 월렛 계정으로 암호화폐를 송금 받으려면 주소를 알아야합니다. \
 모바일앱에서 '**받기**' 버튼을 눌러 계정 주소를 확인하십시오.
@@ -61,7 +61,7 @@
 Option1) **복사** - 메시지나 이메일에 붙여넣기를 위한 주소를 복사합니다. \
 Option2) **공유** - 주소를 복사하여 스마트폰에 설치된 특정 SNS 앱을 통하여 공유가 가능합니다.
 
-### 바이낸스 계정에서 송금 거래 준비
+### 바이낸스 계정에서 송금 거래 준비 <a href="#preparing-for-a-send-transaction-from-your-binance-account" id="preparing-for-a-send-transaction-from-your-binance-account"></a>
 
 ![](../.gitbook/assets/binance1.png)
 

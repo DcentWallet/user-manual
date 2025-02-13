@@ -1,6 +1,6 @@
 # 스텔라 Trustline 사용법
 
-## 트러스트 라인 추가하는 방법 <a href="#id-7d2a" id="id-7d2a"></a>
+## 트러스트 라인 추가하는 방법 <a href="#how-to-add-a-trustline" id="how-to-add-a-trustline"></a>
 
 <div align="left"><img src="../../../.gitbook/assets/42.png" alt=""></div>
 
@@ -14,7 +14,7 @@
 
 **4.** Stronghold Token (SHX) 트러스트 라인 계정이 추가된 것을 My Wallet 화면에서 확인하실 수 있습니다.
 
-### (중요!!) 트러스트 라인 활성화하는 방법 <a href="#id-5025" id="id-5025"></a>
+### (중요!!) 트러스트 라인 활성화하는 방법 <a href="#how-to-set-trustline" id="how-to-set-trustline"></a>
 
 단순히 트러스트 라인을 추가한다고 해서 이 계정으로 신탁 자산(발행 통화)을 받을 수 있는 것은 아닙니다. 트러스트 라인 계정에 자금을 받으려면 먼저 Trustline을 설정(활성화)해야 합니다.
 
@@ -28,7 +28,7 @@
 
 **4.** 트러스트 라인이 활성화되었다면 주소가 표시됩니다.
 
-## 트러스트 라인 비활성화(해제)하는 방법 <a href="#id-6912" id="id-6912"></a>
+## 트러스트 라인 비활성화(해제)하는 방법 <a href="#how-to-disable-a-trustline" id="how-to-disable-a-trustline"></a>
 
 잔액이 존재하지 않는 트러스트 라인 계정은 언제든지 비활성화 할 수 있습니다. **비활성화를 진행하면 기존에 락(lock)되었던 0.5 XLM을 다시 사용하실 수 있습니다.**
 
@@ -42,6 +42,6 @@
 
 4\. **"활성화 해제"**&#xB97C; 클릭하면 트러스트 라인 비활성화가 진행됩니다.
 
-### 사용하지 않는 트러스트 라인 계정 숨기는 방법 <a href="#id-08b8" id="id-08b8"></a>
+### 사용하지 않는 트러스트 라인 계정 숨기는 방법 <a href="#how-to-remove-a-trustline-account" id="how-to-remove-a-trustline-account"></a>
 
 지갑의 메인 화면에서 더 이상 사용하지 않는 트러스트 라인 계정을 제거하려면 해당 계정을 클릭하고 **"숨기기"** 버튼을 클릭합니다.
