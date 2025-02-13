@@ -2,7 +2,7 @@
 
 지갑 계정 주소로 송금을 보내거나 받은 후 모바일 앱에서 거래 내역을 확인할 수 있습니다.
 
-## 거래 내역을 확인하는 방법&#x20;
+## 거래 내역을 확인하는 방법  <a href="#how-to-check-transaction-history" id="how-to-check-transaction-history"></a>
 
 ![](../.gitbook/assets/11.png)
 

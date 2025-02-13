@@ -1,6 +1,6 @@
 # NFT 토큰 받기 및 보내기
 
-## 디센트 지갑으로 NFT 토큰 받기
+## 디센트 지갑으로 NFT 토큰 받기 <a href="#receiving-an-nft-token-to-dcent-wallet" id="receiving-an-nft-token-to-dcent-wallet"></a>
 
 다른 지갑에서 디센트 지갑으로 NFT를 보내기 위한 방법을 알아보겠습니다. 예시에서는 NFT 마켓 플레이스인 라리블에서 메타마스크를 이용해서 NFT를 가지고 있는 경우입니다. 이 때, 디센트 지갑으로 NFT를 보내고자 하는 상황이며, 다른 거래소 및 지갑에서 디센트로 가져오는 것도 유사한 과정입니다.
 
@@ -16,7 +16,7 @@
 
 ![](<../.gitbook/assets/12 (6).png>)
 
-## 디센트 지갑에서 다른 지갑으로 NFT 토큰 보내기
+## 디센트 지갑에서 다른 지갑으로 NFT 토큰 보내기 <a href="#sending-an-nft-token-from-dcent-wallet-to-another-wallet" id="sending-an-nft-token-from-dcent-wallet-to-another-wallet"></a>
 
 디센트 지갑에서 다른 지갑 혹은 거래소로 NFT를 내보내는 방법을 알아보겠습니다. 예시에서는 NFT 마켓 플레이스인 라리블에서 메타마스크를 이용해서 받는 경우입니다. 다른 거래소 및 지갑에서 디센트로부터 내보내는 것도 유사한 과정입니다.
 
