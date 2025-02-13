@@ -4,7 +4,7 @@
 카드월렛을 사용하려면 먼저 모바일 폰 설정에서 NFC 기능이 활성화 되어야 합니다. &#x20;
 {% endhint %}
 
-### 상대방의 주소 입력
+### 상대방의 주소 입력 <a href="#enter-the-receiver-address" id="enter-the-receiver-address"></a>
 
 <div align="left"><img src="../../.gitbook/assets/5 (9).png" alt=""></div>
 
@@ -18,7 +18,7 @@
 3\) 입력한 주소가 맞는 지 확인하고 **"다음"** 버튼을 누릅니다.\
 
 
-### 보내는 금액 및 수수료 입력
+### 보내는 금액 및 수수료 입력 <a href="#enter-the-amount-to-send-and-set-the-fee" id="enter-the-amount-to-send-and-set-the-fee"></a>
 
 <div align="left"><img src="../../.gitbook/assets/6.png" alt=""></div>
 
@@ -37,7 +37,7 @@
 카드월렛의 PIN 을 틀린 경우, 최대 10번까지 시도가 가능합니다. PIN 입력을 10번 연속 틀리면 카드월렛이 완전히 잠겨 사용할 수 없게 됩니다. PIN 을 반드시 기억하시기 바랍니다.
 {% endhint %}
 
-### 카드 타입 콜드월렛에서 최종 승인
+### 카드 타입 콜드월렛에서 최종 승인 <a href="#final-confirmation-from-your-card-wallet" id="final-confirmation-from-your-card-wallet"></a>
 
 <div align="left"><img src="../../.gitbook/assets/7 (7).png" alt=""></div>
 

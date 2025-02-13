@@ -4,7 +4,7 @@
 지문인증형 콜드월렛을 사용하는 경우 모바일 앱과 연동된 상태에서만 코인 보내기가 가능합니다.&#x20;
 {% endhint %}
 
-### 상대방의 주소 입력
+### 상대방의 주소 입력 <a href="#enter-the-receiver-address" id="enter-the-receiver-address"></a>
 
 <div align="left"><img src="../../.gitbook/assets/2 (14).png" alt=""></div>
 
@@ -18,7 +18,7 @@
 3\) 입력한 주소가 맞는 지 확인하고 **"다음"** 버튼을 누릅니다.\
 
 
-### 보내는 금액 및 수수료 입력
+### 보내는 금액 및 수수료 입력 <a href="#enter-the-amount-to-send-and-set-the-fee" id="enter-the-amount-to-send-and-set-the-fee"></a>
 
 <div align="left"><img src="../../.gitbook/assets/3 (13).png" alt=""></div>
 
@@ -31,7 +31,7 @@
 
 4\) 화면에 표시된 거래 내용이 올바른지 확인하고 "**보내기**" 버튼을 눌러 지갑에 서명을 요청합니다.
 
-### 지문인증형 콜드월렛에서 최종 승인
+### 지문인증형 콜드월렛에서 최종 승인 <a href="#final-confirmation-from-your-biometric-wallet" id="final-confirmation-from-your-biometric-wallet"></a>
 
 <div align="left"><img src="../../.gitbook/assets/4 (9).png" alt=""></div>
 
