@@ -1,6 +1,6 @@
 # 소프트웨어 월렛
 
-## 앱 월렛 백업
+## 앱 월렛 백업 <a href="#app-wallet-backup" id="app-wallet-backup"></a>
 
 앱 월렛을 처음 사용하면 앱 월렛의 백업(24개 니모닉 코드 백업) 필요하다는 문구가 표시됩니다. \
 디센트 모바일 앱의 "My Wallet" 탭, 앱 월렛에서 계정을 추가할 때, 그리고 "Setting" 탭에서 앱 월렛 백업이 필요하다는 안내가 표시됩니다.
@@ -61,7 +61,7 @@
 **지갑을 복구하였다면 기존에 사용하던 계정을 다시 추가해야 잔액을 확인할 수 있습니다.**&#x20;
 {% endhint %}
 
-### 레거시 주소 확인
+### 레거시 주소 확인 <a href="#important-notes-after-recovering-your-wallet" id="important-notes-after-recovering-your-wallet"></a>
 
 모바일 앱 버전 v5.3.1 업데이트에서 Klaytn(클레이튼), Ethereum Classic(이더리움 클래식), RSK(루트스탁)과 같이 이더리움과 같은 형식의 주소를 사용하는 자산은  계정을 생성시 이더리움 주소와 동일한 주소를 가진 계정이 생성되도록 변경되었습니다.&#x20;
 
