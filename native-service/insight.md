@@ -8,7 +8,7 @@
 인사이트 서비스는 디센트 모바일 앱 버전 **6.0.0 이상**부터 지원합니다.
 {% endhint %}
 
-## 인사이트 이용 방법
+## 인사이트 이용 방법 <a href="#how-to-use-insight" id="how-to-use-insight"></a>
 
 **1)** 디센트 앱 하단 **"Insight"** 탭을 눌러 서비스를 이용할 수 있습니다.\
 Insight 탭이 보이지 않다면 디센트 모바일 앱을 최신 버전으로 업데이트 하시기 바랍니다.
@@ -33,9 +33,7 @@ Top7 리스트는 **코인게코 5분마다 그리고 코인마켓캡은 10분�
 
 <figure><img src="../.gitbook/assets/15.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
-## 인사이트에서 코인 정보 확인하기
+## 인사이트에서 코인 정보 확인하기 <a href="#how-to-check-coin-information-in-insight" id="how-to-check-coin-information-in-insight"></a>
 
 Top7 리스트에서 원하는 코인을 선택하면 상세 정보를 볼 수 있습니다.
 

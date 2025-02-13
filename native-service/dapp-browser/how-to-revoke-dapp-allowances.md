@@ -2,7 +2,7 @@
 
 암호화폐 세계의 모든 사용자에게는 “허용”(권한)의 개념을 이해하는 것이 중요합니다. 암호화폐 공간에서 허용이란 사용자를 대신하여 작업을 수행할 수 있도록 탈중앙화 애플리케이션(dApp)에 권한을 부여하는 것을 의미합니다. 그러나 관련 위험을 이해하고 이러한 권한을 효과적으로 관리하는 것이 중요합니다.
 
-## 디앱 허용이란 무엇인가요? <a href="#06e4" id="06e4"></a>
+## 디앱 허용이란 무엇인가요? <a href="#what-are-dapp-allowances" id="what-are-dapp-allowances"></a>
 
 암호화폐 영역에서 디앱 허용은 토큰을 사용하여 특정 작업을 실행할 수 있는 권한을 디앱에 부여하는 것을 의미합니다. 이 권한을 통해 토큰을 전송하거나, 새로운 토큰을 생성하거나, 사용자를 대신하여 다른 작업을 수행할 수 있습니다.
 
@@ -10,7 +10,7 @@
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:700/1*CrUV2TZMoMSjkk5kX_00Kg.png" alt="" height="297" width="700"><figcaption></figcaption></figure>
 
-### 확인되지 않은 허용의 위험성 인식하기 <a href="#740e" id="740e"></a>
+### 확인되지 않은 허용의 위험성 인식하기 <a href="#recognizing-the-risks-of-unchecked-allowances" id="recognizing-the-risks-of-unchecked-allowances"></a>
 
 디앱 허용 권한을 관리하지 않으면 사용자는 다양한 위험에 노출될 수 있습니다. 다음은 잠재적인 위험의 몇 가지 예입니다:
 
@@ -20,11 +20,11 @@
 
 **c) 계정 취약성**: 제한 없는 디앱 액세스를 허용하면 계정의 보안이 손상되어 무단 제어 또는 조작에 취약해질 수 있습니다.
 
-## 지갑 연결을 해제했다면 안전한가요? <a href="#cb76" id="cb76"></a>
+## 지갑 연결을 해제했다면 안전한가요? <a href="#am-i-safe-if-my-wallet-is-disconnected" id="am-i-safe-if-my-wallet-is-disconnected"></a>
 
 디앱에서 지갑을 연결 해제하는 것과 승인 또는 허용을 취소하는 것의 차이점을 이해하는 것이 중요합니다. 두 프로세스는 비슷해 보이지만, 디앱에 부여된 액세스 권한과 제어 수준에 영향을 미치는 근본적인 차이점이 있습니다.
 
-### 지갑 연결 해제와 허용 철회 비교 <a href="#5dd2" id="5dd2"></a>
+### 지갑 연결 해제와 허용 철회 비교 <a href="#disconnecting-wallet-vs-revoking-allowances" id="disconnecting-wallet-vs-revoking-allowances"></a>
 
 지갑 연결을 디앱에서 해제하면 해당 디앱이 특정 정보에 액세스할 수 있는 권한을 취소하는 것으로, 일반적으로 공개 주소, 토큰 잔액, 과거 활동을 볼 수 있는 디앱의 권한이 취소됩니다. 지갑 연결을 해제하면 해당 디앱이 내 계정에 표시되고 상호 작용하는 것을 제한하는 데 도움이 됩니다.
 
@@ -32,7 +32,7 @@
 
 **지갑 연결을 해제하면 특정 권한과 가시성이 제한되지만, 허용 철회와 동일한 수준의 보안을 보장하지는 않는다는 점에 유의해야 합니다.**
 
-### 효과적인 허용(권한) 관리를 위한 고려 사항 <a href="#5383" id="5383"></a>
+### 효과적인 허용(권한) 관리를 위한 고려 사항 <a href="#considerations-for-effective-permission-management" id="considerations-for-effective-permission-management"></a>
 
 **a) 무단 행위 방지**: 불필요한 권한을 정기적으로 검토하고 철회함으로써 사용자를 대신하여 작업을 수행할 수 있는 디앱의 기능을 제한하여 원치 않는 거래나 토큰 오용의 위험을 줄일 수 있습니다.
 
@@ -40,13 +40,13 @@
 
 **c) 계정 보안 강화**: 적절한 허용 관리는 악의적인 디앱이 계정을 장악할 가능성을 최소화하여 개인 정보 보호, 제어 및 전반적인 보안을 유지합니다.
 
-## 디앱 허용(권한) 철회하는 방법 <a href="#2203" id="2203"></a>
+## 디앱 허용(권한) 철회하는 방법 <a href="#how-to-revoke-dapp-approval" id="how-to-revoke-dapp-approval"></a>
 
 경계하는 사용자들은 [Ethallowance](https://ethallowance.com/), [Etherscan](https://etherscan.io/tokenapprovalchecker), [Cointool](https://cointool.app/approve/eth), [Revoke](https://revoke.cash/), [Unrekt](https://app.unrekt.net/), 또는 [EverRevoke](https://everrise.com/everrevoke/)와 같은 신뢰할 수 있는 툴을 활용하여 디앱에 부여된 허용을 효율적으로 관리하고 철회할 수 있습니다.
 
 **NOTE:** 디앱의 허용 철회는 블록체인 거래임으로 네트워크 수수료가 부과됩니다. 사용하는 철회 서비스에 따라 추가적인 수수료 비용이 부과될 가능성이 있습니다.
 
-### 이더스캔(이더리움)을 사용한 허용 철회 예시: <a href="#e0db" id="e0db"></a>
+### 이더스캔(이더리움)을 사용한 허용 철회 예시: <a href="#example-of-revoking-allowance-using-etherscan" id="example-of-revoking-allowance-using-etherscan"></a>
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:700/1*fvSKkEXuSzVBI19yis1l9Q.png" alt="" height="404" width="700"><figcaption><p>이더스캔 플랫폼에서 디센트 지갑을 사용하여 디앱 허용 철회하기 (1)</p></figcaption></figure>
 
@@ -60,7 +60,7 @@
 
 허용이 부여된 토큰과 디앱을 확인할 수 있습니다. 파란색 ‘철회’(Revoke) 버튼을 클릭하여 해당 디앱에 부여된 허용을 철회할 수 있습니다.
 
-### ‘Revoke’서비스를 사용하여 허용을 철회하는 예시 (멀티체인): <a href="#58dd" id="58dd"></a>
+### ‘Revoke’서비스를 사용하여 허용을 철회하는 예시 (멀티체인): <a href="#example-of-revoking-allowance-using-revoke" id="example-of-revoking-allowance-using-revoke"></a>
 
 **다중 네트워크**에서 디앱을 사용하는 사용자를 위한 또 다른 훌륭한 도구는 ‘**Revoke**’(**리보크**)라는 타사 플랫폼입니다.
 
