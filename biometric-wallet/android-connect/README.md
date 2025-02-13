@@ -93,7 +93,7 @@
 **Settings 탭** > **월렛모드 변경** > **지문인증형 콜드월렛**&#x20;
 {% endhint %}
 
-### 앱 비밀번호 등록 <a href="#egister-password-for-mobile-app" id="egister-password-for-mobile-app"></a>
+### 앱 비밀번호 등록 <a href="#register-password-for-mobile-app" id="register-password-for-mobile-app"></a>
 
 디센트 모바일 앱 보호를 위한 6자리 비밀번호를 등록해야 합니다. 앱 비밀번호는 디센트 모바일 앱을 실행할 때마다 필요하니 반드시 기억해주시기 바랍니다.
 
