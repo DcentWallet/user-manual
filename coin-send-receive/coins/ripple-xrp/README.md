@@ -1,6 +1,6 @@
 # 리플 (XRP) 지갑 계정 사용법
 
-## 리플 (XRP) 지갑 활성화
+## 리플 (XRP) 지갑 활성화 <a href="#ripple-xrp-account-activation" id="ripple-xrp-account-activation"></a>
 
 리플 (XRP) 지갑 주소를 처음 추가하셨다면 비활성화된 상태입니다. [리플의 정책](https://xrpl.org/reserves.html)으로 리플 지갑 주소를 활성화(activate) 상태로 전환하기 위해서는 **1 XRP 이상의 리플을 구매 또는 양도 받아야 합니다**. 따라서, 해당 1 XRP는 해당 지갑 주소에서 영구 락업(lock-up)이 걸리게 됩니다.​
 
@@ -13,7 +13,7 @@
 
 <div align="left"><img src="../../../.gitbook/assets/exchange_xrp_account.png" alt=""></div>
 
-## 거래소에서 존재하는 리플 지갑 계정 (예시)
+## 거래소에서 존재하는 리플 지갑 계정 (예시) <a href="#example" id="example"></a>
 
 <div align="left"><img src="../../../.gitbook/assets/binance_xrp_account.png" alt=""></div>
 
@@ -25,7 +25,7 @@
 **거래소에 존재하는 리플 지갑 주소로 송금을 보낼 때는 반드시 Destination Tag를 입력해야 합니다.**
 {% endhint %}
 
-## 디센트에서 생성한 리플 지갑 계정&#x20;
+## 디센트에서 생성한 리플 지갑 계정  <a href="#xrp-wallet-created-on-dcent-wallet" id="xrp-wallet-created-on-dcent-wallet"></a>
 
 디센트 월렛과 같이 사용자가 직접 생성한 리플 지갑의 경우에는 리플 계정 주소만 존재하며 Destination Tag가 없습니다.&#x20;
 

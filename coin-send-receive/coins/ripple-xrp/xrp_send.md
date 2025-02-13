@@ -1,6 +1,6 @@
 # 디센트 월렛에서 리플 (XRP) 보내기
 
-### 상대방의 주소 및 Destination Tag 입력
+### 상대방의 주소 및 Destination Tag 입력 <a href="#enter-the-receiver-address-and-the-destination-tag" id="enter-the-receiver-address-and-the-destination-tag"></a>
 
 <div align="left"><img src="../../../.gitbook/assets/20 (3).png" alt=""></div>
 

@@ -4,7 +4,7 @@ description: ETH 코인 보내기/받기 기본 사용법
 
 # 이더리움 지갑 계정 사용법
 
-## 계정 생성
+## 계정 생성 <a href="#how-to-create-an-ethereum-account" id="how-to-create-an-ethereum-account"></a>
 
 이더리움 계정이 없다면 생성해 주세요. 코인 이름은 "Ethereum (ETH)"로 되어 있습니다.
 
@@ -14,7 +14,7 @@ description: ETH 코인 보내기/받기 기본 사용법
 [create-account](../../mobile-app/create-account/)
 {% endcontent-ref %}
 
-## 이더리움 코인(ETH) 받기
+## 이더리움 코인(ETH) 받기 <a href="#receive-ethereum-coin" id="receive-ethereum-coin"></a>
 
 코인 계정에서 "받기"를 클릭하면 이더리움 계정 주소를 확인할 수 있습니다.
 
@@ -26,7 +26,7 @@ description: ETH 코인 보내기/받기 기본 사용법
 [receive.md](../receive.md)
 {% endcontent-ref %}
 
-## 이더리움 코인(ETH) 보내기
+## 이더리움 코인(ETH) 보내기 <a href="#send-ethereum-coin" id="send-ethereum-coin"></a>
 
 이더리움 코인을 전송하는 방법은 일반적인 코인 보내기와 같습니다. 코인 보내기에 대한 일반적인 방법은 다음 항목을 참고하세요.
 
@@ -34,7 +34,7 @@ description: ETH 코인 보내기/받기 기본 사용법
 [send](../send/)
 {% endcontent-ref %}
 
-### 이더리움 수수료 입력
+### 이더리움 수수료 입력 <a href="#set-the-fee-for-ethereum" id="set-the-fee-for-ethereum"></a>
 
 <div align="left"><img src="../../.gitbook/assets/18 (1).png" alt=""></div>
 
@@ -44,7 +44,7 @@ description: ETH 코인 보내기/받기 기본 사용법
 수수료를 너무 낮게 책정하면 트랜잭션이 블록체인에서 승인되지 않아 송금이 이루어지지 않을 수 있습니다.
 {% endhint %}
 
-### 수수료 고급 설정
+### 수수료 고급 설정 <a href="#advanced-fee-setting" id="advanced-fee-setting"></a>
 
 이더리움의 수수료는 "GAS fee"와 "GAS Limit"으로 이루어져 있습니다. GAS fee의 단위는 ETH의 화폐 단위 중 하나인 gwei를 사용합니다.
 
