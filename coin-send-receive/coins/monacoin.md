@@ -4,7 +4,7 @@ description: Monacoin 계정에서 코인 보내기 받기
 
 # 모나코인 지갑 계정 사용법
 
-## 계정 생성
+## 계정 생성 <a href="#how-to-create-a-mona-account" id="how-to-create-a-mona-account"></a>
 
 모나코인 계정이 없다면 생성해 주세요. 코인 이름은 “Monacoin(MONA)”로 되어 있습니다. 계정 생성에 대한 자세한 내용은 다음 항목을 참고하세요.
 
@@ -12,7 +12,7 @@ description: Monacoin 계정에서 코인 보내기 받기
 [create-account](../../mobile-app/create-account/)
 {% endcontent-ref %}
 
-## MONA 코인 받기
+## MONA 코인 받기 <a href="#receive-monacoin" id="receive-monacoin"></a>
 
 생성된 모나코인 계정의 “받기”를 클릭하면 모나코인 주소를 확인 할 수 있습니다.
 
@@ -30,7 +30,7 @@ description: Monacoin 계정에서 코인 보내기 받기
 [receive.md](../receive.md)
 {% endcontent-ref %}
 
-## MONA 코인 보내기
+## MONA 코인 보내기 <a href="#sending-monacoin" id="sending-monacoin"></a>
 
 모나코인을 전송하는 방법은 일반적인 코인 보내기와 같습니다. 코인 보내기에 대한 일반적인 방법은 다음 항목을 참고하세요.
 
@@ -38,7 +38,7 @@ description: Monacoin 계정에서 코인 보내기 받기
 [send](../send/)
 {% endcontent-ref %}
 
-### 모나코인 수수료
+### 모나코인 수수료 <a href="#set-the-fee-for-monacoin" id="set-the-fee-for-monacoin"></a>
 
 <div align="left"><img src="../../.gitbook/assets/36.png" alt=""></div>
 

@@ -4,7 +4,7 @@ description: 루트스탁 RBTC 코인 보내기/받기
 
 # RSK (RBTC) 지갑 계정 사용법
 
-## 계정 생성
+## 계정 생성 <a href="#how-to-create-an-rsk-account" id="how-to-create-an-rsk-account"></a>
 
 RSK 계정이 없다면 생성해 주세요. 코인 이름은 "RSK Smart Bitcoin(RBTC)"로 되어 있습니다.
 
@@ -14,7 +14,7 @@ RSK 계정이 없다면 생성해 주세요. 코인 이름은 "RSK Smart Bitcoin
 [create-account](../../mobile-app/create-account/)
 {% endcontent-ref %}
 
-## RSK 코인(RBTC) 받기
+## RSK 코인(RBTC) 받기 <a href="#receive-rsk" id="receive-rsk"></a>
 
 코인 계정에서 "받기"를 클릭하면 주소를 확인할 수 있습니다.
 
@@ -26,7 +26,7 @@ RSK 계정이 없다면 생성해 주세요. 코인 이름은 "RSK Smart Bitcoin
 [receive.md](../receive.md)
 {% endcontent-ref %}
 
-## RSK 코인(RBTC) 보내기
+## RSK 코인(RBTC) 보내기 <a href="#send-rsk" id="send-rsk"></a>
 
 RSK 코인을 전송하는 방법은 일반적인 코인 보내기와 같습니다. 코인 보내기에 대한 일반적인 방법은 다음 항목을 참고하세요.
 
@@ -34,7 +34,7 @@ RSK 코인을 전송하는 방법은 일반적인 코인 보내기와 같습니�
 [send](../send/)
 {% endcontent-ref %}
 
-### RSK 수수료 입력
+### RSK 수수료 입력 <a href="#set-the-fee-for-rsk" id="set-the-fee-for-rsk"></a>
 
 <div align="left"><img src="../../.gitbook/assets/31.png" alt=""></div>
 

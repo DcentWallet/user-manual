@@ -5,11 +5,11 @@
 **디센트 지문인증형 지갑에서 바이낸스 스마트 체인(BSC)를 지원합니다.**\
 디센트 지문인증형 지갑의 펌웨어 (**v.2.6.0 이상**)에서는 바이낸스 스마트 체인(BSC)과 BEP20 프로토콜에 대한 지원이 추가되었습니다. 또한 디센트 모바일 앱 (**v.5.1.0 이상**)에서도 앱지갑을 사용시 바이낸스 스마트 체인 및 BEP20 토큰을 지원합니다.&#x20;
 
-### 바이낸스 스마트 체인이란?
+### 바이낸스 스마트 체인이란? <a href="#what-is-binance-smart-chain" id="what-is-binance-smart-chain"></a>
 
 Binance Smart Chain은 기존 Binance Chain에 프로그래밍 가능성과 상호 운용성을 제공하는 혁신적인 솔루션입니다. 이는 짧은 블록 시간과 낮은 수수료를 지원할 수있는 PoSA (Proof of Staked Authority) 합의 알고리즘을 통해 21 개의 검증자 시스템에 의존합니다. 바이낸스 스마트 체인은 또한 EVM 호환 스마트 계약을 지원하고 Cross-chain 전송을위한 상호 운용성(스왑 전송을 위한 별도의 서비스)를 제공합니다.
 
-### 디센트 지갑 설정 방법
+### 디센트 지갑 설정 방법 <a href="#how-to-set-up-dcent-wallet" id="how-to-set-up-dcent-wallet"></a>
 
 아래 링크에서 최신 버전의 디센트 모바일 앱을 다운로드 할 수 있습니다.\
 👉 [**Android 용**](https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet\&utm_source=dcentwallet\&utm_campaign=mobileapp)\
@@ -36,7 +36,7 @@ Binance Smart Chain은 기존 Binance Chain에 프로그래밍 가능성과 상�
 **Step 4)** ‘**만들기**’ 버튼을 눌러 계속 진행합니다.\
 **Step 5)** 계정 탭에서 새로운 바이낸스 스마트 체인 계정이 포트폴리오에 추가되었음을 확인합니다.
 
-## 디센트 지갑의 댑 브라우저에서 Binance Smart Chain 댑에 액세스하는 방법
+## 디센트 지갑의 댑 브라우저에서 Binance Smart Chain 댑에 액세스하는 방법 <a href="#how-to-access-binance-smart-chain-dapp" id="how-to-access-binance-smart-chain-dapp"></a>
 
 ‘Discovery’탭에있는 내장된 댑 브라우저를 사용하여 다양한 블록체인 서비스에 액세스 할 수 있습니다.
 
@@ -47,6 +47,6 @@ S**tep 1)** 하단 메뉴의 ‘**Discovery**’탭으로 이동합니다.\
 **Step 3)** 네트워크를 ‘**Binance Smart Chain**’으로 전환합니다.\
 **Step 4)** 검색창에 URL을 입력하여 댑 서비스에 접속할 수 있습니다.
 
-### **유용한 링크 : Binance Smart Chain 댑 서비스 목록**
+### **유용한 링크 : Binance Smart Chain 댑 서비스 목록** <a href="#useful-link" id="useful-link"></a>
 
 👉 [https://dappradar.com/rankings/protocol/binance-smart-chain](https://dappradar.com/rankings/protocol/binance-smart-chain)
