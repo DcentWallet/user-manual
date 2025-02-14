@@ -4,7 +4,7 @@
 
 FTSO 포털 (FTSO Portal) 은 사용자가 송버드(Songbird) 와 플레어(Flare) 네트워크에서 FTSO 기능과 상호 작용할 수 있는 기능입니다. SGB와 FLR 보유자는 송버드/플레어 네트워크에서 선호하는 FTSO 제공자에게 투표권을 위임할 수 있습니다.
 
-### FTSO 포털 액세스 <a href="#id-1d67" id="id-1d67"></a>
+### FTSO 포털 액세스 <a href="#accessing-the-ftso-portal" id="accessing-the-ftso-portal"></a>
 
 FTSO 포털은 디센트 모바일 앱의 Discovery 탭(DApp 브라우저)에서 찾을 수 있습니다.
 
@@ -15,7 +15,7 @@ FTSO 포털은 디센트 모바일 앱의 Discovery 탭(DApp 브라우저)에서
 1. 댑 브라우저(Discovery)의 목록에서 **FTSO Portal** 을 클릭합니다.
 2. 이동된 FTSO 포털 사이트에서 송버드 혹은 플레어 지갑 주소로 접속(연결)합니다 .
 
-### SGB 또는 FLR 토큰을 래핑된 토큰으로 교환
+### SGB 또는 FLR 토큰을 래핑된 토큰으로 교환 <a href="#swapping-sgb-or-flr-tokens-to-wrapped-tokens" id="swapping-sgb-or-flr-tokens-to-wrapped-tokens"></a>
 
 FTSO 제공자에게 투표권을 위임하려면 먼저 **SGB 또는 FLR 토큰을 WSGB나 WFLR와 같은 래핑된 토큰으로 교환**해야 합니다.
 
@@ -33,7 +33,7 @@ FTSO 제공자에게 투표권을 위임하려면 먼저 **SGB 또는 FLR 토큰
 5. 계속하려면 **"확인"**&#xC744; 누르십시오.
 6. 스왑된 WSGB 잔액은 포트폴리오 섹션에서 확인할 수 있습니다.
 
-### WSGB를 통한 투표권 위임 <a href="#id-99f9" id="id-99f9"></a>
+### WSGB를 통한 투표권 위임 <a href="#vote-power-delegation-with-wsgb" id="vote-power-delegation-with-wsgb"></a>
 
 <div align="left"><img src="../.gitbook/assets/01 (4).jpg" alt=""></div>
 
@@ -47,7 +47,7 @@ FTSO 제공자에게 투표권을 위임하려면 먼저 **SGB 또는 FLR 토큰
 5. **"승인"**&#xC744; 누르고 인증하면 해당 거래에 서명됩니다.
 6. 계속하려면 **"확인"**&#xC744; 누르세요.
 
-### 나의 위임 상태 확인하기 <a href="#b38a" id="b38a"></a>
+### 나의 위임 상태 확인하기 <a href="#checking-my-delegation-status" id="checking-my-delegation-status"></a>
 
 <div align="left"><img src="../.gitbook/assets/03 (3).jpg" alt=""></div>
 
@@ -57,7 +57,7 @@ FTSO 제공자에게 투표권을 위임하려면 먼저 **SGB 또는 FLR 토큰
 
 🚨 **보상은 매주 토요일 지급되며 90일동안 보상을 수령하지 않으면 사라지게됩니다. 매주 보상을 주기적으로 수령(Claim)하시기 바랍니다**. 🚨
 
-### 투표권 위임 해제 <a href="#id-7299" id="id-7299"></a>
+### 투표권 위임 해제 <a href="#undelegating-vote-power" id="undelegating-vote-power"></a>
 
 <div align="left"><img src="../.gitbook/assets/04 (3).jpg" alt=""></div>
 
@@ -66,7 +66,7 @@ FTSO 제공자에게 투표권을 위임하려면 먼저 **SGB 또는 FLR 토큰
 3. 계속하려면 **"확인"**&#xC744; 누르세요.
 4. 위임 해지 명령을 완료하려면 거래에 서명해야 합니다. **"승인"**&#xC744; 누르고 인증하면 해당 거래에 서명됩니다.
 
-### 디센트 FTSO 파트너 목록 <a href="#id-27b2" id="id-27b2"></a>
+### 디센트 FTSO 파트너 목록 <a href="#dcent-ftso-partners-list" id="dcent-ftso-partners-list"></a>
 
 <div align="left"><img src="../.gitbook/assets/FTSO-08.png" alt="" width="344"></div>
 
