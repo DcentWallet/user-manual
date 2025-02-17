@@ -4,7 +4,7 @@
 
 백업 이미지를 복구하기 위해 <mark style="background-color:green;">**백업 카드**</mark>를 준비하세요.
 
-<figure><img src="../../.gitbook/assets/1 (13).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (4).jpg" alt=""><figcaption></figcaption></figure>
 
 **1.** '**Manager**' 탭에서 '**백업 및 복구**'를 클릭합니다.
 
@@ -12,7 +12,7 @@
 
 **3.** '**복구 시작하기**'를 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/2 (12).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (5).jpg" alt=""><figcaption></figcaption></figure>
 
 **4.** 휴대폰 뒷면에서 **백업 카드를 탭**하여 스캔합니다.&#x20;
 
@@ -20,7 +20,7 @@
 
 **6.** '**붙여넣기**' 버튼을 클릭해 암호화된 백업 이미지 데이터를 붙여넣습니다. 계속하려면 '**다음**'을 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/3 (9).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (7).jpg" alt=""><figcaption></figcaption></figure>
 
 **7.** 백업 이미지를 암호화하는 데 사용된 **암호화 비밀번호**를 입력합니다. 계속하려면 '**다음**'을 클릭합니다.&#x20;
 
@@ -28,7 +28,7 @@
 
 **9.** 휴대폰 뒷면에서 **백업 카드를 탭**합니다.
 
-<figure><img src="../../.gitbook/assets/4 (7).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (13).jpg" alt=""><figcaption></figcaption></figure>
 
 
 

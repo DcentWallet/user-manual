@@ -23,13 +23,13 @@
 
 **2)** 스왑 서비스에 접속하면 **From(보내는 토큰)** 과 **To(받는 토큰)**&#xC744; 선택할 수 있는 화면이 뜹니다.
 
-<figure><img src="../../.gitbook/assets/2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (23).jpg" alt=""><figcaption></figcaption></figure>
 
 **3)** From (보내는 토큰)에는 **연결된 메인 네트워크 정보와 토큰 계정 이름, 해당 계정에서 보유하고 있는 토큰의 수량**이 표시됩니다.
 
 보내는 토큰을 변경 하려면 아래 그림과 같이 **토큰 계정 이름**을 눌러 원하는 토큰을 검색하거나 목록에서 선택할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (18).jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 보내는 토큰 팝업에서는 지갑에 추가되어있는 토큰 계정만 선택할 수 있습니다.
@@ -41,11 +41,11 @@
 
 만약 지갑에 추가 되어있는 토큰이 아닌 새로운 토큰을 선택하고 싶다면, ‘더보기’를 눌러 새로운 네트워크를 선택하거나 검색창에 토큰 이름을 입력해 선택할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (12).jpg" alt=""><figcaption></figcaption></figure>
 
 새로운 토큰을 선택 했다면, ‘계정 추가’ 버튼을 눌러 네트워크 수수료를 지불할 계정을 선택하고 계정 이름을 입력한 후 ‘만들기’ 버튼을 누르면 해당 토큰 계정이 새로 추가 됩니다.
 
-<figure><img src="../../.gitbook/assets/5.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (6).jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -57,13 +57,13 @@
 To(받는 토큰) 에서 선택한 토큰 별로 보내는 토큰의 최소 수량이 존재합니다. 안내 되는 최소 수량을 확인해주세요.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/6.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6 (5).jpg" alt=""><figcaption></figcaption></figure>
 
 **2)** **From** 에서 보내는 수량을 입력하였다면 To 에서 받는 토큰 수량과 금액을 확인할 수 있습니다.
 
 지원되는 유동성 제공자 중 더 좋은 가격을 제공하는 스왑 비율과 추천 제공자를 확인할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/7.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7 (4).jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 스왑에 필요한 수수료는 OKX, 1 inch 와 같은 서비스 공급 업체의 수수료와 블록체인 상에서 거래를 수행하기 위한 네트워크 수수료(가스비) 입니다. 디센트는 스왑 서비스를 통해 사용자에게 별도의 수수료를 부과하지 않습니다.

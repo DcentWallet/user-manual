@@ -22,9 +22,9 @@ Android의 경우 NFC 기능을 '**표준/기본 모드**'로 활성화합니다
 
 ## 디센트 앱 설정하기 <a href="#first-set-up-your-dcent-app" id="first-set-up-your-dcent-app"></a>
 
-<figure><img src="../../.gitbook/assets/1 (6).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1.jpg" alt=""><figcaption></figcaption></figure>
 
-**1.** 새로운 사용자는 '**아니요, 처음이에요**'를 클릭합니다.&#x20;
+**1.** 새로운 사용자는 **‘새 지갑 생성하기’** 버튼을 누릅니다.
 
 **2.** '**카드형 콜드월렛**'을.클릭합니다.&#x20;
 
@@ -32,19 +32,17 @@ Android의 경우 NFC 기능을 '**표준/기본 모드**'로 활성화합니다
 
 디센트 앱에 6자리 비밀번호를 등록하세요. **이 비밀번호는 디센트 앱 잠금을 해제하기 위한 비밀번호입니다.** 6자리 비밀번호가 기억나지 않는 경우 디센트 앱을 다시 설치해야 합니다.
 
-<figure><img src="../../.gitbook/assets/2 (6).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.jpg" alt=""><figcaption></figcaption></figure>
 
 **3.** 앱의 6자리 비밀번호를 입력합니다.&#x20;
 
 **4.** 동일한 6자리 PIN을 다시 입력합니다.&#x20;
 
-**5.** 생체 인증을 건너뛰거나 활성화합니다. 6자리 PIN만 사용하여 디센트 앱 잠금을 해제하려면 건너뛰셔도 됩니다.
-
 ## 올인원 지갑 설정하기 <a href="#set-up-the-all-in-one-wallet" id="set-up-the-all-in-one-wallet"></a>
 
 ### 올인원 지갑 스캔하기 <a href="#scan-your-all-in-one-wallet" id="scan-your-all-in-one-wallet"></a>
 
-<figure><img src="../../.gitbook/assets/3 (5).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3.jpg" alt=""><figcaption></figcaption></figure>
 
 **1.** 휴대폰 뒷면에서 **올인원 지갑을 탭**하여 스캔합니다.&#x20;
 
@@ -60,13 +58,13 @@ Android의 경우 NFC 기능을 '**표준/기본 모드**'로 활성화합니다
 
 올인원 지갑의 공장 초기 PIN을 본인의 PIN으로 변경해야 사용할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/4 (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4.jpg" alt=""><figcaption></figcaption></figure>
 
 **3.** 화면 상단에서 공장 초기 PIN을 변경하라는 메시지를 클릭합니다.
 
 **4.** '**지금** **변경하기**'를 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/5 (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5.jpg" alt=""><figcaption></figcaption></figure>
 
 **5.** 올인원 지갑에서 리본 마스킹을 제거하여 공장 초기 PIN을 찾습니다.
 
@@ -78,7 +76,7 @@ Android의 경우 NFC 기능을 '**표준/기본 모드**'로 활성화합니다
 리본 마스킹을 제거할 때 날카로운 도구를 사용하면 카드 지갑이 손상될 수 있으니 주의하시기 바랍니다.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/6 (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6.jpg" alt=""><figcaption></figcaption></figure>
 
 **8.** 올인원 지갑의 새로운 PIN을 입력합니다. (예: 123456)
 
@@ -86,7 +84,7 @@ Android의 경우 NFC 기능을 '**표준/기본 모드**'로 활성화합니다
 
 **10.** 휴대폰 뒷면에서 올인원 지갑을 탭하여 스캔합니다.
 
-<figure><img src="../../.gitbook/assets/7 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7.jpg" alt=""><figcaption></figcaption></figure>
 
 **11.** '**확인**'을 클릭하여 설정을 완료합니다.
 

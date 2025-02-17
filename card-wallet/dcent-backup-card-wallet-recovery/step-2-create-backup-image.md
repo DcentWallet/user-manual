@@ -4,21 +4,20 @@
 
 지갑을 복구할 때 반드시 필요한 백업 이미지를 생성하려면 <mark style="background-color:green;">**올인원 지갑**</mark>을 준비하세요.
 
-<figure><img src="../../.gitbook/assets/1 (12).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (3).jpg" alt=""><figcaption></figcaption></figure>
 
 **1.** Settings 탭에서 **디센트 매니저**를 누릅니다. 혹은 백업을 하지 않았을 경우, **My wallet 상단의 배너**에서 \[백업하기] 버튼을 눌러 이동할 수 있습니다.
 
 2. **'카드 백업 및 복구'**&#xB97C; 선택합니다.
 
-
-
-<figure><img src="../../.gitbook/assets/8 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (4).jpg" alt=""><figcaption></figcaption></figure>
 
 **3.** '**백업 이미지 생성**'을 선택합니다.
 
-**4. '백업 시작하기'**&#xB97C; 선택합니다.
+**4. '백업 시작하기'**&#xB97C; 선택합니다.\
 
-<figure><img src="../../.gitbook/assets/2 (10).jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/3 (6).jpg" alt=""><figcaption></figcaption></figure>
 
 **5.** 안드로이드의 경우 안내에 따라 NFC 설정을 켭니다.
 
@@ -30,7 +29,7 @@
 
 **7.** 백업이 가능한 카드일 경우 '**다음**' 버튼을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/3 (7).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (2).jpg" alt=""><figcaption></figcaption></figure>
 
 **8.** 백업 이미지 데이터를 암호화하는 데 사용할 **암호화 비밀번호**를 입력합니다. 동일한 암호화 비밀번호를 다시 입력한 후 **'다음'** 버튼을 누릅니다.
 
@@ -40,9 +39,7 @@
 
 **9. 올인원 지갑의 PIN**을 입력합니&#xB2E4;**.**
 
-
-
-<figure><img src="../../.gitbook/assets/4 (4).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 **10.** 휴대폰 뒷면에서 **올인원 지갑을 탭**하여 스캔합니다.
 

@@ -6,7 +6,7 @@ hidden: true
 
 현재 디센트는 시험적으로 다크모드를 운영중에 있으며, 다음과 같은 방법으로 적용할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (5).jpg" alt=""><figcaption></figcaption></figure>
 
 1. Settings 탭에 방문합니다.
 2. 스크롤을 내려 “실험실” 목록을 선택합니다.

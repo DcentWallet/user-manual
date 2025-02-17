@@ -8,7 +8,7 @@
 펌웨어 업데이트는 개인용 컴퓨터에서만 가능합니다.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/1 (3).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (3) (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -145,7 +145,7 @@
 
 휴대폰의 디센트 모바일 앱을 실행하고 콜드월렛을 연결하면 최신 펌웨어 정보를 확인할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/2 (3).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (3) (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
