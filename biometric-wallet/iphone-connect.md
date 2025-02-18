@@ -10,7 +10,9 @@
 
 앱 스토어에서 **"디센트"** 또는 **"D'CENT"**&#xB97C; 검색하세요.
 
-<div align="left"><img src="../.gitbook/assets/아이폰-01.png" alt="" width="274"></div>
+
+
+<figure><img src="../.gitbook/assets/Group 2608186.png" alt=""><figcaption></figcaption></figure>
 
 ## 모바일 앱 기본 설정 <a href="#basic-setup-for-mobile-app" id="basic-setup-for-mobile-app"></a>
 

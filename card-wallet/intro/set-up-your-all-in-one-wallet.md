@@ -42,7 +42,7 @@ Android의 경우 NFC 기능을 '**표준/기본 모드**'로 활성화합니다
 
 ### 올인원 지갑 스캔하기 <a href="#scan-your-all-in-one-wallet" id="scan-your-all-in-one-wallet"></a>
 
-<figure><img src="../../.gitbook/assets/3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (20).jpg" alt=""><figcaption></figcaption></figure>
 
 **1.** 휴대폰 뒷면에서 **올인원 지갑을 탭**하여 스캔합니다.&#x20;
 
