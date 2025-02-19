@@ -95,6 +95,8 @@
 
 **디센트 모바일 앱 버전 v7.4.2**부터 모바일 앱에서 직접 연결을 지원합니다. **안드로이드 OS 버전이 15 이상**이라면 해당 가이드를 참고하시길 바랍니다.
 
+<div align="left"><figure><img src="../../.gitbook/assets/안드로이드03.png" alt="" width="386"><figcaption></figcaption></figure></div>
+
 {% hint style="info" %}
 안드로이드 OS 버전이 15 이하여도 모바일 앱 버전이 v7.4.2이상이라면 모바일 앱에서 직접 연결을 지원합니다.
 {% endhint %}
