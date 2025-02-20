@@ -4,44 +4,44 @@
 
 As of February 2025, the following blockchain networks are currently supported for the swap service. Additional blockchain networks are planned to be supported in the future.
 
-| Network Name | Supported Token                                                                                                                                                                                  |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ARBITRUM     | all                                                                                                                                                                                              |
-| AVALANCHE    | all                                                                                                                                                                                              |
-| BASE         | all                                                                                                                                                                                              |
-| BITCOIN      | none                                                                                                                                                                                             |
-| BITCOINCASH  | none                                                                                                                                                                                             |
-| BSC          | all                                                                                                                                                                                              |
-| CARDANO      | none                                                                                                                                                                                             |
-| CELO         | Tether USD (CELO), USD Coin (CELO), Celo Dollar                                                                                                                                                  |
-| CONFLUX      | none                                                                                                                                                                                             |
-| COSMOS       | none                                                                                                                                                                                             |
-| CRONOS       | all                                                                                                                                                                                              |
-| DASH         | none                                                                                                                                                                                             |
-| DIGIBYTE     | none                                                                                                                                                                                             |
-| DOGECOIN     | none                                                                                                                                                                                             |
-| ECASH        | none                                                                                                                                                                                             |
-| ETH-CLASSIC  | none                                                                                                                                                                                             |
-| ETHEREUM     | all                                                                                                                                                                                              |
-| FANTOM       | all                                                                                                                                                                                              |
-| FLARE        | none                                                                                                                                                                                             |
-| GNOSIS       | all                                                                                                                                                                                              |
-| HEDERA       | none                                                                                                                                                                                             |
-| HORIZEN      | none                                                                                                                                                                                             |
-| KAIA         | all                                                                                                                                                                                              |
-| LITECOIN     | none                                                                                                                                                                                             |
-| NEAR         | Tether NEAR chain, Tether (NEAR)                                                                                                                                                                 |
-| OKC          | all                                                                                                                                                                                              |
-| OPTIMISM     | all                                                                                                                                                                                              |
-| POLKADOT     | none                                                                                                                                                                                             |
-| POLYGON      | all                                                                                                                                                                                              |
-| RAVENCOIN    | none                                                                                                                                                                                             |
-| RSK          | Rootstock Infrastructure Framework                                                                                                                                                               |
-| SOLANA       | all                                                                                                                                                                                              |
-| STACKS       | none                                                                                                                                                                                             |
-| STELLAR      | USD Coin (Stellar), VELO                                                                                                                                                                         |
-| TEZOS        | Tether (Tezos)                                                                                                                                                                                   |
-| TRON         | TrueUSD (Tron), Sun, WINkLink (Tron), APENFT (Tron), JUST, Tether (TRC20), BitTorrent-New (TRC 20), WhiteBIT Token, SUNDOG, USD Coin (Tron), USDD (TRC20), Klever (TRC20), USDJ, FTX Users' Debt |
-| XINFIN       | none                                                                                                                                                                                             |
-| XRPL         | Sologenic                                                                                                                                                                                        |
-| ZCASH        | none                                                                                                                                                                                             |
+| Blockchain          | Supported Tokens                                                                                                                    |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Arbitrum ETH        | all                                                                                                                                 |
+| Avalanche           | all                                                                                                                                 |
+| Base ETH            | all                                                                                                                                 |
+| Bitcoin             |                                                                                                                                     |
+| Bitcoin Cash        |                                                                                                                                     |
+| Binance Smart Chain | all                                                                                                                                 |
+| Cardano             | none                                                                                                                                |
+| Celo                | Celo Dollar (cUSD)                                                                                                                  |
+| Conflux             | none                                                                                                                                |
+| Cosmos              | none                                                                                                                                |
+| Cronos              | all                                                                                                                                 |
+| Dash                |                                                                                                                                     |
+| DigiByte            |                                                                                                                                     |
+| Dogecoin            |                                                                                                                                     |
+| eCash               |                                                                                                                                     |
+| Ethereum Classic    |                                                                                                                                     |
+| Ethereum            | all                                                                                                                                 |
+| Fantom Opera        | all                                                                                                                                 |
+| Flare Network       |                                                                                                                                     |
+| Gnosis              | all                                                                                                                                 |
+| Hedera Hashgraph    | none                                                                                                                                |
+| Horizen             |                                                                                                                                     |
+| Kaia                | all                                                                                                                                 |
+| Litecoin            | none                                                                                                                                |
+| NEAR Protocol       | Tether USD (USDT)                                                                                                                   |
+| OKX Chain           | all                                                                                                                                 |
+| Optimism ETH        | all                                                                                                                                 |
+| Polkadot            |                                                                                                                                     |
+| Polygon             | all                                                                                                                                 |
+| Ravencoin           |                                                                                                                                     |
+| RSK Smart Bitcoin   | Rootstock Infrastructure Framework (RIF)                                                                                            |
+| Solana              | all                                                                                                                                 |
+| Stacks              | none                                                                                                                                |
+| Stellar Lumen       | USD Coin (USDC), Velo (VELO)                                                                                                        |
+| Tezos               | Tether USD (USDT)                                                                                                                   |
+| TRON                | Tether (TRON) (USDT), SUN (SUN), WINk (WIN), APENFT (NFT), JUST (JST), BitTorrent (BTT), USD Coin (USDC), USDD (USDD), Klever (KLV) |
+| XDC (XinFin)        | none                                                                                                                                |
+| XRPL                | Sologenic (SOLO)                                                                                                                    |
+| Zcash               |                                                                                                                                     |
