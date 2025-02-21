@@ -12,7 +12,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/Group 2608186.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/Group 2608186.png" alt=""><figcaption></figcaption></figure></div>
 
 ## 모바일 앱 기본 설정 <a href="#basic-setup-for-mobile-app" id="basic-setup-for-mobile-app"></a>
 
@@ -20,7 +20,7 @@
 
 모바일 앱을 처음 설치하셨다면 지갑 모드를 선택해야 합니다. **"지문인증형 콜드월렛"**&#xC744; 선택해 주세요.
 
-<figure><img src="../.gitbook/assets/1 (2) (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/1 (2) (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 월렛(지갑) 모드는 디센트앱 하단 메뉴인 Settings 탭에서도 변경이 가능합니다. 지문인증형 지갑을 사용하시는 분이라면 반드시 디센트앱의 월렛 모드를 지문인증형 콜드월렛으로 설정하셔야 합니다.&#x20;
 
@@ -53,24 +53,22 @@
 
 ### 아이폰에서 연결 <a href="#connecting-from-your-iphone" id="connecting-from-your-iphone"></a>
 
-{% embed url="https://youtu.be/WSB8pD0dnAY?feature=shared" %}
-
 1\) 디센트 앱 My Wallet 탭의 왼쪽 위에 블루투스 연결 아이콘을 확인하세요. 아래와 같이 빨간색 아이콘이면 연결이 안되어 있다는 의미이니 아이콘을 클릭하세요
 
 
 
-<figure><img src="../.gitbook/assets/3 (2) (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/3 (2) (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 2\) 아이콘을 클릭하여 연결 가능한 디센트 디바이스를 선택하세요
 
-<figure><img src="../.gitbook/assets/4 (1) (1) (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/4 (1) (1) (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 3\) 디센트 디바이스 선택 후 지갑 동기화가 자동으로 진행됩니다. 동기화가 시작되는데 수 초 정도 걸릴 수 있습니다.
 
-<figure><img src="../.gitbook/assets/5 (1) (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/5 (1) (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 동기화가 완료되면 모바일 앱의 왼쪽 상단에 연결 표시가 나타나고, 콜드월렛의 오른쪽 상단에 푸른색의 블루투스 연결 상태등이 켜집니다.
 
-<figure><img src="../.gitbook/assets/6 (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/6 (1).jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
 이제 가지고 계신 코인 계정을 추가하여 디센트 월렛을 사용할 수 있습니다. 코인 계정 추가에 대한 자세한 안내는 [**여기**](../mobile-app/create-account/)를 참고하세요.
