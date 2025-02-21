@@ -28,8 +28,6 @@ OTG 제품은 안드로이드 폰에 USB 장치를 연결할 수 있게 해주�
 
 {% embed url="https://store-kr.dcentwallet.com/products/2-in-1-otg-%EC%BC%80%EC%9D%B4%EB%B8%94" %}
 
-{% embed url="https://youtu.be/GHCrIS7303I" %}
-
 ## 펌웨어 업데이트 표시 <a href="#firmware-update-indicator" id="firmware-update-indicator"></a>
 
 새로운 코인이 추가되거나, 버그 수정을 위해 펌웨어가 업데이트됩니다. 펌웨어 업데이트가 필요한 경우 모바일 앱에 다음과 같이 표시됩니다.
