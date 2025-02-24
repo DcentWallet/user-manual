@@ -34,7 +34,7 @@ OTG 제품의 종류로는 젠더 타입, 케이블 타입 등이 있으며, 별
 
 콜드월렛과 연결되지 않았다는 표시가 나타납니다.
 
-<figure><img src="../../.gitbook/assets/1 (1) (1) (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/1 (1) (1) (1).jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ### 안드로이드 폰과 콜드월렛 OTG 케이블로 연결
 
@@ -46,15 +46,11 @@ OTG 제품의 종류로는 젠더 타입, 케이블 타입 등이 있으며, 별
 
 1\) OTG 제품이 연결되면 다음과 같은 팝업이 나타납니다. **"확인"**&#xC744; 눌러주세요.
 
-
-
-<figure><img src="../../.gitbook/assets/2 (1) (1) (1) (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/2 (1) (1) (1) (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 2\) 연결이 완료되면 콜드월렛과 동기화가 진행되고, 월렛을 사용할 수 있습니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/3 (21).jpg" alt=""><figcaption></figcaption></figure></div>
-
-
+<div align="left"><figure><img src="../../.gitbook/assets/3 (21).jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ### 펌웨어 업데이트 <a href="#firmware-update" id="firmware-update"></a>
 
