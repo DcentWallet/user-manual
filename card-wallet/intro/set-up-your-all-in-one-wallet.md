@@ -58,7 +58,7 @@ Android의 경우 NFC 기능을 '**표준/기본 모드**'로 활성화합니다
 
 올인원 지갑의 공장 초기 PIN을 본인의 PIN으로 변경해야 사용할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/4 (1).jpg" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/4.jpg" alt=""><figcaption></figcaption></figure></div>
 
 **3.** 화면 상단에서 공장 초기 PIN을 변경하라는 메시지를 클릭합니다.
 

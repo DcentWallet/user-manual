@@ -61,7 +61,7 @@
 
 2\) 아이콘을 클릭하여 연결 가능한 디센트 디바이스를 선택하세요
 
-<div align="left"><figure><img src="../.gitbook/assets/4 (1) (1) (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/4 (1) (1) (1) (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 3\) 디센트 디바이스 선택 후 지갑 동기화가 자동으로 진행됩니다. 동기화가 시작되는데 수 초 정도 걸릴 수 있습니다.
 
