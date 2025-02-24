@@ -33,7 +33,7 @@
 | NEAR Protocol       | Tether USD (USDT)                                                                                                                   |
 | OKX Chain           | all                                                                                                                                 |
 | Optimism ETH        | all                                                                                                                                 |
-| Polkadot            |                                                                                                                                     |
+| Polkadot            | none                                                                                                                                |
 | Polygon             | all                                                                                                                                 |
 | Ravencoin           |                                                                                                                                     |
 | RSK Smart Bitcoin   | Rootstock Infrastructure Framework (RIF)                                                                                            |
