@@ -33,7 +33,7 @@ As of February 2025, the following blockchain networks are currently supported f
 | NEAR Protocol       | Tether USD (USDT)                                                                                                                   |
 | OKX Chain           | all                                                                                                                                 |
 | Optimism ETH        | all                                                                                                                                 |
-| Polkadot            |                                                                                                                                     |
+| Polkadot            | none                                                                                                                                |
 | Polygon             | all                                                                                                                                 |
 | Ravencoin           |                                                                                                                                     |
 | RSK Smart Bitcoin   | Rootstock Infrastructure Framework (RIF)                                                                                            |
