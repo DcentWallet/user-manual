@@ -32,7 +32,7 @@ OTG 제품은 안드로이드 폰에 USB 장치를 연결할 수 있게 해주�
 
 새로운 코인이 추가되거나, 버그 수정을 위해 펌웨어가 업데이트됩니다. 펌웨어 업데이트가 필요한 경우 모바일 앱에 다음과 같이 표시됩니다.
 
-<figure><img src="../.gitbook/assets/1 (4) (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/1 (4) (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### 펌웨어 업데이트 전 숙지 사항 <a href="#before-you-update-the-firmware" id="before-you-update-the-firmware"></a>
 
@@ -61,15 +61,15 @@ OTG 제품은 안드로이드 폰에 USB 장치를 연결할 수 있게 해주�
 
 디센트 지문인증형 콜드월렛을 OTG 제품으로 안드로이드 폰과 연결하면 폰 화면에 팝업이 표시되며 이때 반드시 "**확인"** 버튼을 눌러주세요.
 
-<figure><img src="../.gitbook/assets/2 (4) (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/2 (4) (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Settings 탭으로 이동하여 **펌웨어 업데이트**를 누릅니다.
 
-<figure><img src="../.gitbook/assets/3 (3) (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/3 (3) (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### 펌웨어 업데이트 진행 <a href="#proceed-with-the-firmware-update" id="proceed-with-the-firmware-update"></a>
 
-<figure><img src="../.gitbook/assets/5 (1) (1) (1).jpg" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/5 (1) (1) (1).jpg" alt=""><figcaption></figcaption></figure></div>
 
 **1. "업데이트"** 버튼을 누릅니다.&#x20;
 
@@ -77,7 +77,7 @@ Settings 탭으로 이동하여 **펌웨어 업데이트**를 누릅니다.
 
 **3.** 다음 화면에서 "**업데이트 시작"** 버튼을 누릅니다.
 
-<figure><img src="../.gitbook/assets/6 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/6 (1) (1).jpg" alt=""><figcaption></figcaption></figure></div>
 
 **4.** "**부트로더 모드로 재부팅"** 버튼을 누릅니다.&#x20;
 
@@ -85,7 +85,7 @@ Settings 탭으로 이동하여 **펌웨어 업데이트**를 누릅니다.
 
 **6.** **"업데이트 계속"** 버튼을 눌러주세요.
 
-<figure><img src="../.gitbook/assets/7 (1).jpg" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/7 (1).jpg" alt=""><figcaption></figcaption></figure></div>
 
 **7.** 펌웨어 업데이트가 완료될 때 까지 (약 10분 소요) 기다려주세요. 업데이트가 완료되면 지문인증형 콜드월렛이 자동으로 정상 모드로 재부팅됩니다.&#x20;
 
