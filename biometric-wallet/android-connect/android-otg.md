@@ -48,7 +48,7 @@ OTG 제품의 종류로는 젠더 타입, 케이블 타입 등이 있으며, 별
 
 
 
-<figure><img src="../../.gitbook/assets/2 (1) (1) (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (1) (1) (1) (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 2\) 연결이 완료되면 콜드월렛과 동기화가 진행되고, 월렛을 사용할 수 있습니다.
 

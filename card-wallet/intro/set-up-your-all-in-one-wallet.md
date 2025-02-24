@@ -32,7 +32,7 @@ Android의 경우 NFC 기능을 '**표준/기본 모드**'로 활성화합니다
 
 디센트 앱에 6자리 비밀번호를 등록하세요. **이 비밀번호는 디센트 앱 잠금을 해제하기 위한 비밀번호입니다.** 6자리 비밀번호가 기억나지 않는 경우 디센트 앱을 다시 설치해야 합니다.
 
-<figure><img src="../../.gitbook/assets/2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 **3.** 앱의 6자리 비밀번호를 입력합니다.&#x20;
 

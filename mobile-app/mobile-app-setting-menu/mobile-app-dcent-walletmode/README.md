@@ -14,7 +14,7 @@
 
 각 월렛모드 별 "My Wallet" 탭 화면과 "Setting" 탭 화면은 아래 그림과 같습니다.
 
-<figure><img src="../../../.gitbook/assets/2 (18).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2.jpg" alt=""><figcaption></figcaption></figure>
 
 ## 각 모드별 메뉴 구성 <a href="#menu-composition-for-each-mode" id="menu-composition-for-each-mode"></a>
 
