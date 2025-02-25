@@ -31,8 +31,6 @@
 외장형 카메라를 사용한다면 해당 카메라가 **자동 포커스(Auto Focus) 기능과 QR코드 스캔 기능**을 지원하는 지 확인하여 주시기 바랍니다.
 {% endhint %}
 
-{% embed url="https://youtu.be/XTY0rZejZOc" %}
-
 ### \[Step 1] 디센트 앱에서 메타마스크 연결 준비하기 <a href="#step-1-preparing-to-connect-the-metamask-in-the-dcent-app" id="step-1-preparing-to-connect-the-metamask-in-the-dcent-app"></a>
 
 ![](../.gitbook/assets/메타마스크-01.png)
@@ -47,7 +45,7 @@ EVM계열 계정이 없는 경우, [계정 만들기 사용자 가이드](https:
 
 **3) 서비스 바로가기**를 터치합니다.
 
-![](../.gitbook/assets/메타마스크-02.png)
+![](<../.gitbook/assets/메타마스크-02 (1).png>)
 
 **4)** 메타마스크 연동 화면에서 **메타마스크 계정 연결**을 터치합니다.
 
