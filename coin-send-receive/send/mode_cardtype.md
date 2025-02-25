@@ -39,7 +39,7 @@
 
 ### 카드 타입 콜드월렛에서 최종 승인 <a href="#final-confirmation-from-your-card-wallet" id="final-confirmation-from-your-card-wallet"></a>
 
-<div align="left"><img src="../../.gitbook/assets/7 (7).png" alt=""></div>
+<div align="left"><img src="../../.gitbook/assets/7.png" alt=""></div>
 
 1\) 모바일 앱에서 카드월렛 태깅 화면이 표시됩니다.
 

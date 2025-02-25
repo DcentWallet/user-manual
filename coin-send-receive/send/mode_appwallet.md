@@ -20,7 +20,7 @@
 
 ### 보내는 금액 및 수수료 입력 <a href="#enter-the-amount-to-send-and-set-the-fee" id="enter-the-amount-to-send-and-set-the-fee"></a>
 
-<div align="left"><img src="../../.gitbook/assets/9 (8).png" alt=""></div>
+<div align="left"><img src="../../.gitbook/assets/9.png" alt=""></div>
 
 1\) 보내려는 암호화폐 코인 수량을 입력합니다.&#x20;
 
@@ -34,7 +34,7 @@
 
 ### 앱 월렛에서 최종 승인 <a href="#final-confirmation-from-your-app-wallet" id="final-confirmation-from-your-app-wallet"></a>
 
-<div align="left"><img src="../../.gitbook/assets/10 (6).png" alt=""></div>
+<div align="left"><img src="../../.gitbook/assets/10.png" alt=""></div>
 
 1\) 모바일 앱을 처음 설정할 때 등록한 비밀번호(6자리)를 입력합니다.\
 &#x20;   모바일 앱에 추가 인증을 설정하였다면 지문 또는 Face ID로 인증할 수 있습니다.
