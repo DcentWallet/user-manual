@@ -52,16 +52,16 @@ You can find more information about using the Discovery Tab from the link below.
 
 While using the All-in-One Wallet, you will be asked to enter the PIN of the hardware wallet for the following occasions:&#x20;
 
-1\) To sign the transaction
+1\) When signing the transaction
 
 2\) When changing the current PIN to a new PIN
 
-![](../../.gitbook/assets/pin-block.png)
+<div align="left"><figure><img src="../../.gitbook/assets/19.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="danger" %}
 <mark style="color:red;">As a security measure, a total of 10 attempts are available to enter the correct PIN.</mark>&#x20;
 
-<mark style="color:red;">The secure chipset on the All-in-One Wallet keeps count of how many authentication attempts have failed. If the incorrect PIN is entered consecutively 10 times, the secure chipset on the hardware wallet will be blocked permanently. This means that any cryptocurrency assets stored in the All-in-One Wallet will no longer be accessible and lost forever.</mark>
+<mark style="color:red;">The secure chipset on the All-in-One Wallet keeps count of how many authentication attempts have failed.</mark> <mark style="color:red;"></mark><mark style="color:red;">**If the incorrect PIN is entered 10 consecutive times, the secure chipset on the hardware wallet will be blocked permanently.**</mark> <mark style="color:red;"></mark><mark style="color:red;">This means that any cryptocurrency assets stored in the All-in-One Wallet will no longer be accessible and lost forever.</mark>
 
 
 

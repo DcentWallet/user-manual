@@ -18,11 +18,7 @@ For more details of creating an account, click below link.
 
 From your coin account, click "Receive" to view your account address.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/RBTC-eng.png" alt="" width="563">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/30.png" alt=""></div>
 
 For more details of receiving coin, click below link.
 
@@ -40,11 +36,7 @@ The procedures to send RSK coin are same as sending general coin. You can see in
 
 ### Set the fee for RSK
 
-<div align="left">
-
-<img src="../../.gitbook/assets/image (216).png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/31.png" alt=""></div>
 
 The fee of RSK is automatically calculated after setting the sending amount. The calculated fee is based on current average transaction fee on RSK blockchain network.
 

@@ -2,9 +2,9 @@
 
 ## Before you begin <a href="#before-start" id="before-start"></a>
 
-When a new Biometric Wallet is purchased or the device you've been using is reset to factory, you can recover your existing wallet.&#x20;
+When a new Biometric Wallet is purchased or the device you've been using is reset to factory, you can recover your pre-existing wallet.&#x20;
 
-Your existing wallet can be recovered by entering all 24 words written down on the Recovery Card which was generated when you first performed the Initial Setup.&#x20;
+Your pre-existing wallet can be recovered by entering all 24 words written down on the Recovery Card which was generated when you first performed the Initial Setup.&#x20;
 
 ### Recovering wallet after deleting data on D'CENT device&#x20;
 

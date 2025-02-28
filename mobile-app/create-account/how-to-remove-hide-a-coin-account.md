@@ -8,16 +8,15 @@ In the case of using the **Biometric Wallet mode**, your Biometric Wallet must a
 
 ## Hide account
 
-For example, let's remove the XRP account from the D'CENT Wallet.
+<div align="left"><figure><img src="../../.gitbook/assets/1 (18).jpg" alt=""><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/계정숨김eng.png)
+**1.** Tap the account you want to hide to navigate to the Account Details page.
 
-1\) Click on the XRP account.
+**2.** Tap the menu button in the top right corner of the Account Details page.
 
-2\) Click on "**Hide account"**.
+**3.** Select 'Hide Account' from the menu.
 
-3\) Click on '**Hide**' to confirm the removal of this account from the My Wallet tab.\
-If there is a balance in the account, the message indicating that the balance remains will be displayed as shown in the above image.
+**4.** Tap the 'Hide' button. The account will no longer be visible in your asset list.
 
 {% hint style="info" %}
 To remove a native asset account such as Ethereum, all the token accounts that are linked to this native asset account must be removed first.
@@ -27,12 +26,12 @@ To remove a native asset account such as Ethereum, all the token accounts that a
 
 'Hide account' function does not delete your account permanently, it just hides the account from D'CENT wallet. Therefore, you can re-add the hidden account at any time.
 
-Let’s re-add the hidden Ripple account.
 
-<figure><img src="../../.gitbook/assets/계정숨김eng-02.png" alt=""><figcaption></figcaption></figure>
 
-1\) Click on **"Add account`+` "** in the My Wallet tab.
+<div align="left"><figure><img src="../../.gitbook/assets/2 (22).jpg" alt=""><figcaption></figcaption></figure></div>
 
-2\) Select the XRP account you have hidden and create an account.
+**1.** Tap on '**Add account'** in the My Wallet tab.
 
-3\) You can see the XRP account again in the My Wallet tab. If there is a balance on the account, you can view the balance again.
+**2.** Select the previously hidden coin to add it back to the asset list.
+
+**3.** Once added, the account and its balance will be visible again in your asset list.

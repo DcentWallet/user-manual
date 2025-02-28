@@ -5,10 +5,10 @@
 Whenever new coin support is added or bug fix has been made, a new firmware will be available for installation. Your mobile app will show an indication when a newer version of the firmware is released.
 
 {% hint style="info" %}
-Firmware update can be done only from the PC or Mac.
+Firmware update can be done from the PC or Mac.
 {% endhint %}
 
-<div align="left"><img src="../../.gitbook/assets/펌웨어eng.png" alt="" width="287"></div>
+<div align="left"><figure><img src="../../.gitbook/assets/1 (7).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Before you update the firmware
 
@@ -26,7 +26,7 @@ Unlike other products, your wallet will still remain safely intact inside the se
 **After you update the firmware, you cannot roll-back to the previous version**
 {% endhint %}
 
-Firmware update will take approximately 10 minutes to complete.&#x20;
+Firmware update will take approximately 5 \~ 10 minutes to complete.&#x20;
 
 {% hint style="info" %}
 **It is recommended that the D'CENT mobile app is not running during the firmware update.**
@@ -145,7 +145,7 @@ When the firmware update is completed, the Biometric Wallet will automatically r
 
 Now you can check the latest firmware information by running the D’CENT mobile app and connecting the Biometric Wallet.
 
-<div align="left"><figure><img src="../../.gitbook/assets/PC업데이트-eng13.png" alt="" width="287"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/2 (10).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 
 

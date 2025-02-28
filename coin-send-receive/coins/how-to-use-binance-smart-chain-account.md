@@ -12,7 +12,7 @@ The firmware (**v.2.6.0 or higher**) for D’CENT Biometric Wallet supports Bina
 ### How to set up D’CENT Wallet
 
 You can download the latest version of the D’CENT Mobile App here:\
-👉 For [**Android**](https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet\&utm\_source=dcentwallet\&utm\_campaign=mobileapp) \
+👉 For [**Android**](https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet\&utm_source=dcentwallet\&utm_campaign=mobileapp) \
 👉 For [**iOS**](https://apps.apple.com/kr/app/dcent-hardware-wallet/id1447206611)
 
 If you are using an older version of the firmware on D’CENT Biometric Wallet, you will need to upgrade the firmware to the latest version (v.2.6.0 or higher) from the official firmware update site.\
@@ -25,13 +25,13 @@ You can also find a fully detailed instructions guide below.\
 
 Run the D’CENT Mobile App and authenticate to unlock access.
 
-![](<../../.gitbook/assets/1 (7).png>)
+![](../../.gitbook/assets/32.png)
 
 **Step 1)** From the Account Tab, press the **(+)** button to add a wallet account.\
 **Step 2)** In the search field, type “**Binance**” to search.\
 **Step 3)** Choose **Binance Smart Chain** from the list shown.&#x20;
 
-![](<../../.gitbook/assets/2 (6).png>)
+![](../../.gitbook/assets/33.png)
 
 **Step 4)** Press the ‘**Create**’ button to proceed.\
 **Step 5)** In the Account Tab, notice that a new Binance Smart Chain account has been added to the portfolio.
@@ -40,7 +40,7 @@ Run the D’CENT Mobile App and authenticate to unlock access.
 
 You can access Dapp services using the built-in dapp browser found in the ‘Discovery’ Tab.
 
-![](<../../.gitbook/assets/3 (5).png>)
+![](<../../.gitbook/assets/34 (1).png>)
 
 **Step 1)** Go to the ‘**Discovery**’ tab in the bottom menu.\
 **Step 2)** Click on the **Network icon(globe icon)** located in the upper right-hand corner.\

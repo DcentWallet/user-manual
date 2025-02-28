@@ -4,7 +4,7 @@
 
 To recover a backup image,  please have your <mark style="background-color:green;">**Backup Card**</mark> ready.
 
-<figure><img src="../../.gitbook/assets/그림1 (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (3).jpg" alt=""><figcaption></figcaption></figure>
 
 **1.** Go to the 'Manager' tab and click on '**Backup and Recover Card**'.&#x20;
 
@@ -12,15 +12,15 @@ To recover a backup image,  please have your <mark style="background-color:green
 
 **3.** Click on '**Start Recovery**'.
 
-<figure><img src="../../.gitbook/assets/그림2 (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (6).jpg" alt=""><figcaption></figcaption></figure>
 
-**4.** On the back of your phone, **tap the Backup Card**.&#x20;
+**4.** On the back of your phone, **tag the Backup Card**.&#x20;
 
 **5.** Click on '**Next**' to continue.
 
 **6.** Click on the '**Paste**' button to paste in the encrypted backup image data. Click on '**Next**' to continue.
 
-<figure><img src="../../.gitbook/assets/그림3 (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (2).jpg" alt=""><figcaption></figcaption></figure>
 
 **7.** Enter the **encryption password** which was used to encrypt the backup image. Click on '**Next**' to continue.
 
@@ -28,7 +28,7 @@ To recover a backup image,  please have your <mark style="background-color:green
 
 **9.** On the back of your phone, **tap the Backup Card**.
 
-<figure><img src="../../.gitbook/assets/그림4 (6).png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/4 (2).jpg" alt=""><figcaption></figcaption></figure></div>
 
 **10.** Click on **'Next'** to complete the backup image recovery.
 

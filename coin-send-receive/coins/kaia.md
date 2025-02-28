@@ -18,7 +18,7 @@ For more details of creating an account, click below link.
 
 From your coin account, click **"Receive"** to view your account address.
 
-<div align="left"><img src="../../.gitbook/assets/카이아-eng01.png" alt="" width="563"></div>
+<div align="left"><img src="../../.gitbook/assets/28.png" alt=""></div>
 
 For more details of receiving coin, click below link.
 
@@ -48,4 +48,4 @@ GAS fee is fixed on Kaia, and you can change GAS Limit on fee setting stage.
 GAS Limit is automatically calculated in D'CENT mobile application.
 {% endhint %}
 
-<div align="left"><img src="../../.gitbook/assets/카이아-eng02.png" alt=""></div>
+<div align="left"><img src="../../.gitbook/assets/29.png" alt=""></div>

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Exchange
 
 D'CENT Wallet in partnership with 3rd party service providers (Changelly and ChangeNOW), offers the in-app exchange function which enables exchange of an asset type to a second asset type.\

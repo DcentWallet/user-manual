@@ -6,7 +6,7 @@ Click [**here**](https://userguide.dcentwallet.com/card-wallet/intro/set-up-your
 
 To change your current PIN to a new PIN, press the **"Change Card PIN"** button in the **"Settings"** tab or select the **"D'CENT Manager > Change Card PIN"** menu.
 
-<figure><img src="../../../.gitbook/assets/Setting-eng13.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../../.gitbook/assets/1 (24).jpg" alt=""><figcaption></figcaption></figure></div>
 
 **Please proceed in the following order.**\
 \
@@ -22,13 +22,11 @@ To change your current PIN to a new PIN, press the **"Change Card PIN"** button 
 
 6\) Now the PIN number change has been completed.
 
-<div align="left">
 
-<img src="../../../.gitbook/assets/Setting-eng14.png" alt="">
 
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/2 (27).jpg" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/Setting-eng15.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../../.gitbook/assets/3 (18).jpg" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="danger" %}
 **If you lose your PIN, use of your card wallet may be blocked.**
@@ -42,7 +40,9 @@ Be sure to create a backup image in case the Card Wallet is lost or damaged, or 
 
 Click [**here**](https://userguide.dcentwallet.com/card-wallet/dcent-backup-card-wallet-recovery) for more information how to backup and recover Card Wallet.
 
-<figure><img src="../../../.gitbook/assets/Setting-eng17.png" alt=""><figcaption></figcaption></figure>
+
+
+<div align="left"><figure><img src="../../../.gitbook/assets/4 (11).jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## Scan new card
 
@@ -50,4 +50,6 @@ You can change the Card Wallet you want to use through the **"Scan new card"** m
 
 Click the "Scan new card" menu and tag the another Card Wallet.
 
-<figure><img src="../../../.gitbook/assets/Setting-eng16.png" alt=""><figcaption></figcaption></figure>
+
+
+<div align="left"><figure><img src="../../../.gitbook/assets/5 (8).jpg" alt=""><figcaption></figcaption></figure></div>

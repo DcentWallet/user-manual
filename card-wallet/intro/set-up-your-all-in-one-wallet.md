@@ -10,11 +10,7 @@ For iOS phones, the NFC function is enabled by default.&#x20;
 
 For Android, enable the NFC function as '**Standard mode**'.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/image (199).png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/image (199).png" alt=""></div>
 
 ## Download D'CENT App (Android & iOS)
 
@@ -22,21 +18,21 @@ To download from the mobile app stores, type <mark style="background-color:green
 
 {% embed url="https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet" %}
 
-{% embed url="https://apps.apple.com/kr/app/dcent-hardware-wallet/id1447206611" %}
+{% embed url="https://apps.apple.com/us/app/dcent-crypto-wallet/id1447206611" %}
 
 ## First, set up your D'CENT App
 
-<figure><img src="../../.gitbook/assets/그림1 (1).png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/40.jpg" alt=""><figcaption></figcaption></figure></div>
 
-**1.** Click on '**No, I'm a new user**'.&#x20;
+**1.** Click on '**Create wallet**'.&#x20;
 
-**2.** Click on '**Card-type hardware wallet**'.&#x20;
+**2.** Click on '**Card wallet**'.&#x20;
 
 ### Set up a password to D'CENT App
 
 Register your own 6-digit password for D'CENT App. **This is the password to unlock your D'CENT App.** If you don't remember the 6-digit password, you will have to reinstall the D'CENT App.
 
-<figure><img src="../../.gitbook/assets/그림2 (4).png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/2 (14).jpg" alt=""><figcaption></figcaption></figure></div>
 
 **3.** Enter your own 6-digit PIN for the App.
 
@@ -48,9 +44,9 @@ Register your own 6-digit password for D'CENT App. **This is the password to unl
 
 ### Scan your All-in-One Wallet
 
-<figure><img src="../../.gitbook/assets/그림3 (3).png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/3 (10).jpg" alt=""><figcaption></figcaption></figure></div>
 
-**1.** On the back of your phone, **tap the All-in-One Wallet** to scan.
+**1.** On the back of your phone, **tag the All-in-One Wallet** to scan.
 
 **2.** Click on '**OK**' to continue.
 
@@ -64,13 +60,13 @@ If you have a protective cover on your phone, it may interfere with scanning the
 
 The factory PIN of the All-in-One Wallet must be changed to your own PIN before it can be used.
 
-<figure><img src="../../.gitbook/assets/그림4 (2).png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/4 (6).jpg" alt=""><figcaption></figcaption></figure></div>
 
 **3.** At the top of the screen, click on the message to change the factory PIN.
 
 **4.** Click on '**Change now**'.
 
-<figure><img src="../../.gitbook/assets/그림5 (4).png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/5 (3).jpg" alt=""><figcaption></figcaption></figure></div>
 
 **5.** From your All-in-One Wallet, find the factory PIN by removing the ribbon masking.
 
@@ -82,15 +78,15 @@ The factory PIN of the All-in-One Wallet must be changed to your own PIN before 
 When removing the ribbon masking, please be careful not to use sharp tools as this may damage the card wallet.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/그림6 (3).png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/6 (4).jpg" alt=""><figcaption></figcaption></figure></div>
 
 **8.** Enter a **new PIN** for your All-in-One Wallet. (ie: 123456)
 
 **9.** Enter the **same new PIN**. (ie: 123456)
 
-**10.** On the back of your phone, **tap the All-in-One Wallet** to scan.
+**10.** On the back of your phone, **tag the All-in-One Wallet** to scan.
 
-<figure><img src="../../.gitbook/assets/그림7 (2).png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/7 (3).jpg" alt=""><figcaption></figcaption></figure></div>
 
 **11.** Click on '**OK**' to complete the setup.
 

@@ -23,7 +23,7 @@ When enrolling a new fingerprint, you must enter your PIN.
 The second fingerprint added has the same privileges as the default fingerprint. Coin transfer is also possible, so please be extra careful when adding the second fingerprint that is other than yours.
 {% endhint %}
 
-### Delete Finger
+### Delete Fingerprint
 
 This menu is for deleting all the fingerprint data. To delete, you must first enter PIN and confirm to delete.&#x20;
 
@@ -35,11 +35,7 @@ If there are 2 fingerprint data saved, both of them will be deleted at once.&#x2
 
 Delete Account menu is for erasing all **public** information of your wallet accounts. However, this will not delete any of the private keys associated to the wallet accounts you have created. When you synchronize your Biometric Wallet and with the Mobile App, you will notice that there is no account showing under the "Account" Tab. If you re-add a coin account from the Mobile App, your existing account will reappear.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/image (106).png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/image (106).png" alt=""></div>
 
 {% hint style="info" %}
 This feature is useful if you have previously added many wallet accounts but they are no longer used or you do not wish to see them appear on the Mobile App.&#x20;
@@ -51,11 +47,7 @@ Before you perform the "Delete Account", make sure you keep track of which coin 
 
 Device Wipe is for resetting your Biometric Wallet to factory state. This means the Biometric Wallet will be in the same condition as if newly purchased.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/image (203).png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/image (203).png" alt=""></div>
 
 If you perform the Device Wipe, your whole wallet will be deleted including all your private keys. \
 To perform Device Wipe, you must enter your PIN, read the warning message displayed and press OK button to confirm \[OK & OFF]. When device is powered on, you will notice that your Biometric Wallet is in the factory state.
@@ -85,11 +77,7 @@ If the 24 words you have entered are correct, it will be marked as "Match" on th
 
 You can change the language used on the Biometric Wallet.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/지갑 설정.webp" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/지갑 설정.webp" alt=""><figcaption></figcaption></figure></div>
 
 Language support : English, Korean, Chinese, Japanese, Spanish
 
@@ -98,8 +86,4 @@ Language support : English, Korean, Chinese, Japanese, Spanish
 You can check the Biometric Wallet device information from this menu.\
 
 
-<div align="left">
-
-<img src="../../.gitbook/assets/image (26).png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/image (26).png" alt=""></div>

@@ -7,11 +7,7 @@
 To send cryptocurrency to your Coinbase account, you need to know the address. \
 First, login to your Coinbase account and then press the '**Receive**' button.
 
-<div align="left">
-
-<img src="../.gitbook/assets/coinbase1.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/coinbase1.png" alt=""></div>
 
 
 
@@ -20,31 +16,19 @@ The upper portion is the Bitcoin address shown in QR code and just below it is t
 \
 You can switch to a different cryptocurrency account by making your selection from the '**Currency**' section.
 
-<div align="left">
-
-<img src="../.gitbook/assets/coinbase2.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/coinbase2.png" alt=""></div>
 
 ### Preparing for a Send transaction from D'CENT Wallet
 
 Run the D'CENT mobile app on your phone and make sure you connect your phone together with the D'CENT Biometric Wallet.&#x20;
 
-<div align="left">
-
-<img src="../.gitbook/assets/coinbase3.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/46.png" alt=""></div>
 
 1\) From your cryptocurrency account(ie: Bitcoin), press the '**Send**' button.\
 \
 2\) Press the '**QR scan**' button to scan the QR code presented by Coinbase.
 
-<div align="left">
-
-<img src="../.gitbook/assets/coinbase4.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/47.png" alt=""></div>
 
 3\) If the QR code is read correctly, you will see that the recipient address has been entered automatically. It is always a good practice to double check the recipient address and make sure it is the correct address that you want to send fund to.\
 \
@@ -54,11 +38,7 @@ Run the D'CENT mobile app on your phone and make sure you connect your phone tog
 If the **'Next' button is disabled** while a red text message 'Address format is incorrect' is shown, this means that the address is incorrectly entered. Notice that there is extra '**bitcoin:**' text in the beginning of the address. If this ever happens, just delete the extra text and the 'Next' button will be enabled.
 {% endhint %}
 
-<div align="left">
-
-<img src="../.gitbook/assets/coinbase5.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/48.png" alt=""></div>
 
 5\) Set the transaction fee first. Fee amount can be changed by using the slider button. If you set the fee to 'High', it is more likely that your transaction will be accepted with priority and processed faster by the blockchain network.
 
@@ -68,7 +48,7 @@ If the **'Next' button is disabled** while a red text message 'Address format is
 
 8\) In the next screen, double check the transaction details of the recipient address and the sending amount. Press the '**Send**' button when details are correct.
 
-![](../.gitbook/assets/coinbase6.png)
+![](../.gitbook/assets/49.png)
 
 &#x20;9\) On your D'CENT Biometric Wallet, check the details and press the '**OK**' button to confirm. You will also need to **authenticate using either your fingerprint or PIN**.
 
@@ -80,11 +60,7 @@ If the **'Next' button is disabled** while a red text message 'Address format is
 
 From Coinbase, you can check the history of Recent Transactions. If the status is showing as 'PENDING', this means that your fund is still being processed by the blockchain network to get more confirmations. To view the detailed transaction history, you can click '**View Transaction**', which will open a new window redirecting you to the block explorer where you can check the status.
 
-<div align="left">
-
-<img src="../.gitbook/assets/coinbase8.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/coinbase8.png" alt=""></div>
 
 ## Sending fund to your D'CENT wallet account
 
@@ -93,11 +69,7 @@ From Coinbase, you can check the history of Recent Transactions. If the status i
 To send cryptocurrency to your D'CENT wallet account, you need to know the address. \
 From the mobile, press the '**Receive**' button to see the account address.
 
-<div align="left">
-
-<img src="../.gitbook/assets/coinbase9.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/50.png" alt=""></div>
 
 There are 2 options to copy your account address(in hex form):\
 Option1) **Copy** - this will copy the address for pasting it to a message or email.\
@@ -107,19 +79,11 @@ Option2) **Share** - this will copy the address and give you an option to share 
 
 From your Coinbase account, press the '**Send**' button.
 
-<div align="left">
-
-<img src="../.gitbook/assets/coinbase10.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/coinbase10.png" alt=""></div>
 
 Below are the screenshots of Coinbase wallet interface.
 
-<div align="left">
-
-<img src="../.gitbook/assets/coinbase11.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/coinbase11.png" alt=""></div>
 
 1\) Enter the amount to send
 
@@ -131,11 +95,7 @@ Below are the screenshots of Coinbase wallet interface.
 
 5\) The second screenshot on the right will show the detailed information of the Send transaction that you are about to submit. Press the '**Send now**' button to continue.
 
-<div align="left">
-
-<img src="../.gitbook/assets/coinbase12.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/coinbase12.png" alt=""></div>
 
 6\) Enter the 2-step verification code from SMS that you received.
 

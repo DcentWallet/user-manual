@@ -6,7 +6,7 @@ Custom tokens are token-type cryptocurrencies that are not listed in the support
 
 To request official support for a specific token from D'CENT Wallet, please use the Google form below. Requesting support for a new blockchain network can take a significant amount of time.
 
-[**Request form for additional tokens/coins**](https://docs.google.com/forms/d/e/1FAIpQLSddydt7fv7D0ATnw49tCsBsex9DpHinAr0sebGb\_eQb0ne37g/viewform)
+[**Request form for additional tokens/coins**](https://docs.google.com/forms/d/e/1FAIpQLSddydt7fv7D0ATnw49tCsBsex9DpHinAr0sebGb_eQb0ne37g/viewform)
 
 
 
@@ -62,27 +62,27 @@ Adding custom tokens is straightforward and easy. Before you can add a custom to
 
 For example, if you intend to add an ERC20, you must first have created an Ethereum account in the wallet.
 
-<div align="left">
+<div align="left"><figure><img src="../../.gitbook/assets/1 (17).jpg" alt=""><figcaption></figcaption></figure></div>
 
-<img src="../../.gitbook/assets/계정추가eng-07.png" alt="">
+**1.** Click the 'Add Account' button.
 
-</div>
+**2.** Select the 'Custom' tab.
 
-1\) Click on **"+Add Custom Token"** button
+**3.** Tap the Network field to view the list of supported networks.
 
-2\) Select the correct Blockchain Network where your custom token was issued.
+<div align="left"><figure><img src="../../.gitbook/assets/2 (21).jpg" alt=""><figcaption></figcaption></figure></div>
 
-3\) Select the Fee account and press the **"Next"** button.
+**4.** Select the network where the token you want to add was issued, then tap Next.
 
-<figure><img src="../../.gitbook/assets/계정추가eng-08.png" alt=""><figcaption></figcaption></figure>
+**5.** Choose the account that will cover transaction fees for this account, then tap Next.
 
-4\) Enter the **Smart contract address, Symbol,** and **Decimals.**
+<div align="left"><figure><img src="../../.gitbook/assets/3 (15).jpg" alt=""><figcaption></figcaption></figure></div>
 
-5\) After checking that each item has been entered correctly, press the **“Next”** button.
+**6.** Enter the contract address, then check the displayed coin information. If the information is correct, tap Next.&#x20;
 
-6\) After checking that the decimals entered are correct, press the **“Proceed”** button.
+**7.** Verify the decimal places entered, then tap Next.
 
-7\) Enter name your account and click the **"Create"** button to add the token.
+**8.** Set an account name and tap 'Create' to add the token.&#x20;
 
 {% hint style="info" %}
 Smart contract addresses, Symbols, and Decimals can be checked through blockchain explorer or the token issuer.

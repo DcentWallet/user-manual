@@ -14,11 +14,7 @@ Search for the keyword "**D'CENT Wallet**".
 
 To install the mobile app for Android, please click [here](https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet).
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/playstore.webp" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/2 (18).jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ### For iOS
 
@@ -26,27 +22,19 @@ You can install D'CENT mobile app by searching for the app directly from the App
 
 Search for the keyword "**D'CENT Wallet**".
 
-To download the D'CENT mobile app for iOS, please click [here](https://apps.apple.com/kr/app/dcent-hardware-wallet/id1447206611).
+To download the D'CENT mobile app for iOS, please click [here](https://apps.apple.com/us/app/dcent-crypto-wallet/id1447206611).
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/iphone.png" alt="" width="234"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/File (2) 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Main features
 
-<figure><img src="../.gitbook/assets/Moblie app-eng.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/1 (15).jpg" alt=""><figcaption></figcaption></figure></div>
 
-**My Wallet** : Add a coin account or display a list of created accounts. Additionally, you can view your portfolio, including the amount, balance, and price information of coins held in D'CENT Wallet, on one screen, and send and receive coins through the My Wallet tab.
+**My Wallet** : You can view your existing coin accounts or add new ones. You can send and receive coins, check your transaction history, and manage your assets with ease. Additionally, by tapping the NFTs tab, you can view all NFT assets stored in your wallet at a glance.
 
-**NFT** : You can check the NFT assets you own in your D'CENT wallet as a collection and easily send NFT assets to another address. It can also be integrated with NFT marketplaces such as Opensea or Rarible.
+**Insight** : You can check coin prices and current trading trends. Additionally, you can compare the prices of each asset across different platforms. The Insight tab is available on mobile app version 6.0.0 or later.
 
-_The NFT tab is not available in the mobile app for iOS. For information on how to access NFT collections for iOS users, please click_ [_here_](https://userguide.dcentwallet.com/coin-send-receive/how-to-receive-or-send-an-nft-token#how-to-access-nft-collectibles-for-ios-users)_._
-
-**Insight** : You can check the list of the top 7 cryptocurrency trends most searched for by users in real time on CoinGecko and CoinMarketCap. If there is a coin you wish in the Top7 list, you can buy the coin right away using the “Swap” serive
-
-_Insight tab is supported from D'CENT mobile app version 6.0.0 or higher._
+**Swap :** You can trade your desired assets, including cross-network transactions.
 
 **Discovery** : It is a DApp browser that allows access to various Web3 services such as DeFi, DEX, and NFT marketplace. You can easily connect your D'CENT wallet by entering the URL in the search box, doing a Google search, or selecting the desired service from the "list".
 

@@ -2,24 +2,20 @@
 
 This guide details the instructions for adding a custom path BTC account.
 
-![](../../.gitbook/assets/커스텀경로추가-eng.png)
+<div align="left"><figure><img src="../../.gitbook/assets/1 (19).jpg" alt=""><figcaption></figcaption></figure></div>
 
-1\) Click on **"Settings"**.
+**1.** Tap on '**Settings' tab**.
 
-2\) Slide the button to enable "**Custom Path Account".**
+**2.** Scroll down and tap '**Laboratory**'.
 
-3\) Read the alert message and click on "**Continue"**.
+**3.** Enable '**Custom Derivation Path Accounts'**.
 
-![](../../.gitbook/assets/커스텀경로추가-eng01.png)
 
-4\) To add a Custom Path Account, click on the **(+) button.**
 
-5\) In the search field, type "**Custom**". From the result, select "**Bitcoin - custom path (BTC)".**
+<figure><img src="../../.gitbook/assets/2 (23).jpg" alt=""><figcaption></figcaption></figure>
 
-6\) Select the address path and click "**Next"** to continue.
+**4.** Navigate to the My Wallet tab and tap the 'Add Account' button.
 
-![](../../.gitbook/assets/커스텀경로추가-eng02.png)
+**5.** Search for BTC and select the entry with a number appended to BTC (e.g., BTC - 5757).
 
-7\) Name your account or leave it as default. Click "**Create"** to add a custom path BTC account.
-
-8\) Custom path BTC account is shown in the My Wallet Tab.&#x20;
+**6.** Name your account (optional) to complete the account addition.

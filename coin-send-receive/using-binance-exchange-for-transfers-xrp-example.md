@@ -4,20 +4,12 @@
 
 ### Check the receiving address on Binance
 
-<div align="left">
-
-<img src="../.gitbook/assets/binance1.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/binance1.png" alt=""></div>
 
 To send cryptocurrency to your Binance account, you need to know the address. \
 First, login to your Binance account and choose a wallet of your choice such as '**Spot Wallet**'.
 
-<div align="left">
-
-<img src="../.gitbook/assets/binance2.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/binance2.png" alt=""></div>
 
 1\) Select '**Deposit**'
 
@@ -31,11 +23,7 @@ First, login to your Binance account and choose a wallet of your choice such as 
 
 Run the D'CENT mobile app on your phone and make sure your smartphone is connected together with the D'CENT Biometric Wallet.&#x20;
 
-<div align="left">
-
-<img src="../.gitbook/assets/binance3.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/51 (1).jpg" alt=""></div>
 
 1\) From your cryptocurrency account(ie: XRP), press the '**Send**' button.\
 \
@@ -43,11 +31,7 @@ Run the D'CENT mobile app on your phone and make sure your smartphone is connect
 
 3\) You **MUST** enter the destination tag (or deposit tag) assigned to your XRP account by Binance exchange.
 
-<div align="left">
-
-<img src="../.gitbook/assets/binance4.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/52.jpg" alt=""></div>
 
 4\) When you have entered both the recipient address and the destination tag, press '**Next**' to continue.
 
@@ -57,11 +41,7 @@ Run the D'CENT mobile app on your phone and make sure your smartphone is connect
 
 7\) Review the transaction details and press '**Send**' to continue.
 
-<div align="left">
-
-<img src="../.gitbook/assets/binance5.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/53.jpg" alt=""></div>
 
 8\) On your D'CENT Biometric Wallet, check the details and press the '**OK**' button to confirm. You will also need to **authenticate using either your fingerprint or PIN**.
 
@@ -78,7 +58,7 @@ Run the D'CENT mobile app on your phone and make sure your smartphone is connect
 To send cryptocurrency to your D'CENT wallet account, you need to know the address. \
 From the mobile, press the '**Receive**' button to see the account address.
 
-![](../.gitbook/assets/binance7.png)
+![](<../.gitbook/assets/54 (1).jpg>)
 
 There are 2 options to copy your account address(in hex form):\
 Option1) **Copy** - this will copy the address for pasting it to a message or email.\
@@ -112,4 +92,4 @@ If you have setup a second factor authentication, you will be asked to authentic
 
 8\) Check for status of your transaction from Binance. You can also check from D'CENT wallet.
 
-![](../.gitbook/assets/binance11.png)
+![](../.gitbook/assets/55.png)

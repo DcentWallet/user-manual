@@ -4,39 +4,51 @@
 
 To create a backup image,  please have your <mark style="background-color:green;">**All-in-One Wallet**</mark> ready.
 
-<figure><img src="../../.gitbook/assets/그림1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/그림2 (9).png" alt=""><figcaption></figcaption></figure>
 
-**1.** Go to the 'Manager' tab and click on '**Backup and Recover Card**'.&#x20;
+**1.** In the Settings tab, tap D'CENT Manager. Alternatively, if you haven't backed up your wallet yet, you can tap the 'Backup' button on the top banner of the My Wallet tab to proceed.&#x20;
 
-**2.** Click on '**Create backup image**'.
+**2.** Select 'Card Backup & Recovery'.
 
-**3.** Click on '**Start Backup**'.
+<div align="left"><figure><img src="../../.gitbook/assets/2 (16).jpg" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/그림2 (8) (1).png" alt=""><figcaption></figcaption></figure>
+**3.** Tap 'Create backup image'.&#x20;
 
-**4.** On the back of your phone, **tap the All-in-One Wallet**.&#x20;
+4\. Select 'Start Backup'.
 
-**5.** Click on '**Next**' to continue.
+<div align="left"><figure><img src="../../.gitbook/assets/3 (12).jpg" alt=""><figcaption></figcaption></figure></div>
 
-**6.** Enter an **encryption password** which will be used to encrypt the backup image data. Re-enter the same encryption password and then click on '**Next**' to continue.
+**5.** If using Android devices, follow the instructions to enable NFC settings.
+
+**6.** Tag the All-in-One Wallet to proceed.
 
 {% hint style="warning" %}
-The encryption password is constructed of alphabet and number characters. Make sure to perfectly remember this password. Without it, you will not be able to recover your wallet.
+Please make sure to <mark style="background-color:red;">tag the 'All-in-One Wallet'</mark> and not the Backup Card.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/그림3 (1) (1).png" alt=""><figcaption></figcaption></figure>
+**7.** If the card allows backup, tap Next.
 
-**7.** Enter the **PIN of the All-in-One Wallet**.
+<div align="left"><figure><img src="../../.gitbook/assets/4 (7).jpg" alt=""><figcaption></figcaption></figure></div>
 
-**8.** On the back of your phone, **tap the All-in-One Wallet** to scan.
+**8.** Enter an encryption password to secure the backup image data. Re-enter the same password, then tap Next.
 
-**9.** Click on '**Share backup image**'.&#x20;
+{% hint style="warning" %}
+The **encryption password** consists of **letters and numbers**. Please make sure to **remember it perfectly**, as you **will not be able to recover your wallet without it**.
+{% endhint %}
 
-<figure><img src="../../.gitbook/assets/그림4 (1).png" alt=""><figcaption></figcaption></figure>
+**9.** Enter the **PIN for the All-in-One Wallet**.&#x20;
 
-**10.** Click on '**Continue**'.
+<div align="left"><figure><img src="../../.gitbook/assets/5 (4).jpg" alt=""><figcaption></figcaption></figure></div>
 
-**11.** Click on the '**Copy**' button to copy the encrypted backup image data. Send this data to yourself in a message or by email.
+**10.** Tag the All-in-One Wallet on the back of your phone to scan. Make sure to use the All-in-One Wallet, not a backup card.&#x20;
+
+{% hint style="warning" %}
+Please make sure to <mark style="background-color:red;">tag the 'All-in-One Wallet'</mark> and not the Backup Card.
+{% endhint %}
+
+**11.** Tap 'Share Backup Image'.&#x20;
+
+**12.** Select a trusted channel and send the copied data securely.
 
 {% hint style="warning" %}
 <mark style="color:red;">If you don't have a Backup Card, you</mark> <mark style="color:red;"></mark><mark style="color:red;">**MUST**</mark> <mark style="color:red;"></mark><mark style="color:red;">save this encrypted backup image data in a safe place or send it to yourself in a message or email. You can recover this backup image onto a Backup Card at a later time.</mark> <mark style="color:red;"></mark><mark style="color:red;">**Make sure to perfectly remember the encryption password**</mark> <mark style="color:red;"></mark><mark style="color:red;">which was used to encrypt the backup image. If you forget this encryption password, you will not be able to recover your wallet.</mark>

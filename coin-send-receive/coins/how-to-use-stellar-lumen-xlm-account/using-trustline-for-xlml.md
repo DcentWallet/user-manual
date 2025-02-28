@@ -2,11 +2,7 @@
 
 ## How to add a Trustline <a href="#id-6901" id="id-6901"></a>
 
-<div align="left">
-
-<img src="../../../.gitbook/assets/XLM트러스트-eng01.png" alt="">
-
-</div>
+<div align="left"><img src="../../../.gitbook/assets/42.png" alt=""></div>
 
 **NOTE**: Adding a Trustline on the Stellar (XLM) ledger will reserve 0.5 XLM, meaning this reserved amount gets locked in the XLM account.
 
@@ -22,11 +18,7 @@
 
 Remember that just adding a Trustline does not mean you can receive the Trust Asset(issued currency) to this account. **You must first SET (activate) the Trustline before you can receive funds**.
 
-<div align="left">
-
-<img src="../../../.gitbook/assets/XLM트러스트-eng02.png" alt="">
-
-</div>
+<div align="left"><img src="../../../.gitbook/assets/43.png" alt=""></div>
 
 **1.** Click on the Trust Line account and click on the **"Receive"** button.
 
@@ -42,11 +34,7 @@ A Trustline can be deactivated at any time, only when the balance in the Trustli
 
 **👉 Disabling a Trustline account will free up 0.5 XLM which was reserved (locked) in your XLM account.**
 
-<div align="left">
-
-<img src="../../../.gitbook/assets/XLM트러스트-eng03.png" alt="">
-
-</div>
+<div align="left"><img src="../../../.gitbook/assets/44.png" alt=""></div>
 
 **1.** Click on the Trust Line account (ie: SHX) that you wish to disable (deactivate) and click on **"Details History"**.
 

@@ -1,5 +1,6 @@
 ---
 description: Send and Receive Binance (BNB) coin
+hidden: true
 ---
 
 # How to use Binance (BNB) account
@@ -23,11 +24,7 @@ The Binance wallet used by an exchange service uses a single address. In other w
 
 From your coin account, click "Receive" to view your account address.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/BNB-eng01.png" alt="" width="563">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/BNB-eng01.png" alt="" width="563"></div>
 
 For more details of receiving coin, click below link.
 
@@ -39,26 +36,14 @@ For more details of receiving coin, click below link.
 
 If you are sending Binance (BNB) coins to your exchange account, you MUST enter the Memo. If you are sending Binance (BNB) coins to a personal wallet such as D'CENT Wallet, entering Memo is optional. You can enter any notes in the Memo field or check No Memo.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/BNB-eng02.png" alt="" width="344"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/BNB-eng02.png" alt="" width="344"><figcaption></figcaption></figure></div>
 
 When sending money, check the address and memo once again before making the final confirmation.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/BNB-eng04.png" alt="" width="344"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/BNB-eng04.png" alt="" width="344"><figcaption></figcaption></figure></div>
 
 ### The fee for Binance (BNB)
 
-<div align="left">
-
-<img src="../../.gitbook/assets/BNB-eng03.png" alt="" width="344">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/BNB-eng03.png" alt="" width="344"></div>
 
 The fee of BNB is fixed as "0.000075 BNB" per transaction.

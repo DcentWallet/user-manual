@@ -4,11 +4,11 @@
 
 For a seamless experience in connecting your phone with the hardware wallet, please check the following:
 
-1\) You have enabled Bluetooth on your Android Phone.
+**1.** You have enabled Bluetooth on your Android Phone.
 
-2\) You have registered the Biometric Wallet as a Bluetooth paired device that is allowed to connect to your Android phone.
+**2.** You have registered the Biometric Wallet as a Bluetooth paired device that is allowed to connect to your Android phone.
 
-3\) Make sure you are using the **Biometric Wallet mode** when using D'CENT App with your Biometric Wallet.
+**3.** Make sure you are using the **Biometric Wallet mode** when using D'CENT App with your Biometric Wallet.
 
 ### Android Bluetooth Application Error
 
@@ -20,33 +20,21 @@ Each phone model and the Android OS version variants will have a different metho
 Below is an example of how the Bluetooth application can be accessed from an **older version of** **Android** phone.
 {% endhint %}
 
-<div align="left">
+<div align="left"><img src="../../.gitbook/assets/3 (9).png" alt="" width="563"></div>
 
-<img src="../../.gitbook/assets/3 (9).png" alt="">
+**1.** Go to **Settings**\
+**2.** Click on **Apps**
 
-</div>
+<div align="left"><img src="../../.gitbook/assets/4 (6).png" alt=""></div>
 
-1\) Go to **Settings**\
-2\) Click on **Apps**
+**3.** Click on **3 dot icon (or ellipsis)**\
+**4.** Click on **Show system apps**
 
-<div align="left">
+<div align="left"><img src="../../.gitbook/assets/5 (4).png" alt=""></div>
 
-<img src="../../.gitbook/assets/4 (6).png" alt="">
-
-</div>
-
-3\) Click on **3 dot icon (or ellipsis)**\
-4\) Click on **Show system apps**
-
-<div align="left">
-
-<img src="../../.gitbook/assets/5 (4).png" alt="">
-
-</div>
-
-5\) Click on **Bluetooth Application**\
-6\) Click on **Storage**\
-7\) Click on **Clear data and cache**
+**5.** Click on **Bluetooth Application**\
+**6.** Click on **Storage**\
+**7.** Click on **Clear data and cache**
 
 
 
@@ -56,16 +44,16 @@ Below is an example of how the Bluetooth application can be accessed from a **ne
 
 ![](<../../.gitbook/assets/그림1 (1) (1) (1).png>)
 
-1\. Go to Settings and Click on **Apps** &#x20;
+**1.** Go to Settings and Click on **Apps** &#x20;
 
-2\. Click on **Filtering**
+**2.** Click on **Filtering**
 
-3\. Enable on **Show system apps**
+**3.** Enable on **Show system apps**
 
 ![](<../../.gitbook/assets/그림2 (1) (1) (1).png>)
 
-4\. Click on **Bluetooth Application**
+**4.** Click on **Bluetooth Application**
 
-5\. Click on **Storage**
+**5.** Click on **Storage**
 
-6\. Click on **Clear data and cache**
+**6.** Click on **Clear data and cache**

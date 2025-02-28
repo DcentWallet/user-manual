@@ -4,18 +4,22 @@ After **sending or receiving** a transfer to your wallet account address, you ca
 
 ## How to check transaction history
 
-<div align="left">
+<figure><img src="../.gitbook/assets/11 (5).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/History-eng.gif" alt="" width="300"><figcaption></figcaption></figure>
+**1.** In the D'CENT mobile app, tap the desired coin account to open the Account Details screen.
 
-</div>
+**2.** On the Account Details screen, you can view your coin balance and transaction history.
 
-![](../.gitbook/assets/거래내역-eng.png)
+* Transactions sent from your account appear in <mark style="color:red;">red</mark>.
+* Transactions received to your account appear in <mark style="color:green;">green</mark>.
+* The transaction status is displayed as 'Completed', 'Pending', or 'Failed'.
 
-1\) From thw mobile app, press the **"Details History"** button of the coin account you want to check transaction history.
+Tap 'View Full History' to check your wallet address details on a blockchain explorer.
 
-2\) In the Details history screen, you can check the amount of coins you have and transaction history. The black color is indicate send transfers made and the green color is indicate receive transfers. It also displayed transaction status as **“Confirmed”, “Pending”, “Fail”,** etc.
+**3.** Selecting a transaction will display its detailed information, including:
 
-Click the **“See full history”** button, you can access Blockchain Explorer and search your wallet address.
+* Confirmation status
+* TXID (Transaction ID)
+* Sender and recipient addresses
 
-3\) More detailed information is shown when you press a transaction. Detailed information screen shows the "Confirmations", "TXID(Transaction ID) and the addresses involved in the transaction.
+**4.** If the transaction history does not appear, try refreshing the screen by pulling it down and releasing it.

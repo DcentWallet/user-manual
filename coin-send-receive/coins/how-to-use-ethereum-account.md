@@ -18,11 +18,7 @@ For more details of creating an account, click below link.
 
 From your coin account, click "Receive" to view your account address.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/이더리움-eng01.png" alt="" width="563">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/17 (2).png" alt=""></div>
 
 For more details of receiving coin, click below link.
 
@@ -40,11 +36,7 @@ The procedures to send ETH coin are same as sending general coin. You can see in
 
 ### Set the fee for Ethereum
 
-<div align="left">
-
-<img src="../../.gitbook/assets/이더리움-eng02.png" alt="" width="344">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/18 (1).png" alt="" width="325"></div>
 
 The fee of Ethereum is automatically calculated after setting the sending amount. The calculated fee is based on current average transaction fee on Ethereum blockchain network.
 
@@ -64,8 +56,4 @@ The real fee to be paid is calculated as **`“Used GAS amount” x “GAS fee�
 
 You can set the maximum amount of GAS as setting GAS Limit. Transaction can be confirmed faster if GAS fee is higher. You can manually set the GAS Limit and GAS fee on "Advanced" fee setting option.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/이더리움-eng03.png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/19 (1).png" alt=""></div>

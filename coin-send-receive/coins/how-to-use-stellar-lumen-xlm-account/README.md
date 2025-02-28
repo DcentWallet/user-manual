@@ -30,11 +30,7 @@ There is a case where the Stellar account cannot be created even though the curr
 
 In the event when trying to create a Stellar account from the mobile app, the search result will not display Stellar coin as an account that can be added. See the picture below.
 
-<div align="left">
-
-<img src="../../../.gitbook/assets/스텔라-eng01.png" alt="">
-
-</div>
+<div align="left"><img src="../../../.gitbook/assets/37 (1).png" alt=""></div>
 
 ### Solution:
 
@@ -56,11 +52,7 @@ Due to Stellar's policy, **a minimum of 1XLM must be transferred to the Stellar 
 \
 In addition, **1XLM in the account will be permanently locked-up**. For example, if you have 100XLM in your account after creating your wallet, you can only transfer 99XLM (including fee). As shown in the figure, the remaining balance of 1XLM cannot be sent to another account even when if you try to send the maximum amount.
 
-<div align="left">
-
-<img src="../../../.gitbook/assets/스텔라-eng02.png" alt="" width="344">
-
-</div>
+<div align="left"><img src="../../../.gitbook/assets/38.png" alt="" width="329"></div>
 
 {% hint style="info" %}
 In some cases, the lock-up amount may be different. See the link below for more details. [https://www.stellar.org/developers/guides/concepts/fees.html#minimum-account-balance](https://www.stellar.org/developers/guides/concepts/fees.html#minimum-account-balance)
@@ -78,11 +70,7 @@ The Stellar wallet used by an exchange service uses a single address. In other w
 
 From your XLM account, click "Receive" to view your account address.
 
-<div align="left">
-
-<img src="../../../.gitbook/assets/스텔라-eng03.png" alt="" width="344">
-
-</div>
+<div align="left"><img src="../../../.gitbook/assets/39.png" alt="" width="329"></div>
 
 If your XLM account is inactive, please activate your account by clicking on the (**Event**) link.
 
@@ -92,16 +80,8 @@ If you are sending Stellar coins to your exchange account, you **MUST** enter th
 
 If you are sending Stellar coins to a personal wallet such as D'CENT Wallet, entering Memo is optional. You can enter any notes in the Memo field or choose to change the Memo options.
 
-<div align="left">
-
-<img src="../../../.gitbook/assets/스텔라-eng04.png" alt="" width="344">
-
-</div>
+<div align="left"><img src="../../../.gitbook/assets/40 (1).png" alt="" width="329"></div>
 
 When sending money, check the address and memo once again before making the final confirmation.
 
-<div align="left">
-
-<img src="../../../.gitbook/assets/스텔라-eng05.png" alt="" width="344">
-
-</div>
+<div align="left"><img src="../../../.gitbook/assets/41.png" alt="" width="329"></div>

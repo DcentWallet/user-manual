@@ -18,11 +18,7 @@ For more details of creating an account, click below link.
 
 From your coin account, click "Receive" to view your account address.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/mona-eng.png" alt="">
-
-</div>
+<figure><img src="../../.gitbook/assets/35.png" alt=""><figcaption></figcaption></figure>
 
 The account of Monacoin supports HD wallet. "HD wallet" is the technical standard suggested in BIP-44 from bitcoin improvement proposal. A monacoin account of D'CENT wallet manage 15 addresses. Any address in the account can be used to receive coin.
 
@@ -46,15 +42,9 @@ The procedures to send monacoin are same as sending general coin. You can see in
 
 ### Set the fee for Monacoin
 
-<div align="left">
+<figure><img src="../../.gitbook/assets/36.png" alt=""><figcaption></figcaption></figure>
 
-<img src="../../.gitbook/assets/image (209).png" alt="">
-
-</div>
-
-The fee of Monacoin is automatically calculated after setting the sending amount. The calculated fee is based on current average transaction fee on Monacoin blockchain network.
-
-You can change the fee by sliding the bar or by directly entering the fee value in the advanced fee mode.
+The Monacoin transaction fee is automatically calculated when you enter the amount to send. The fee is preset based on the average transaction fee on the blockchain at that time. You can adjust the fee through advanced settings if needed.
 
 {% hint style="warning" %}
 If the fee is set too low, the transaction may not get confirmed in the blockchain network.

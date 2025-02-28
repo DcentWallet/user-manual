@@ -24,7 +24,7 @@ To keep your Tron account in the activated state, your Tron account must maintai
 
 <mark style="color:red;">**Tron account activation fee = 0.1 TRX**</mark>&#x20;
 
-<figure><img src="../../.gitbook/assets/TRON-eng.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/45.png" alt=""><figcaption></figcaption></figure>
 
 ## Frequently asked question
 
