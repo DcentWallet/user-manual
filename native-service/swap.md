@@ -104,17 +104,13 @@ When trading meme coins, increasing the slippage tolerance improves the likeliho
 
 <div align="left"><figure><img src="../.gitbook/assets/10.jpg" alt=""><figcaption></figcaption></figure></div>
 
-
-
 {% hint style="info" %}
 If a transaction is delayed or fails, you can contact the exchange using the displayed Exchange ID.
 
 To check the 'Exchange ID', go to the Transaction Review screen or tap the icon on the right of the Swap main screen to access the Transaction History.
 {% endhint %}
 
-
-
-<div align="left"><figure><img src="../.gitbook/assets/11.jpg" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/그림2 (11).png" alt=""><figcaption></figcaption></figure>
 
 **6.** After reviewing the sending token amount and value, receiving token amount, and network fee, tap 'Next' or 'Send'. Once you verify the final signing details, sign the transaction in your wallet to complete the swap request.
 
