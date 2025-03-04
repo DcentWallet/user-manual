@@ -2,7 +2,7 @@
 
 ### Supported Network List
 
-As of February 2025, the following blockchain networks are currently supported for the swap service. Additional blockchain networks are planned to be supported in the future.
+As of March 2025, the following blockchain networks are currently supported for the swap service. Additional blockchain networks are planned to be supported in the future.
 
 | Blockchain          | Supported Tokens                                         |
 | ------------------- | -------------------------------------------------------- |
