@@ -75,4 +75,4 @@ D’CENT Wallet has a built-in DApp browser, which supports connecting to DApps 
 If the DApp service does not support the Web3 interface, you can select WalletConnect to establish connection to the DApp. Instructions are similar to the previous methods described in the sections above.\
 
 
-![](../../.gitbook/assets/walletconnect-eng.gif)
+![](../../.gitbook/assets/월렛커넥트-ENG.gif)
