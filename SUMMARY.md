@@ -84,7 +84,7 @@
   * [How to revoke dApp allowances](native-service/dapp-browser/how-to-revoke-dapp-allowances.md)
 * [Insight](native-service/insight.md)
 * [Swap](native-service/swap.md)
-  * [Swap Supported Networks](native-service/swap/swap-supported-networks.md)
+  * [Supported Networks](native-service/swap/supported-networks.md)
 * [Exchange](native-service/exchange.md)
 * [FTSO Portal - vote delegation](native-service/ftso-portal-vote-delegation.md)
 * [Stacks Stacking Delegation Service](native-service/stacks-stacking-delegation-service.md)
