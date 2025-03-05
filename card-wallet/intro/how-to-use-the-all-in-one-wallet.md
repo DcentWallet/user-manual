@@ -56,7 +56,7 @@ While using the All-in-One Wallet, you will be asked to enter the PIN of the har
 
 2\) When changing the current PIN to a new PIN
 
-<div align="left"><figure><img src="../../.gitbook/assets/19.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/PIN-eng.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="danger" %}
 <mark style="color:red;">As a security measure, a total of 10 attempts are available to enter the correct PIN.</mark>&#x20;
