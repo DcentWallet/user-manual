@@ -23,7 +23,7 @@
 | Bitcoin             | Bitcoin (BTC)                                            |
 | Bitcoin Cash        | Bitcoin Cash (BCH)                                       |
 | Cardano             | Cardano (ADA)                                            |
-| Celo                | Celo (CELO), Celo Dollar (cUSD)                          |
+| Celo                | Celo (CELO), Celo Dollar (cUSD), Tether USD (USDT)       |
 | Conflux             | Conflux (CFX)                                            |
 | Cosmos              | Atom (ATOM)                                              |
 | Dash                | Dash (DASH)                                              |
