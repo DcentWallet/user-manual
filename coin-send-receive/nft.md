@@ -14,7 +14,7 @@
 
 **3)** 디센트 지갑을 확인하면, 원래는 보유하지 않았던 NFT가 네트워크에 거래가 성사되면서 수집품 목록에 표기됨을 확인합니다.
 
-![](<../.gitbook/assets/12 (6).png>)
+![](../.gitbook/assets/12.png)
 
 ## 디센트 지갑에서 다른 지갑으로 NFT 토큰 보내기 <a href="#sending-an-nft-token-from-dcent-wallet-to-another-wallet" id="sending-an-nft-token-from-dcent-wallet-to-another-wallet"></a>
 
@@ -34,4 +34,4 @@ NFT 보내기 기능은 추후 지원될 예정이며, 그 전까지 "Discovery"
 
 **3)** 거래내역이 네트워크로 전송되면 일정 시간이 지난 후, 거래가 완료되었다는 화면으로 전환됩니다. 이후에는 수집품 목록에 내보낸 수집품이 사라진 것을 확인할 수 있습니다.
 
-![](<../.gitbook/assets/15 (3).png>)
+![](../.gitbook/assets/15.png)

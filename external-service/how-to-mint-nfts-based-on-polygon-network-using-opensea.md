@@ -32,7 +32,7 @@ Polygon 계정이 없으면, 먼저 Account에서 Polygon 계정을 만들어 �
 
 ④ **Polygon** 네트워크를 선택합니다.
 
-![](<../.gitbook/assets/2 (12).png>)
+![](<../.gitbook/assets/2 (12) (1).png>)
 
 ⑤ OpenSea 서비스와 지갑의 연결을 할 수 있도록 **허용** 버튼을 클릭한 후
 
@@ -106,7 +106,7 @@ NFT에 대한 설명을 기재하여 줍니다.
 
 이제 NFT가 생성(minting) 된 것을 새로운 창을 통해 확인 할 수 있습니다.
 
-![](<../.gitbook/assets/8 (5).png>)
+![](<../.gitbook/assets/8 (5) (1).png>)
 
 #### \*\*생성(minting)\*\*이 완료된 NFT는 OpenSea의 Account > Profile 에서도 확인 할 수 있습니다.
 

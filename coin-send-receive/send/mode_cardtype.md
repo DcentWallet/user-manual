@@ -6,7 +6,7 @@
 
 ### 상대방의 주소 입력 <a href="#enter-the-receiver-address" id="enter-the-receiver-address"></a>
 
-<div align="left"><img src="../../.gitbook/assets/5 (9).png" alt=""></div>
+<div align="left"><img src="../../.gitbook/assets/5.png" alt=""></div>
 
 1\) 디센트 모바일 앱에서 거래에 사용할 코인 계정의 **"보내기"** 버튼을 누릅니다.
 

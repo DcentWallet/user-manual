@@ -67,7 +67,7 @@
 디센트 월렛 계정으로 암호화폐를 송금 받으려면 주소를 알아야합니다. \
 모바일앱에서 '**받기**' 버튼을 눌러 계정 주소를 확인하십시오.
 
-<div align="left"><img src="../.gitbook/assets/51.png" alt=""></div>
+<div align="left"><img src="../.gitbook/assets/51 (2).png" alt=""></div>
 
 16 진수 형식의 계정 주소를 복사 할 수있는 방법으로 두 가지 옵션이 있습니다. \
 Option1) **복사** - 메시지나 이메일에 붙여넣기를 위한 주소를 복사합니다. \
