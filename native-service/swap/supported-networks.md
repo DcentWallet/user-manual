@@ -1,4 +1,4 @@
-# Swap Supported Networks
+# Supported Networks
 
 ### Supported Network List
 
@@ -23,7 +23,7 @@ As of March 2025, the following blockchain networks are currently supported for 
 | Bitcoin             | Bitcoin (BTC)                                            |
 | Bitcoin Cash        | Bitcoin Cash (BCH)                                       |
 | Cardano             | Cardano (ADA)                                            |
-| Celo                | Celo (CELO), Celo Dollar (cUSD)                          |
+| Celo                | Celo (CELO), Celo Dollar (cUSD), Tether USD (USDT)       |
 | Conflux             | Conflux (CFX)                                            |
 | Cosmos              | Atom (ATOM)                                              |
 | Dash                | Dash (DASH)                                              |
