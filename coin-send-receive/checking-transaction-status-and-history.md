@@ -4,7 +4,7 @@ After **sending or receiving** a transfer to your wallet account address, you ca
 
 ## How to check transaction history
 
-<figure><img src="../.gitbook/assets/11 (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/11 (6).png" alt=""><figcaption></figcaption></figure>
 
 **1.** In the D'CENT mobile app, tap the desired coin account to open the Account Details screen.
 

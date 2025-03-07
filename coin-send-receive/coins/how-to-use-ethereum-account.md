@@ -18,7 +18,7 @@ For more details of creating an account, click below link.
 
 From your coin account, click "Receive" to view your account address.
 
-<div align="left"><img src="../../.gitbook/assets/17 (2).png" alt=""></div>
+<div align="left"><img src="../../.gitbook/assets/17 (3).png" alt=""></div>
 
 For more details of receiving coin, click below link.
 

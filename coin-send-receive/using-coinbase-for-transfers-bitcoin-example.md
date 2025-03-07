@@ -22,7 +22,7 @@ You can switch to a different cryptocurrency account by making your selection fr
 
 Run the D'CENT mobile app on your phone and make sure you connect your phone together with the D'CENT Biometric Wallet.&#x20;
 
-<div align="left"><img src="../.gitbook/assets/46.png" alt=""></div>
+<div align="left"><img src="../.gitbook/assets/46 (1).png" alt=""></div>
 
 1\) From your cryptocurrency account(ie: Bitcoin), press the '**Send**' button.\
 \
@@ -69,7 +69,7 @@ From Coinbase, you can check the history of Recent Transactions. If the status i
 To send cryptocurrency to your D'CENT wallet account, you need to know the address. \
 From the mobile, press the '**Receive**' button to see the account address.
 
-<div align="left"><img src="../.gitbook/assets/50.png" alt=""></div>
+<div align="left"><img src="broken-reference" alt=""></div>
 
 There are 2 options to copy your account address(in hex form):\
 Option1) **Copy** - this will copy the address for pasting it to a message or email.\

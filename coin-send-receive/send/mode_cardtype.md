@@ -6,7 +6,7 @@ To use the Card Wallet, the NFC function must be enabled from the settings of th
 
 ### Enter the Receiver address
 
-<div align="left"><img src="../../.gitbook/assets/5 (7).png" alt=""></div>
+<div align="left"><img src="../../.gitbook/assets/5 (8).png" alt=""></div>
 
 **1.** From the mobile app, press the **"Send"** button of the coin account to be used for the transaction.
 

@@ -6,7 +6,7 @@ If you are using the Biometric Wallet mode, you can send coins only when your Bi
 
 ### Enter the Receiver address
 
-<div align="left"><img src="../../.gitbook/assets/2 (13).png" alt=""></div>
+<div align="left"><img src="../../.gitbook/assets/2 (15).png" alt=""></div>
 
 **1.** From the mobile app, press the **"Send"** button of the coin account to be used for the transaction.
 

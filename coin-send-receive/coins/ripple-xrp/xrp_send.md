@@ -2,7 +2,7 @@
 
 ### Enter the receiver address and the Destination Tag
 
-<figure><img src="../../../.gitbook/assets/그림4 (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/20 (3).png" alt=""><figcaption></figcaption></figure>
 
 1\) From mobile app, press the “**Send**” button of the Ripple (XRP) account to be used for the transaction.
 

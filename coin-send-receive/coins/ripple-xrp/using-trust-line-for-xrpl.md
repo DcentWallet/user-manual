@@ -4,7 +4,7 @@ This is an instruction guide on **how to add** a Trust Line account to your XRPL
 
 ## **How to add a Trust Line account**
 
-<figure><img src="../../../.gitbook/assets/21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/21 (1).png" alt=""><figcaption></figcaption></figure>
 
 **1.** Click on the Add account **(+)** button and search for the name of the Trust Line account you’d like to add.
 

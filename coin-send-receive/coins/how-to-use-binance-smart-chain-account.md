@@ -31,7 +31,7 @@ Run the D’CENT Mobile App and authenticate to unlock access.
 **Step 2)** In the search field, type “**Binance**” to search.\
 **Step 3)** Choose **Binance Smart Chain** from the list shown.&#x20;
 
-![](../../.gitbook/assets/33.png)
+![](<../../.gitbook/assets/33 (1).png>)
 
 **Step 4)** Press the ‘**Create**’ button to proceed.\
 **Step 5)** In the Account Tab, notice that a new Binance Smart Chain account has been added to the portfolio.

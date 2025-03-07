@@ -14,7 +14,7 @@ Let’s see how to send NFTs from another wallet to D'CENT Wallet. In our exampl
 
 **3.** When the NFT transfer transaction gets completed from the blockchain network, you will see that an NFT received to your D'CENT Wallet will be displayed on the Collectibles Tab.
 
-<div align="left"><img src="../.gitbook/assets/12 (5).png" alt=""></div>
+<div align="left"><img src="../.gitbook/assets/12 (6).png" alt=""></div>
 
 ## Sending an NFT token from D'CENT Wallet to another wallet
 
@@ -22,7 +22,7 @@ Let’s see how to send out an NFT token from D'CENT Wallet to another wallet or
 
 **1.** From the Collectibles Tab of your D'CENT Wallet, select your NFT collection and then click the Send button. When the screen changes, enter the recipient's address.
 
-![](<../.gitbook/assets/13 (4).png>)
+![](<../.gitbook/assets/13 (7).png>)
 
 **2.** After checking the recipient's address, set the fee and finally check the transaction details to be sent to the blockchain network.
 
@@ -30,4 +30,4 @@ Let’s see how to send out an NFT token from D'CENT Wallet to another wallet or
 
 **3.** After the transaction is transmitted to the blockchain network, you will need to wait a certain period of time for the transaction to be completed. When the transaction is completed, you will see that the NFT token that was sent will no longer appear in the collectibles list.
 
-![](<../.gitbook/assets/15 (3).png>)
+![](<../.gitbook/assets/15 (4).png>)
