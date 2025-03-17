@@ -23,7 +23,7 @@
 
 **2)** 스왑 서비스에 접속하면 **From(보내는 토큰)** 과 **To(받는 토큰)**&#xC744; 선택할 수 있는 화면이 뜹니다.
 
-<figure><img src="../../.gitbook/assets/2 (23).jpg" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/2 (23).jpg" alt="" width="420"><figcaption></figcaption></figure></div>
 
 **3)** From (보내는 토큰)에는 **연결된 메인 네트워크 정보와 토큰 계정 이름, 해당 계정에서 보유하고 있는 토큰의 수량**이 표시됩니다.
 
@@ -57,7 +57,7 @@
 To(받는 토큰) 에서 선택한 토큰 별로 보내는 토큰의 최소 수량이 존재합니다. 안내 되는 최소 수량을 확인해주세요.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/6 (5).jpg" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/6 (5).jpg" alt="" width="420"><figcaption></figcaption></figure></div>
 
 **2)** **From** 에서 보내는 수량을 입력하였다면 To 에서 받는 토큰 수량과 금액을 확인할 수 있습니다.
 
@@ -77,7 +77,7 @@ To(받는 토큰) 에서 선택한 토큰 별로 보내는 토큰의 최소 수�
 
 슬리피지는 사용자가 직접 설정할 수 있습니다. 슬리피지 설정값으로 선택할 수 있는 0.5%, 2%, 5.5% 외에도 최소 0.01% \~ 최대 50% 사이에서 직접 값을 설정할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/8.jpg" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/8.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 밈코인 거래시 슬리피지를 높여야 체결이 완료될 확률이 높습니다. 또한 이전 거래에서 실패 했을 경우 슬리피지를 높이면 거래 체결이 완료될 확률이 높습니다.
@@ -87,7 +87,7 @@ To(받는 토큰) 에서 선택한 토큰 별로 보내는 토큰의 최소 수�
 
 **4)** 선택한 견적이 중앙화된 거래소 제공자를 통한 거래일 경우 **‘교환 비율’** 정보를 확인할 수 있습니다. 이때 교환비 옵션은 ‘Flexible(변동)’과 ‘Fixed(고정)’ 으로 나뉩니다.
 
-<figure><img src="../../.gitbook/assets/9.jpg" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/9.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
 **5)** 견적을 모두 확인하였으면 아래 **“스왑” 버튼**을 누릅니다. 거래를 검토한 후 "확인" 또는 "전송" 버튼을 누릅니다.&#x20;
 
@@ -121,7 +121,7 @@ To(받는 토큰) 에서 선택한 토큰 별로 보내는 토큰의 최소 수�
 
 **7)** 이제 "My Wallet" 탭을 통해 스왑된 암호화폐를 확인할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/14 (2).jpg" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/14 (2).jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
 
 
