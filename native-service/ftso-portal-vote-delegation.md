@@ -8,8 +8,6 @@ FTSO Portal is a feature that allows users to interact with FTSO features on the
 
 FTSO portal can be found from the Discovery Tab(DApp browser) of the D’CENT Mobile App.
 
-<div align="left"><figure><img src="../.gitbook/assets/FTSO-eng.gif" alt="" width="245"><figcaption></figcaption></figure></div>
-
 <div align="left"><img src="../.gitbook/assets/Frame 1321315637.jpg" alt=""></div>
 
 1. Go to the Discovery Tab and click **"FTSO Portal"** from the list.
