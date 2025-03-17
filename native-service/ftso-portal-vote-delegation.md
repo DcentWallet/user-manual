@@ -8,8 +8,6 @@ FTSO 포털 (FTSO Portal) 은 사용자가 송버드(Songbird) 와 플레어(Fla
 
 FTSO 포털은 디센트 모바일 앱의 Discovery 탭(DApp 브라우저)에서 찾을 수 있습니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/FTSO.gif" alt="" width="246"><figcaption></figcaption></figure></div>
-
 <div align="left"><img src="../.gitbook/assets/16.jpg" alt=""></div>
 
 1. 댑 브라우저(Discovery)의 목록에서 **FTSO Portal** 을 클릭합니다.
