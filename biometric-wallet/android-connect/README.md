@@ -91,9 +91,7 @@
 
 ### 안드로이드 폰 블루투스 설정
 
-안드로이드 폰의 설정 메뉴에서 블루투스를 켜주세요.
-
-블루투스를 켜는 방법이 궁금하다면 [**여기**](android-bluetooth-menu.md)를 참고해 주세요.
+안드로이드 폰에서 블루투스 설정이 켜져있는 지 확인해주세요. 블루투스를 켜는 방법이 궁금하다면 [**여기**](android-bluetooth-menu.md)를 참고해주세요.
 
 <div align="left"><figure><img src="../../.gitbook/assets/블루투스-kor (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
