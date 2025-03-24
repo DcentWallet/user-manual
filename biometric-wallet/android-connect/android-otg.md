@@ -32,7 +32,7 @@ Please launch the D'CENT mobile app first. (Biometric Wallet mode)\
 \
 Below is a picture showing that there is no connection to with the Biometric Wallet.
 
-<div align="left"><figure><img src="../../.gitbook/assets/1 (5).jpg" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/OTG-eng01 (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ### Connect Android device and Biometric Wallet with OTG cable <a href="#otg-2" id="otg-2"></a>
 
@@ -44,11 +44,11 @@ Depending on the OTG cable you own, connect the Biometric Wallet and the Android
 
 1\) When an OTG cable is connected, you will see the following pop-up. Press **"OK".**
 
-<div align="left"><figure><img src="../../.gitbook/assets/2 (8).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/OTG-eng02 (1).png" alt="" width="386"><figcaption></figcaption></figure></div>
 
 2\) When connection is made, Synchronization will begin with the Biometric Wallet and you can start using it when it finishes.
 
-<div align="left"><figure><img src="../../.gitbook/assets/33.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/OTG-eng03 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Firmware Update
 
