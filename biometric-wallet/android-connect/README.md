@@ -95,7 +95,7 @@ Open the Bluetooth settings on your Android phone and ensure that Bluetooth is t
 
 **1.** Open the **D'CENT mobile app** and select **"Biometric Wallet"** at the top of the **"My Wallet"** tab.
 
-**2.** A permission request popup will appear to access device's location for the D'CENT mobile app. Select the "While using the app".
+**2.** A permission request popup will appear to access device's location for the D'CENT mobile app. Select the **"While using the app".**
 
 **3.** A **"Search Device"** popup will appear, displaying the **device name** that matches the **Device ID** shown on your cold wallet screen.
 
