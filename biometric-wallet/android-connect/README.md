@@ -80,7 +80,7 @@ Once the cold wallet enters **pairing mode**, you can connect it to your phone v
 ## Connecting from your Android Phone <a href="#connecting-from-your-android-phone" id="connecting-from-your-android-phone"></a>
 
 {% hint style="warning" %}
-This guide is based on the D'CENT mobile app version v7.5.1.
+This guide is based on the **D'CENT mobile app version v7.5.1.**
 {% endhint %}
 
 ### Android Phone Bluetooth Settings
