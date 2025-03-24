@@ -85,7 +85,7 @@
 
 ## 안드로이드 폰에서 연결
 
-{% hint style="info" %}
+{% hint style="warning" %}
 이 가이드는 **디센트 모바일 앱 v7.5.1 버전**을 기준으로 작성되었습니다.
 {% endhint %}
 
