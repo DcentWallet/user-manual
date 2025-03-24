@@ -83,19 +83,19 @@
 
 
 
-## 안드로이드 폰에서 연결
+## 안드로이드 폰에서 연결 <a href="#connecting-from-your-android-phone" id="connecting-from-your-android-phone"></a>
 
 {% hint style="warning" %}
 이 가이드는 **디센트 모바일 앱 v7.5.1 버전**을 기준으로 작성되었습니다.
 {% endhint %}
 
-### 안드로이드 폰 블루투스 설정
+### 안드로이드 폰 블루투스 설정 <a href="#android-phone-bluetooth-settings" id="android-phone-bluetooth-settings"></a>
 
 안드로이드 폰에서 블루투스 설정이 켜져있는 지 확인해주세요. 블루투스를 켜는 방법이 궁금하다면 [**여기**](android-bluetooth-menu.md)를 참고해주세요.
 
 <div align="left"><figure><img src="../../.gitbook/assets/블루투스-kor (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-### 디센트 모바일 앱에서 연결하기
+### 디센트 모바일 앱에서 연결하기 <a href="#connecting-with-the-dcent-mobile-app" id="connecting-with-the-dcent-mobile-app"></a>
 
 <figure><img src="../../.gitbook/assets/지갑연결-kor01.png" alt=""><figcaption></figcaption></figure>
 
