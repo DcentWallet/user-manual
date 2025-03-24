@@ -95,7 +95,7 @@
 
 블루투스를 켜는 방법이 궁금하다면 [**여기**](android-bluetooth-menu.md)를 참고해 주세요.
 
-
+<div align="left"><figure><img src="../../.gitbook/assets/블루투스-kor (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ### 디센트 모바일 앱에서 연결하기
 
