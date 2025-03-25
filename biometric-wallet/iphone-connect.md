@@ -39,36 +39,64 @@
 앱 비밀번호는 [앱 설정 메뉴](../mobile-app/mobile-app-setting-menu/)를 통해 나중에 변경하실 수 있습니다. 앱 비밀번호 이외에도 TouchID나 FaceID를 통해 앱을 보호할 수 있습니다. 자세한 내용은 [앱 설정 메뉴 항목](../mobile-app/mobile-app-setting-menu/)을 참고하세요.
 {% endhint %}
 
+### 모바일 앱 권한 설정
+
+디센트 모바일 앱 권한 허용 안내 팝업이 표시됩니다. **"허용"** 버튼을 눌러야 콜드월렛과 동기화를 할 수 있습니다.
+
+만약, 이를 허용하지 않는다면 콜드월렛을 동기화 할 수 없어 사용이 제한되니 반드시 앱 권한을 허용해야 합니다.
+
+<div align="left"><figure><img src="../.gitbook/assets/권한설정-kor.png" alt="" width="386"><figcaption></figcaption></figure></div>
+
+## 콜드월렛과 블루투스로 연결
+
+모바일 앱에서 콜드월렛을 사용하시려면 블루투스 페어링이 필요합니다.
+
+### 콜드월렛 페어링 준비
+
+<div align="left"><figure><img src="../.gitbook/assets/콜드월렛-kor01.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+**1)** 콜드월렛의 전원을 켠 후 지문 또는 PIN으로 인증한 뒤 "**설정"** 메뉴에서 OK 버튼을 누릅니다.
+
+**2) "블루투스"** 메뉴를 선택하고 OK 버튼을 누르세요.
+
+<div align="left"><figure><img src="../.gitbook/assets/콜드월렛-kor02.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+**3)** 콜드월렛의 **iOS** 메뉴를 선택하고 OK 버튼을 누르세요.
+
+**4)** 콜드월렛 화면에 **"연결 대기 중"** 글자와 함께 디바이스 아이디가 표시됩니다. 디센트 디바이스 아이디는 **`D'CENT-iD-<숫자 혹은 문자>`**&#xC640; 같은 형태로 표시됩니다.&#x20;
+
+콜드월렛이 연결 대기 중 상태가 되면 콜드월렛을 휴대폰과 블루투스로 연결할 수 있습니다.
+
+
+
+## 아이폰에서 연결 <a href="#connecting-from-your-iphone" id="connecting-from-your-iphone"></a>
+
+{% hint style="warning" %}
+이 가이드는 **디센트 모바일 앱 v7.5.2 버전**을 기준으로 작성되었습니다.
+{% endhint %}
+
 ### 블루투스 설정 <a href="#bluetooth-setting" id="bluetooth-setting"></a>
 
 아이폰의 설정 메뉴에서 블루투스를 켜주세요.
 
-<div align="left"><img src="../.gitbook/assets/아이폰-04.png" alt="" width="274"></div>
+<div align="left"><figure><img src="../.gitbook/assets/블루투스-kor.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-## 콜드월렛과 블루투스로 연결 <a href="#bluetooth-connection-with-biometric-wallet" id="bluetooth-connection-with-biometric-wallet"></a>
+### 디센트 모바일 앱에서 연결하기
 
-### 콜드월렛 전원 켜기 <a href="#turn-on" id="turn-on"></a>
+<div align="left"><figure><img src="../.gitbook/assets/지갑연결-kor01.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-먼저 콜드월렛의 전원을 켜고 지문인증을 진행해주세요.
+**1)** 디센트 모바일 앱을 실행하고 "My Wallet" 탭 우측 상단의 **블루투스 아이콘**을 선택하세요.
 
-### 아이폰에서 연결 <a href="#connecting-from-your-iphone" id="connecting-from-your-iphone"></a>
+2\) **"장비 찾기"** 팝업이 나타나면 콜드월렛 화면에 표시된 디바이스 아이디와 같은 장치 이름이 나타납니다.
 
-1\) 디센트 앱 My Wallet 탭의 왼쪽 위에 블루투스 연결 아이콘을 확인하세요. 아래와 같이 빨간색 아이콘이면 연결이 안되어 있다는 의미이니 아이콘을 클릭하세요
+<div align="left"><figure><img src="../.gitbook/assets/지갑연결-kor02.png" alt=""><figcaption></figcaption></figure></div>
+
+**3)** 디센트 디바이스 선택 후 지갑 동기화가 자동으로 진행됩니다. 동기화가 시작되는데 수 초 정도 걸릴 수 있습니다.
+
+**4)** 동기화가 완료되면 모바일 앱의 왼쪽 상단에 연결 표시가 나타나고, 콜드월렛의 오른쪽 상단에 푸른색의 블루투스 연결 상태등이 켜집니다.
 
 
 
-<div align="left"><figure><img src="../.gitbook/assets/3 (2) (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+이제 **"계정 추가"** 버튼을 눌러 필요한 코인 계정을 추가할 수 있습니다.
 
-2\) 아이콘을 클릭하여 연결 가능한 디센트 디바이스를 선택하세요
-
-<div align="left"><figure><img src="../.gitbook/assets/4 (1) (1) (1) (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
-
-3\) 디센트 디바이스 선택 후 지갑 동기화가 자동으로 진행됩니다. 동기화가 시작되는데 수 초 정도 걸릴 수 있습니다.
-
-<div align="left"><figure><img src="../.gitbook/assets/5 (1) (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
-
-동기화가 완료되면 모바일 앱의 왼쪽 상단에 연결 표시가 나타나고, 콜드월렛의 오른쪽 상단에 푸른색의 블루투스 연결 상태등이 켜집니다.
-
-<div align="left"><figure><img src="../.gitbook/assets/6 (1).jpg" alt="" width="563"><figcaption></figcaption></figure></div>
-
-이제 가지고 계신 코인 계정을 추가하여 디센트 월렛을 사용할 수 있습니다. 코인 계정 추가에 대한 자세한 안내는 [**여기**](../mobile-app/create-account/)를 참고하세요.
+코인 계정 추가에 대한 자세한 안내는 [**여기**](https://userguide.dcentwallet.com/kr/mobile-app/create-account)를 참고하세요.
