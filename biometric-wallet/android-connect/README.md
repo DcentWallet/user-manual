@@ -41,7 +41,7 @@ A **permission request popup** will appear when connecting with the **D'CENT Bio
 
 If you **do not grant permissions**, the app **will not be able to sync with the cold wallet**, restricting its functionality. Please make sure to **allow the required permissions** for proper use.
 
-<div align="left"><figure><img src="../../.gitbook/assets/권한설정-eng.png" alt="" width="386"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/권한설정-eng (1).png" alt="" width="386"><figcaption></figcaption></figure></div>
 
 If the **permission popup does not appear**, you can manually enable app permissions by following the steps shown in the image below.
 
@@ -87,7 +87,7 @@ This guide is based on the **D'CENT mobile app version v7.5.1.**
 
 Open the Bluetooth settings on your Android phone and ensure that Bluetooth is turned on. If you're unsure how to access the Bluetooth menu, please refer to [**this guide**](./#android-phone-bluetooth-settings).
 
-<div align="left"><figure><img src="../../.gitbook/assets/블루투스-eng (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/블루투스-eng (1) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ### Connecting with the D'CENT mobile app
 
@@ -101,7 +101,7 @@ Open the Bluetooth settings on your Android phone and ensure that Bluetooth is t
 
 
 
-<div align="left"><figure><img src="../../.gitbook/assets/지갑연결-eng02.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/지갑연결-eng02 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 **4.** Tap the **device name**, then enter the **6-digit Bluetooth password** displayed on your cold wallet screen when prompted.
 
