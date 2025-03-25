@@ -39,7 +39,7 @@
 앱 비밀번호는 [앱 설정 메뉴](../mobile-app/mobile-app-setting-menu/)를 통해 나중에 변경하실 수 있습니다. 앱 비밀번호 이외에도 TouchID나 FaceID를 통해 앱을 보호할 수 있습니다. 자세한 내용은 [앱 설정 메뉴 항목](../mobile-app/mobile-app-setting-menu/)을 참고하세요.
 {% endhint %}
 
-### 모바일 앱 권한 설정
+### 모바일 앱 권한 설정 <a href="#mobile-app-permission-settings" id="mobile-app-permission-settings"></a>
 
 디센트 모바일 앱 권한 허용 안내 팝업이 표시됩니다. **"허용"** 버튼을 눌러야 콜드월렛과 동기화를 할 수 있습니다.
 
@@ -47,11 +47,11 @@
 
 <div align="left"><figure><img src="../.gitbook/assets/권한설정-kor.png" alt="" width="386"><figcaption></figcaption></figure></div>
 
-## 콜드월렛과 블루투스로 연결
+## 콜드월렛과 블루투스로 연결 <a href="#bluetooth-connection-with-biometric-wallet" id="bluetooth-connection-with-biometric-wallet"></a>
 
 모바일 앱에서 콜드월렛을 사용하시려면 블루투스 페어링이 필요합니다.
 
-### 콜드월렛 페어링 준비
+### 콜드월렛 페어링 준비 <a href="#preparing-for-cold-wallet-pairing" id="preparing-for-cold-wallet-pairing"></a>
 
 <div align="left"><figure><img src="../.gitbook/assets/콜드월렛-kor01.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -81,7 +81,7 @@
 
 <div align="left"><figure><img src="../.gitbook/assets/블루투스-kor.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-### 디센트 모바일 앱에서 연결하기
+### 디센트 모바일 앱에서 연결하기 <a href="#connecting-with-the-dcent-mobile-app" id="connecting-with-the-dcent-mobile-app"></a>
 
 <div align="left"><figure><img src="../.gitbook/assets/지갑연결-kor01.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
