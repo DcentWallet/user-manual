@@ -84,4 +84,8 @@ My Wallet 탭 상단의 UI가 변경되어 좌측 상단의 **"월렛 관리 버
 
 이 때 **"연결"** 버튼을 클릭하면 해당 콜드월렛과 동기화가 됩니다.
 
+{% hint style="warning" %}
+지문인증형 콜드월렛 **우측 상단의 파란 불빛이 켜져야** 자동 감지 팝업창이 실행됩니다.
+{% endhint %}
+
 <div align="left"><figure><img src="../.gitbook/assets/멀티월렛-kor10.png" alt="" width="563"><figcaption></figcaption></figure></div>
