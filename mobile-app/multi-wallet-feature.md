@@ -81,4 +81,8 @@ For Android users, when the power is turned on for any previously registered Bio
 
 At this point, tapping **"Connect"** will synchronize the selected cold wallet with the app.
 
+{% hint style="warning" %}
+The “Detected connectable device” pop-up will appear only when the **blue light at the top right of the Biometric cold wallet turns on.**
+{% endhint %}
+
 <div align="left"><figure><img src="../.gitbook/assets/멀티월렛-eng09.png" alt="" width="563"><figcaption></figcaption></figure></div>
