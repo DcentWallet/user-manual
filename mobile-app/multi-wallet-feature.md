@@ -82,9 +82,7 @@ My Wallet 탭 상단의 UI가 변경되어 좌측 상단의 **"월렛 관리 버
 
 각 콜드월렛의 용도 또는 소유자에 따라 **기기이름**을 변경하면 보다 쉽게 관리할 수 있습니다.
 
-(ex, Wallet01, BTConly, MyAssets, ETHwallet 등)
-
-
+(ex, **Wallet01, BTConly, MyAssets, ETHwallet** 등)
 
 기기이름 변경에 대한 자세한 방법은 [**여기**](mobile-app-setting-menu/mobile-app-dcent-walletmode/biometric-wallet.md#device-label)를 참고해 주세요.
 
