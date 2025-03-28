@@ -75,6 +75,16 @@ If multiple **Biometric Cold Wallets** are registered on a single mobile device,
 
 4\) The My Wallet tab will update to show the portfolio and account information of the selected cold wallet.
 
+
+
+You can manage your cold wallets more efficiently by **changing the device name** based on each wallet’s purpose or owner.
+
+(e.g., **Wallet01, BTConly, MyAssets, ETHwallet**, etc.)
+
+For detailed instructions on how to change the device name, please refer to [**this**](mobile-app-setting-menu/mobile-app-dcent-walletmode/biometric-wallet.md#check-device-information)**.**
+
+<div align="left"><figure><img src="../.gitbook/assets/멀티월렛-eng10.png" alt="" width="563"><figcaption></figcaption></figure></div>
+
 ### Managing Multiple Biometric Cold Wallets on Android
 
 For Android users, when the power is turned on for any previously registered Biometric Cold Wallet, a pop-up message saying **"Detected a connectable device"** will appear, and the app will automatically detect the turned-on cold wallet.
