@@ -81,7 +81,7 @@ You can manage your cold wallets more efficiently by **changing the device name*
 
 (e.g., **Wallet01, BTConly, MyAssets, ETHwallet**, etc.)
 
-For detailed instructions on how to change the device name, please refer to [**this**](mobile-app-setting-menu/mobile-app-dcent-walletmode/biometric-wallet.md#check-device-information)**.**
+For detailed instructions on how to change the device name, please refer to [**this guide.**](mobile-app-setting-menu/mobile-app-dcent-walletmode/biometric-wallet.md#check-device-information)
 
 <div align="left"><figure><img src="../.gitbook/assets/멀티월렛-eng10.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
