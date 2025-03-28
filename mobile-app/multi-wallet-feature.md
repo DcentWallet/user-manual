@@ -78,6 +78,18 @@ My Wallet 탭 상단의 UI가 변경되어 좌측 상단의 **"월렛 관리 버
 
 **4)** My Wallet 탭이 변경된 콜드월렛의 포트폴리오와 계정 정보를 불러오게 됩니다.
 
+
+
+각 콜드월렛의 용도 또는 소유자에 따라 **기기이름**을 변경하면 보다 쉽게 관리할 수 있습니다.
+
+(ex, Wallet01, BTConly, MyAssets, ETHwallet 등)
+
+
+
+기기이름 변경에 대한 자세한 방법은 [**여기**](mobile-app-setting-menu/mobile-app-dcent-walletmode/biometric-wallet.md#device-label)를 참고해 주세요.
+
+<div align="left"><figure><img src="../.gitbook/assets/멀티월렛-kor11.png" alt="" width="563"><figcaption></figcaption></figure></div>
+
 ### 안드로이드 폰에서 여러 개의 지문인증형 콜드월렛 관리하기 <a href="#managing-multiple-biometric-cold-wallets-on-android" id="managing-multiple-biometric-cold-wallets-on-android"></a>
 
 안드로이드 폰 사용자의 경우 이전에 한번이라도 등록된 지문인증형 콜드월렛의 전원을 켜게 되면 **"연결 가능한 기기를 감지했습니다"** 팝업창이 표시되면서 전원이 켜진 콜드월렛을 자동으로 감지합니다.
