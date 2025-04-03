@@ -102,8 +102,8 @@
 
 * [오입금/오전송 문제 해결하기](mistransmission/how-to-solve-mistransmission.md)
 * [전송한 자산의 네트워크 확인](mistransmission/check-blockchain-network.md)
-* [클레이튼 주소로 오전송된 이더리움 기반 자산 복구하는 방법](mistransmission/ethereum-to-klaytn.md)
-* [이더리움 주소로 오전송된 클레이튼 기반 자산 복구하는 방법](mistransmission/klaytn-to-ethereum.md)
+* [카이아 주소로 오전송된 이더리움 기반 자산 복구하는 방법](mistransmission/ethereum-to-klaytn.md)
+* [이더리움 주소로 오전송된 카이아 기반 자산 복구하는 방법](mistransmission/klaytn-to-ethereum.md)
 
 ## 디센트 외부 서비스 <a href="#external-service" id="external-service"></a>
 
