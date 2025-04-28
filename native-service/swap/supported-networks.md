@@ -2,7 +2,7 @@
 
 ### Supported Network List
 
-As of March 2025, the following blockchain networks are currently supported for the swap service. Additional blockchain networks are planned to be supported in the future.
+As of April 2025, the following blockchain networks are currently supported for the swap service. Additional blockchain networks are planned to be supported in the future.
 
 | Blockchain          | Supported Tokens                                         |
 | ------------------- | -------------------------------------------------------- |
@@ -25,6 +25,7 @@ As of March 2025, the following blockchain networks are currently supported for 
 | Cardano             | Cardano (ADA)                                            |
 | Celo                | Celo (CELO), Celo Dollar (cUSD), Tether USD (USDT)       |
 | Conflux             | Conflux (CFX)                                            |
+| Constellation       | Constellation (DAG)                                      |
 | Cosmos              | Atom (ATOM)                                              |
 | Dash                | Dash (DASH)                                              |
 | DigiByte            | DigiByte (DGB)                                           |
