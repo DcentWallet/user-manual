@@ -16,9 +16,9 @@ Search for "**D'CENT wallet**" from the App store.
 
 ### Select wallet mode
 
-If running the mobile app for the first time, you must choose a wallet mode. Choose "**Biometric hardware wallet**" as your choice.
+If you are launching the mobile app for the first time, you will need to configure the basic settings and select a wallet mode. Select **"Create Wallet"**, then choose **"Biometric Wallet"**.
 
-<div align="left"><figure><img src="../.gitbook/assets/1 (6).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/초기설정-eng.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 Wallet mode can also be changed from the Settings tab on the bottom menu of D'CENT App. If you are using the Biometric hardware wallet, you must set the wallet mode on the D'CENT App to the Biometric Wallet mode.&#x20;
 

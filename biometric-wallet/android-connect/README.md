@@ -10,9 +10,9 @@ You can download the D'CENT Mobile App by clicking on this [link](https://play.g
 
 ### Select Wallet mode <a href="#select-wallet-mode" id="select-wallet-mode"></a>
 
-If you are installing the mobile app for the first time, you need to select a **wallet mode**. Please choose **'Biometric Cold Wallet'.**
+If you are launching the mobile app for the first time, you will need to configure the basic settings and select a wallet mode. Select **"Create Wallet"**, then choose **"Biometric Wallet"**.
 
-<div align="left"><figure><img src="../../.gitbook/assets/1 (4).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/초기설정-eng.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 You can change the **wallet mode** at any time from the **Settings** tab in the mobile app.\
 If you are using a **biometric cold wallet**, make sure to set the wallet mode to '**Biometric Cold Wallet'** in the mobile app.
