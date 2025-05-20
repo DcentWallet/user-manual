@@ -52,26 +52,18 @@ From the Device Manager screen, look for **Human Interface Devices**.
 
 Check if there is a **USB Input Device** marked as **error** (yellow triangle with exclamation mark). You will need to check if this is indeed a D'CENT device.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/image (143).png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/image (143).png" alt=""></div>
 
 Right Mouse Click on this device and select **Properties**.
 
-<div align="left">
-
-<img src="../../.gitbook/assets/image (39).png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/image (39).png" alt=""></div>
 
 * From the USB Input Device Properties window, select **Details**.
 * Under Property, choose **Hardware Ids**.
-* Correct device ID for D'CENT is **PID\_2130** or **PID\_2131**.
+* Correct device ID for D'CENT is **PID\_2130** or **PID\_2131, PID\_2141**.
 
 From the **Device Manager**, Right Mouse Click on the error marked device and select **Uninstall device**.
 
-![](../../.gitbook/assets/troubleshooot\_remove-error-device.png)
+![](../../.gitbook/assets/troubleshooot_remove-error-device.png)
 
 On the top menu of Device Manager, press **Action** then select **Scan for hardware changes**. This will scan for any new devices attached and will automatically install the driver to detect your Biometric Wallet.
