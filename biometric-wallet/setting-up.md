@@ -14,9 +14,9 @@ description: Creating new wallet on the Biometric Wallet
 
 D'CENT Biometric Wallet is equipped with 4-buttons for navigation.
 
-* Up(∧)/Down(∨) buttons : move between selectable items  or change value of numbers or characters.
-* OK button : confirm selected item or input value.
-* Back button : move to previous menu or cancel the current input value.
+* **Up(∧)/Down(∨) buttons** : Move between selectable items  or change value of numbers or characters.
+* **OK button** : Confirm selected item or input value.
+* **Back button** : Move to previous menu or cancel the current input value.
 
 ## Step-1 : Select Language & Create Wallet
 
@@ -32,7 +32,7 @@ If the cold wallet does not power on, please charge its battery using the USB ca
 
 ### Select Language
 
-Use ∧(U&#x70;**)** or ∨(Dow&#x6E;**)** button to select your language and press **OK** button.
+Use Up(∧) or Down(∨) button to select your language and press **OK** button.
 
 <div align="left"><img src="../.gitbook/assets/image (149).png" alt=""></div>
 
@@ -44,7 +44,7 @@ After setting up your cold wallet, you can change the Language from the [Setting
 
 ### Select "Create Wallet"
 
-To create a new wallet, select "Create Wallet" from the menu.
+To create a new wallet, select **"Create Wallet"** from the menu.
 
 <div align="left"><img src="../.gitbook/assets/image (68).png" alt=""></div>
 
@@ -60,17 +60,17 @@ To protect accessing your wallet, register a new PIN and your fingerprint. \
 
 ### Register a new PIN (4 to 8 digits)
 
-Use **∧**(Up, increase number value) or **∨**(Down, decrease number value) button to input your PIN. Pressing the OK button on the hardware wallet will confirm the input.
+Use Up(∧, increase number value) or Down(∨, decrease number value) button to input your PIN. Pressing the OK button on the cold wallet will confirm the input.
 
 ![](<../.gitbook/assets/1 (3).png>)
 
-When you have entered 4 digits, you will see "**OK"** text on the screen. If you wish to set your PIN to 4-digits long, then press the OK button on the hardware wallet.&#x20;
+When you have entered 4 digits, you will see **"OK"** text on the screen. If you wish to set your PIN to 4-digits long, then press the OK button on the hardware wallet.&#x20;
 
-If you wish to set the PIN to a longer digit, you can change the ("**OK**" text) value on the screen by pressing the Up or Down button. **Your PIN can be set to 4, 5, 6, 7, or 8 digits long**.   &#x20;
+If you wish to set the PIN to a longer digit, you can change the (**"OK"** text) value on the screen by pressing the Up(∧) or Down(∨) button. **Your PIN can be set to 4, 5, 6, 7, or 8 digits long**.   &#x20;
 
 ![](<../.gitbook/assets/2 (4).png>)
 
-If you register a 4-digit PIN, you will see a “Security level is low” warning on the screen. If you wish to use such a PIN, press the "OK" button on the hardware wallet to continue.&#x20;
+If you register a 4-digit PIN, you will see a “Security level is low” warning on the screen. If you wish to use such a PIN, press the "OK" button on the cold wallet to continue.&#x20;
 
 ### Verify your &#xD;PIN
 
@@ -161,13 +161,13 @@ Enter all 24 words written on the recovery card to proceed with verification.
 
 <div align="left"><img src="../.gitbook/assets/image (122).png" alt=""></div>
 
-※ How to input : Use the Up/Down buttons - ∧(increase value from a to z) or ∨(decrease value z to a)&#x20;
+※ How to input : Use the Up(∧)/Down(∨) buttons - ∧(increase value from a to z) or ∨(decrease value z to a)&#x20;
 
 For example, if the recovery word is "patch", enter the first character "p" and press the "OK" button > enter the second character "a" and press the "OK" button > enter the third character "t" and press the "OK" button.
 
 #### Finding suggestion from the list shown
 
-From the list of words available, select the correct word(_patch_) using ∧/∨ buttons and press "OK" to choose as the answer.
+From the list of words available, select the correct word(_patch_) using Up(∧)/Down(∨) buttons and press "OK" to choose as the answer.
 
 <div align="left"><img src="../.gitbook/assets/image (56).png" alt=""></div>
 
