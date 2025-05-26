@@ -15,12 +15,12 @@ If you are launching the mobile app for the first time, you will need to configu
 <div align="left"><figure><img src="../../.gitbook/assets/초기설정-eng.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 You can change the **wallet mode** at any time from the **Settings** tab in the mobile app.\
-If you are using a **biometric cold wallet**, make sure to set the wallet mode to '**Biometric Cold Wallet'** in the mobile app.
+If you are using a **biometric cold wallet**, make sure to set the wallet mode to **"Biometric"** in the mobile app.
 
 {% hint style="info" %}
 **How to Change Wallet Mode**
 
-Go to **Settings** tab > Select **Change Wallet Mode >** Choose **Biometric Cold Wallet**
+Go to **Settings** tab > Select **Change Wallet Mode >** Choose **Biometric**
 {% endhint %}
 
 ### **App Password Registration**
@@ -59,15 +59,15 @@ If you prefer **not to use Bluetooth**, you can also connect your **cold wallet 
 
 <div align="left"><figure><img src="../../.gitbook/assets/그림1 (9).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-**1. Turn on the cold wallet**, authenticate using your **fingerprint or PIN**, then navigate to the **"Settings"** menu and press **OK**.
+**1) Turn on the cold wallet**, authenticate using your **fingerprint or PIN**, then navigate to the **"Settings"** menu and press **OK**.
 
-**2. Select the "Bluetooth" menu** and press **OK**.
+**2) Select the "Bluetooth" menu** and press **OK**.
 
 <div align="left"><figure><img src="../../.gitbook/assets/그림2 (10).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-**3.** Choose "**Android**" menu and press **OK**.
+**3)** Choose "**Android**" menu and press **OK**.
 
-**4.** On the **cold wallet screen**, the message **"Connecting..."** will be displayed along with the **Device ID** and **Bluetooth password**.
+**4)** On the **cold wallet screen**, the message **"Connecting..."** will be displayed along with the **Device ID** and **Bluetooth password**.
 
 The **D'CENT Device ID** is displayed in the format **D'CENT-iD-\<numbers or letters>**. The **Bluetooth password** is shown as a **6-digit number**.
 
@@ -93,21 +93,21 @@ Open the Bluetooth settings on your Android phone and ensure that Bluetooth is t
 
 <div align="left"><figure><img src="../../.gitbook/assets/지갑연결-eng.png" alt=""><figcaption></figcaption></figure></div>
 
-**1.** Open the **D'CENT mobile app** and select **"Bluetooth icon"** at the top of the **"My Wallet"** tab.
+**1)** Open the **D'CENT mobile app** and select **"Bluetooth icon"** at the top of the **"My Wallet"** tab.
 
-**2.** A permission request popup will appear to access device's location for the D'CENT mobile app. Select the **"While using the app".**
+**2)** A permission request popup will appear to access device's location for the D'CENT mobile app. Select the **"While using the app".**
 
-**3.** A **"Search Device"** popup will appear, displaying the **device name** that matches the **Device ID** shown on your cold wallet screen.
+**3)** A **"Search Device"** popup will appear, displaying the **device name** that matches the **Device ID** shown on your cold wallet screen.
 
 
 
 <div align="left"><figure><img src="../../.gitbook/assets/지갑연결-eng02 (1).png" alt=""><figcaption></figcaption></figure></div>
 
-**4.** Tap the **device name**, then enter the **6-digit Bluetooth password** displayed on your cold wallet screen when prompted.
+**4)** Tap the **device name**, then enter the **6-digit Bluetooth password** displayed on your cold wallet screen when prompted.
 
-**5.** Once you enter the **Bluetooth password** and the connection is complete, the **D'CENT mobile app** will automatically **synchronize** with your **cold wallet**. The app will **automatically start syncing** with the cold wallet, which may take a few seconds.
+**5)** Once you enter the **Bluetooth password** and the connection is complete, the **D'CENT mobile app** will automatically **synchronize** with your **cold wallet**. The app will **automatically start syncing** with the cold wallet, which may take a few seconds.
 
-**6.** When synchronization is complete:
+**6)** When synchronization is complete:
 
 * A **connection indicator** will appear in the **top** of the **mobile app**.
 * A **blue Bluetooth connection light** will stay turned on in the **top right corner** of the **cold wallet**.

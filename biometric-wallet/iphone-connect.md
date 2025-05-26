@@ -20,11 +20,11 @@ If you are launching the mobile app for the first time, you will need to configu
 
 <div align="left"><figure><img src="../.gitbook/assets/초기설정-eng.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-Wallet mode can also be changed from the Settings tab on the bottom menu of D'CENT App. If you are using the Biometric hardware wallet, you must set the wallet mode on the D'CENT App to the Biometric Wallet mode.&#x20;
+Wallet mode can also be changed from the Settings tab on the bottom menu of D'CENT App. If you are using a **biometric cold wallet**, make sure to set the wallet mode to **"Biometric"** in the mobile app.
 
 {% hint style="info" %}
 **How to change wallet mode**\
-**Settings tab > Switch Wallet mode > Biometric Wallet**&#x20;
+**Settings tab > Switch Wallet mode > Biometric**
 {% endhint %}
 
 ### Register password for Mobile App
@@ -53,15 +53,15 @@ To use the **cold wallet** with the **mobile app**, **Bluetooth pairing** is req
 
 <div align="left"><figure><img src="../.gitbook/assets/콜드월렛-eng01.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-**1. Turn on the cold wallet**, authenticate using your **fingerprint or PIN**, then navigate to the **"Settings"** menu and press **OK**.
+**1) Turn on the cold wallet**, authenticate using your **fingerprint or PIN**, then navigate to the **"Settings"** menu and press **OK**.
 
-**2. Select the "Bluetooth" menu** and press **OK**.
+**2) Select the "Bluetooth" menu** and press **OK**.
 
 <div align="left"><figure><img src="../.gitbook/assets/콜드월렛-eng02.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-**3.** Choose **"iOS"** menu and press **OK**.
+**3)** Choose **"iOS"** menu and press **OK**.
 
-**4.** On the **cold wallet screen**, the message **"Connecting..."** will be displayed along with the **Device ID.** The **D'CENT Device ID** is displayed in the format **D'CENT-iD-\<numbers or letters>**.
+**4)** On the **cold wallet screen**, the message **"Connecting..."** will be displayed along with the **Device ID.** The **D'CENT Device ID** is displayed in the format **D'CENT-iD-\<numbers or letters>**.
 
 Once the cold wallet enters **pairing mode**, you can connect it to your phone via **Bluetooth**.
 
