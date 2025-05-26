@@ -66,14 +66,14 @@ After setting up your cold wallet, you can change the PIN value from the [Settin
 
 ### Register Fingerprint
 
-1\) To register your fingerprint, touch your finger on the sensor to scan.
+**1)** To register your fingerprint, touch your finger on the sensor to scan.
 
 <div align="left"><img src="../../.gitbook/assets/image (55).png" alt=""></div>
 
 Fingerprint sensor is located in the middle of where the navigational buttons are located. \
 Check the location of [fingerprint sensor](../setting-up.md#before-start).
 
-2\) Slightly change the angular positioning of the same finger when scanning and repeat until 100% (8 correct scans) is reached.
+**2)** Slightly change the angular positioning of the same finger when scanning and repeat until 100% (8 correct scans) is reached.
 
 <div align="left"><img src="../../.gitbook/assets/image (111).png" alt=""></div>
 
@@ -93,7 +93,7 @@ Scan your fingerprint one last time to verify registered fingerprint.
 
 ## Step-3 : enter the recovery words <a href="#id-3" id="id-3"></a>
 
-1\) Enter the 24 recovery words recorded on the recovery card, numbered 1 through 24.
+**1)** Enter the 24 recovery words recorded on the recovery card, numbered 1 through 24.
 
 <div align="left"><img src="../../.gitbook/assets/image (181).png" alt=""></div>
 
@@ -101,15 +101,15 @@ Scan your fingerprint one last time to verify registered fingerprint.
 
 
 
-2\) Press the Down (∨) button to review whether the 24 recovery words were entered correctly in order.
+**2)** Press the Down (∨) button to review whether the 24 recovery words were entered correctly in order.
 
 <div align="left"><img src="../../.gitbook/assets/image (205).png" alt=""></div>
 
-3\) If all words are entered correctly, select "I am ready" at the bottom of the review menu.
+**3)** If all words are entered correctly, select "I am ready" at the bottom of the review menu.
 
 <div align="left"><img src="../../.gitbook/assets/image (105).png" alt=""></div>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Do not take a photo or save the recovery word or recovery card as an image. The user is responsible for handling the recovery word safely.&#x20;
 
 D'CENT is not responsible for any damage or loss of cryptocurrency assets caused by the user's negligence, such as theft of recovery cards or storage of image files.&#x20;

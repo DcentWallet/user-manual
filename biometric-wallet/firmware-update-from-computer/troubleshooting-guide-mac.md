@@ -22,12 +22,12 @@ From the bootloader mode, you can try updating the firmware to recover your Biom
 
 In rare cases, Mac OS system fails to recognize the D’CENT wallet even though it was recognized before. This issue can be solved by checking the following in the system's settings.
 
-&#x20;1\) Go to About This Mac --> Overview --> System Report\
-Look under Hardware --> USB --> See if D'CENT is shown as in the picture below
+**1)** Go to About This Mac > Overview > System Report\
+Look under Hardware > USB > See if D'CENT is shown as in the picture below
 
-![](<../../.gitbook/assets/fw-update-mac-os\_01 (1).png>)
+![](<../../.gitbook/assets/fw-update-mac-os_01 (1).png>)
 
-2\) Go to System Preferences --> Security & Privacy\
+**2)** Go to System Preferences > Security & Privacy\
 Check to see that System Events box is ticked on for the D'CENT Bridge
 
-![](../../.gitbook/assets/fw-update-mac-os\_02.png)
+![](../../.gitbook/assets/fw-update-mac-os_02.png)

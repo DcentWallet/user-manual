@@ -95,27 +95,27 @@ In the **Taskbar**, there should be a **D'CENT Bridge icon**, make sure to check
 
 ### Connect Biometric Wallet to your computer
 
-1\) Connect the computer and the Biometric Wallet using the USB cable&#x20;
+**1)** Connect the computer and the Biometric Wallet using the USB cable&#x20;
 
-2\) Authenticate with fingerprint or PIN to unlock your Biometric Wallet
+**2)** Authenticate with fingerprint or PIN to unlock your Biometric Wallet
 
-3\) After connecting, the firmware update page automatically detects your Biometric Wallet.
+**3)** After connecting, the firmware update page automatically detects your Biometric Wallet.
 
 <div align="left"><img src="../../.gitbook/assets/PC업데이트-eng04 (1).png" alt=""></div>
 
-4\) If the biometric wallet is not connected properly, the screen below will appear. After checking each item according to the instructions, click the **"Confirm"** button.
+**4)** If the biometric wallet is not connected properly, the screen below will appear. After checking each item according to the instructions, click the **"Confirm"** button.
 
 <figure><img src="../../.gitbook/assets/PC업데이트-eng05 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Check firmware version
 
-1\) Check if the connected Biometric Wallet has the latest version. If it is not the latest version, the following screen appears.
+**1)** Check if the connected Biometric Wallet has the latest version. If it is not the latest version, the following screen appears.
 
 <div align="left"><img src="../../.gitbook/assets/PC업데이트-eng06 (1).png" alt=""></div>
 
-2\) Press **"Start"** button.
+**2)** Press **"Start"** button.
 
-3\) Biometric Wallet is automatically rebooting into bootloader mode.
+**3)** Biometric Wallet is automatically rebooting into bootloader mode.
 
 <div align="left"><img src="../../.gitbook/assets/PC업데이트-eng07 (1).png" alt=""></div>
 
@@ -123,7 +123,7 @@ When entering bootloader mode, the following screen appears on the display of th
 
 <div align="left"><img src="../../.gitbook/assets/업데이트-eng01.png" alt="" width="210"></div>
 
-4\) Click the **"Update"** button.
+**4)** Click the **"Update"** button.
 
 <figure><img src="../../.gitbook/assets/PC업데이트-eng08 (1).png" alt=""><figcaption></figcaption></figure>
 

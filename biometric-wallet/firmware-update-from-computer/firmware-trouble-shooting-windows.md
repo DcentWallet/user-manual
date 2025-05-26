@@ -60,7 +60,7 @@ Right Mouse Click on this device and select **Properties**.
 
 * From the USB Input Device Properties window, select **Details**.
 * Under Property, choose **Hardware Ids**.
-* Correct device ID for D'CENT is **PID\_2130** or **PID\_2131, PID\_2141**.
+* Correct device ID for D'CENT is **PID\_2130,** **PID\_2131 or PID\_2141**.
 
 From the **Device Manager**, Right Mouse Click on the error marked device and select **Uninstall device**.
 

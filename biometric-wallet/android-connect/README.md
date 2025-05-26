@@ -2,7 +2,7 @@
 
 ## Mobile App Download <a href="#download-app" id="download-app"></a>
 
-You can download the D'CENT Mobile App by clicking on this [link](https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet).
+You can download the D'CENT Mobile App by clicking on this [**link**](https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet).
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (270).png" alt="" width="278"><figcaption></figcaption></figure></div>
 
@@ -30,7 +30,7 @@ To protect your **D'CENT mobile app**, you must set a **6-digit password**. This
 <div align="left"><figure><img src="../../.gitbook/assets/2 (7).jpg" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-You can change your **app password** later through the app [**Settings** menu](../../mobile-app/mobile-app-setting-menu/).
+You can change your **app password** later through the app [**Settings menu**](../../mobile-app/mobile-app-setting-menu/)**.**
 
 In addition to the app password, you can also **enable fingerprint recognition** for added security.
 {% endhint %}

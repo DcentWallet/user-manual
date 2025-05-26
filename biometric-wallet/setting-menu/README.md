@@ -4,15 +4,15 @@
 
 This menu is for connecting Biometric Wallet via Bluetooth with Android phone or iOS phone.&#x20;
 
-For connecting Bluetooth for Android, more information can be found [here](../android-connect/).\
+For connecting Bluetooth for Android, more information can be found [**here**](../android-connect/).\
 \
-For connecting Bluetooth for iOS, more information can be found [here](../iphone-connect.md).&#x20;
+For connecting Bluetooth for iOS, more information can be found [**here**](../iphone-connect.md).&#x20;
 
 ## Security Menu
 
 ### Change PIN
 
-The (4 to 8 digits) PIN is used for authentication if fingerprint authentication fails, and your PIN is also required when adding or deleting fingerprint data. You can change your PIN by entering the old PIN and entering the new PIN twice. Carefully choose your PIN and remember them. For instructions on how to change PIN, please refer [here](https://userguide.dcentwallet.com/biometric-wallet/setting-up#register-a-new-pin-4-to-8-digits).&#x20;
+The (4 to 8 digits) PIN is used for authentication if fingerprint authentication fails, and your PIN is also required when adding or deleting fingerprint data. You can change your PIN by entering the old PIN and entering the new PIN twice. Carefully choose your PIN and remember them. For instructions on how to change PIN, please refer [**here**](https://userguide.dcentwallet.com/biometric-wallet/setting-up#register-a-new-pin-4-to-8-digits).&#x20;
 
 ### Enroll Finger
 
