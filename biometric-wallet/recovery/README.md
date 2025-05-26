@@ -24,13 +24,13 @@ To power on the device, press and hold the power button for 3 seconds, which is 
 
 ### Select Language
 
-Use ∧(U&#x70;**)** or ∨(Dow&#x6E;**)** button to select your language and press **OK** button.
+Use Up(∧) or Down(∨) button to select your language and press **OK** button.
 
 <div align="left"><img src="../../.gitbook/assets/image (2).png" alt=""></div>
 
 ### Select "Recover Wallet"
 
-To recover wallet, select "Recover Wallet" from the menu.
+To recover wallet, select **"Recover Wallet"** from the menu.
 
 <div align="left"><img src="../../.gitbook/assets/image (59).png" alt=""></div>
 
@@ -40,17 +40,17 @@ To protect accessing your wallet, register a new PIN and your fingerprint.
 
 ### Register a new PIN (4 to 8 digits)
 
-Use **∧**(Up, increase number value) or **∨**(Down, decrease number value) button to input your PIN. Pressing the OK button on the hardware wallet will confirm the input.
+Use Up(∧, increase number value) or Down(∨, decrease number value) button to input your PIN. Pressing the OK button on the hardware wallet will confirm the input.
 
 ![](<../../.gitbook/assets/1 (3).png>)
 
-When you have entered 4 digits, you will see '**OK'** text on the screen. If you wish to set your PIN to 4-digits long, then press the OK button on the hardware wallet.&#x20;
+When you have entered 4 digits, you will see **"OK"** text on the screen. If you wish to set your PIN to 4-digits long, then press the OK button on the cold wallet.&#x20;
 
-If you wish to set the PIN to a longer digit, you can change the ('**OK**' text) value on the screen by pressing the Up or Down button. **Your PIN can be set to 4, 5, 6, 7, or 8 digits long**.   &#x20;
+If you wish to set the PIN to a longer digit, you can change the (**"OK"** text) value on the screen by pressing the Up(∧) or Down(∨) button. **Your PIN can be set to 4, 5, 6, 7, or 8 digits long**.   &#x20;
 
 ![](<../../.gitbook/assets/2 (4).png>)
 
-If you ever see a screen with a warning on '**Security level is low**', this means the PIN you have entered is a weak password. If you wish to use such a PIN, press the 'OK' button on the hardware wallet to continue.&#x20;
+If you ever see a screen with a warning on **"Security level is low",** this means the PIN you have entered is a weak password. If you wish to use such a PIN, press the "OK" button on the cold wallet to continue.&#x20;
 
 ### Verify your &#xD;PIN
 
@@ -97,6 +97,10 @@ Scan your fingerprint one last time to verify registered fingerprint.
 
 <div align="left"><img src="../../.gitbook/assets/image (181).png" alt=""></div>
 
+※ How to input : Use the Up(∧)/Down(∨) buttons - ∧(increase value from a to z) or ∨(decrease value z to a)
+
+
+
 2\) Press the Down (∨) button to review whether the 24 recovery words were entered correctly in order.
 
 <div align="left"><img src="../../.gitbook/assets/image (205).png" alt=""></div>
@@ -119,8 +123,7 @@ Special care is required for safe storage (away from fire, water, sunlight or pe
 
 After completing the wallet recovery, connect your hardware wallet to the D'CENT mobile application to synchronize. **You need to re-add all the cryptocurrency accounts that you have created in the past.** (Try to keep a list of the accounts that you have created, so that you can easily re-add them after the wallet recovery).
 
-* [How to connect with Android phone](../android-connect/)\
-
+* [How to connect with Android phone](../android-connect/)
 * [How to connect with iOS phone](../iphone-connect.md)
 
 {% hint style="info" %}
