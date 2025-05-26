@@ -12,7 +12,7 @@ Firmware update can be done from the PC or Mac.
 
 ## Before you update the firmware
 
-{% hint style="info" %}
+{% hint style="danger" %}
 **Make sure you have your Mnemonic Code (24 seeds/words) for recovery**
 {% endhint %}
 
@@ -22,7 +22,7 @@ Unlike other products, your wallet will still remain safely intact inside the se
 \
 (Keep your recovery card secured and ready just in case your Biometric Wallet is no longer accessible, possibly due to "brick"ed device or something that went wrong during the update process.)  &#x20;
 
-{% hint style="info" %}
+{% hint style="warning" %}
 **After you update the firmware, you cannot roll-back to the previous version**
 {% endhint %}
 

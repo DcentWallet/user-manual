@@ -59,13 +59,13 @@ If you prefer **not to use Bluetooth**, you can also connect your **cold wallet 
 
 <div align="left"><figure><img src="../../.gitbook/assets/그림1 (9).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-**1) Turn on the cold wallet**, authenticate using your **fingerprint or PIN**, then navigate to the **"Settings"** menu and press **OK**.
+**1) Turn on the cold wallet**, authenticate using your **fingerprint or PIN**, then navigate to the **"Settings"** menu and press **"OK"** button.
 
-**2) Select the "Bluetooth" menu** and press **OK**.
+**2) Select the "Bluetooth" menu** and press  **"OK"** button.
 
 <div align="left"><figure><img src="../../.gitbook/assets/그림2 (10).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-**3)** Choose "**Android**" menu and press **OK**.
+**3)** Choose **"Android**" menu and press  **"OK"** button.
 
 **4)** On the **cold wallet screen**, the message **"Connecting..."** will be displayed along with the **Device ID** and **Bluetooth password**.
 

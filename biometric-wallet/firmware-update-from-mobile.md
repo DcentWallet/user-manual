@@ -61,7 +61,7 @@ When the Biometric Wallet is connected with Android phone using the OTG device, 
 
 <div align="left"><figure><img src="../.gitbook/assets/2 (11).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-From the Settings Tab, click on **Firmware Update**.
+From the Settings Tab, click on **"Firmware Update"**.
 
 <div align="left"><figure><img src="../.gitbook/assets/3 (8).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 

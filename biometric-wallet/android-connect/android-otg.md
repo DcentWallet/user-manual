@@ -8,7 +8,7 @@ If you are using the OTG cable to connect, it is recommended to disable the Blue
 
 ## What is an OTG cable? <a href="#otg" id="otg"></a>
 
-OTG stands for **'On-The-Go'** and refers to cable or adapter device that allow USB devices to connect to Android phones. Typically, one side connects to the mobile phone's charging port, while the other side is a standard USB port (USB Type A). Just connect the OTG cable to your Android phone.
+OTG stands for **"On-The-Go"** and refers to cable or adapter device that allow USB devices to connect to Android phones. Typically, one side connects to the mobile phone's charging port, while the other side is a standard USB port (USB Type A). Just connect the OTG cable to your Android phone.
 
 <div align="left"><img src="../../.gitbook/assets/image (88).png" alt="Example of OTG cable"></div>
 

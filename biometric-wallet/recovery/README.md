@@ -20,11 +20,15 @@ To perform wallet recovery, you must first [reset the Biometric Wallet through "
 
 ### Power on D'CENT Biometric Wallet
 
-To power on the device, press and hold the power button for 3 seconds, which is located on the right-side.
+To power on the device, press and hold the **"Power"** button for 3 seconds, which is located on the right-side.
+
+{% hint style="info" %}
+If the cold wallet does not power on, **please charge its battery using the USB cable** you have, and then turn it on.
+{% endhint %}
 
 ### Select Language
 
-Use Up(∧) or Down(∨) button to select your language and press **OK** button.
+Use **"Up(∧) or Down(∨)"** button to select your language and press **"OK"** button.
 
 <div align="left"><img src="../../.gitbook/assets/image (2).png" alt=""></div>
 
@@ -40,17 +44,17 @@ To protect accessing your wallet, register a new PIN and your fingerprint.
 
 ### Register a new PIN (4 to 8 digits)
 
-Use Up(∧, increase number value) or Down(∨, decrease number value) button to input your PIN. Pressing the OK button on the hardware wallet will confirm the input.
+Use **Up(∧, increase number value)** or **Down(∨, decrease number value)** button to input your PIN. Pressing the **"OK"** button on the cold wallet will confirm the input.
 
 ![](<../../.gitbook/assets/1 (3).png>)
 
-When you have entered 4 digits, you will see **"OK"** text on the screen. If you wish to set your PIN to 4-digits long, then press the OK button on the cold wallet.&#x20;
+When you have entered 4 digits, you will see **"OK"** text on the screen. If you wish to set your PIN to 4-digits long, then press the **"OK"** button on the hardware wallet.
 
-If you wish to set the PIN to a longer digit, you can change the (**"OK"** text) value on the screen by pressing the Up(∧) or Down(∨) button. **Your PIN can be set to 4, 5, 6, 7, or 8 digits long**.   &#x20;
+If you wish to set the PIN to a longer digit, you can change the (**"OK"** text) value on the screen by pressing the **"Up(∧) or Down(∨)"** button. **Your PIN can be set to 4, 5, 6, 7, or 8 digits long**.
 
 ![](<../../.gitbook/assets/2 (4).png>)
 
-If you ever see a screen with a warning on **"Security level is low",** this means the PIN you have entered is a weak password. If you wish to use such a PIN, press the "OK" button on the cold wallet to continue.&#x20;
+If you register a 4-digit PIN, you will see a **"Security level is low"** warning on the screen. If you wish to use such a PIN, press the **"OK"** button on the cold wallet to continue.
 
 ### Verify your &#xD;PIN
 
@@ -61,7 +65,7 @@ Re-enter the same PIN you have set in the previous step to verify for correctnes
 &#x20;※ If the PIN numbers do not match, you will have to restart the PIN registration.
 
 {% hint style="info" %}
-After setting up your cold wallet, you can change the PIN value from the [Setting](../setting-menu/) menu.
+After setting up your cold wallet, you can change the PIN value from the [**Setting**](../setting-menu/) menu.
 {% endhint %}
 
 ### Register Fingerprint
@@ -71,7 +75,7 @@ After setting up your cold wallet, you can change the PIN value from the [Settin
 <div align="left"><img src="../../.gitbook/assets/image (55).png" alt=""></div>
 
 Fingerprint sensor is located in the middle of where the navigational buttons are located. \
-Check the location of [fingerprint sensor](../setting-up.md#before-start).
+Check the location of [**fingerprint sensor**](../setting-up.md#before-start).
 
 **2)** Slightly change the angular positioning of the same finger when scanning and repeat until 100% (8 correct scans) is reached.
 
@@ -87,7 +91,7 @@ Scan your fingerprint one last time to verify registered fingerprint.
 
 ※ If re-registering fingerprint, try using a different finger instead.
 
-※ If unable to register your fingerprint for any reason, you will be given an option to skip the fingerprint registration. Fingerprint can be registered from the [Setting](../setting-menu/) menu at a later time.
+※ If unable to register your fingerprint for any reason, you will be given an option to skip the fingerprint registration. Fingerprint can be registered from the [**Setting**](../setting-menu/) menu at a later time.
 
 ※ If fingerprint verification fails, your fingerprint will not be saved.
 
@@ -97,24 +101,24 @@ Scan your fingerprint one last time to verify registered fingerprint.
 
 <div align="left"><img src="../../.gitbook/assets/image (181).png" alt=""></div>
 
-※ How to input : Use the Up(∧)/Down(∨) buttons - ∧(increase value from a to z) or ∨(decrease value z to a)
+※ How to input : Use the **"Up(∧)/Down(∨)"** buttons - **∧(increase value from a to z)** or **∨(decrease value z to a)**
 
 
 
-**2)** Press the Down (∨) button to review whether the 24 recovery words were entered correctly in order.
+**2)** Press the **"Down(∨)"** button to review whether the 24 recovery words were entered correctly in order.
 
 <div align="left"><img src="../../.gitbook/assets/image (205).png" alt=""></div>
 
-**3)** If all words are entered correctly, select "I am ready" at the bottom of the review menu.
+**3)** If all words are entered correctly, select **"I am ready"** at the bottom of the review menu.
 
 <div align="left"><img src="../../.gitbook/assets/image (105).png" alt=""></div>
 
 {% hint style="warning" %}
-Do not take a photo or save the recovery word or recovery card as an image. The user is responsible for handling the recovery word safely.&#x20;
+**Do not take a photo or save the recovery word or recovery card as an image.** The user is responsible for handling the recovery word safely.&#x20;
 
 D'CENT is not responsible for any damage or loss of cryptocurrency assets caused by the user's negligence, such as theft of recovery cards or storage of image files.&#x20;
 
-Special care is required for safe storage (away from fire, water, sunlight or pets).
+**Special care is required for safe storage (away from fire, water, sunlight or pets).**
 {% endhint %}
 
 ## Step-4 : Completing the Wallet Recovery
@@ -123,11 +127,11 @@ Special care is required for safe storage (away from fire, water, sunlight or pe
 
 After completing the wallet recovery, connect your hardware wallet to the D'CENT mobile application to synchronize. **You need to re-add all the cryptocurrency accounts that you have created in the past.** (Try to keep a list of the accounts that you have created, so that you can easily re-add them after the wallet recovery).
 
-* [How to connect with Android phone](../android-connect/)
-* [How to connect with iOS phone](../iphone-connect.md)
+* [**How to connect with Android phone**](../android-connect/)
+* [**How to connect with iOS phone**](../iphone-connect.md)
 
 {% hint style="info" %}
-You can find the complete list of cryptocurrency assets supported on D'CENT Biometric Wallet from [https://www.dcentwallet.com/en/supportedcoin](https://www.dcentwallet.com/en/supportedcoin)
+You can find the complete list of cryptocurrency assets supported on D'CENT Biometric Wallet from [**https://www.dcentwallet.com/en/supportedcoin**](https://www.dcentwallet.com/en/supportedcoin)
 {% endhint %}
 
 ### Important notes after recovering your wallet
@@ -140,4 +144,4 @@ You can find the complete list of cryptocurrency assets supported on D'CENT Biom
 
 Once you have completed the Initial Setup, make sure to visit D'CENT Wallet homepage and check for the latest firmware available. Newer version of firmware may include additional support for cryptocurrency assets and new wallet features.
 
-More information on firmware update can be found from [here](../firmware-update-from-computer/).
+More information on firmware update can be found from [**here**](../firmware-update-from-computer/).

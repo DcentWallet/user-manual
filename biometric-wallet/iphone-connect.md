@@ -2,13 +2,13 @@
 
 ## Mobile App Download
 
-Click to [install](https://apps.apple.com/kr/app/dcent-hardware-wallet/id1447206611) D'CENT mobile app.
+Click to [**install**](https://apps.apple.com/kr/app/dcent-hardware-wallet/id1447206611) D'CENT mobile app.
 
 ### Install by searching from the App store
 
 You can also search from the App store to install D'CENT mobile app.
 
-Search for "**D'CENT wallet**" from the App store.
+Search for **"D'CENT wallet**" from the App store.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (261).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -34,7 +34,7 @@ Register mobile app password for access protection. To set the password, enter t
 <div align="left"><figure><img src="../.gitbook/assets/2 (9).jpg" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-Mobile App password can be changed from the [App "Setting" menu](../mobile-app/mobile-app-setting-menu/) at any time. Instead of password, you can also use biometric authentication to protect access to your wallet if your mobile phone supports the feature.
+Mobile App password can be changed from the [**App "Setting" menu**](../mobile-app/mobile-app-setting-menu/) at any time. Instead of password, you can also use biometric authentication to protect access to your wallet if your mobile phone supports the feature.
 {% endhint %}
 
 ### **Mobile App Permission Settings** <a href="#mobile-app-permission-settings" id="mobile-app-permission-settings"></a>
@@ -53,13 +53,13 @@ To use the **cold wallet** with the **mobile app**, **Bluetooth pairing** is req
 
 <div align="left"><figure><img src="../.gitbook/assets/콜드월렛-eng01.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-**1) Turn on the cold wallet**, authenticate using your **fingerprint or PIN**, then navigate to the **"Settings"** menu and press **OK**.
+**1) Turn on the cold wallet**, authenticate using your **fingerprint or PIN**, then navigate to the **"Settings"** menu and press  **"OK"** button.
 
-**2) Select the "Bluetooth" menu** and press **OK**.
+**2) Select the "Bluetooth" menu** and press  **"OK"** button.
 
 <div align="left"><figure><img src="../.gitbook/assets/콜드월렛-eng02.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-**3)** Choose **"iOS"** menu and press **OK**.
+**3)** Choose **"iOS"** menu and press  **"OK"** button.
 
 **4)** On the **cold wallet screen**, the message **"Connecting..."** will be displayed along with the **Device ID.** The **D'CENT Device ID** is displayed in the format **D'CENT-iD-\<numbers or letters>**.
 

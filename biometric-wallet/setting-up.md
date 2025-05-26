@@ -24,7 +24,7 @@ D'CENT Biometric Wallet is equipped with 4-buttons for navigation.
 
 ### Power on D'CENT Biometric Wallet
 
-To power on the device, press and hold the power button for 3 seconds, which is located on the right-side.
+To power on the device, press and hold the **"Power"** button for 3 seconds, which is located on the right-side.
 
 {% hint style="info" %}
 If the cold wallet does not power on, **please charge its battery using the USB cable** you have, and then turn it on.
@@ -60,7 +60,7 @@ To protect accessing your wallet, register a new PIN and your fingerprint. \
 
 ### Register a new PIN (4 to 8 digits)
 
-Use **Up(∧, increase number value)** or **Down(∨, decrease number value)** button to input your PIN. Pressing the **"OK"** button on the cold wallet will confirm the input.
+Use **"Up(∧, increase number value)"** or **"Down(∨, decrease number value)"** button to input your PIN. Pressing the **"OK"** button on the cold wallet will confirm the input.
 
 ![](<../.gitbook/assets/1 (3).png>)
 
@@ -150,7 +150,7 @@ When writing down the recovery words, **make sure to check that the spelling is 
 {% hint style="warning" %}
 **Do not take pictures or save images of your recovery words or recovery cards**. You are responsible for securely handling your recovery words. D'CENT is not liable for any damage or loss of crypto assets resulting from user negligence, such as the theft of recovery cards or the storage of image files.&#x20;
 
-Special care must be taken to ensure safe storage (away from fire, water, sunlight or pets).
+**Special care must be taken to ensure safe storage (away from fire, water, sunlight or pets).**
 {% endhint %}
 
 ### Recovery Seeds Verification
@@ -185,7 +185,7 @@ Congratulation, you have passed the quiz and your new wallet is created. From yo
 * [**How to connect with iOS phone**](iphone-connect.md)
 
 {% hint style="info" %}
-You can find the complete list of cryptocurrency assets supported on D'CENT Biometric Wallet from [https://www.dcentwallet.com/en/supportedcoin](https://www.dcentwallet.com/en/supportedcoin)
+You can find the complete list of cryptocurrency assets supported on D'CENT Biometric Wallet from [**https://www.dcentwallet.com/en/supportedcoin**](https://www.dcentwallet.com/en/supportedcoin)
 {% endhint %}
 
 ### Check for the latest Firmware
