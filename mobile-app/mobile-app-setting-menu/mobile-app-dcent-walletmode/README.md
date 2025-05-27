@@ -10,9 +10,7 @@ D'CENT mobile app manages each account information from each wallet mode separat
 
 <div align="left"><figure><img src="../../../.gitbook/assets/1 (21).jpg" alt="" width="376"><figcaption></figcaption></figure></div>
 
-For each wallet mode, the "My Wallet" tab screen and the "Settings" tab screen are as shown in the images below
-
-
+For each wallet mode, the **"My Wallet"** tab screen and the **"Settings"** tab screen are as shown in the images below
 
 <div align="left"><figure><img src="../../../.gitbook/assets/2.jpg" alt=""><figcaption></figcaption></figure></div>
 

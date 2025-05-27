@@ -18,10 +18,8 @@ Mobile Firmware update via OTG cable is only available on the Andorid phones.
 
 ## Check Device Information
 
-Select the **"D'CENT Manager Menu"** and press the **"Device Info"** menu to check the device information of the Biometric Wallet.
+Select the **"D'CENT Manager" Menu** and press the **"Device Info"** menu to check the device information of the Biometric Wallet.
 
 And You can change the device name displayed when booting the Biometric Wallet
-
-
 
 <div align="left"><figure><img src="../../../.gitbook/assets/3 (17).jpg" alt=""><figcaption></figcaption></figure></div>

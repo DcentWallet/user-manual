@@ -4,11 +4,7 @@ description: D'CENT Mobile App Setting
 
 # Mobile App "Settings" menu
 
-You can change various settings of the mobile app from the "Settings" menu.
-
-{% hint style="info" %}
-"Manager" tab has been moved to the "Settings" tab starting from mobile app version 6.0.0 or higher.
-{% endhint %}
+You can change various settings of the mobile app from the **"Settings"** menu.
 
 <div align="left"><figure><img src="../../.gitbook/assets/1 (20).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -17,8 +13,6 @@ You can change various settings of the mobile app from the "Settings" menu.
 You can switch the wallet mode depending on the wallet you are using.
 
 You can switch the wallet mode by selecting one of **“Biometric”**, **“Card”**, and **“App Wallet(software)”**, and when the wallet mode is switched, the corresponding account information for the mode is retrieved.
-
-
 
 <div align="left"><figure><img src="../../.gitbook/assets/2 (24).jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -32,11 +26,13 @@ Please refer to the link below for information on how to switch wallet mode and 
 
 You can change the language of the D'CENT mobile app. Supports the following languages:
 
-* English
-* Korean
-* Japanese
+* **English**
+* **Korean**
+* **Japanese**
+* **Spanish**
+* **Portuguese (Brazil)**
 
-<div align="left"><figure><img src="../../.gitbook/assets/3 (16).jpg" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Language_setting(eng).png" alt=""><figcaption></figcaption></figure></div>
 
 ## Local Currency
 
@@ -53,17 +49,14 @@ You can change the 6-digit password of the D'CENT mobile app.
 
 The 6-digit password for the mobile app is the password you registered when initially setting up the app.
 
-
-
 <div align="left"><figure><img src="../../.gitbook/assets/5 (7).jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## Set additional authentication methods for mobile app
 
-In addition to the 6-digit password, you can also select another method of authenticating to the mobile app. \
-\
-For Android phones, fingerprint authentication can be set as a method of authentication. \
-\
-For iPhones, Touch ID or FaceID can be set as a method of authentication.
+In addition to the 6-digit password, you can also select another method of authenticating to the mobile app.&#x20;
+
+* For Android phones, fingerprint authentication can be set as a method of authentication.&#x20;
+* For iPhones, Touch ID or FaceID can be set as a method of authentication.
 
 <div align="left"><figure><img src="../../.gitbook/assets/6.jpg" alt=""><figcaption></figcaption></figure></div>
 

@@ -10,21 +10,19 @@ To change your current PIN to a new PIN, press the **"Change Card PIN"** button 
 
 **Please proceed in the following order.**\
 \
-1\) Enter your current card PIN number&#x20;
+**1)** Enter your current card PIN number&#x20;
 
-2\) Tag the Card Wallet on your mobile phone
+**2)** Tag the Card Wallet on your mobile phone
 
-3\) Enter a new PIN number&#x20;
+**3)** Enter a new PIN number&#x20;
 
-4\) Enter the new PIN number once more&#x20;
-
-5\) Tag the Card Wallet on your mobile phone to change PIN
-
-6\) Now the PIN number change has been completed.
-
-
+**4)** Enter the new PIN number once more&#x20;
 
 <div align="left"><figure><img src="../../../.gitbook/assets/2 (27).jpg" alt=""><figcaption></figcaption></figure></div>
+
+**5)** Tag the Card Wallet on your mobile phone to change PIN
+
+**6)** Now the PIN number change has been completed.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/3 (18).jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -40,16 +38,12 @@ Be sure to create a backup image in case the Card Wallet is lost or damaged, or 
 
 Click [**here**](https://userguide.dcentwallet.com/card-wallet/dcent-backup-card-wallet-recovery) for more information how to backup and recover Card Wallet.
 
-
-
 <div align="left"><figure><img src="../../../.gitbook/assets/4 (11).jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## Scan new card
 
 You can change the Card Wallet you want to use through the **"Scan new card"** menu.
 
-Click the "Scan new card" menu and tag the another Card Wallet.
-
-
+Click the **"Scan new card"** menu and tag the another Card Wallet.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/5 (8).jpg" alt=""><figcaption></figcaption></figure></div>
