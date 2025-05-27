@@ -10,14 +10,10 @@ One of the key conveniences of the D'CENT All-in-One Wallet is its unique backup
 
 The Backup Card is a hardware wallet with no data inside the secure chipset and it is used for creating the exact same clone of your All-in-One Wallet.  &#x20;
 
-<div align="left">
-
-<img src="../../.gitbook/assets/backupcard01_en.png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/backupcard01_en.png" alt=""></div>
 
 {% hint style="danger" %}
-You <mark style="color:red;">**MUST**</mark> create a backup copy of the All-in-One Wallet before an unfortunate situation happens such as the hardware wallet being stolen, lost, damaged, or card getting blocked. In any one of these situations, all cryptocurrency assets will be lost forever if you did not create a backup copy of the All-in-One wallet.
+**You&#x20;**<mark style="color:red;">**MUST**</mark>**&#x20;create a backup copy of the All-in-One Wallet before an unfortunate situation happens such as the All-in-One Wallet being stolen, lost, damaged, or card getting blocked.** In any one of these situations, all cryptocurrency assets will be lost forever if you did not create a backup copy of the All-in-One wallet.
 {% endhint %}
 
 <mark style="background-color:green;">**Buy a D'CENT Backup Card  👇👇👇**</mark>

@@ -52,9 +52,9 @@ You can find more information about using the Discovery Tab from the link below.
 
 While using the All-in-One Wallet, you will be asked to enter the PIN of the hardware wallet for the following occasions:&#x20;
 
-1\) When signing the transaction
+**1)** When signing the transaction
 
-2\) When changing the current PIN to a new PIN
+**2)** When changing the current PIN to a new PIN
 
 <div align="left"><figure><img src="../../.gitbook/assets/PIN-eng.png" alt=""><figcaption></figcaption></figure></div>
 
