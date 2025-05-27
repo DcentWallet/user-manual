@@ -30,12 +30,12 @@ To download the D'CENT mobile app for iOS, please click [here](https://apps.appl
 
 <div align="left"><figure><img src="../.gitbook/assets/1 (15).jpg" alt=""><figcaption></figcaption></figure></div>
 
-**My Wallet** : You can view your existing coin accounts or add new ones. You can send and receive coins, check your transaction history, and manage your assets with ease. Additionally, by tapping the NFTs tab, you can view all NFT assets stored in your wallet at a glance.
+**My Wallet** : You can view your existing coin accounts or add new ones. You can send and receive coins, check your transaction history, and manage your assets with ease. Additionally, by tapping the **"NFTs"** tab, you can view all NFT assets stored in your wallet at a glance.
 
-**Insight** : You can check coin prices and current trading trends. Additionally, you can compare the prices of each asset across different platforms. The Insight tab is available on mobile app version 6.0.0 or later.
+**Insight** : You can check coin prices and current trading trends. Additionally, you can compare the prices of each asset across different platforms.
 
 **Swap :** You can trade your desired assets, including cross-network transactions.
 
-**Discovery** : It is a DApp browser that allows access to various Web3 services such as DeFi, DEX, and NFT marketplace. You can easily connect your D'CENT wallet by entering the URL in the search box, doing a Google search, or selecting the desired service from the "list".
+**Discovery** : It is a DApp browser that allows access to various Web3 services such as DeFi, DEX, and NFT marketplace. You can easily connect your D'CENT wallet by entering the URL in the search box, doing a Google search, or selecting the desired service from the **"LIST"**.
 
-**Settings** : Provides the ability to change app settings, such as changing the supported language, local currency, and password of the mobile app. Additionally, you can easily and conveniently change to the desired mode, such as Biometric Wallet, Card type Wallet, or Software Wallet, through “Switch Wallet Mode”.
+**Settings** : Provides the ability to change app settings, such as changing the supported language, local currency, and password of the mobile app. Additionally, you can easily and conveniently change to the desired mode, such as **Biometric, Card**, or **App Wallet**, through **"Switch Wallet Mode".**
