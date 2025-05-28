@@ -31,7 +31,7 @@ By setting it to **"Fast"** and paying more fees, it is likely that the processi
 
 **4)** Check if the transaction details displayed on the screen are correct and click the **"Send"** button.
 
-**5.** Enter the PIN for your Card Wallet
+**5)** Enter the PIN for your Card Wallet
 
 {% hint style="danger" %}
 **If the PIN is not matched, you can try 10 times. If all 10 times trials are over, Card Wallet will be locked and you can never use the Card Wallet. Remember carefully your PIN for Card Wallet.**
