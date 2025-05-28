@@ -14,7 +14,7 @@ Search for the keyword "**D'CENT Wallet**".
 
 To install the mobile app for Android, please click [here](https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet).
 
-<div align="left"><figure><img src="../.gitbook/assets/2 (18).jpg" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/GooglePlay(eng).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### For iOS
 
@@ -24,11 +24,11 @@ Search for the keyword "**D'CENT Wallet**".
 
 To download the D'CENT mobile app for iOS, please click [here](https://apps.apple.com/us/app/dcent-crypto-wallet/id1447206611).
 
-<div align="left"><figure><img src="../.gitbook/assets/File (2) 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/Appstore(eng).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Main features
 
-<div align="left"><figure><img src="../.gitbook/assets/1 (15).jpg" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/Moblie app-eng.png" alt=""><figcaption></figcaption></figure></div>
 
 **My Wallet** : You can view your existing coin accounts or add new ones. You can send and receive coins, check your transaction history, and manage your assets with ease. Additionally, by tapping the **"NFTs"** tab, you can view all NFT assets stored in your wallet at a glance.
 
