@@ -29,9 +29,9 @@ Run the mobile app and you will see your accounts in the My Wallet tab.
 
 ![](<../.gitbook/assets/1 (17).png>)
 
-* From your coin account, click "**Receive**" to view your account address.
+* From your coin account, click **"Receive"** to view your account address.
 * Your account address in QR code can be scanned by the sender's camera.
-* To share the hex address to your sender, use the "**Copy**" or "**Share**" function.&#x20;
+* To share the hex address to your sender, use the **"Copy"** or **"Share"** function.&#x20;
 
 {% hint style="info" %}
 You can just run the mobile app to see the account address.&#x20;
