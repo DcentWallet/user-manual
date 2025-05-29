@@ -18,7 +18,7 @@ For more details of creating an account, click below link.
 
 From your coin account, click **"Receive"** to view your account address.
 
-<div align="left"><img src="../../.gitbook/assets/28.png" alt=""></div>
+<div align="left"><img src="../../.gitbook/assets/28.png" alt="" width="563"></div>
 
 For more details of receiving coin, click below link.
 
@@ -36,7 +36,7 @@ The procedures to send KAIA coin are same as sending general coin. You can see i
 
 ### Set the fee for Kaia
 
-The fee of Kaia is consist of GAS fee and GAS limit. The unit of GAS fee is "Ston" which is one of KAIA's sub unit.
+The fee of Kaia is consist of **"GAS fee"** and **"GAS limit"**. The unit of GAS fee is **"Ston"** which is one of KAIA's sub unit.
 
 **`1 KAIA = 1,000,000,000 ston`**
 

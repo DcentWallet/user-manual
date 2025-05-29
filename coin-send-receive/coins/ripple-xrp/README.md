@@ -4,8 +4,11 @@
 
 If you have added your Ripple (XRP) wallet address for the first time, it is disabled. [Ripple's policy](https://xrpl.org/reserves.html) **requires a purchase or transfer of Ripple of 1 XRP or higher** to convert the Ripple wallet address to an activated state. Therefore, the corresponding 1 XRP will permanently lock-up at the corresponding wallet address.\
 \
-If a permanent lockup is made at the address of the Ripple wallet, it is assumed that only 99 XRP can be transferred, excluding the 1 XRP, which is the permanent lockup amount.\
+If a permanent lockup is made at the address of the Ripple wallet, it is assumed that only 99 XRP can be transferred, excluding the 1 XRP, which is the permanent lockup amount.
 
+{% hint style="warning" %}
+Depending on the exchange services, transferring fund to an inactive XLM account address may be restricted.&#x20;
+{% endhint %}
 
 ## XRP Destination Tag
 

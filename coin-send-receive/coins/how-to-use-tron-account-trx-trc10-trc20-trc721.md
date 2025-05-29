@@ -2,7 +2,7 @@
 
 ## How to create a Tron (TRX) account
 
-If you don't have a Tron account, create a new account. The coin symbol name for Tron is "TRX".
+If you don't have a Tron account, create a new account. The coin symbol name for Tron is **"TRX"**.
 
 For more details on how to create an account, click the link below.
 
@@ -20,14 +20,14 @@ To make your Tron account exist (account creation) on the blockchain, simply sen
 
 ### Tron account activation
 
-To keep your Tron account in the activated state, your Tron account must maintain more than 0.1 TRX in the balance. If the balance in the Tron account falls below 0.1 TRX, the account will become deactivated and will no longer read account information from the Tron blockchain.&#x20;
+**To keep your Tron account in the activated state, your Tron account must maintain more than 0.1 TRX in the balance.** If the balance in the Tron account falls below 0.1 TRX, the account will become deactivated and will no longer read account information from the Tron blockchain.&#x20;
 
 <mark style="color:red;">**Tron account activation fee = 0.1 TRX**</mark>&#x20;
 
-<figure><img src="../../.gitbook/assets/45.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/45.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ## Frequently asked question
 
-**My USDT token (TRC20) in the Tron account does not show up, what do I do?**\
+**Q. My USDT token (TRC20) in the Tron account does not show up, what do I do?**\
 \
-Remember, if the balance of TRX in your Tron account falls below 0.1 TRX, it will become deactivated. Having at least 0.1 TRX will keep your Tron account (including TRC10 and TRC20) in the activated state and will show the account information for Tron (TRX) and token accounts (TRC10 and TRC20).
+A. Remember, if the balance of TRX in your Tron account falls below 0.1 TRX, it will become deactivated. Having at least 0.1 TRX will keep your Tron account (including TRC10 and TRC20) in the activated state and will show the account information for Tron (TRX) and token accounts (TRC10 and TRC20).

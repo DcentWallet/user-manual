@@ -27,25 +27,31 @@ Run the D’CENT Mobile App and authenticate to unlock access.
 
 ![](../../.gitbook/assets/32.png)
 
-**Step 1)** From the Account Tab, press the **(+)** button to add a wallet account.\
-**Step 2)** In the search field, type “**Binance**” to search.\
-**Step 3)** Choose **Binance Smart Chain** from the list shown.&#x20;
+**1)** From the **"My Wallet"** Tab, press the **(+)** button to add a wallet account.
 
-![](<../../.gitbook/assets/33 (1).png>)
+**2)** In the search field, type **"Binance"** to search.
 
-**Step 4)** Press the ‘**Create**’ button to proceed.\
-**Step 5)** In the Account Tab, notice that a new Binance Smart Chain account has been added to the portfolio.
+**3)** Choose **"Binance Smart Chain"** from the list shown.&#x20;
+
+<div align="left"><img src="../../.gitbook/assets/33 (1).png" alt="" width="563"></div>
+
+**4)** Press the **"Create"** button to proceed.
+
+**5)** In the **"My Wallet"** Tab, notice that a new Binance Smart Chain account.
 
 ## How to access Binance Smart Chain Dapps from the native Dapp browser in D’CENT Wallet
 
-You can access Dapp services using the built-in dapp browser found in the ‘Discovery’ Tab.
+You can access Dapp services using the built-in dapp browser found in the **"Discovery"** Tab.
 
 ![](<../../.gitbook/assets/34 (1).png>)
 
-**Step 1)** Go to the ‘**Discovery**’ tab in the bottom menu.\
-**Step 2)** Click on the **Network icon(globe icon)** located in the upper right-hand corner.\
-**Step 3)** Switch the network to ‘**Binance Smart Chain**’.\
-**Step 4)** You can access a dapp service by entering the **URL** in the search field.
+**1)** Go to the **"Discovery"** tab in the bottom menu.
+
+**2)** Click on the **"Network icon(🌐)"** located in the upper right-hand corner.
+
+**3)** Switch the network to **"Binance Smart Chain".**
+
+**4)** You can access a dapp service by entering the **URL** in the search field.
 
 ### **Useful Link: List of Binance Smart Chain Dapp Services**
 
