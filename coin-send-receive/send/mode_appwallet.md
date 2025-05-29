@@ -19,7 +19,7 @@ App Wallet is a software wallet that can be used free of charge without a hardwa
 
 ### Enter the amount to send and set the fee
 
-<div align="left"><img src="../../.gitbook/assets/9 (5).png" alt=""></div>
+<div align="left"><img src="../../.gitbook/assets/9 (5).png" alt="" width="563"></div>
 
 **1)** Enter the number of cryptocurrency you want to send, or enter the amount in local currency.
 
@@ -33,7 +33,7 @@ By setting it to **"Fast"** and paying more fees, it is likely that the processi
 
 ### Final confirmation from your App Wallet
 
-<div align="left"><img src="../../.gitbook/assets/10 (6).png" alt=""></div>
+<div align="left"><img src="../../.gitbook/assets/10 (6).png" alt="" width="563"></div>
 
 **1)** Enter the 6-digit password you've set to protect access to your mobile app. \
 If you have set up additional authentication methods in your mobile app, you can authenticate with fingerprint or Face ID.

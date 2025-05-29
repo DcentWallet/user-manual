@@ -4,9 +4,9 @@
 
 <figure><img src="../../../.gitbook/assets/20 (3).png" alt=""><figcaption></figcaption></figure>
 
-1\) From mobile app, press the “**Send**” button of the Ripple (XRP) account to be used for the transaction.
+**1)** From mobile app, press the **“Send”** button of the Ripple (XRP) account to be used for the transaction.
 
-2\) Enter the wallet address of the other party (receiver) and enter the Destination Tag if you are sending XRP to an address that is created by an Exchange.
+**2)** Enter the wallet address of the other party (receiver) and enter the **Destination Tag** if you are sending XRP to an address that is created by an Exchange.
 
 {% hint style="warning" %}
 **When sending XRP to an address that exists on the Exchange, you MUST enter the Destination Tag to complete normal deposit into the receiver's account.**
