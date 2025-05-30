@@ -1,6 +1,6 @@
-# Using Wallet Connect
+# Using WalletConnect
 
-D’CENT Mobile App has added support for [WalletConnect](https://walletconnect.org/). You can now connect and access your favorite DApps on PC or Mobile browser using D’CENT wallet addresses.
+D’CENT Mobile App has added support for **"WalletConnect"**. You can now connect and access your favorite DApps on PC or Mobile browser using D’CENT wallet addresses.
 
 ✅ Full list of DApps supporting WalletConnect can be found here: [https://walletconnect.org/apps](https://walletconnect.org/apps)
 
@@ -12,57 +12,79 @@ WalletConnect is an open protocol for connecting DApps on your browser to mobile
 
 
 
+In this example, we will access a DApp called **PoolTogether**.&#x20;
+
 ## Using DApps on PC browser
 
-In this example, we will access a DApp called **PoolTogether**. You will need your [D’CENT Mobile App](https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet\&utm_source=dcentwallet\&utm_campaign=mobileapp) and PC to access the DApp website.
+You will need your [D’CENT Mobile App](https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet\&utm_source=dcentwallet\&utm_campaign=mobileapp) and PC to access the DApp website.
 
-**1.** Go to the [PoolTogether](https://app.pooltogether.com/) website from your browser and click on **Connect Wallet** button.
+**1)** Go to the [PoolTogether](https://app.pooltogether.com/) website from your browser and click on **"Connect Wallet"** button.
 
-![](../../.gitbook/assets/walletconnect-eng01.png)
+![](../../.gitbook/assets/Pooltogether-eng-01.png)
 
-**2.** Select **WalletConnect** from the list and you will get a **QR-Code**.&#x20;
+**2.** Select **"WalletConnect"** from the list and you will get a **QR-Code**.&#x20;
 
-![](../../.gitbook/assets/walletconnect-eng02.png)
+![](../../.gitbook/assets/Pooltogether-eng-02.png)
 
-**3.** Launch your D’CENT Mobile App, and go to the **"Discovery"** tab. On the top of left corner is a QR-Code Scan icon. Click and scan the **QR-Code**.
+### Connect from the **My Wallet** tab
 
-After scanning the QR-Code, you will see the following request for connection, click **"Yes, I want"** button to connect your wallet address to PoolTogether DApp.
+{% hint style="warning" %}
+Starting from D'CENT Mobile App version **v7.6.2 or later**, you can also connect via the **"My Wallet"** tab using WalletConnect.
+{% endhint %}
 
-<div align="left"><figure><img src="../../.gitbook/assets/Frame 1321315626.jpg" alt=""><figcaption></figcaption></figure></div>
+**1)** Launch your D’CENT Mobile App, and **QR code scan icon** at the top right of the **"My Wallet"** tab.\
+Scan the QR code displayed on the PC screen.
 
-**4.** When your D’CENT Wallet address is connected to PoolTogether DApp, you will see the following screens on your mobile and PC. Notice the D’CENT wallet address on the top right corner of the PoolTogether DApp.
+After confirming the DApp site address, account, and network information, tap the **"Connect"** button.
 
-![](<../../.gitbook/assets/Frame 1321315630.jpg>)
+<div align="left"><figure><img src="../../.gitbook/assets/Pooltogether-eng-03.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-**5.** When you perform a transaction on the DApp service you are using, you will be prompted to confirm the transaction on the D’CENT Wallet.
+**2)** When your D’CENT Wallet address is connected to PoolTogether DApp, you will see the following screens on your mobile app and PC. **Notice the D’CENT wallet address on the top right corner of the PoolTogether DApp.**
 
-**NOTE :** Make sure to keep D’CENT Wallet running on your mobile phone and stay on this activity. If you switch to other Apps, the current DApp (ie: PoolTogether) will lose connection and you will have to reconnect again.
+![](../../.gitbook/assets/Pooltogether-eng-04.png)
 
-{% hint style="info" %}
+### Connect from the **Discovery** tab
+
+**1)** Launch your D’CENT Mobile App, and **QR code scan icon** at the top left of the **"Discovery"** tab.\
+Scan the QR code displayed on the PC screen.
+
+After confirming the DApp site address, account, and network information, tap the **"Yes, I want"** button.
+
+<div align="left"><figure><img src="../../.gitbook/assets/Pooltogether-eng-05.png" alt="" width="563"><figcaption></figcaption></figure></div>
+
+**2)** When your D’CENT Wallet address is connected to PoolTogether DApp, you will see the following screens on your mobile app and PC. **Notice the D’CENT wallet address on the top right corner of the PoolTogether DApp.**
+
+<figure><img src="../../.gitbook/assets/Pooltogether-eng-06.png" alt=""><figcaption></figcaption></figure>
+
+**NOTE :** When you perform a transaction on the DApp service you are using, you will be prompted to confirm the transaction on the D’CENT Wallet.
+
+Make sure to keep D’CENT Wallet running on your mobile phone and stay on this activity. If you switch to other Apps, the current DApp (ie: PoolTogether) will lose connection and you will have to reconnect again.
+
+{% hint style="warning" %}
 Make sure to click on **disconnect** after when you finish using the DApp service.
 {% endhint %}
 
 ## Using DApps on Mobile browser
 
-**1.** Go to the PoolTogether (App) website from your browser and click on **Connect Wallet** button.
+**1)** Go to the PoolTogether (App) website from your browser and click on **"Connect Wallet"** button.
 
-**2.** Select **WalletConnect** from the list.
+**2)** Select **"WalletConnect"** from the list.
 
 <div align="left"><img src="../../.gitbook/assets/Frame 1321315627.jpg" alt=""></div>
 
-**3.** D’CENT Mobile App will be a selectable option when it is installed on your mobile phone. Select **D’CENT**.
+**3)** D’CENT Mobile App will be a selectable option when it is installed on your mobile phone. Select **"D'CENT Wallet"**.
 
-**4.** When D’CENT Wallet opens, **authenticate** to the access the Wallet App.
+**4)** When D’CENT Wallet opens, **authenticate** to the access the Wallet App.
 
-**5.** Click **"Yes, I want"** button to confirm the request to connect Wallet Address to the DApp.
+**5)** Click **"Yes, I want"** button to confirm the request to connect Wallet Address to the DApp.
 
 ![](<../../.gitbook/assets/Frame 1321315628.jpg>)
 
-**6.** Now your D’CENT Wallet address is connected to the DApp.
+**6)** Now your D’CENT Wallet address is connected to the DApp.
 
-**7.** When you perform a transaction on the DApp service you are using, you will be prompted to confirm the transaction on the D’CENT Wallet.
+**7)** When you perform a transaction on the DApp service you are using, you will be prompted to confirm the transaction on the D’CENT Wallet.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Make sure to click on **disconnect** after when you finish using the DApp service.
 {% endhint %}
 
@@ -75,4 +97,4 @@ D’CENT Wallet has a built-in DApp browser, which supports connecting to DApps 
 If the DApp service does not support the Web3 interface, you can select WalletConnect to establish connection to the DApp. Instructions are similar to the previous methods described in the sections above.\
 
 
-![](../../.gitbook/assets/월렛커넥트-ENG.gif)
+<div align="left"><img src="../../.gitbook/assets/월렛커넥트-ENG.gif" alt="" width="375"></div>
