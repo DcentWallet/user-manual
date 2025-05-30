@@ -18,7 +18,7 @@ In this example, we will access a DApp called **PoolTogether**.&#x20;
 
 You will need your [D’CENT Mobile App](https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet\&utm_source=dcentwallet\&utm_campaign=mobileapp) and PC to access the DApp website.
 
-**1)** Go to the [PoolTogether](https://app.pooltogether.com/) website from your browser and click on **"Connect Wallet"** button.
+**1)** Go to the [**PoolTogether**](https://app.cabana.fi/) website from your browser and click on **"Connect Wallet"** button.
 
 ![](../../.gitbook/assets/Pooltogether-eng-01.png)
 
@@ -29,7 +29,7 @@ You will need your [D’CENT Mobile App](https://play.google.com/store/apps/deta
 ### Connect from the **My Wallet** tab
 
 {% hint style="warning" %}
-Starting from D'CENT Mobile App version **v7.6.2 or later**, you can also connect via the **"My Wallet"** tab using WalletConnect.
+Starting from D'CENT Mobile App version **v7.6.2 or higher**, you can also connect via the **"My Wallet"** tab using WalletConnect.
 {% endhint %}
 
 **1)** Launch your D’CENT Mobile App, and **QR code scan icon** at the top right of the **"My Wallet"** tab.\

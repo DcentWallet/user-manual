@@ -40,7 +40,7 @@ Users can save the visiting service site as a **"favorite (or bookmark)"**, whic
 
 ## **Supported Networks**
 
-As of May, 2025, following networks are supported on D'CENT wallet's dapp-browser. More networks will be added overtime.
+As of **May, 2025**, following networks are supported on D'CENT wallet's dapp-browser. More networks will be added overtime.
 
 You can see how to switch blockchain network of dapp-browser in the below link.
 
@@ -122,7 +122,7 @@ You can see how to switch blockchain network of dapp-browser in the below link.
 
 ## Listed Services
 
-As of May, 2025, following services are listed. For detailed information on each services, please visit the services sites.
+As of **May, 2025,** following services are listed. For detailed information on each services, please visit the services sites.
 
 * **Buy Cryptocurrency**\
   **Topper** ([https://app.topperpay.com](https://app.topperpay.com/)), **MoonPay** ([https://www.moonpay.io/](https://www.moonpay.io/)), **Simplex** ([https://buy.simplex.com/](https://buy.simplex.com/)) : Buy crypto using your payment or credit card
