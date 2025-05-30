@@ -4,7 +4,7 @@ description: How to change the network for D'CENT in-app browser
 
 # Switch Blockchain Network
 
-By clicking the "network" icon on the right top corner of "discovery" tab, you can switch blockchain network for dapp browser.
+By clicking the "Ntretworkwork" icon on the right top corner of "discovery" tab, you can switch blockchain network for dapp browser.
 
 ![](../../.gitbook/assets/Switchnetwork-eng.gif)
 
