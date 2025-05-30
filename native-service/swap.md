@@ -6,11 +6,9 @@ D'CENT Wallet's Swap service enables seamless crypto exchanges across various bl
 
 One of the key advantages of D'CENT Swap is that it provides bridging, cross-chain swaps, and regular swaps all within a single interface. For example, you can swap USDT on the Ethereum network for USDT on the Polygon network effortlessly.
 
-{% hint style="danger" %}
-Swap service is available for D'CENT App version 7.4.0 or higher.
+{% hint style="warning" %}
+Swap service is available for D'CENT App version **7.4.0 or higher.**
 {% endhint %}
-
-
 
 ## Access the Swap service
 
@@ -139,6 +137,8 @@ For any inquiries regarding service usage, please first check the answers in our
 * [Changelly](https://support.changelly.com/en/support/home)
 * [1inch](https://help.1inch.io/en/)
 * [OKX Swap / Cross Chain](https://www.okx.com/help)
+* [Exolix](https://exolix.com/contact)
+* [ButterSwap](https://docs.butterswap.me/contact)
 {% endhint %}
 
 {% hint style="danger" %}
