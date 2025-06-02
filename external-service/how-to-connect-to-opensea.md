@@ -32,6 +32,10 @@ From the OpenSea site, click the **"Connect"** button and select **"WalletConnec
 
 Open the D'CENT mobile app and tap the **QR code scan icon** at the top of the **"My Wallet"** or **"Discovery"** tab to scan the QR code shown on the PC screen. Your wallet will then be connected via WalletConnect.
 
+{% hint style="warning" %}
+Starting from D'CENT Mobile App version **v7.6.2 or higher**, you can also connect via the **"My Wallet"** tab using WalletConnect.
+{% endhint %}
+
 ![](../.gitbook/assets/Opensea\(6\).png)
 
 For more details on how to use WalletConnect, please refer to the user guide below.
