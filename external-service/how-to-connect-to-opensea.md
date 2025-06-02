@@ -1,63 +1,41 @@
 # How to connect to OpenSea
 
-## Connecting from D'CENT Wallet's Dapp browser (Discovery)
+## Connecting from D'CENT mobile app's Dapp browser (Discovery)
 
-Blockchain based Dapp services can be accessed via the Discover Tab.
+Blockchain based Dapp services can be accessed via the **"Discovery"** Tab.
 
-In case of Android, OpenSea can be found in the list.
+In case of Android, **"OpenSea"** can be found in the list.
 
-For iOS, you will need to do a search by entering "opensea" in the search bar. From the search result, click on the OpenSea site link.
+For iOS, you will need to do a search by entering **"opensea"** in the search bar. From the search result, click on the [**OpenSea**](https://opensea.io/) site link.
 
-![](<../.gitbook/assets/그림1 (4).png>)
+![](../.gitbook/assets/Opensea\(1\).png)
 
-Once you land on the OpenSea site, a message will be displayed asking for approval for connection. In general, most Dapp sites prioritize recognizing Ethereum address as the wallet account to connect with.
+Access the OpenSea website and click the **"Connect"** button at the top right.\
+Select **"WalletConnect",** then tap **"Select Wallet"** and click **"Yes, I want"** button.
 
-If you need to choose a different network to connect to the site, press the cancel button on the message and click on the network icon located at the top-right corner to select the network of your choice.
+<figure><img src="../.gitbook/assets/Opensea(2).png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/그림2 (3).png>)
+OpenSea supports connections to various networks such as **Ethereum, Polygon, Base**, and **Optimism**.\
+To switch to a different network, tap the network icon at the top right, click **"Switch"**, and then select the desired network.
 
-### How to bypass Klaytn connection issue at OpenSea site
+![](../.gitbook/assets/Opensea\(3\).png)
 
-Currently(April 2022), OpenSea supports connection to Ethereum, Polygon, and Klaytn networks.
+## Connecting from PC (Using WalletConnect)
 
-When using Klaytn network with OpenSea site, you may experience that Klaytn address does not get recognized well, resulting in inability to connect wallet. To solve this issue, you can bookmark the visiting OpenSea page to add the site to your Favorites list. By accessing OpenSea site through the bookmark, you can stably connect Klaytn account with OpenSea.
+If you are accessing OpenSea site from a PC environment, you can use **"WalletConnect"** to connect with your account on D'CENT Wallet.&#x20;
 
-![](<../.gitbook/assets/그림3 (1) (1) (1).png>)
+From the OpenSea site, click the **"Connect"** button and select **"WalletConnect"**. A QR code will be displayed on your PC screen.
 
-**(1)** At OpenSea site, click on the **bookmark icon** located at the bottom menu. Set the network as “**Klaytn**” and click on **Add** button to save.
+<figure><img src="../.gitbook/assets/Opensea(4) (1).png" alt=""><figcaption></figcaption></figure>
 
-**(2)** Under Favorites, click on the OpenSea bookmarked page.
+![](../.gitbook/assets/Opensea\(5\).png)
 
-**(3)** At OpenSea site, Klaytn wallet connection will be triggered.
+Open the D'CENT mobile app and tap the **QR code scan icon** at the top of the **"My Wallet"** or **"Discovery"** tab to scan the QR code shown on the PC screen. Your wallet will then be connected via WalletConnect.
 
-## Using WalletConnect (Ethereum / Polygon)
+![](../.gitbook/assets/Opensea\(6\).png)
 
-If you are accessing OpenSea site from a PC environment, you can use WalletConnect to connect with your account on D'CENT Wallet. **Currently, WalletConnect supports Ethereum and Polygon networks to connect with OpenSea.**&#x20;
+For more details on how to use WalletConnect, please refer to the user guide below.
 
-From the OpenSea site, click on WalletConnect to see a screen with QR code.&#x20;
-
-![](<../.gitbook/assets/그림4 (1) (1).png>)
-
-On the top-left corner of the Discovery Tab, click on the WalletConnect icon to activate the camera function on your phone. Point your camera to the PC monitor screen to read the QR code. Once recognized, WalletConnect will proceed to connect your D'CENT wallet account with OpenSea.
-
-![](<../.gitbook/assets/그림5 (2).png>)
-
-If you need to change the network from Ethereum to Polygon, click on the network icon located at the top-right corner to change. Then, use WalletConnect to connect your Polygon account with OpenSea.
-
-## Using Kaikas (Klaytn / Biometric Wallet)&#x20;
-
-**From a PC environment, you can use Kaikas (Chrome extension program) together with Biometric Wallet to connect Klaytn account with OpenSea.**
-
-First, connect your Biometric wallet with Kaikas. Detailed instructions can be found in the User Guide below.
-
-{% content-ref url="kaiawallet.md" %}
-[kaiawallet.md](kaiawallet.md)
+{% content-ref url="../native-service/dapp-browser/using-wallet-connect.md" %}
+[using-wallet-connect.md](../native-service/dapp-browser/using-wallet-connect.md)
 {% endcontent-ref %}
-
-Go to the OpenSea site and click on the Wallet icon and select Kaikas from the list. From Kaikas wallet, you will see a pop-up message asking for approval on connecting to this site. Read all details and press **Connect(OK)** button.&#x20;
-
-![](../.gitbook/assets/그림6.png)
-
-Once connection is successful, click on the wallet icon located at the top-right corner of the OpenSea site. Here, you will see that wallet used to connect is Kaikas and your D'CENT Klaytn account address.&#x20;
-
-![](../.gitbook/assets/그림7.png)
