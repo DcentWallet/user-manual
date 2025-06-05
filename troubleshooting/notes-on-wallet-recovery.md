@@ -4,7 +4,7 @@ With the mobile app update to version v5.3.1, accounts created for Kaia (KAIA), 
 
 <figure><img src="../.gitbook/assets/image (271).png" alt=""><figcaption></figcaption></figure>
 
-Therefore, if you have been using the D'CENT app wallet or biometric wallet before this update, you will need to **create a 'Legacy' account after wallet recovery to access your previously held assets**.
+Therefore, if you have been using the D'CENT app wallet or biometric wallet before this update, you will need to **create a "Legacy" account after wallet recovery to access your previously held assets**.
 
 <figure><img src="../.gitbook/assets/2 (14).png" alt=""><figcaption></figcaption></figure>
 
