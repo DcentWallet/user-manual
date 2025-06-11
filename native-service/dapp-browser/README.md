@@ -40,7 +40,7 @@ Users can save the visiting service site as a **"favorite (or bookmark)"**, whic
 
 ## **Supported Networks**
 
-As of **May, 2025**, following networks are supported on D'CENT wallet's dapp-browser. More networks will be added overtime.
+As of **June, 2025**, following networks are supported on D'CENT wallet's dapp-browser. More networks will be added overtime.
 
 You can see how to switch blockchain network of dapp-browser in the below link.
 
@@ -91,23 +91,21 @@ You can see how to switch blockchain network of dapp-browser in the below link.
 * Scroll
 * Edu Chain
 * Skate
+* Ancient8
 * Astar
+* Chiliz
+* Taiko Alethia
+* Berachain
 
 ### Testnet
 
-* Ethereum Testnet Ropsten
-* Ethereum Testnet Rinkeby
-* Ethereum Testnet Goerli
-* Ethereum Testnet Kovan
 * Ethereum Testnet Sepolia
 * Binance Smart Chain Testnet
-* Polygon Testnet Mumbai
 * RSK Testnet
-* Flare Testnet Coston2
-* Klaytn Testnet Baobab
+* Flare Testnet Coston
+* Kaia Testnet Kairos
 * Tron Testnet Shasta
 * XDC Testnet APOTHEM
-* Arbitrum Testnet Rinkeby
 * Harmony Testnet
 * Orbit Chain Testnet
 * BASE Testnet Goerli
@@ -119,10 +117,11 @@ You can see how to switch blockchain network of dapp-browser in the below link.
 * Filecoin EVM Testnet
 * Monad Testnet
 * Edu Chain Testnet
+* XRPL EVM Testnet
 
 ## Listed Services
 
-As of **May, 2025,** following services are listed. For detailed information on each services, please visit the services sites.
+As of **June, 2025,** following services are listed. For detailed information on each services, please visit the services sites.
 
 * **Buy Cryptocurrency**\
   **Topper** ([https://app.topperpay.com](https://app.topperpay.com/)), **MoonPay** ([https://www.moonpay.io/](https://www.moonpay.io/)), **Simplex** ([https://buy.simplex.com/](https://buy.simplex.com/)) : Buy crypto using your payment or credit card
@@ -151,5 +150,6 @@ As of **May, 2025,** following services are listed. For detailed information on 
 * **Rarible** ([https://rarible.com/](https://rarible.com/)) : A creator-centered NFT marketplace service that allows you to easily create, buy, and sell items such as works of art and game items as NFTs.
 * **KLAYportal** ([https://klayportal.hashquark.io/#/?inApp=true](https://klayportal.hashquark.io/#/?inApp=true)) : A service that allows you to stake KAIA in a simple and safe way developed by Hashquark
 * **Skate AMM** ([https://amm.skatechain.org/](https://amm.skatechain.org/)) : A Dapp service that enables asset management across multiple VM environments.
+* **Intract Quests** ([https://quest.intract.io/](https://quest.intract.io/)) : A quest-based platform where users can interact with various Web3 projects and earn rewards.
 
 Many more great services will get added to the list over time.
