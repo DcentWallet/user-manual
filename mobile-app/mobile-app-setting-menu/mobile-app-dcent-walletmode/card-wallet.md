@@ -50,7 +50,7 @@ Click the **"Scan new card"** menu and tag the another Card Wallet.
 
 ## Card Info
 
-When you tap the **"Card Info"** menu, you can view the card wallet address, number of available backups, and other details about the card-type wallet.\
+When you click the **"Card Info"** menu, you can view the card wallet address, number of available backups, and other details about the card-type wallet.\
 If a backup card is scanned, the message **"This is a backup card."** will be displayed.
 
 And you can change the card name displayed in the **"My Wallet"** tab.
