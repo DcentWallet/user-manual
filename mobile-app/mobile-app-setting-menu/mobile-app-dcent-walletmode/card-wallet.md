@@ -47,3 +47,12 @@ You can change the Card Wallet you want to use through the **"Scan new card"** m
 Click the **"Scan new card"** menu and tag the another Card Wallet.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/5 (8).jpg" alt=""><figcaption></figcaption></figure></div>
+
+## Card Info
+
+When you tap the **"Card Info"** menu, you can view the card wallet address, number of available backups, and other details about the card-type wallet.\
+If a backup card is scanned, the message **"This is a backup card."** will be displayed.
+
+And you can change the card name displayed in the **"My Wallet"** tab.
+
+<figure><img src="../../../.gitbook/assets/CardInfo-eng.png" alt=""><figcaption></figcaption></figure>
