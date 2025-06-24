@@ -128,28 +128,22 @@ As of **June, 2025,** following services are listed. For detailed information on
 * **Metamask Integreation** ([https://qrbase.dcentwallet.com/](https://qrbase.dcentwallet.com/)) : EVM compatible address in the D'CENT Wallet can be connected with the Metamask
 * **Astar portal** ([https://portal.astar.network/](https://portal.astar.network/)) : The official application service for using everything offered by Astar Network, including staking, cross-chain asset transfers, and bridges
 * **FTSO Portal** ([https://ftsoportal.com/](https://ftsoportal.com/)) : A service that allows users to delegate vote power to their preferred FTSO provider and earn rewards
-* **Sparkles NFT** ([https://sparklesnft.com/](https://sparklesnft.com/)) : Flare and Songbird network-based NFT marketplace
 * **KLAYswap** ([https://klayswap.com/](https://klayswap.com/)) : Kaia-based DeFi service that allows for token exchange based on liquidity pool and deposit and staking through liquidity mining
 * **SwapScanner** ([https://swapscanner.io/ko](https://swapscanner.io/ko)) : A service that swap exchange token through major DEX aggregators and earns interest through cryptocurrency deposit
-* **Belt.fi** ([https://belt.fi/](https://belt.fi/)) : A service that deposits cryptocurrency and provides optimized returns based on the AMM (Automated Market Maker) protocol
-* **Definix** ([https://definix.com/](https://definix.com/)) : Multichain-based DeFi platform service
 * **Orbit Bridge** ([https://bridge.orbitchain.io/](https://bridge.orbitchain.io/)) : Bridge service that supports token conversion between each mainnet
 * **XDSea** ([https://xdsea.com/](https://xdsea.com/)) : A peer-to-peer decentralized marketplace for buying and selling NFTs based on the XDC network
 * **cBridge** ([https://cbridge.celer.network/](https://cbridge.celer.network/)) : A service that Multiple blockchain bridge service and  transfers assets between blockchains with low fees
-* **KlayFi** ([https://klayfi.finance/](https://klayfi.finance/)) : DeFi service that provides maximum returns by providing a user-centered optimized experience
-* **KLAYSTATION** ([https://klaystation.io/](https://klaystation.io/)) : Kaia-based KAIA staking service
 * **Tokamak DAO** ([https://dao.tokamak.network/](https://dao.tokamak.network/)) : A service that allows TON coin holders to directly participate in decision-making regarding major agendas that affect the Tokamak network ecosystem.
 * **Zapper** ([https://zapper.xyz/](https://zapper.xyz/)) : Ethereum-based DeFi dashboard service
-* **Neverlose.money** ([https://neverlose.money/](https://neverlose.money/)) : Ethereum-based cryptocurrency long-term investment promotion service
 * **Compound** ([https://compound.finance/](https://compound.finance/)) : Stake cryptocurrency and earn interest
 * **PoolTogether** ([https://www.pooltogether.com/](https://www.pooltogether.com/)) : No-loss lottery to earn interest gained from the PoolTogether staking pool
 * **Uniswap** ([https://uniswap.org/](https://uniswap.org/)) : Swap exchange various cryptocurrency pairs and provide liquidity to pools
 * **Yearn.fi** ([https://yearn.fi/](https://yearn.fi/)) : A service that collects various DeFi services and provides a method to obtain maximum profits through automated protocols.
-* **1inch.exchange** ([https://1inch.exchange/](https://1inch.exchange/)) : DEX aggregator that provides optimal swap exchange service
+* **1inch.exchange** ([https://app.1inch.io/](https://app.1inch.io/)) : DEX aggregator that provides optimal swap exchange service
 * **OpenSea** ([https://opensea.io/](https://opensea.io/)) : NFT market place for Collectibles, Game items, Digital Arts, and more.
 * **Rarible** ([https://rarible.com/](https://rarible.com/)) : A creator-centered NFT marketplace service that allows you to easily create, buy, and sell items such as works of art and game items as NFTs.
-* **KLAYportal** ([https://klayportal.hashquark.io/#/?inApp=true](https://klayportal.hashquark.io/#/?inApp=true)) : A service that allows you to stake KAIA in a simple and safe way developed by Hashquark
-* **Skate AMM** ([https://amm.skatechain.org/](https://amm.skatechain.org/)) : A Dapp service that enables asset management across multiple VM environments.
+* **KaiaPotter** ([https://kaiapotter.hashkey.cloud/#/?inApp=true](https://kaiapotter.hashkey.cloud/#/?inApp=true)) : A service that allows you to stake KAIA in a simple and safe way developed by Hashquark
+* **Skate Staking** ([https://amm.skatechain.org/stake](https://amm.skatechain.org/stake)) : A Dapp service that allows you to stake SKATE tokens through a multichain-native staking mechanism to contribute to network security and earn rewards.
 * **Intract Quests** ([https://quest.intract.io/](https://quest.intract.io/)) : A quest-based platform where users can interact with various Web3 projects and earn rewards.
 
 Many more great services will get added to the list over time.
