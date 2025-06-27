@@ -1,14 +1,6 @@
 # Troubleshooting Guide (Windows)
 
-## Check the version of the D'CENT bridge program running on your computer.
-
-Make sure to check that your computer is installed with the latest version of the D'CENT bridge program.
-
-For **Windows**, you can check the bridge version from the system tray.
-
-![](../../.gitbook/assets/fw03.png)
-
-## My D’CENT wallet was disconnected while the firmware was being updated. The device is stuck on a screen and it won’t turn off. What should I do?
+## **What to do when the Biometric Wallet screen gets stuck during a firmware update**
 
 First, disconnect your D’CENT wallet from your computer.&#x20;
 
@@ -20,7 +12,7 @@ From the bootloader mode, you can try updating the firmware to recover your Biom
 
 <figure><img src="../../.gitbook/assets/트러블슈팅-eng.png" alt=""><figcaption></figcaption></figure>
 
-## From the D'CENT firmware update webpage, I pressed "Update Firmware" button, but I get the following message; "Your D'CENT is disconnected. Firmware Update process is cancelled". What should I do?
+## What to do when the Biometric Wallet is not recognized by the PC
 
 In rare cases, Windows system fails to recognize the D’CENT wallet even though it was recognized before. This issue can be solved by uninstalling the device driver and reinstalling it again from the Windows Device Manager.
 
