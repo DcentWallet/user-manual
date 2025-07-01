@@ -43,6 +43,31 @@ And it supports BTC (Bitcoin) and ETH (Ethereum) cryptocurrencies.
 
 <div align="left"><figure><img src="../../.gitbook/assets/4.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
+## Notification
+
+You can set up push notifications for major coin price fluctuations and market trend updates.
+
+{% hint style="warning" %}
+Notification settings are supported from D'CENT Mobile App version **v7.6.7** or higher.
+{% endhint %}
+
+Push notifications are sent in the following cases:
+
+* When there are price fluctuations for BTC, ETH, XRP, BNB, or SOL coins on CoinGecko.
+* When a cryptocurrency newly enters the Top 7 trending list on CoinGecko or CoinMarketCap.
+
+By tapping on a notification, you can view detailed information about the cryptocurrency in the **"Insight"** tab.
+
+{% hint style="info" %}
+Even without disabling notification settings, you can use your phone's **Do Not Disturb** mode to mute notifications during specific time periods.\
+For instructions on setting up Do Not Disturb mode on your device, please refer to the following links:
+
+* [Android](https://support.google.com/android/answer/9069335?hl=en-GB\&sjid=8568208612761623854-NC)
+* [iOS](https://support.apple.com/en-gb/guide/iphone/iph5c3f5b77b/18.0/ios/18.0)
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/Notification-eng.png" alt=""><figcaption></figcaption></figure>
+
 ## Change Password
 
 You can change the 6-digit password of the D'CENT mobile app.
