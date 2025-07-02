@@ -1,6 +1,6 @@
 # Troubleshooting Guide (Mac)
 
-## What to do when the Biometric Wallet screen gets stuck during a firmware update
+## What to do when the Biometric Wallet screen gets stuck during a firmware update <a href="#frozen-screen" id="frozen-screen"></a>
 
 First, disconnect your D’CENT wallet from your computer.&#x20;
 
@@ -12,7 +12,7 @@ From the bootloader mode, you can try updating the firmware to recover your Biom
 
 <figure><img src="../../.gitbook/assets/트러블슈팅-eng.png" alt=""><figcaption></figcaption></figure>
 
-## **What to do when the Biometric Wallet is not recognized by the Mac**
+## **What to do when the Biometric Wallet is not recognized by the Mac** <a href="#pc" id="pc"></a>
 
 In rare cases, Mac OS system fails to recognize the D’CENT wallet even though it was recognized before. This issue can be solved by checking the following in the system's settings.
 
