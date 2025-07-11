@@ -55,9 +55,9 @@ If you are ready, click [**here**](https://fwu.dcentwallet.com/) to go to the Fi
 
 **1)** On the firmware update page, click the **"Connect D'CENT hardware wallet"** button.&#x20;
 
-**2)** When the browser prompts a connection popup, select the D'CENT device and click **"Connect."**
+**2)** When the browser prompts a connection popup, click the D'CENT device and click **"Connect"** button.&#x20;
 
-<figure><img src="../../.gitbook/assets/firmware-01 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/firmware-01 (2).png" alt=""><figcaption></figcaption></figure>
 
 If the connected **Biometric Wallet** is already running the latest firmware version, the following screen will be displayed.
 
@@ -75,9 +75,9 @@ When entering bootloader mode, the following screen appears on the display of th
 
 **5)** Once the Biometric Wallet has rebooted into bootloader mode, click the **"Keep updating"** button.
 
-**6)** When the browser prompts a connection popup again, select the D'CENT device and click **"Connect."**
+**6)** When the browser prompts a connection popup, click the D'CENT device and click **"Connect"** button.&#x20;
 
-<figure><img src="../../.gitbook/assets/firmware-03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/firmware-03 (1).png" alt=""><figcaption></figcaption></figure>
 
 **7)** Firmware update from the webpage will take approximately 3 minutes to reach 100%. Please wait.&#x20;
 
