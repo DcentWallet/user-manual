@@ -78,7 +78,7 @@ This guide is based on the **D'CENT mobile app version v7.5.2.**
 **2)** A **"Search Device"** popup will appear, displaying the **device name** that matches the **Device ID(D'CENT-iD-\<numbers or letters>)**  shown on your cold wallet screen.
 
 {% hint style="warning" %}
-If the device ID of your cold wallet does not appear in the **"Search Device"** popup, please make sure that **Bluetooth is enabled** in your iPhone’s settings. If you're unsure how to access the Bluetooth menu, please refer to [**this guide**](https://userguide.dcentwallet.com/biometric-wallet/iphone-connect/iphone-bluetooth-menu).
+If the device ID of your cold wallet does not appear in the **"Search Device"** popup, please make sure that **Bluetooth is enabled** in your iPhone’s settings. If you're unsure how to access the Bluetooth menu, please refer to [**this guide**](iphone-bluetooth-menu.md).
 {% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/지갑연결-eng02.png" alt=""><figcaption></figcaption></figure></div>
