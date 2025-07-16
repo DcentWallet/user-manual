@@ -182,7 +182,7 @@ Complete your review by entering all 24 words this way.
 Congratulation, you have passed the quiz and your new wallet is created. From your cold wallet, you can check the lists of coin accounts available. You are now ready to use your new wallet together with the mobile application.
 
 * [**How to connect with Android phone**](android-connect/)
-* [**How to connect with iOS phone**](iphone-connect.md)
+* [**How to connect with iOS phone**](iphone-connect/)
 
 {% hint style="info" %}
 You can find the complete list of cryptocurrency assets supported on D'CENT Biometric Wallet from [**https://www.dcentwallet.com/en/supportedcoin**](https://www.dcentwallet.com/en/supportedcoin)

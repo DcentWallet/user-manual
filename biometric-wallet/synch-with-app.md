@@ -8,8 +8,8 @@ Please refer to the following sections on how to connect the Biometric Wallet wi
 [android-connect](android-connect/)
 {% endcontent-ref %}
 
-{% content-ref url="iphone-connect.md" %}
-[iphone-connect.md](iphone-connect.md)
+{% content-ref url="iphone-connect/" %}
+[iphone-connect](iphone-connect/)
 {% endcontent-ref %}
 
 ## Synchronization process

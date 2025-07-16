@@ -128,7 +128,7 @@ D'CENT is not responsible for any damage or loss of cryptocurrency assets caused
 After completing the wallet recovery, connect your hardware wallet to the D'CENT mobile application to synchronize. **You need to re-add all the cryptocurrency accounts that you have created in the past.** (Try to keep a list of the accounts that you have created, so that you can easily re-add them after the wallet recovery).
 
 * [**How to connect with Android phone**](../android-connect/)
-* [**How to connect with iOS phone**](../iphone-connect.md)
+* [**How to connect with iOS phone**](../iphone-connect/)
 
 {% hint style="info" %}
 You can find the complete list of cryptocurrency assets supported on D'CENT Biometric Wallet from [**https://www.dcentwallet.com/en/supportedcoin**](https://www.dcentwallet.com/en/supportedcoin)

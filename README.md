@@ -14,8 +14,8 @@ description: Welcome to D'CENT User Guide.
 [android-connect](biometric-wallet/android-connect/)
 {% endcontent-ref %}
 
-{% content-ref url="biometric-wallet/iphone-connect.md" %}
-[iphone-connect.md](biometric-wallet/iphone-connect.md)
+{% content-ref url="biometric-wallet/iphone-connect/" %}
+[iphone-connect](biometric-wallet/iphone-connect/)
 {% endcontent-ref %}
 
 {% content-ref url="biometric-wallet/firmware-update-from-computer/" %}

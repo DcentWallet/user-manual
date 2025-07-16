@@ -55,7 +55,7 @@ To use the **cold wallet** with the **mobile app**, **Bluetooth pairing** is req
 If you prefer **not to use Bluetooth**, you can also connect your **cold wallet to an Android phone** using an **OTG cable**. For detailed instructions, **please refer to** [**this guide**](android-otg.md).
 {% endhint %}
 
-### Preparing for Cold Wallet Pairing
+### Step 1 : Preparing for Cold Wallet Pairing
 
 <div align="left"><figure><img src="../../.gitbook/assets/그림1 (9).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -75,35 +75,33 @@ If the **blue light blinks** at the **top-right corner** of the cold wallet, it 
 
 Once the cold wallet enters **pairing mode**, you can connect it to your phone via **Bluetooth**.
 
-
-
-## Connecting from your Android Phone <a href="#connecting-from-your-android-phone" id="connecting-from-your-android-phone"></a>
+### Step 2 : Connecting with the D'CENT mobile app
 
 {% hint style="warning" %}
 This guide is based on the **D'CENT mobile app version v7.5.1.**
 {% endhint %}
 
-### Android Phone Bluetooth Settings
-
-Open the Bluetooth settings on your Android phone and ensure that Bluetooth is turned on. If you're unsure how to access the Bluetooth menu, please refer to [**this guide**](./#android-phone-bluetooth-settings).
-
-<div align="left"><figure><img src="../../.gitbook/assets/블루투스-eng (1) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
-
-### Connecting with the D'CENT mobile app
-
 <div align="left"><figure><img src="../../.gitbook/assets/지갑연결-eng.png" alt=""><figcaption></figcaption></figure></div>
 
 **1)** Open the **D'CENT mobile app** and select **"Bluetooth icon"** at the top of the **"My Wallet"** tab.
 
-**2)** A permission request popup will appear to access device's location for the D'CENT mobile app. Select the **"While using the app".**
+**2)** A permission request popup will appear to access device's location for the D'CENT mobile app. Select the **"While using the app".**&#x20;
 
-**3)** A **"Search Device"** popup will appear, displaying the **device name** that matches the **Device ID** shown on your cold wallet screen.
+If you **do not grant permissions**, the app **will not be able to sync with the cold wallet.** Please make sure to **allow the required permissions** for proper use.
 
+**3)** A **"Search Device"** popup will appear, displaying the **device name** that matches the **Device ID(D'CENT-iD-\<numbers or letters>)** shown on your cold wallet screen.
 
+{% hint style="warning" %}
+If the device ID of your cold wallet does not appear in the **"Search Device"** popup, please make sure that **Bluetooth is enabled** in your Android phone’s settings. If you're unsure how to access the Bluetooth menu, please refer to [**this guide**](./#android-phone-bluetooth-settings).
+{% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/지갑연결-eng02 (1).png" alt=""><figcaption></figcaption></figure></div>
 
-**4)** Tap the **device name**, then enter the **6-digit Bluetooth password** displayed on your cold wallet screen when prompted.
+**4)** When you tap the device ID, a **"Bluetooth pairing request"** popup will appear. Enter the **6-digit Bluetooth password** shown on the cold wallet screen.
+
+{% hint style="warning" %}
+When prompted to enter a PIN for Bluetooth pairing, **do not enter "0000" or "1234"** as shown in some examples. You must enter the **6-digit password displayed on your cold wallet screen**.
+{% endhint %}
 
 **5)** Once you enter the **Bluetooth password** and the connection is complete, the **D'CENT mobile app** will automatically **synchronize** with your **cold wallet**. The app will **automatically start syncing** with the cold wallet, which may take a few seconds.
 
@@ -115,3 +113,11 @@ Open the Bluetooth settings on your Android phone and ensure that Bluetooth is t
 
 
 Now, you can tap the **"Add Account"** button to add the necessary **coin accounts**. For detailed instructions on **adding coin accounts**, click [**here**](../../mobile-app/create-account/).
+
+
+
+If you're having trouble connecting the cold wallet, please refer to the **Troubleshooting Guide** below.
+
+{% content-ref url="troubleshooting-guide-android-bluetooth-error.md" %}
+[troubleshooting-guide-android-bluetooth-error.md](troubleshooting-guide-android-bluetooth-error.md)
+{% endcontent-ref %}

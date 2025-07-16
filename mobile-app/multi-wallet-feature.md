@@ -33,7 +33,7 @@ To register a new wallet, go to the **"Settings"** tab in the D'CENT app and sel
 **Biometric Wallet connection:**\
 [How to connect an Android phone](../biometric-wallet/android-connect/)
 
-[How to connect an iOS phone](../biometric-wallet/iphone-connect.md)
+[How to connect an iOS phone](../biometric-wallet/iphone-connect/)
 
 
 

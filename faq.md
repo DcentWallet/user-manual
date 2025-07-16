@@ -44,7 +44,7 @@ D'CENT Biometric Wallet and mobile app connects primarily using Bluetooth. \
 \
 If you are using Android, please refer [here](biometric-wallet/android-connect/). \
 \
-If you are using iPhone, please refer [here](biometric-wallet/iphone-connect.md). \
+If you are using iPhone, please refer [here](biometric-wallet/iphone-connect/). \
 \
 On Android phones, you can also connect via a USB cable. Click [here](biometric-wallet/android-connect/android-otg.md) for how to connect USB cable with an Android phone.&#x20;
 

@@ -5,7 +5,7 @@
 This menu is for connecting Biometric Wallet via Bluetooth with Android phone or iOS phone.&#x20;
 
 * For connecting Bluetooth for Android, more information can be found [**here**](../android-connect/).
-* For connecting Bluetooth for iOS, more information can be found [**here**](../iphone-connect.md).&#x20;
+* For connecting Bluetooth for iOS, more information can be found [**here**](../iphone-connect/).&#x20;
 
 ## Security Menu
 
