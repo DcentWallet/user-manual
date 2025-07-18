@@ -25,3 +25,9 @@ Look under Hardware > USB > See if D'CENT is shown as in the picture below
 Check to see that System Events box is ticked on for the D'CENT Bridge
 
 ![](../../.gitbook/assets/fw-update-mac-os_02.png)
+
+{% hint style="warning" %}
+If the Biometric Wallet is still not recognized, the issue may be caused by a faulty USB charging cable or a problem with the USB port on your PC.
+
+Please try using a different USB charging cable, switching to another USB port on your PC, or connecting to a different PC. When changing the USB charging cable, make sure it supports data transfer.
+{% endhint %}

@@ -59,3 +59,9 @@ From the **"Device Manager"**, Right Mouse Click on the error marked device and 
 ![](../../.gitbook/assets/troubleshooot_remove-error-device.png)
 
 On the top menu of Device Manager, press **Action** then select **"Scan for hardware changes"**. This will scan for any new devices attached and will automatically install the driver to detect your Biometric Wallet.
+
+{% hint style="warning" %}
+If the Biometric Wallet is still not recognized, the issue may be caused by a faulty USB charging cable or a problem with the USB port on your PC.
+
+Please try using a different USB charging cable, switching to another USB port on your PC, or connecting to a different PC. When changing the USB charging cable, make sure it supports data transfer.
+{% endhint %}
