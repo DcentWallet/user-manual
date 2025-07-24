@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # How to mint NFTs based on Polygon network using Opensea
 
 ## What is NFT minting? &#x20;
