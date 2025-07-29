@@ -6,129 +6,154 @@ D'CENT Wallet's Swap service enables seamless crypto exchanges across various bl
 
 One of the key advantages of D'CENT Swap is that it provides bridging, cross-chain swaps, and regular swaps all within a single interface. For example, you can swap USDT on the Ethereum network for USDT on the Polygon network effortlessly.
 
-{% hint style="warning" %}
-Swap service is available for D'CENT App version **7.4.0 or higher.**
-{% endhint %}
-
 ## Access the Swap service
 
-**1.** You can access the Swap service through the following three methods:
+**1)** You can access the Swap service through the following three methods:
 
-* ① D'CENT App → Tap the "Swap" button at the top of the \[My Wallet] tab.
-* ② D'CENT App → In the \[My Wallet] tab, select the coin account you added → Tap the "Swap" button.
-* ③ D'CENT App → Tap the "Swap" icon in the bottom Global Navigation Bar (GNB).
-* ④ D'CENT App → In the \[Insight] tab, open the detailed view of a coin → Tap the "Swap" button.
+* ① D'CENT App → Tap the **"⇄(Swap)"** button at the top of the \[My Wallet] tab.
+* ② D'CENT App → In the \[My Wallet] tab, select the coin account you added → Tap the **"⇄(Swap)"** button.
+* ③ D'CENT App → Tap the **"⇄"** icon in the bottom Global Navigation Bar (GNB).
+* ④ D'CENT App → In the \[Insight] tab, open the detailed view of a coin → Tap the **"Swap"** button.
 
-<div align="left"><figure><img src="../.gitbook/assets/1 (2).jpg" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/Swap-01.png" alt=""><figcaption></figcaption></figure></div>
 
-**2.** When you access the Swap service, a screen will appear where you can select the From token (the token you are sending) and the To token (the token you will receive).
+**2)** When you access the Swap service, a screen will appear where you can select the **From token (the token you are sending)** and the **To token (the token you will receive)**.
 
-<div align="left"><figure><img src="../.gitbook/assets/2 (5).jpg" alt="" width="420"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/Swap-02.png" alt="" width="388"><figcaption></figcaption></figure></div>
 
 
 
-**3.** In the From (sending token) section, you will see the connected main network information, the token account name, and the balance of the selected token in that account.
+## **Choosing a Token to Swap**
 
-To change the sending token, tap the token account name as shown in the image below. You can then search for the desired token or select one from the list.
+**1)** Select the token to send in the **From** section. Only tokens that are currently held in your wallet can be selected in the From field.
 
-<div align="left"><figure><img src="../.gitbook/assets/3.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
+For each token, the network, token account name, and available balance will be displayed.
 
-{% hint style="info" %}
-In the sending token popup, you can only select token accounts that have already been added to your wallet.
-{% endhint %}
+To change the sending token, tap the token account name as shown in the image below.\
+You can either search for a token or select one from the list.
 
-&#x20;
-
-**4.** In the To (receiving token) section, tapping the token account name will open a popup where you can select a token.
-
-If you want to select a new token that is not already added to your wallet, tap 'More' to choose a different network or enter the token name in the search bar to find and select it.
-
-<div align="left"><figure><img src="../.gitbook/assets/4 (1).jpg" alt=""><figcaption></figcaption></figure></div>
-
-If you have selected a new token, tap the "Add Account" button. Then, choose the account that will cover the network fee, enter an account name, and tap "Create" to add the new token account.
-
-<div align="left"><figure><img src="../.gitbook/assets/5.jpg" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/Swap-03.png" alt=""><figcaption></figcaption></figure></div>
 
 &#x20;
 
-## Start Swapping
+**2)** In the **To** section, select the token you want to receive through the swap.
 
-**1.** Select the tokens to swap in the From (sending token) and To (receiving token) sections. Enter the amount of the token you wish to swap in the From section.
+Just like in the From section, tapping the token account name will open a popup where you can choose a token.
 
-{% hint style="info" %}
-Each token selected in the To (receiving token) section has a minimum required amount for the swap. Please check the displayed minimum amount before proceeding.
+If you want to select a token that is not already added to your wallet, you can either choose it from the **"To Token"** list or enter the token name in the search box.
+
+<div align="left"><figure><img src="../.gitbook/assets/Swap-04.png" alt=""><figcaption></figcaption></figure></div>
+
+
+
+## Entering Swap Amount and Selecting a Service Provider
+
+**1)** Select the tokens to swap in the From (sending token) and To (receiving token) sections. **Enter the amount** of the token you wish to swap in the **From** section.
+
+<div align="left"><figure><img src="../.gitbook/assets/Swap-05.png" alt="" width="388"><figcaption></figcaption></figure></div>
+
+{% hint style="warning" %}
+Each token selected in the To (receiving token) section has a **minimum required amount** for the swap. Please check the displayed minimum amount before proceeding.
 {% endhint %}
 
-<div align="left"><figure><img src="../.gitbook/assets/6 (1).jpg" alt="" width="420"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/Swap-06.png" alt="" width="388"><figcaption></figcaption></figure></div>
 
-**2.** After entering the amount in the From (sending token) section, you can check the amount and value of the To (receiving token).
 
-Among the supported liquidity providers, the swap interface will display the best available rate and recommend the optimal provider for your transaction.
 
-<div align="left"><figure><img src="../.gitbook/assets/7 (1).jpg" alt=""><figcaption></figcaption></figure></div>
+**2)** After entering the amount in the **From** (sending token) section, the estimated amount and value of the **To** (receiving token) will be displayed.
 
-{% hint style="info" %}
-The fees required for swapping include service provider fees from platforms such as OKX and 1inch, as well as network fees (gas fees) for executing transactions on the blockchain.
+You can also check the service provider offering the quote, the swap rate, and the estimated network fee.
+
+<div align="left"><figure><img src="../.gitbook/assets/Swap-07.png" alt="" width="388"><figcaption></figcaption></figure></div>
+
+By tapping the displayed service provider, you can view other supported liquidity providers and select a different one that offers a better swap rate or is recommended for your transaction.
+
+<figure><img src="../.gitbook/assets/Swap-08.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+The fees required for swapping include service provider fees from platforms such as OKX and 1inch, as well as **network fees (gas fees) for executing transactions on the blockchain.**
 
 D'CENT does not charge any additional fees for using the swap service.
 {% endhint %}
 
 
 
-**3.** If the selected quote is from a decentralized exchange (DEX) provider, you can check the slippage information at the bottom of the screen.
+**3)** If the receiving token is not yet added to your D'CENT wallet, an **"Add Account"** button will appear.\
+Select the account that will cover the network fee, enter a name for the new account, and tap **"Add Account"** to create the token account.
+
+<div align="left"><figure><img src="../.gitbook/assets/Swap-09.png" alt=""><figcaption></figcaption></figure></div>
+
+&#x20;
+
+## Slippage or Exchange Rate Settings
+
+**1)** **If the selected quote is from a decentralized exchange (DEX) provider.**
+
+You can check the **Slippage** information at the bottom of the screen.
 
 Slippage refers to the difference between the expected price at the time of order placement and the actual price at which the transaction is executed. It typically occurs in highly volatile or low-liquidity markets. By default, the optimized slippage rate for the transaction is recommended and displayed.
 
-Users can manually adjust the slippage settings. In addition to the preset options of 0.5%, 2%, and 5.5%, you can set a custom value anywhere between 0.01% and 50%.
-
-
-
-<div align="left"><figure><img src="../.gitbook/assets/8.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+Users can manually adjust the slippage settings. In addition to the preset options of **0.5%, 2%, and 5.5%**, you can set a custom value anywhere between **0.01% and 50%.**
 
 {% hint style="info" %}
 When trading meme coins, increasing the slippage tolerance improves the likelihood of a successful transaction. Additionally, if a previous transaction failed, raising the slippage setting can help ensure the trade is completed.
 {% endhint %}
 
+<div align="left"><figure><img src="../.gitbook/assets/Swap-10.png" alt="" width="388"><figcaption></figcaption></figure></div>
 
 
-**4.** If the selected quote is from a centralized exchange (CEX) provider, you can check the exchange rate information. In this case, there are two exchange rate options:
 
-* Flexible (Variable): The rate may change based on market fluctuations.
-* Fixed: The rate is locked in at the time of transaction confirmation.
+**2)** **If the selected quote is from a centralized exchange (CEX) provider.**
 
-<div align="left"><figure><img src="../.gitbook/assets/9 (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+You can check the exchange rate information. In this case, there are two exchange rate options:
 
-**5.** After reviewing all the quote details, tap the 'Swap' button. Next, review the transaction details and tap 'Confirm' or 'Send'.
+* **Flexible (Variable)**: The rate may change based on market fluctuations.
+* **Fixed**: The rate is locked in at the time of transaction confirmation.
 
-<div align="left"><figure><img src="../.gitbook/assets/10.jpg" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/Swap-11.png" alt="" width="388"><figcaption></figcaption></figure></div>
 
-{% hint style="info" %}
-If a transaction is delayed or fails, you can contact the exchange using the displayed Exchange ID.
 
-To check the 'Exchange ID', go to the Transaction Review screen or tap the icon on the right of the Swap main screen to access the Transaction History.
+
+## **Sign the Transaction and Complete the Swap**
+
+**1)** After setting the slippage or customizing the exchange rate and reviewing the final quote, tap the **"Swap"** button. Next, review the transaction details and tap **"Confirm"** or **"Send"**.&#x20;
+
+To complete the transaction, check the signature request and authorize it using your fingerprint or PIN in the wallet.
+
+<div align="left"><figure><img src="../.gitbook/assets/Swap-12.png" alt=""><figcaption></figcaption></figure></div>
+
+If the token selected in the **From** field is based on the ERC-20 standard, the **"Approve"** button will appear instead of the **"Swap"** button. You must first tap **"Approve"** to authorize the token.\
+This approval step allows the service provider to access the token for swapping.
+
+For example, if the quoted provider is **1inch**, you will need to approve access to the token for **1inch** in order to proceed with the swap.
+
+<figure><img src="../.gitbook/assets/Swap-13.png" alt=""><figcaption></figcaption></figure>
+
+After the approval is complete, re-enter the amount to swap. If the same service provider (e.g., **1inch**) is selected in the quote again, the **"Swap"** button will now appear.
+
+The provider will also be marked as **"Approved"** in the provider list.
+
+<figure><img src="../.gitbook/assets/Swap-14.png" alt=""><figcaption></figcaption></figure>
+
+
+
+**2)** After signing the transaction, tap **"Swap History"** to check the status of the swap.
+
+<figure><img src="../.gitbook/assets/Swap-15.png" alt=""><figcaption></figcaption></figure>
+
+
+
+**3)** If the status shows **"Completed"**, you can view the swapped cryptocurrency in the **"My Wallet"** tab.
+
+<div align="left"><figure><img src="../.gitbook/assets/Swap-16.png" alt="" width="388"><figcaption></figcaption></figure></div>
+
+{% hint style="warning" %}
+If the swap status is **"Pending"** or **"Failed"**, or even if it shows as **"Completed"** but the cryptocurrency has not been received, you should contact the service provider using the **"Transfer TXID"** or the **"Exchange TXID"** (for ChangeNow, Changelly, Exolix).
+
+You can find the service provider information and the corresponding TXID in the **"Swap Detail"** screen.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/그림2 (11).png" alt=""><figcaption></figcaption></figure>
-
-**6.** After reviewing the sending token amount and value, receiving token amount, and network fee, tap 'Next' or 'Send'. Once you verify the final signing details, sign the transaction in your wallet to complete the swap request.
-
-<div align="left"><figure><img src="../.gitbook/assets/11 (1).jpg" alt=""><figcaption></figcaption></figure></div>
-
-{% hint style="info" %}
-For some swaps, tokens must be sent to a centralized exchange, requiring a transaction signature for the transfer.
-{% endhint %}
-
-During this process, you can tap the 'View Details' button to check the swap history.
-
-<div align="left"><figure><img src="../.gitbook/assets/12.jpg" alt=""><figcaption></figcaption></figure></div>
-
-Once the swap is completed, you can tap the TXID on the swap details screen to view the actual transaction information on a Block Explorer.
-
-&#x20;
-
-7\) You can now check the swapped cryptocurrency in the 'My Wallet' tab.
-
-<div align="left"><figure><img src="../.gitbook/assets/13.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/Swap-17.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="danger" %}
 For any inquiries regarding service usage, please first check the answers in our Customer Support Center below.
@@ -139,6 +164,7 @@ For any inquiries regarding service usage, please first check the answers in our
 * [OKX Swap / Cross Chain](https://www.okx.com/help)
 * [Exolix](https://exolix.com/contact)
 * [ButterSwap](https://docs.butterswap.me/contact)
+* [SushiSwap](mailto://Truda@sushi.com)
 {% endhint %}
 
 {% hint style="danger" %}
