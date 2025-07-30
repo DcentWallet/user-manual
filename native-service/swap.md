@@ -114,26 +114,39 @@ You can check the exchange rate information. In this case, there are two exchang
 
 
 
-## **Sign the Transaction and Complete the Swap**
+## Approve Token
 
-**1)** After setting the slippage or customizing the exchange rate and reviewing the final quote, tap the **"Swap"** button. Next, review the transaction details and tap **"Confirm"** or **"Send"**.&#x20;
+**1)** If the token selected in the From field is based on the ERC-20 standard and the transaction is being processed through a decentralized exchange (DEX), the **"Approve"** button will appear instead of the **"Swap"** button. You must first tap **"Approve"** to authorize the token before proceeding with the swap.
 
-To complete the transaction, check the signature request and authorize it using your fingerprint or PIN in the wallet.
-
-<div align="left"><figure><img src="../.gitbook/assets/Swap-12.png" alt=""><figcaption></figcaption></figure></div>
-
-If the token selected in the **From** field is based on the ERC-20 standard, the **"Approve"** button will appear instead of the **"Swap"** button. You must first tap **"Approve"** to authorize the token.\
-This approval step allows the service provider to access the token for swapping.
-
+This approval step allows the DEX service provider to access the token for swapping. \
 For example, if the quoted provider is **1inch**, you will need to approve access to the token for **1inch** in order to proceed with the swap.
+
+<div align="left"><figure><img src="../.gitbook/assets/Swap-18.png" alt="" width="388"><figcaption></figcaption></figure></div>
+
+
+
+**2)** Tap the **"Approve"** button, check the **"Confirmed."** box on the next screen, and then tap **"Confirm"**.\
+Review the transaction signature details, tap **"Approve"**, and complete the signature by authenticating with your fingerprint or PIN in the wallet.
 
 <figure><img src="../.gitbook/assets/Swap-13.png" alt=""><figcaption></figcaption></figure>
 
-After the approval is complete, re-enter the amount to swap. If the same service provider (e.g., **1inch**) is selected in the quote again, the **"Swap"** button will now appear.
+
+
+**3)** After the approval is complete, re-enter the amount to swap. If the same service provider (e.g., **1inch**) is selected in the quote again, the **"Swap"** button will now appear.
 
 The provider will also be marked as **"Approved"** in the provider list.
 
 <figure><img src="../.gitbook/assets/Swap-14.png" alt=""><figcaption></figcaption></figure>
+
+
+
+## **Sign the Transaction and Complete the Swap**
+
+**1)** Once you have completed the token approval, tap the **"Swap"** button. Next, review the transaction details and tap **"Confirm"** or **"Send"**.&#x20;
+
+To complete the transaction, check the signature request and authorize it using your fingerprint or PIN in the wallet.
+
+<div align="left"><figure><img src="../.gitbook/assets/Swap-12.png" alt=""><figcaption></figcaption></figure></div>
 
 
 
