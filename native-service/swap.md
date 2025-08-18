@@ -178,6 +178,7 @@ For any inquiries regarding service usage, please first check the answers in our
 * [Exolix](https://exolix.com/contact)
 * [ButterSwap](https://docs.butterswap.me/contact)
 * [SushiSwap](mailto://Truda@sushi.com)
+* [SwapScanner](mailto://contact@swapscanner.io)
 {% endhint %}
 
 {% hint style="danger" %}
