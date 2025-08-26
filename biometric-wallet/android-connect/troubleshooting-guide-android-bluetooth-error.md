@@ -4,56 +4,42 @@
 
 For a seamless experience in connecting your phone with the hardware wallet, please check the following:
 
-**1.** You have enabled Bluetooth on your Android Phone.
+**1)** You have **enabled Bluetooth** on your Android Phone. Refer [**here**](https://userguide.dcentwallet.com/biometric-wallet/android-connect#android-phone-bluetooth-settings) for how to access the Bluetooth menu.
 
-**2.** You have registered the Biometric Wallet as a Bluetooth paired device that is allowed to connect to your Android phone.
+**2)** Make sure you are using the **Biometric Wallet mode** when using D'CENT App with your Biometric Wallet.
 
-**3.** Make sure you are using the **Biometric Wallet mode** when using D'CENT App with your Biometric Wallet.
+### Reset Android Bluetooth Settings
 
-### Android Bluetooth Application Error
+If your biometric wallet was previously connected but now fails to connect, or if the device is not detected in the "Search Device" popup after changing phones, **performing an Android Bluetooth settings reset** may help resolve the issue.
 
-Android's Bluetooth Application has a known bug where the Bluetooth connection fails. You can solve this issue by simply **deleting the Bluetooth data** on your Android Phone.&#x20;
-
-Each phone model and the Android OS version variants will have a different method of accessing the Bluetooth Application. For detailed instructions on how to access the Bluetooth Application, please refer to the USER MANUAL provided by your phone manufacturer.&#x20;
-
-{% hint style="success" %}
-Below is an example of how the Bluetooth application can be accessed from an **older version of** **Android** phone.
+{% hint style="danger" %}
+**This reset will remove all saved Bluetooth and Wi-Fi connections. You’ll need to reconnect your devices afterward.**
 {% endhint %}
 
-<div align="left"><img src="../../.gitbook/assets/3 (9).png" alt="" width="563"></div>
+<figure><img src="../../.gitbook/assets/Reset Bluetooth-01.png" alt=""><figcaption></figcaption></figure>
 
-**1.** Go to **Settings**\
-**2.** Click on **Apps**
+**1)** Go to Settings.
 
-<div align="left"><img src="../../.gitbook/assets/4 (6).png" alt=""></div>
+**2)** Go to **"General management."**
 
-**3.** Click on **3 dot icon (or ellipsis)**\
-**4.** Click on **Show system apps**
+**3)** Go to  **"Reset."**
 
-<div align="left"><img src="../../.gitbook/assets/5 (4).png" alt=""></div>
-
-**5.** Click on **Bluetooth Application**\
-**6.** Click on **Storage**\
-**7.** Click on **Clear data and cache**
-
-
-
-{% hint style="success" %}
-Below is an example of how the Bluetooth application can be accessed from a **newer version of** **Android** phone.
+{% hint style="warning" %}
+The reset menu location may vary depending on your phone model or Android OS version.
 {% endhint %}
 
-![](<../../.gitbook/assets/그림1 (1) (1) (1).png>)
+<div align="left"><img src="../../.gitbook/assets/Reset Bluetooth-02.png" alt="" width="563"></div>
 
-**1.** Go to Settings and Click on **Apps** &#x20;
+**4)** Select **"Reset Wi-Fi and Bluetooth settings."**
 
-**2.** Click on **Filtering**
+**5)** Click on **"Reset settings."**
 
-**3.** Enable on **Show system apps**
+{% hint style="danger" %}
+**This reset will remove all saved Bluetooth and Wi-Fi connections. You’ll need to reconnect your devices afterward.**
+{% endhint %}
 
-![](<../../.gitbook/assets/그림2 (1) (1) (1).png>)
+{% hint style="warning" %}
+Depending on your phone model or Android OS version, you may see **"Reset network settings"** instead of "Reset Wi-Fi and Bluetooth settings."
+{% endhint %}
 
-**4.** Click on **Bluetooth Application**
-
-**5.** Click on **Storage**
-
-**6.** Click on **Clear data and cache**
+After the reset is complete, enable Bluetooth on your phone and relaunch the D’CENT app. Try connecting your biometric wallet again. Refer [**here**](./#bluetooth-pairing-with-cold-wallet) for how to connect the wallet.
