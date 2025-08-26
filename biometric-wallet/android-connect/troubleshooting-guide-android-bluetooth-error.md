@@ -8,7 +8,7 @@ For a seamless experience in connecting your phone with the hardware wallet, ple
 
 **2)** Make sure you are using the **Biometric Wallet mode** when using D'CENT App with your Biometric Wallet.
 
-### Reset Android Bluetooth Settings
+### Reset Android Bluetooth Settings <a href="#reset-android-bluetooth-settings" id="reset-android-bluetooth-settings"></a>
 
 If your biometric wallet was previously connected but now fails to connect, or if the device is not detected in the "Search Device" popup after changing phones, **performing an Android Bluetooth settings reset** may help resolve the issue.
 
