@@ -106,7 +106,7 @@ This guide is based on **D’CENT mobile app version 8.0.0**. To update to the l
 If the device ID of your cold wallet does not appear in the **"Search Device"** popup, please make sure that **Bluetooth is enabled** in your Android phone’s settings. If you're unsure how to access the Bluetooth menu, please refer to [**this guide**](./#android-phone-bluetooth-settings).
 {% endhint %}
 
-<div align="left"><figure><img src="../../.gitbook/assets/Android-6.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Android-6 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 **3)** When you tap the device ID, the cold wallet will sync automatically. It may take a few seconds for the synchronization to begin.
 
@@ -115,7 +115,7 @@ If the device ID of your cold wallet does not appear in the **"Search Device"** 
 * A **connection indicator** will appear in the **top** of the **mobile app**.
 * A **blue Bluetooth connection light** will stay turned on in the **top right corner** of the **cold wallet**.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Android-7.png" alt="" width="386"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Android-7 (1).png" alt="" width="386"><figcaption></figcaption></figure></div>
 
 Now, you can tap the **"Add Account"** button to add the necessary **coin accounts**. For detailed instructions on **adding coin accounts**, click [**here**](../../mobile-app/create-account/).
 

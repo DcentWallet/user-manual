@@ -48,7 +48,7 @@ Depending on the OTG cable you own, connect the Biometric Wallet and the Android
 
 **2)** When connection is made, Synchronization will begin with the Biometric Wallet and you can start using it when it finishes.
 
-<div align="left"><figure><img src="../../.gitbook/assets/OTG-03.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/OTG-03 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Firmware Update
 
