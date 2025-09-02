@@ -10,24 +10,26 @@ You can download the D'CENT Mobile App by clicking on this [**link**](https://pl
 
 ### Select Wallet mode <a href="#select-wallet-mode" id="select-wallet-mode"></a>
 
-If you are launching the mobile app for the first time, you will need to configure the basic settings and select a wallet mode. Select **"Create Wallet"**, then choose **"Biometric Wallet"**.
+If you are launching the mobile app for the first time, you will need to go through the initial setup and select a wallet mode.
 
-<div align="left"><figure><img src="../../.gitbook/assets/초기설정-eng.png" alt="" width="563"><figcaption></figcaption></figure></div>
+{% hint style="warning" %}
+This guide is based on **D’CENT mobile app version 8.0.0**.
+{% endhint %}
+
+When the app launches, select **“Biometric Wallet”** as shown below.
+
+<div align="left"><figure><img src="../../.gitbook/assets/Android-1.png" alt="" width="377"><figcaption></figcaption></figure></div>
 
 You can change the **wallet mode** at any time from the **Settings** tab in the mobile app.\
-If you are using a **biometric cold wallet**, make sure to set the wallet mode to **"Biometric"** in the mobile app.
+If you are using a **biometric cold wallet**, make sure to set the wallet mode to **"Biometric"** in the mobile app. For instructions on how to change the wallet mode, [**refer to this guide**](../../mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/).
 
-{% hint style="info" %}
-**How to Change Wallet Mode**
 
-Go to **Settings** tab > Select **Change Wallet Mode >** Choose **Biometric**
-{% endhint %}
 
 ### **App Password Registration**
 
 To protect your **D'CENT mobile app**, you must set a **6-digit password**. This **app password** will be required **every time you launch the D'CENT mobile app**, so be sure to remember it.
 
-<div align="left"><figure><img src="../../.gitbook/assets/2 (7).jpg" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Android-2.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 You can change your **app password** later through the app [**Settings menu**](../../mobile-app/mobile-app-setting-menu/)**.**
@@ -37,25 +39,35 @@ In addition to the app password, you can also **enable fingerprint recognition**
 
 ### **Mobile App Permission Settings**
 
-A **permission request popup** will appear when connecting with the **D'CENT Biometric Wallet**. Tap **"Allow"** to enable synchronization with your **cold wallet**.
+A permission request popup will appear when you launch the D’CENT mobile app. Review the permissions being requested, then click **“Confirm”** button to proceed.
 
-If you **do not grant permissions**, the app **will not be able to sync with the cold wallet**, restricting its functionality. Please make sure to **allow the required permissions** for proper use.
+<div align="left"><figure><img src="../../.gitbook/assets/Android-3.png" alt="" width="377"><figcaption></figcaption></figure></div>
 
-<div align="left"><figure><img src="../../.gitbook/assets/권한설정-eng (1).png" alt="" width="386"><figcaption></figcaption></figure></div>
+Next, click the **“Allow”** button for both the **Notification** and **Nearby Devices** permissions to continue.
 
-If the **permission popup does not appear**, you can manually enable app permissions by following the steps shown in the image below.
+{% hint style="danger" %}
+The **Notification** permission is optional. You can click the **“Don’t allow” button** and still connect your wallet without any issues. However, the **Nearby Devices** permission is **required** for syncing with the cold wallet.\
+If access is denied, the cold wallet cannot be synced, and usage will be restricted.\
+Therefore, be sure to allow this permission.
+{% endhint %}
 
-<div align="left"><figure><img src="../../.gitbook/assets/4 (3).jpg" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/Android-4.png" alt=""><figcaption></figcaption></figure>
+
+If the permission popup does not appear, or if you accidentally clicked the **“Don’t allow”** button, you can manually enable the **Nearby Devices** permission by following the steps shown below.
+
+<div align="left"><figure><img src="../../.gitbook/assets/Android-4-1.png" alt=""><figcaption></figcaption></figure></div>
 
 ## Bluetooth pairing with Cold Wallet
 
-To use the **cold wallet** with the **mobile app**, **Bluetooth pairing** is required. This pairing process **only needs to be done once during the initial setup**.
+To use the **cold wallet** with the **mobile app**, **Bluetooth pairing** is required.&#x20;
 
 {% hint style="info" %}
 If you prefer **not to use Bluetooth**, you can also connect your **cold wallet to an Android phone** using an **OTG cable**. For detailed instructions, **please refer to** [**this guide**](android-otg.md).
 {% endhint %}
 
-### Step 1 : Preparing for Cold Wallet Pairing
+### Step 1 : Checking the Cold Wallet Device ID
+
+You can check the device ID of your cold wallet using the following steps.
 
 <div align="left"><figure><img src="../../.gitbook/assets/그림1 (9).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -69,48 +81,41 @@ If you prefer **not to use Bluetooth**, you can also connect your **cold wallet 
 
 **4)** On the **cold wallet screen**, the message **"Connecting..."** will be displayed along with the **Device ID** and **Bluetooth password**.
 
-The **D'CENT Device ID** is displayed in the format **D'CENT-iD-\<numbers or letters>**. The **Bluetooth password** is shown as a **6-digit number**.
+The **D'CENT Device ID** is displayed in the format **D'CENT-iD-\<numbers or letters>**.&#x20;
 
-If the **blue light blinks** at the **top-right corner** of the cold wallet, it indicates that the device is functioning properly.
+After checking the device ID, click the **Back (↩) button** on your cold wallet to return to the previous screen.
 
-Once the cold wallet enters **pairing mode**, you can connect it to your phone via **Bluetooth**.
+{% hint style="danger" %}
+Starting from **D’CENT mobile app version 8.0.0**, the app no longer syncs with the cold wallet while it is in the **“Connecting...”** state.\
+Therefore, after confirming the device ID, make sure to **exit the Connecting screen** by clicking the Back (↩) button on the cold wallet in order to proceed with synchronization properly.
+{% endhint %}
 
 ### Step 2 : Connecting with the D'CENT mobile app
 
 {% hint style="warning" %}
-This guide is based on the **D'CENT mobile app version v7.5.1.**
+This guide is based on **D’CENT mobile app version 8.0.0**. To update to the latest version, **click** [**here**](https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet).
 {% endhint %}
 
-<div align="left"><figure><img src="../../.gitbook/assets/지갑연결-eng.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Android-5.png" alt=""><figcaption></figcaption></figure></div>
 
 **1)** Open the **D'CENT mobile app** and select **"Bluetooth icon"** at the top of the **"My Wallet"** tab.
 
-**2)** A permission request popup will appear to access device's location for the D'CENT mobile app. Select the **"While using the app".**&#x20;
-
-If you **do not grant permissions**, the app **will not be able to sync with the cold wallet.** Please make sure to **allow the required permissions** for proper use.
-
-**3)** A **"Search Device"** popup will appear, displaying the **device name** that matches the **Device ID(D'CENT-iD-\<numbers or letters>)** shown on your cold wallet screen.
+**2)** A **"Search Device"** popup will appear, displaying the **device name** that matches the **Device ID(D'CENT-iD-\<numbers or letters>)** shown on your cold wallet screen.
 
 {% hint style="warning" %}
 If the device ID of your cold wallet does not appear in the **"Search Device"** popup, please make sure that **Bluetooth is enabled** in your Android phone’s settings. If you're unsure how to access the Bluetooth menu, please refer to [**this guide**](./#android-phone-bluetooth-settings).
 {% endhint %}
 
-<div align="left"><figure><img src="../../.gitbook/assets/지갑연결-eng02 (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Android-6.png" alt=""><figcaption></figcaption></figure></div>
 
-**4)** When you tap the device ID, a **"Bluetooth pairing request"** popup will appear. Enter the **6-digit Bluetooth password** shown on the cold wallet screen.
+**3)** When you tap the device ID, the cold wallet will sync automatically. It may take a few seconds for the synchronization to begin.
 
-{% hint style="warning" %}
-When prompted to enter a PIN for Bluetooth pairing, **do not enter "0000" or "1234"** as shown in some examples. You must enter the **6-digit password displayed on your cold wallet screen**.
-{% endhint %}
-
-**5)** Once you enter the **Bluetooth password** and the connection is complete, the **D'CENT mobile app** will automatically **synchronize** with your **cold wallet**. The app will **automatically start syncing** with the cold wallet, which may take a few seconds.
-
-**6)** When synchronization is complete:
+**4)** When synchronization is complete:
 
 * A **connection indicator** will appear in the **top** of the **mobile app**.
 * A **blue Bluetooth connection light** will stay turned on in the **top right corner** of the **cold wallet**.
 
-
+<div align="left"><figure><img src="../../.gitbook/assets/Android-7.png" alt="" width="386"><figcaption></figcaption></figure></div>
 
 Now, you can tap the **"Add Account"** button to add the necessary **coin accounts**. For detailed instructions on **adding coin accounts**, click [**here**](../../mobile-app/create-account/).
 
