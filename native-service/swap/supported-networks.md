@@ -2,7 +2,7 @@
 
 ### Supported Network List
 
-As of April 2025, the following blockchain networks are currently supported for the swap service. Additional blockchain networks are planned to be supported in the future.
+As of Aug 2025, the following blockchain networks are currently supported for the swap service. Additional blockchain networks are planned to be supported in the future.
 
 | Blockchain          | Supported Tokens                                         |
 | ------------------- | -------------------------------------------------------- |
@@ -27,16 +27,21 @@ As of April 2025, the following blockchain networks are currently supported for 
 | Conflux             | Conflux (CFX)                                            |
 | Constellation       | Constellation (DAG)                                      |
 | Cosmos              | Atom (ATOM)                                              |
+| Coreum              | Coreum (COREUM)                                          |
 | Dash                | Dash (DASH)                                              |
 | DigiByte            | DigiByte (DGB)                                           |
 | Dogecoin            | Dogecoin (DOGE)                                          |
 | eCash               | eCash (XEC)                                              |
 | Ethereum Classic    | Ethereum Classic (ETC)                                   |
+| Fantom Opera        | Fantom (FTM)                                             |
+| Filecoin            | Filecoin (FIL)                                           |
+| Filecoin EVM        | Filecoin (FIL)                                           |
 | Flare Network       | Flare Network (FLR)                                      |
 | Hedera Hashgraph    | Hedera Hashgraph (HBAR)                                  |
 | Horizen             | Horizen (ZEN)                                            |
 | Litecoin            | Litecoin (LTC)                                           |
 | NEAR Protocol       | NEAR (NEAR), Tether USD (USDT)                           |
+| MAP Protocol        | MAP Protocol (MAPO)                                      |
 | Polkadot            | Polkadot (DOT)                                           |
 | Ravencoin           | Ravencoin (RVN)                                          |
 | RSK Smart Bitcoin   | Rootstock Infrastructure Framework (RIF)                 |
@@ -44,6 +49,7 @@ As of April 2025, the following blockchain networks are currently supported for 
 | Stellar             | Stellar Lumen (XLM), USD Coin (USDC), Velo (VELO)        |
 | Tezos               | Tezos (XTZ)                                              |
 | TRON                | TRON (TRX)                                               |
+| VeChain             | VeChain (VET)                                            |
 | XDC (XinFin)        | XDC (XDC)                                                |
 | XRPL                | XRPL (XRP), Sologenic (SOLO)                             |
 | Zcash               | Zcash (ZEC)                                              |
