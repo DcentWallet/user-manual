@@ -1,25 +1,29 @@
 # Biometric Wallet
 
-## Check firmware version
+When your **Biometric Cold Wallet** is connected, clicking the **More (⋮) button** in the **Settings** tab will display the following menu, as shown in the image.
 
-You can check the Biometric Wallet firmware version. If the firmware is not up-to-date, you will be informed about the firmware update.
+<figure><img src="../../../.gitbook/assets/Setting-17.png" alt=""><figcaption></figcaption></figure>
 
-<div align="left"><figure><img src="../../../.gitbook/assets/1 (23).jpg" alt=""><figcaption></figcaption></figure></div>
+## **Device Info**
+
+When you click the **Device Info** menu, you can view your **Biometric Cold Wallet’s** device information, including the **Bluetooth name**, **firmware version**, and **KSM version**.
+
+And you can also change the device name displayed when booting the Biometric Wallet by clicking the **edit icon** next to **“My D’CENT”**.
+
+<figure><img src="../../../.gitbook/assets/Setting-18.png" alt=""><figcaption></figcaption></figure>
+
+## Firmware update
+
+You can check the firmware version of your Biometric Wallet. If the firmware is not up to date, a **“New”** icon will appear to indicate that an update is available.
+
+<div align="left"><figure><img src="../../../.gitbook/assets/Setting-19.png" alt=""><figcaption></figcaption></figure></div>
 
 By pressing the **"Firmware Update"** button, you can check for the latest version and find instructions on how to update.
 
 Click [**here**](../../../biometric-wallet/firmware-update-from-computer/) for more information on firmware updates.
 
-<figure><img src="../../../.gitbook/assets/그림3 (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Setting-20.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-Mobile Firmware update via OTG cable is only available on the Andorid phones.
+{% hint style="warning" %}
+Mobile Firmware update via OTG cable is **only available on the Andorid phones**. Please click [**here**](https://userguide.dcentwallet.com/biometric-wallet/firmware-update-from-mobile) for more details.
 {% endhint %}
-
-## Check Device Information
-
-Select the **"D'CENT Manager" Menu** and press the **"Device Info"** menu to check the device information of the Biometric Wallet.
-
-And You can change the device name displayed when booting the Biometric Wallet
-
-<div align="left"><figure><img src="../../../.gitbook/assets/3 (17).jpg" alt=""><figcaption></figcaption></figure></div>

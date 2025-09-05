@@ -48,8 +48,8 @@
 * [Mobile App "Settings" menu](mobile-app/mobile-app-setting-menu/README.md)
   * [Manage All Wallets](mobile-app/mobile-app-setting-menu/manage-all-wallets/README.md)
     * [Biometric Wallet](mobile-app/mobile-app-setting-menu/manage-all-wallets/biometric-wallet.md)
-    * [Card type Wallet](mobile-app/mobile-app-setting-menu/manage-all-wallets/card-wallet.md)
-    * [Software Wallet](mobile-app/mobile-app-setting-menu/manage-all-wallets/software-wallet.md)
+    * [Card Wallet (All-in-One Wallet)](mobile-app/mobile-app-setting-menu/manage-all-wallets/card-wallet.md)
+    * [App Wallet (Software)](mobile-app/mobile-app-setting-menu/manage-all-wallets/software-wallet.md)
 
 ## How to send/receive coin <a href="#coin-send-receive" id="coin-send-receive"></a>
 
