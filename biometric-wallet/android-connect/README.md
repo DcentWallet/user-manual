@@ -21,7 +21,7 @@ When the app launches, select **“Biometric Wallet”** as shown below.
 <div align="left"><figure><img src="../../.gitbook/assets/Android-1.png" alt="" width="377"><figcaption></figcaption></figure></div>
 
 You can change the **wallet mode** at any time from the **Settings** tab in the mobile app.\
-If you are using a **biometric cold wallet**, make sure to set the wallet mode to **"Biometric"** in the mobile app. For instructions on how to change the wallet mode, [**refer to this guide**](../../mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/).
+If you are using a **biometric cold wallet**, make sure to set the wallet mode to **"Biometric"** in the mobile app. For instructions on how to change the wallet mode, [**refer to this guide**](../../mobile-app/mobile-app-setting-menu/manage-all-wallets/).
 
 
 

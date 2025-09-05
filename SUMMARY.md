@@ -46,10 +46,10 @@
   * [How to remove (hide) a coin account](mobile-app/create-account/how-to-remove-hide-a-coin-account.md)
   * [How to add a custom path BTC account](mobile-app/create-account/how-to-add-a-custom-path-btc-account.md)
 * [Mobile App "Settings" menu](mobile-app/mobile-app-setting-menu/README.md)
-  * [Switch wallet mode](mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/README.md)
-    * [Biometric Wallet](mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/biometric-wallet.md)
-    * [Card type Wallet](mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/card-wallet.md)
-    * [Software Wallet](mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/software-wallet.md)
+  * [Manage All Wallets](mobile-app/mobile-app-setting-menu/manage-all-wallets/README.md)
+    * [Biometric Wallet](mobile-app/mobile-app-setting-menu/manage-all-wallets/biometric-wallet.md)
+    * [Card type Wallet](mobile-app/mobile-app-setting-menu/manage-all-wallets/card-wallet.md)
+    * [Software Wallet](mobile-app/mobile-app-setting-menu/manage-all-wallets/software-wallet.md)
 
 ## How to send/receive coin <a href="#coin-send-receive" id="coin-send-receive"></a>
 
