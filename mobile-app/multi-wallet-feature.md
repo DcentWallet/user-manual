@@ -6,8 +6,6 @@ With this new feature, you can easily manage different wallet modes—**Biometri
 
 To use the Multi-Wallet feature, **please update your D'CENT Mobile App to the latest version.**
 
-{% embed url="https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet" %}
-
 ## Wallet Management Button
 
 You can easily switch to another wallet by clicking the **“Wallet Management” button (Registered Wallets)** at the top left of the **My Wallet** tab.
