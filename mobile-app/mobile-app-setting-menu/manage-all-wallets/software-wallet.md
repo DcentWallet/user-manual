@@ -1,8 +1,16 @@
-# Software Wallet
+# App Wallet (Software)
+
+## Using the App Wallet
+
+You can start using the App Wallet by selecting **"Mobile App Wallet"** when you first launch the D'CENT mobile app after installation.
+
+Alternatively, if you are already using a cold wallet (Biometric Wallet or Card Wallet), you can also add an App Wallet by going to **"Settings > Manage All Wallets"** and selecting **"Add App Wallet"**.
+
+<figure><img src="../../../.gitbook/assets/AppWallet-01.png" alt=""><figcaption></figcaption></figure>
 
 ## App Wallet Backup
 
-When you first use the App Wallet, a message indicating the required backup (24 mnemonic code) for the App Wallet will be displayed.\
+When you first use the App Wallet, **a message indicating the required backup (24 mnemonic code)** for the App Wallet will be displayed.\
 In the D'CENT mobile app, a message indicating the required for backup is displayed at the top of the **"My Wallet"** tab, when adding a cryptocurrency account, and in the **"Settings"** tab.
 
 **Therefore, you must back up the 24 mnemonic code of the App Wallet and store it in a safe place.**
@@ -13,19 +21,25 @@ In the D'CENT mobile app, a message indicating the required for backup is displa
 
 **Please proceed in the following order to back up your wallet.**
 
+<figure><img src="../../../.gitbook/assets/AppWallet-02.png" alt=""><figcaption></figcaption></figure>
+
 **1)** Tap the **"Backup"** button on the top banner of the **"My Wallet"** tab, or go to the **"Settings"** tab and tap **"App Wallet backup"** to access the backup screen.
 
-<figure><img src="../../../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/AppWallet-03.png" alt=""><figcaption></figcaption></figure>
 
-**2)** Please enter the **6-digit password** for the mobile app.
+**2)** Please enter the **6-digit password** for the mobile app. (If biometric authentication is enabled in the mobile app, you can use it instead of entering the password.)
 
-**3)** Read the warning and tick the box. Press the **"Backup mnemonic code"** butto&#x6E;**.**
+**3)** Read the warning and tick the box. Press the **“Backup mnemonic code”** butto&#x6E;**.**
 
-**4)** After checking the warning pop-up for sensitive information, press the **“I understand”** button.
+**4)** After checking the warning pop-up for sensitive information, press the **"OK"** button.
 
-<figure><img src="../../../.gitbook/assets/image (263).png" alt=""><figcaption></figcaption></figure>
+**5)** **Write down all 24 words** in the exact order as shown on your screen.  You can also use the **"Copy to clipboard"** button to save temporarily in the clipboard. Press **"Verify mnemonic code"** button  to continue.&#x20;
 
-**4).**  **Write down all 24 words** in the exact order as shown on your screen.  You can also use the **"Share Mnemonic"** button to save temporarily in the clipboard. Press **"Verify mnemonic code"** button  to continue.&#x20;
+{% hint style="danger" %}
+**For secure asset management, be sure to write down your mnemonic code and store it in an offline environment, such as a notebook.**
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/AppWallet-04.png" alt=""><figcaption></figcaption></figure>
 
 **6)** Check the mnemonic code you wrote down, select the words displayed on the screen, and rearrange the mnemonic code in order.
 
@@ -33,7 +47,11 @@ In the D'CENT mobile app, a message indicating the required for backup is displa
 
 **8)** Press the **"Go to My Wallet tab"** button to complete the backup.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/3 (19).jpg" alt=""><figcaption></figcaption></figure></div>
+**9)** Now, you can tap the **"Add Account"** button to add the necessary **coin accounts**.&#x20;
+
+
+
+For detailed instructions on **adding coin accounts**, click [**here**](https://userguide.dcentwallet.com/mobile-app/create-account).
 
 ## App Wallet Recovery <a href="#recover_appwallet" id="recover_appwallet"></a>
 
@@ -41,24 +59,29 @@ You can recover your wallet by using the mnemonic code (24 recovery words).
 
 **Please proceed in the following order**
 
-**1)** Select "**App Wallet Recovery"** from the D'CENT Manager tab.
+<figure><img src="../../../.gitbook/assets/AppWallet-05.png" alt=""><figcaption></figcaption></figure>
 
-**2)** Please enter the **6-digit password** for the mobile app.
+**1)** Select **"App Wallet Recovery"** from the Manage All Wallets menu.
+
+**2)** Please enter the **6-digit password** for the mobile app. (If biometric authentication is enabled in the mobile app, you can use it instead of entering the password.)
 
 **3)** Read the warning and tick the box. Press the **"Recover App Wallet"** button to continue.
 
-**4)** **Enter all 24 words** in the exact order as you have written down. You can also use the "**Paste"** button to paste in the information from the clipboard. Press **"Recover"** to recover your wallet.&#x20;
+<figure><img src="../../../.gitbook/assets/AppWallet-06.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/9 (2).jpg" alt=""><figcaption></figcaption></figure>
+**4)** **Enter all 24 words** in the exact order as you have written down. You can also use the "**Paste"** button to paste in the information from the clipboard. After double-checking that the entered words are correct, press **"Recover"**
+
+**5)** Press the **"Recover"** button to proceed with the wallet recovery.
+
+**6)** Tap **"OK"** to complete the recovery process.
+
+**7)** After completing the recovery, you need to re-add your existing accounts to check your balances.\
+Tap the **"Add account"** button to add the accounts you previously managed.
 
 {% hint style="info" %}
 The mnemonic code from your software wallet can also be used to recover your wallet on the Biometric hardware wallet. \
 \
 Click here for more information about [**recovering your wallet**](../../../biometric-wallet/recovery/) on Biometric Wallet.
-{% endhint %}
-
-{% hint style="warning" %}
-**If you have recovered your wallet, you will need to add the account(s) you were using before to check the balance.**
 {% endhint %}
 
 ### Important notes after recovering your wallet
