@@ -81,7 +81,7 @@
 
 * [DApp browser (Discovery)](native-service/dapp-browser/README.md)
   * [Connecting your wallet to a dApp site](native-service/dapp-browser/connecting-your-wallet-to-a-dapp-site..md)
-  * [Switch Blockchain Network](native-service/dapp-browser/switch-blockchain-network.md)
+  * [Switch DApp Browser Account](native-service/dapp-browser/switch-dapp-browser-account.md)
   * [Using WalletConnect](native-service/dapp-browser/using-wallet-connect.md)
   * [How to revoke dApp allowances](native-service/dapp-browser/how-to-revoke-dapp-allowances.md)
 * [Insight](native-service/insight.md)

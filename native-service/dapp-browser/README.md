@@ -2,50 +2,62 @@
 
 D’CENT Mobile App features a native DApp browser that is built into the application, which allows accessing web-based blockchain services by connecting a wallet account to log in.
 
-![](<../../.gitbook/assets/Frame 1321315620.jpg>)
+![](<../../.gitbook/assets/Userguide_Dapp browser.png>)
 
 From the DApp browser, you can use **Ethereum-based DApp** such as Maker Dao, Compound, Uniswap, and **Kaia-based BApp** service such as KLAYSTATION.
 
 ## Using DApp service on the Discovery tab
 
+{% hint style="warning" %}
+This guide is based on **D’CENT mobile app version 8.0.0**.
+{% endhint %}
+
 You can use DApp service in the **"Discovery"** tab located at the bottom menu of the app. Here, it lists various services that can be used in conjunction with D’CENT wallet. You can simply click on a service to access the DApp.&#x20;
+
+<div align="left"><figure><img src="../../.gitbook/assets/Discovery-01.png" alt="" width="377"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 D'CENT App for the Android Phone will show a list of various 3rd party operated DApp services.
 
-**For iPhone, D'CENT App does not show a list of 3rd party DApp service due to Apple's policy.**
+**For iPhone, the list of third-party DApp services shown in the D'CENT app is limited due to Apple’s policy.**
 {% endhint %}
+
+<div align="left"><figure><img src="../../.gitbook/assets/Discovery-02.png" alt=""><figcaption></figcaption></figure></div>
+
+You can also view the list of DApp services grouped by type, such as **Staking**, **Exchange**, and **DeFi**.
+
+<div align="left"><figure><img src="../../.gitbook/assets/Discovery-03.png" alt="" width="377"><figcaption></figcaption></figure></div>
 
 Unlisted DApp services can be accessed by entering the **URL or through Google search.**
 
-![](<../../.gitbook/assets/Frame 1321315621.jpg>)
+![](../../.gitbook/assets/Discovery-04.png)
 
 ### Using the Bookmark function
 
 Users can save the visiting service site as a **"favorite (or bookmark)"**, which creates a **shortcut** for faster access the next time.
 
-<div align="left"><img src="../../.gitbook/assets/Frame 1321315622.jpg" alt=""></div>
+Favorites can be added in the following ways:
 
-**1)** Search for the name of the DApp service or enter the URL.
+**1) From the DApp service site**\
+Tap the **"More (⋮)" button** at the bottom of the site and select **"Add to favorites."**
 
-**2)** Click on the searched site.
+**2) From the Discovery tab service list**\
+Tap the **star icon** next to a service to add it to your favorites.
 
-**3)** From the service site accessed, click on the **"Bookmark"** icon located at the bottom.
+<div align="left"><img src="../../.gitbook/assets/Discovery-05.png" alt=""></div>
 
-<div align="left"><img src="../../.gitbook/assets/Frame 1321315623.jpg" alt=""></div>
+Added favorites can be found in the **“Favorite”** section of the **Discovery** tab. You can also remove a favorite by tapping the **star icon** again.
 
-**4)** Double check that the network used for accessing this site is correct and click on **"Add"** button.
-
-**5)** You can find that a new DApp service has been added as a favorite to the list in the Discovery Tab.
+<div align="left"><img src="../../.gitbook/assets/Discovery-06.png" alt=""></div>
 
 ## **Supported Networks**
 
-As of **June, 2025**, following networks are supported on D'CENT wallet's dapp-browser. More networks will be added overtime.
+As of **September, 2025**, following networks are supported on D'CENT wallet's dapp-browser. More networks will be added overtime.
 
 You can see how to switch blockchain network of dapp-browser in the below link.
 
-{% content-ref url="switch-blockchain-network.md" %}
-[switch-blockchain-network.md](switch-blockchain-network.md)
+{% content-ref url="switch-dapp-browser-account.md" %}
+[switch-dapp-browser-account.md](switch-dapp-browser-account.md)
 {% endcontent-ref %}
 
 ### Mainnet
@@ -58,8 +70,8 @@ You can see how to switch blockchain network of dapp-browser in the below link.
 * Tron
 * XDC Network
 * Avalanche C-Chain
-* Songbird
-* Flare
+* Songbird Canary-Network
+* Flare Network
 * Fantom Opera
 * KCC
 * Harmony
@@ -96,6 +108,9 @@ You can see how to switch blockchain network of dapp-browser in the below link.
 * Chiliz
 * Taiko Alethia
 * Berachain
+* Story Network
+* Camp Mainnet
+* Humanity Protocol
 
 ### Testnet
 
@@ -121,7 +136,7 @@ You can see how to switch blockchain network of dapp-browser in the below link.
 
 ## Listed Services
 
-As of **June, 2025,** following services are listed. For detailed information on each services, please visit the services sites.
+As of **September, 2025,** following services are listed. For detailed information on each services, please visit the services sites.
 
 * **Buy Cryptocurrency**\
   **Topper** ([https://app.topperpay.com](https://app.topperpay.com/)), **MoonPay** ([https://www.moonpay.io/](https://www.moonpay.io/)), **Simplex** ([https://buy.simplex.com/](https://buy.simplex.com/)) : Buy crypto using your payment or credit card

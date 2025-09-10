@@ -1,18 +1,24 @@
 # Connecting your wallet to a dApp site
 
-When visiting a decentralized application service (dApp service or blockchain based service), the website will **usually detect** the decentralized wallet being used and **will automatically trigger** wallet connection request. In this case, simply click on **"Connect"** button and your wallet gets connected to the website.
+## Accessing a DApp Site
 
-![](<../../.gitbook/assets/Frame 1321315624.jpg>)
+Follow the steps below to access a DApp site:
 
-When visiting a dApp service, wallet connection may not be triggered by the website. In this case, you can simply press the **"Connect Wallet"** button from the website menu.
+<figure><img src="../../.gitbook/assets/Discovery-07.png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/Frame 1321315625.jpg>)
+**1)** Select your desired service from the list or search for the DApp site using the search bar.
 
-If a website shows D'CENT as a wallet option, click on the logo to connect to the website (dApp).
+**2)** Check the service information (such as supported network) and the notice. Then, tick the checkbox **"I have read and agree to the above,"** and click the **“Go to Service”** button.
 
-If a website does not show D'CENT, you can click on either **Metamask or Web3** from the list and your D'CENT Wallet will be connected to the website (dApp).
+**3)** Once the DApp site opens, click the **“Connect”** button to connect your D'CENT wallet.
 
-{% hint style="info" %}
-**Web3 = D'CENT = Metamask**\
-Selecting any one of these options from the website will connect D'CENT wallet to the service.
-{% endhint %}
+## **Connect Wallet to a DApp Site**
+
+When you access a decentralized application (DApp) site, the website typically detects the blockchain wallet in use and automatically triggers a connection request.\
+At this point, review the account information being connected, then tap the **“Connect”** button to link your D'CENT wallet to the DApp site.
+
+<div align="left"><img src="../../.gitbook/assets/Discovery-08.gif" alt="" width="305"></div>
+
+Wallet connection may not be automatically triggered when visiting a DApp site. In this case, you can manually connect your wallet by clicking the **"Connect"** or **"Connect Wallet"** button from the site’s menu. Then, choose **"D’CENT"** or **"WalletConnect"** from the wallet connection options to link your D’CENT wallet to the DApp site.
+
+![](../../.gitbook/assets/Discovery-09.png)
