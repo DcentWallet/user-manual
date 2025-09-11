@@ -2,7 +2,7 @@
 
 D’CENT Mobile App features a native DApp browser that is built into the application, which allows accessing web-based blockchain services by connecting a wallet account to log in.
 
-![](<../../.gitbook/assets/Userguide_Dapp browser.png>)
+![](<../../.gitbook/assets/Userguide_Dapp browser_en.png>)
 
 From the DApp browser, you can use **Ethereum-based DApp** such as Maker Dao, Compound, Uniswap, and **Kaia-based BApp** service such as KLAYSTATION.
 
