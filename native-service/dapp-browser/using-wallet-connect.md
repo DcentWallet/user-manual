@@ -18,43 +18,39 @@ In this example, we will access a DApp called **PoolTogether**.&#x20;
 
 You will need your [D’CENT Mobile App](https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet\&utm_source=dcentwallet\&utm_campaign=mobileapp) and PC to access the DApp website.
 
-**1)** Go to the [**PoolTogether**](https://app.cabana.fi/) website from your browser and click on **"Connect Wallet"** button.
-
 ![](../../.gitbook/assets/Pooltogether-eng-01.png)
 
-**2.** Select **"WalletConnect"** from the list and you will get a **QR-Code**.&#x20;
+**1)** Go to the [**PoolTogether**](https://app.cabana.fi/) website from your browser and click on **"Connect Wallet"** button.
 
 ![](../../.gitbook/assets/Pooltogether-eng-02.png)
 
+**2)** Select **"WalletConnect"** from the list and you will get a **QR-Code**.&#x20;
+
 ### Connect from the **My Wallet** tab
 
-{% hint style="warning" %}
-Starting from D'CENT Mobile App version **v7.6.2 or higher**, you can also connect via the **"My Wallet"** tab using WalletConnect.
-{% endhint %}
+<div align="left"><figure><img src="../../.gitbook/assets/Discovery-11.png" alt=""><figcaption></figcaption></figure></div>
 
 **1)** Launch your D’CENT Mobile App, and **QR code scan icon** at the top right of the **"My Wallet"** tab.\
 Scan the QR code displayed on the PC screen.
 
 After confirming the DApp site address, account, and network information, tap the **"Connect"** button.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Pooltogether-eng-03.png" alt="" width="563"><figcaption></figcaption></figure></div>
+![](../../.gitbook/assets/Discovery-12.png)
 
 **2)** When your D’CENT Wallet address is connected to PoolTogether DApp, you will see the following screens on your mobile app and PC. **Notice the D’CENT wallet address on the top right corner of the PoolTogether DApp.**
 
-![](../../.gitbook/assets/Pooltogether-eng-04.png)
-
 ### Connect from the **Discovery** tab
+
+<div align="left"><figure><img src="../../.gitbook/assets/Discovery-13.png" alt=""><figcaption></figcaption></figure></div>
 
 **1)** Launch your D’CENT Mobile App, and **QR code scan icon** at the top left of the **"Discovery"** tab.\
 Scan the QR code displayed on the PC screen.
 
-After confirming the DApp site address, account, and network information, tap the **"Yes, I want"** button.
+After confirming the DApp site address, account, and network information, tap the **"Connect"** button.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Pooltogether-eng-05.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/Discovery-14.png" alt=""><figcaption></figcaption></figure>
 
 **2)** When your D’CENT Wallet address is connected to PoolTogether DApp, you will see the following screens on your mobile app and PC. **Notice the D’CENT wallet address on the top right corner of the PoolTogether DApp.**
-
-<figure><img src="../../.gitbook/assets/Pooltogether-eng-06.png" alt=""><figcaption></figcaption></figure>
 
 **NOTE :** When you perform a transaction on the DApp service you are using, you will be prompted to confirm the transaction on the D’CENT Wallet.
 
