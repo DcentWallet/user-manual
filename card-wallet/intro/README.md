@@ -25,7 +25,7 @@ The D'CENT All-in-One Wallet <mark style="color:red;">supports over 20+ Ethereum
 
 But the All-in-One Wallet is more than just a secure storage solution, it's a gateway to the decentralized world. The <mark style="color:red;">built-in dApp browser (Discovery)</mark> allows users to easily connect their wallets to a wide range of blockchain-based services, including Games, NFTs, NFT marketplaces, DeFi, lending and borrowing, the metaverse, and more. Another cool feature is the <mark style="color:red;">built-in NFT collectibles tab</mark>, which allows users to conveniently manage and display NFTs stored in their wallets.
 
-<figure><img src="../../.gitbook/assets/Card_Wallet_Intro(eng).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Card_Wallet_Intro(eng) (1).png" alt=""><figcaption></figcaption></figure>
 
 One of the key conveniences of the All-in-One Wallet is its [**unique backup method**](../dcent-backup-card-wallet-recovery/). Rather than using a traditional mnemonic code, <mark style="color:red;">the private key is backed up using state-of-the-art encryption technology, which securely transfers the private key to a spare Backup Card</mark>. This method is both easy to use and highly secure, giving users peace of mind that their assets are protected.
 
