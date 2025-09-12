@@ -40,7 +40,7 @@ To protect your **D'CENT mobile app**, you must set a **6-digit password**. This
 
 If you don't remember the 6-digit password, you will have to reinstall the D'CENT App.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Card-02.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Card-02 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 You can change your **app password** later through the app [**Settings menu**](https://userguide.dcentwallet.com/mobile-app/mobile-app-setting-menu)**.**&#x20;
