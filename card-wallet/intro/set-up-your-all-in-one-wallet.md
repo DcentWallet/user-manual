@@ -81,7 +81,7 @@ If you have a protective cover on your phone, it may interfere with scanning the
 
 When you first scan the All-in-One Wallet, a banner will appear prompting you to change the factory PIN.
 
-To use the All-in-One Wallet for sending coins or backing up the card, **you must change the factory PIN to your own PIN.**
+To use the All-in-One Wallet, **you must change the factory PIN to your own PIN**.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Card-06.png" alt=""><figcaption></figcaption></figure></div>
 
