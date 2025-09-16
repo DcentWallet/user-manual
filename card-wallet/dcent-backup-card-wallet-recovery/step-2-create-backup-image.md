@@ -12,11 +12,11 @@ To create a backup image,  please have your <mark style="background-color:green;
 
 **1)** Tap the banner at the top of the **"My Wallet"** tab or go to the **"Settings"** tab and select **"Backup"**.
 
-**2)** Tap **"Backup"** to proceed.
+**2)** Click on **"Backup"**.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Card-11 (2).png" alt=""><figcaption></figcaption></figure></div>
 
-**3)** Select **"Start Backup"**.
+**3)** Click on **"Start Backup"**.
 
 **4)** Tag the **All-in-One Wallet** to proceed.
 
@@ -24,7 +24,7 @@ To create a backup image,  please have your <mark style="background-color:green;
 Please make sure to <mark style="background-color:red;">**tag the "All-in-One Wallet"**</mark> and not the Backup Card.
 {% endhint %}
 
-**5)** A message **"This card can be backed up"** will appear, along with the number of available backups for your All-in-One Wallet will be displayed.
+**5)** A message **"This card can be backed up"** will appear, along with the number of available backups for your All-in-One Wallet will be displayed. Click on **"Confirm"** to continue.
 
 {% hint style="warning" %}
 The **available backup count** indicates how many times you can create a backup image for the All-in-One Wallet. **You can create up to 10 backup images.**

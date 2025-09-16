@@ -4,23 +4,27 @@
 
 To recover a backup image,  please have your <mark style="background-color:green;">**Backup Card**</mark> ready.
 
-<figure><img src="../../.gitbook/assets/1 (3).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Card-16.png" alt=""><figcaption></figcaption></figure>
 
-**1)** Go to the **"D'CENT Manager"** tab and click on **"Backup and Recover Card"**.&#x20;
+**1)** Click the **More (⋮) button** in the **"Settings"** tab.
 
-**2)** Click on **"Recover backup image"**.
+**2)** Select **"Recover Card"**.
 
 **3)** Click on **"Start Recovery"**.
 
-<figure><img src="../../.gitbook/assets/2 (6).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Card-17.png" alt=""><figcaption></figcaption></figure>
 
 **4)** On the back of your phone, **tag the Backup Card**.&#x20;
 
-**5)** Click on **"Next"** to continue.
+**5)** The message **"Recovery available card"** will be shown along with the number of available recovery attempts. Click on **"Confirm"** to continue.
 
-**6)** Click on the **"Paste"** button to paste in the encrypted backup image data. Click on **"Next"** to continue.
+{% hint style="warning" %}
+The number of recovery attempts indicates how many times you can try entering the backup image password. You are allowed up to **10 attempts**.
+{% endhint %}
 
-<figure><img src="../../.gitbook/assets/3 (2).jpg" alt=""><figcaption></figcaption></figure>
+**6)** Click on the **"Load"** button to paste in the encrypted backup image data. Click on **"Next"** to continue.
+
+<figure><img src="../../.gitbook/assets/Card-18.png" alt=""><figcaption></figcaption></figure>
 
 **7)** Enter the **encryption password** which was used to encrypt the backup image. Click on **"Next"** to continue.
 
@@ -28,10 +32,18 @@ To recover a backup image,  please have your <mark style="background-color:green
 
 **9)** On the back of your phone, **tap the Backup Card**.
 
-<div align="left"><figure><img src="../../.gitbook/assets/4 (2).jpg" alt=""><figcaption></figcaption></figure></div>
+**10)** When the message **"Backup image recovery completed"** appears, **click on "Close"** to finish the recovery process.
 
-**10)** Click on **"Next"** to complete the backup image recovery.
 
-**11)** Make sure to check that the Backup Card has been recovered successfully. \
-From the **"D'CENT Manager tab"**, click on **"Scan new card"**. On the back of your phone, tap the Backup Card to scan. &#x20;
 
+**The method to check whether the backup card has been successfully recovered is as follows:**
+
+<div align="left"><figure><img src="../../.gitbook/assets/Card-19.png" alt=""><figcaption></figcaption></figure></div>
+
+**1)** Click the **More (⋮) button** in the **"Settings"** tab.
+
+**2)** Select **"Scan New Card"**.
+
+**3)** On the back of your phone, **tag the Backup Card**.&#x20;
+
+**4)** If the message **"This card is a backup card"** is displayed, it means that the backup card has been successfully recovered. Please check whether the **address displayed on the screen** matches the **address shown on the original All-in-One Wallet**.
