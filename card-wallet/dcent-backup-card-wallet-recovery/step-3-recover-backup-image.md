@@ -34,9 +34,7 @@ The number of recovery attempts indicates how many times you can try entering th
 
 **10)** When the message **"Backup image recovery completed"** appears, **click on "Close"** to finish the recovery process.
 
-
-
-**The method to check whether the backup card has been successfully recovered is as follows:**
+## **How to check if the backup card has been successfully recovered**
 
 <div align="left"><figure><img src="../../.gitbook/assets/Card-19.png" alt=""><figcaption></figcaption></figure></div>
 
