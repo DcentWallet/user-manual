@@ -95,4 +95,11 @@ The withdrawal process is the same as the deposit process.
 
 **5)** Review the signature details in the wallet and complete the signing process using your fingerprint or PIN.
 
-**6)** Once the signature is completed, a message **"Withdrawal request succeed"** will be displayed, confirming that the withdrawal has been requested. You can check the withdrawn funds in your D’CENT Wallet under the XRP or XRPL token account.
+**6)** Once the signature is completed, a message **"Withdrawal request succeed"** will be displayed, confirming that the withdrawal has been requested. You can check the withdrawn funds in your D’CENT Wallet under the XRP or XRPL trustline account.
+
+{% hint style="danger" %}
+D'CENT does not directly operate Doppler Finance. D'CENT helps users easily connect their wallet to Doppler Finance and access the service through the Discovery tab. \
+For detailed inquiries regarding the service, **please contact the official Doppler Finance Discord channel** below.&#x20;
+
+* [Go to Doppler Finance Official Discord Channel](https://discord.com/invite/hvDrh3WXhr)
+{% endhint %}
