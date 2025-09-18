@@ -97,6 +97,28 @@ The withdrawal process is the same as the deposit process.
 
 **6)** Once the signature is completed, a message **"Withdrawal request succeed"** will be displayed, confirming that the withdrawal has been requested. You can check the withdrawn funds in your D’CENT Wallet under the XRP or XRPL trustline account.
 
+{% hint style="warning" %}
+It may take approximately **7 to 8 days** to receive the withdrawn funds in your D'CENT wallet after submitting a withdrawal request.
+{% endhint %}
+
+## Deposit and Withdrawal Terms by Vault
+
+Currently, **the deposit and withdrawal terms for each Vault** offered on Doppler Finance are as follows:
+
+**Prime Boost Vault**
+
+* **Deposit Cap**: 150M XRP
+* **APR**: Fixed 2.5% + 5% bonus APR for the first 5 weeks
+* **Lock-up Period**: Fixed 3 months
+* **Withdrawal Condition**: Withdrawals are not allowed during the lock-up period
+
+**Standard Vault**
+
+* **Deposit Cap**: 150M XRP
+* **APR**: Fixed 2.5%
+* **Lock-up Period**: None
+* **Withdrawal Condition**: Withdrawals can be requested immediately after deposit
+
 {% hint style="danger" %}
 D'CENT does not directly operate Doppler Finance. D'CENT helps users easily connect their wallet to Doppler Finance and access the service through the Discovery tab. \
 For detailed inquiries regarding the service, **please contact the official Doppler Finance Discord channel** below.&#x20;
