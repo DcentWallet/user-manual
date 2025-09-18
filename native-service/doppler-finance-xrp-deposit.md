@@ -4,6 +4,12 @@ hidden: true
 
 # Doppler Finance - XRP Deposit
 
+{% hint style="danger" %}
+**Access to the service is restricted in the following countries in accordance with Doppler Finance’s policy:**
+
+United States, People's Republic of China, Russia, Myanmar, Côte D'Ivoire, Cuba, Crimea and Sevastopol, Democratic Republic of Congo, Iran, Iraq, Libya, Mali, Nicaragua, Democratic People's Republic of Korea (North Korea), Somalia, Sudan, Syria, Yemen, Zimbabwe, or any other state, country, or region that is subject to sanctions enforced by Panama, the United Nations, or international regulatory bodies.
+{% endhint %}
+
 ## Introduction to the Doppler Finance
 
 Doppler Finance is an **XRPL-based native deposit and yield protocol** built to connect XRP holders with institutional-grade earning infrastructure. By combining **secure asset management, strong risk controls, and transparent operations**, Doppler enables users to generate **sustainable returns** on their XRP.
@@ -107,14 +113,15 @@ Currently, **the deposit and withdrawal terms for each Vault** offered on Dopple
 
 **Prime Boost Vault**
 
-* **Deposit Cap**: 150M XRP
-* **APR**: Fixed 2.5% + 5% bonus APR for the first 5 weeks
+* **Subscription Period:** 30 days starting from September 19, 2025 (UTC 6AM)
+* **Deposit Cap**:  1.5M XRP
+* **APR**: Fixed 2.5% + Additional 5% APR bonus provided by D'CENT during the first 5 weeks after the subscription period ends
 * **Lock-up Period**: Fixed 3 months
 * **Withdrawal Condition**: Withdrawals are not allowed during the lock-up period
 
 **Standard Vault**
 
-* **Deposit Cap**: 150M XRP
+* **Deposit Cap**:  1.5M XRP
 * **APR**: Fixed 2.5%
 * **Lock-up Period**: None
 * **Withdrawal Condition**: Withdrawals can be requested immediately after deposit
