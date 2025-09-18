@@ -90,7 +90,6 @@
 * [Exchange](native-service/exchange.md)
 * [FTSO Portal - vote delegation](native-service/ftso-portal-vote-delegation.md)
 * [Stacks Stacking Delegation Service](native-service/stacks-stacking-delegation-service.md)
-* [Doppler Finance - XRP Deposit](native-service/doppler-finance-xrp-deposit.md)
 
 ## Troubleshooting
 
@@ -99,6 +98,7 @@
 
 ## D'CENT EXTERNAL SERVICES <a href="#external-service" id="external-service"></a>
 
+* [Doppler Finance - XRP Deposit](external-service/doppler-finance-xrp-deposit.md)
 * [Connect with HashPack wallet extension (including HBAR native staking)](external-service/connect-with-hashpack-wallet-extension-including-hbar-native-staking.md)
 * [Connect with Blade wallet extension (including HBAR native staking)](external-service/connect-with-blade-wallet-extension-including-hbar-native-staking.md)
 * [Connect with MetaMask (QR-based)](external-service/qrbasedmetamask.md)
