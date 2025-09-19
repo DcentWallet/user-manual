@@ -29,7 +29,7 @@ Doppler Finance is supported only in **Biometric Wallet** and **App Wallet(Softw
 
 Once updated to the latest version, you can access the Dapp as follows.
 
-<div align="left"><figure><img src="../.gitbook/assets/Doppler-01.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/Doppler-01 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 **1)** Go to the **"Discovery"** Tab and click **"Doppler Finance"** from the list.
 
@@ -41,7 +41,7 @@ Once updated to the latest version, you can access the Dapp as follows.
 
 ## **How to deposit XRP via D’CENT Wallet**
 
-<figure><img src="../.gitbook/assets/Doppler-02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Doppler-02 (1).png" alt=""><figcaption></figcaption></figure>
 
 **1)** From the Doppler Finance main screen, select the desired **Vault** to deposit into.
 
@@ -53,7 +53,7 @@ Once updated to the latest version, you can access the Dapp as follows.
 **You can deposit an amount excluding the lock-up fee required for activating your XRP or XRPL trustline account.** If you click on the **"Max"** button, the amount will be automatically calculated, excluding the lock-up cost.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Doppler-03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Doppler-03 (1).png" alt=""><figcaption></figcaption></figure>
 
 **4)** Review the detailed terms of the vault and click the **"I have read and agree"** button to proceed.
 
@@ -65,7 +65,7 @@ Once updated to the latest version, you can access the Dapp as follows.
 
 ## How to check your deposit details
 
-<div align="left"><figure><img src="../.gitbook/assets/Doppler-04.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/Doppler-04 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 **1)** Click the **menu icon at the top right corner** of the Doppler Finance main screen.
 
@@ -73,7 +73,7 @@ Once updated to the latest version, you can access the Dapp as follows.
 
 **3)** On the **“My Account”** screen, you’ll see the total amount currently deposited.
 
-<div align="left"><figure><img src="../.gitbook/assets/Doppler-05.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/Doppler-05 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 **4)** Scroll down to view the list of Vaults.
 
@@ -83,7 +83,7 @@ Once updated to the latest version, you can access the Dapp as follows.
 
 The withdrawal process is the same as the deposit process.
 
-<figure><img src="../.gitbook/assets/Doppler-06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Doppler-06 (1).png" alt=""><figcaption></figcaption></figure>
 
 **1)** Select the **vault where you’ve deposited funds** from the Doppler Finance main screen.
 
@@ -91,7 +91,7 @@ The withdrawal process is the same as the deposit process.
 
 **3)** Enter the amount to withdraw, then click on **"Withdraw"** button
 
-<figure><img src="../.gitbook/assets/Doppler-07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Doppler-07 (1).png" alt=""><figcaption></figcaption></figure>
 
 **4)** Click on **"Sign"** button to proceed.
 
