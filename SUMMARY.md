@@ -50,6 +50,7 @@
     * [Biometric Wallet](mobile-app/mobile-app-setting-menu/manage-all-wallets/biometric-wallet.md)
     * [Card Wallet (All-in-One Wallet)](mobile-app/mobile-app-setting-menu/manage-all-wallets/card-wallet.md)
     * [App Wallet (Software)](mobile-app/mobile-app-setting-menu/manage-all-wallets/software-wallet.md)
+* [GasPass](mobile-app/gas-pass.md)
 
 ## How to send/receive coin <a href="#coin-send-receive" id="coin-send-receive"></a>
 
