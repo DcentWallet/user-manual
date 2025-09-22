@@ -90,6 +90,8 @@ In addition, the **TXID** will show the **issued coupon ID (gascouponid)**.
 
 Once the gas fee has been successfully paid with GasPass and the transaction is confirmed, the transaction status will update to **“Confirmed.”** The **TXID** will then be updated to the actual **transaction ID**.
 
+## How to Check GasPass Usage History
+
 <figure><img src="../.gitbook/assets/GasPass-09.png" alt=""><figcaption></figcaption></figure>
 
 By clicking the **“Usage History”** button in the GasPass menu, you can view a detailed breakdown of gas fees deducted for each transaction.
