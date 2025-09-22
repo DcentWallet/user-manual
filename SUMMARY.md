@@ -50,7 +50,6 @@
     * [Biometric Wallet](mobile-app/mobile-app-setting-menu/manage-all-wallets/biometric-wallet.md)
     * [Card Wallet (All-in-One Wallet)](mobile-app/mobile-app-setting-menu/manage-all-wallets/card-wallet.md)
     * [App Wallet (Software)](mobile-app/mobile-app-setting-menu/manage-all-wallets/software-wallet.md)
-* [GasPass](mobile-app/gas-pass.md)
 
 ## How to send/receive coin <a href="#coin-send-receive" id="coin-send-receive"></a>
 
@@ -88,6 +87,7 @@
 * [Insight](native-service/insight.md)
 * [Swap](native-service/swap.md)
   * [Supported Networks](native-service/swap/supported-networks.md)
+* [GasPass](native-service/gas-pass.md)
 * [Exchange](native-service/exchange.md)
 * [FTSO Portal - vote delegation](native-service/ftso-portal-vote-delegation.md)
 * [Stacks Stacking Delegation Service](native-service/stacks-stacking-delegation-service.md)
