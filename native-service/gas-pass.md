@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # GasPass
 
 GasPass is a feature that allows you to make transactions without worrying about gas fees by using coupons. By registering various coupons (vouchers) in the **“GasPass”** menu, the gas fees for transfers or swaps are automatically paid to the blockchain using your available coupons.
