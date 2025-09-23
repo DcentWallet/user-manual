@@ -38,4 +38,4 @@ To download the D'CENT mobile app for iOS, please click [here](https://apps.appl
 
 **Discovery** : It is a DApp browser that allows access to various Web3 services such as DeFi, DEX, and NFT marketplace. You can easily connect your D'CENT wallet by entering the URL in the search box, doing a Google search, or selecting the desired service from the **"LIST"**.
 
-**Settings** : Provides the ability to change app settings, such as changing the supported language, local currency, and password of the mobile app. Additionally, you can easily and conveniently change to the desired mode, such as **Biometric, Card**, or **App Wallet**, through **"Switch Wallet Mode".**
+**Settings** : Provides the ability to change app settings, such as changing the supported language, local currency, and password of the mobile app. Additionally, you can easily and conveniently manage **Biometric,** **Card**, and **App Wallet** types through the **"Manage All Wallets"** menu.
