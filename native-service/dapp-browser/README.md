@@ -160,5 +160,6 @@ As of **September, 2025,** following services are listed. For detailed informati
 * **KaiaPotter** ([https://kaiapotter.hashkey.cloud/#/?inApp=true](https://kaiapotter.hashkey.cloud/#/?inApp=true)) : A service that allows you to stake KAIA in a simple and safe way developed by Hashquark
 * **Skate Staking** ([https://amm.skatechain.org/stake](https://amm.skatechain.org/stake)) : A Dapp service that allows you to stake SKATE tokens through a multichain-native staking mechanism to contribute to network security and earn rewards.
 * **Intract Quests** ([https://quest.intract.io/](https://quest.intract.io/)) : A quest-based platform where users can interact with various Web3 projects and earn rewards.
+* **Doppler Finance** ([https://dcent.doppler.finance](https://dcent.doppler.finance)) : A DeFi service on XRPL that offers a deposit and yield protocol designed to provide stable returns.
 
 Many more great services will get added to the list over time.
