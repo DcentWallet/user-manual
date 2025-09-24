@@ -30,7 +30,7 @@ D'CENT Genuine OTG cable can be purchase from D'CENT official website.
 
 When D'CENT adds support to a new blockchain network, a new firmware will be available for installation. Your mobile app will show an indication when a newer version of the firmware is released.
 
-<div align="left"><figure><img src="../.gitbook/assets/1 (8).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/firmware-01 (3).png" alt=""><figcaption></figcaption></figure></div>
 
 ## Before you update the firmware
 
@@ -47,7 +47,7 @@ Unlike other products, your wallet will still remain safely intact inside the se
 {% endhint %}
 
 If you use a separate OTG device, it must be capable of data transfer.\
-Firmware update will take approximately 5\~10 minutes to complete.&#x20;
+Firmware update will take approximately 3 minutes to complete.&#x20;
 
 ## Updating the firmware from an Android phone
 
@@ -59,15 +59,15 @@ Depending on the OTG cable you own, connect the Biometric Wallet and the Android
 
 When the Biometric Wallet is connected with Android phone using the OTG device, a pop-up will show up on the phone's screen. Make sure you press **"OK"** to allow connection.
 
-<div align="left"><figure><img src="../.gitbook/assets/2 (11).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/firmware-02 (1).png" alt="" width="377"><figcaption></figcaption></figure></div>
 
-From the Settings Tab, click on **"Firmware Update"**.
+Click the **More Options (⋮) button** in the "Settings" tab and select **"Firmware Update."**
 
-<div align="left"><figure><img src="../.gitbook/assets/3 (8).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/firmware-03 (2).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Proceed with the firmware update
 
-<div align="left"><img src="../.gitbook/assets/펌웨어-eng03 (1).png" alt=""></div>
+<div align="left"><img src="../.gitbook/assets/firmware-04 (1).png" alt=""></div>
 
 **1)** Click on **"Update"** button.&#x20;
 
@@ -75,16 +75,16 @@ From the Settings Tab, click on **"Firmware Update"**.
 
 **3)** Click on **"Start the update"** button.&#x20;
 
-<div align="left"><img src="../.gitbook/assets/펌웨어-eng04.png" alt=""></div>
+<div align="left"><img src="../.gitbook/assets/firmware-05 (1).png" alt=""></div>
 
-**4)** Click on **"Reboot in bootloader mode"** button.&#x20;
+**4)** Click on **"Reboot to bootloader mode"** button.&#x20;
 
 **5)** Biometric Wallet will automatically reboot. When the pop-up shows up on your Phone's screen, make sure to press **"OK"** to allow connection.&#x20;
 
 **6)** Click on **"Keep updating"** button.
 
-<div align="left"><img src="../.gitbook/assets/펌웨어-eng05.png" alt="" width="563"></div>
+<div align="left"><img src="../.gitbook/assets/firmware-06.png" alt=""></div>
 
-**7)** Wait patiently (approximately 10 minutes) for the firmware update to complete. When the firmware update has completed, the Biometric Wallet will automatically reboot to its normal working mode.&#x20;
+**7)** Wait patiently (approximately 3 minutes) for the firmware update to complete. When the firmware update has completed, the Biometric Wallet will automatically reboot to its normal working mode.&#x20;
 
 **8)** Click on **"Go to My Wallet"** button to finish.
