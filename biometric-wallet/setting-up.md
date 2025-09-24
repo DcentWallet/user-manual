@@ -26,8 +26,9 @@ D'CENT Biometric Wallet is equipped with 4-buttons for navigation.
 
 To power on the device, press and hold the **"Power"** button for 3 seconds, which is located on the right-side.
 
-{% hint style="info" %}
-If the cold wallet does not power on, **please charge its battery using the USB cable** you have, and then turn it on.
+{% hint style="warning" %}
+If the cold wallet does not power on, **please charge its battery using the USB cable** you have, and then turn it on. \
+For safe battery charging, **please connect the charging adapter to the outlet first**, then charge the cold wallet.
 {% endhint %}
 
 ### Select Language
