@@ -59,7 +59,7 @@ If the permission popup does not appear, or if you accidentally clicked the **â€
 
 ## Bluetooth pairing with Cold Wallet
 
-**First, turn on the cold wallet, authenticate using your fingerprint or PIN.**
+**First, turn on the cold wallet, unlock using your fingerprint or PIN authentication.**
 
 You can connect your cold wallet to the D'CENT mobile app via Bluetooth using the following steps.
 
