@@ -59,48 +59,17 @@ If the permission popup does not appear, or if you accidentally clicked the **�
 
 ## Bluetooth pairing with Cold Wallet
 
-To use the **cold wallet** with the **mobile app**, **Bluetooth pairing** is required.&#x20;
+**First, turn on the cold wallet, authenticate using your fingerprint or PIN.**
 
-{% hint style="info" %}
-If you prefer **not to use Bluetooth**, you can also connect your **cold wallet to an Android phone** using an **OTG cable**. For detailed instructions, **please refer to** [**this guide**](android-otg.md).
-{% endhint %}
-
-### Step 1 : Checking the Cold Wallet Device ID
-
-You can check the device ID of your cold wallet using the following steps.
-
-<div align="left"><figure><img src="../../.gitbook/assets/그림1 (9).png" alt="" width="375"><figcaption></figcaption></figure></div>
-
-**1) Turn on the cold wallet**, authenticate using your **fingerprint or PIN**, then navigate to the **"Settings"** menu and press **"OK"** button.
-
-**2) Select the "Bluetooth" menu** and press  **"OK"** button.
-
-<div align="left"><figure><img src="../../.gitbook/assets/그림2 (10).png" alt="" width="375"><figcaption></figcaption></figure></div>
-
-**3)** Choose **"Android**" menu and press  **"OK"** button.
-
-**4)** On the **cold wallet screen**, the message **"Connecting..."** will be displayed along with the **Device ID** and **Bluetooth password**.
-
-The **D'CENT Device ID** is displayed in the format **D'CENT-iD-\<numbers or letters>**.&#x20;
-
-After checking the device ID, click the **Back (↩) button** on your cold wallet to return to the previous screen.
-
-{% hint style="danger" %}
-Starting from **D’CENT mobile app version 8.0.0**, the app no longer syncs with the cold wallet while it is in the **“Connecting...”** state.\
-Therefore, after confirming the device ID, make sure to **exit the Connecting screen** by clicking the Back (↩) button on the cold wallet in order to proceed with synchronization properly.
-{% endhint %}
-
-### Step 2 : Connecting with the D'CENT mobile app
-
-{% hint style="warning" %}
-This guide is based on **D’CENT mobile app version 8.0.0**. To update to the latest version, **click** [**here**](https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet).
-{% endhint %}
+You can connect your cold wallet to the D'CENT mobile app via Bluetooth using the following steps.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Android-5.png" alt=""><figcaption></figcaption></figure></div>
 
 **1)** Open the **D'CENT mobile app** and select **"Bluetooth icon"** at the top of the **"My Wallet"** tab.
 
-**2)** A **"Search Device"** popup will appear, displaying the **device name** that matches the **Device ID(D'CENT-iD-\<numbers or letters>)** shown on your cold wallet screen.
+**2)** A **"Search Device"** popup will appear, displaying the **Device ID(`D'CENT-iD-<numbers or letters>`)** of the cold walle&#x74;**.**&#x20;
+
+If you have multiple cold wallets, please refer to [**this guide**](./#how-to-check-the-device-id-when-you-have-multiple-cold-wallets) to check the device ID of each wallet.
 
 {% hint style="warning" %}
 If the device ID of your cold wallet does not appear in the **"Search Device"** popup, please make sure that **Bluetooth is enabled** in your Android phone’s settings. If you're unsure how to access the Bluetooth menu, please refer to [**this guide**](./#android-phone-bluetooth-settings).
@@ -115,9 +84,31 @@ If the device ID of your cold wallet does not appear in the **"Search Device"** 
 * A **connection indicator** will appear in the **top** of the **mobile app**.
 * A **blue Bluetooth connection light** will stay turned on in the **top right corner** of the **cold wallet**.
 
+{% hint style="info" %}
+If you prefer **not to use Bluetooth**, you can also connect your **cold wallet to an Android phone** using an **OTG cable**. For detailed instructions, **please refer to** [**this guide**](android-otg.md).
+{% endhint %}
+
 <div align="left"><figure><img src="../../.gitbook/assets/Android-7 (1).png" alt="" width="386"><figcaption></figcaption></figure></div>
 
 Now, you can tap the **"Add Account"** button to add the necessary **coin accounts**. For detailed instructions on **adding coin accounts**, click [**here**](../../mobile-app/create-account/).
+
+### **How to Check the Device ID When You Have Multiple Cold Wallets**
+
+Each biometric cold wallet has a unique device ID. If you have multiple cold wallets, you can check the device ID of each device using the following steps.
+
+<div align="left"><figure><img src="../../.gitbook/assets/그림1 (9).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+**1) Turn on the cold wallet**, authenticate using your **fingerprint or PIN**, then navigate to the **"Settings"** menu and press **"OK"** button.
+
+**2) Select the "Bluetooth" menu** and press  **"OK"** button.
+
+<div align="left"><figure><img src="../../.gitbook/assets/그림2 (10).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+**3)** Choose **"Android**" menu and press  **"OK"** button.
+
+**4)** On the cold wallet screen, the **Device ID(`D'CENT-iD-<numbers or letters>`)** will be displayed above the message "Connecting...".
+
+**After checking the device ID, make sure to press the Back (↩) button on your cold wallet to return to the previous screen.**
 
 
 
