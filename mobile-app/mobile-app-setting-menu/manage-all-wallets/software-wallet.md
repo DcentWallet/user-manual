@@ -61,7 +61,7 @@ You can recover your wallet by using the mnemonic code (24 recovery words).
 
 <figure><img src="../../../.gitbook/assets/AppWallet-05.png" alt=""><figcaption></figcaption></figure>
 
-**1)** Select **"App Wallet Recovery"** from the Manage All Wallets menu.
+**1)** Click the **"Settings > More (⋮) button"** and select the **"App Wallet Recovery"** menu.
 
 **2)** Please enter the **6-digit password** for the mobile app. (If biometric authentication is enabled in the mobile app, you can use it instead of entering the password.)
 
