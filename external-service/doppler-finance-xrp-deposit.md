@@ -104,11 +104,9 @@ It may take approximately **7 to 8 days** to receive the withdrawn funds in your
 {% endhint %}
 
 {% hint style="danger" %}
-D'CENT does not directly operate Doppler Finance. D'CENT helps users easily connect their wallet to Doppler Finance and access the service through the Discovery tab.&#x20;
+**D'CENT does not directly operate Doppler Finance.** D'CENT helps users easily connect their wallet to Doppler Finance and access the service through the Discovery tab.&#x20;
 
-Terms such as asset deposit and withdrawal conditions and interest rates (APR) are determined in accordance with the [**Terms of Use**](https://docs.doppler.finance/legal/terms-of-service) of Doppler Finance.
-
-**For detailed inquiries regarding the service, please contact Doppler Finance directly through the official channel below.**
+Terms such as asset deposit and withdrawal conditions and interest rates (APR) are determined in accordance with the **Terms of Use of Doppler Finance**. Please review the [**Terms of Use**](https://docs.doppler.finance/legal/terms-of-service) before using the service, and **contact Doppler Finance directly for further details.**
 
 * [Go to Doppler Finance Official Channel](https://discord.com/invite/hvDrh3WXhr)
 {% endhint %}
