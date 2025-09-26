@@ -103,28 +103,12 @@ The withdrawal process is the same as the deposit process.
 It may take approximately **7 to 8 days** to receive the withdrawn funds in your D'CENT wallet after submitting a withdrawal request.
 {% endhint %}
 
-## Deposit and Withdrawal Terms by Vault
-
-Currently, **the deposit and withdrawal terms for each Vault** offered on Doppler Finance are as follows:
-
-**Prime Boost Vault**
-
-* **Subscription Period:** 30 days starting from September 19, 2025 (UTC 6AM)
-* **Deposit Cap**:  1.5M XRP
-* **APR**: Fixed 2.5% + Additional 5% APR bonus provided by D'CENT during the first 5 weeks after the subscription period ends
-* **Lock-up Period**: Fixed 3 months
-* **Withdrawal Condition**: Withdrawals are not allowed during the lock-up period
-
-**Standard Vault**
-
-* **Deposit Cap**:  1.5M XRP
-* **APR**: Fixed 2.5%
-* **Lock-up Period**: None
-* **Withdrawal Condition**: Withdrawals can be requested immediately after deposit
-
 {% hint style="danger" %}
-D'CENT does not directly operate Doppler Finance. D'CENT helps users easily connect their wallet to Doppler Finance and access the service through the Discovery tab. \
-For detailed inquiries regarding the service, **please contact the official Doppler Finance Discord channel** below.&#x20;
+D'CENT does not directly operate Doppler Finance. D'CENT helps users easily connect their wallet to Doppler Finance and access the service through the Discovery tab.&#x20;
 
-* [Go to Doppler Finance Official Discord Channel](https://discord.com/invite/hvDrh3WXhr)
+Terms such as asset deposit and withdrawal conditions and interest rates (APR) are determined in accordance with the [**Terms of Use**](https://docs.doppler.finance/legal/terms-of-service) of Doppler Finance.
+
+**For detailed inquiries regarding the service, please contact Doppler Finance directly through the official channel below.**
+
+* [Go to Doppler Finance Official Channel](https://discord.com/invite/hvDrh3WXhr)
 {% endhint %}
