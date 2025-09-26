@@ -8,7 +8,7 @@ Whenever new coin support is added or bug fix has been made, a new firmware will
 Firmware update can be done from the PC or Mac.
 {% endhint %}
 
-<div align="left"><figure><img src="../../.gitbook/assets/1 (7).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/firmware-eng.png" alt="" width="377"><figcaption></figcaption></figure></div>
 
 ## Before you update the firmware
 
@@ -97,7 +97,7 @@ Depending on the firmware version of the **Biometric Wallet**, the update proces
 
 Now you can check the latest firmware information by running the D’CENT mobile app and connecting the Biometric Wallet.
 
-<div align="left"><figure><img src="../../.gitbook/assets/2 (10).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/firmware-2-eng.png" alt="" width="377"><figcaption></figcaption></figure></div>
 
 
 
