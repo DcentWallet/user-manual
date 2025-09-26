@@ -29,7 +29,7 @@ If you use an external camera device, please check if the camera supports the **
 
 ### \[Step 1] Preparing to connect with MetaMask in the D’CENT App
 
-<div align="left"><figure><img src="../.gitbook/assets/메타마스크-02.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/metamask-01.png" alt=""><figcaption></figcaption></figure></div>
 
 **1)** After running the D’CENT App, enter the **"Discovery"** tab.
 
@@ -39,13 +39,13 @@ If you do not have an EVM account, please refer to user guide [‘**How to creat
 
 **2)** Select **"MetaMask Integration"** from the list.
 
-**3)** Tap on **"Go"** button.
+**3)** Check the consent box, then click the **"Go to Service"** button.
 
-<div align="left"><figure><img src="../.gitbook/assets/메타마스크-03.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/metamask-02.png" alt=""><figcaption></figcaption></figure></div>
 
-**4)** On the MetaMask integration screen, click on **"Connect Metamask account"** button.
+**4)** Click on **"Select Account"** button.
 
-**5)** Select the account to be linked from the account selection list and click on **"Connect"** button.
+**5)** From the list, select the **EVM-based account (e.g., Ethereum)** you wish to connect.
 
 **6)** After confirming that the QR code is generated, Proceed to **\[Step 2]**.
 
@@ -107,31 +107,29 @@ _(In the case of a D’CENT account, it doesn’t matter which account you choos
 
 ### \[Step 2] Create a signature for the transaction using the D’CENT App
 
-<div align="left"><figure><img src="../.gitbook/assets/메타마스크-10.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/metamask-03.png" alt=""><figcaption></figcaption></figure></div>
 
 There are **two ways** to scan the **signature request QR code**:
 
-**1)** From D'CENT App, go to the **"Discovery"** tab and Click on **"Metamask QR Scan"** button.
+**1)** From D'CENT App, go to the **"Discovery"** tab and Click on **"MetaMask Integration > Select account to sign (e.g., Ethereum) > QR Scan"** button.
 
 **2)** Alternatively, tap the **"QR Scan"** button in the **top left corner** of the **"Discovery"** tab.
 
-<div align="left"><figure><img src="../.gitbook/assets/메타마스크-11.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/metamask-04.png" alt=""><figcaption></figcaption></figure></div>
 
 **3)** When the **QR scanning screen** appears, scan the **signature request QR code** generated in **\[Step 1]**.
 
-**4)** Verify the **recipient address**, then tap **"Continue"**.
+**4)** Verify the **recipient address**, then tap **"Sign"**.
 
-**5)** Check if the transaction details match the request from **MetaMask**, then tap **Sign**.
+<div align="left"><figure><img src="../.gitbook/assets/metamask-05 (1).png" alt=""><figcaption></figcaption></figure></div>
 
-<div align="left"><figure><img src="../.gitbook/assets/메타마스크-12.png" alt=""><figcaption></figcaption></figure></div>
+**5)** If you are using a **biometric cold wallet**, carefully review the displayed information once more. If everything is correct, press **"OK"**, then enter your **fingerprint or PIN**.
 
-**6)** If you are using a **biometric cold wallet**, carefully review the displayed information once more. If everything is correct, press **"OK"**, then enter your **fingerprint or PIN**.
+**6)** If you are using an **app wallet**, enter the **6-digit password** you set when you first launched the app.
 
-**7)** If you are using an **app wallet**, enter the **6-digit password** you set when you first launched the app.
+<div align="left"><figure><img src="../.gitbook/assets/metamask-06.png" alt="" width="389"><figcaption></figcaption></figure></div>
 
-<div align="left"><figure><img src="../.gitbook/assets/메타마스크-13.png" alt="" width="389"><figcaption></figcaption></figure></div>
-
-**8)** After signing, you can check the signature in QR code format.
+**7)** After signing, you can check the signature in QR code format.
 
 ### \[Step 3] Sending signed data to MetaMask
 
