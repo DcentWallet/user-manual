@@ -7,6 +7,7 @@ GasPass is a feature that allows you to make transactions without worrying about
 
 * Ethereum (ERC20)
 * Base (BASE-ERC20)
+* Solana (SPL-Token)
 {% endhint %}
 
 ## How to Register GasPass
