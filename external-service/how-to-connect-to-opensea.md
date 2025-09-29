@@ -10,15 +10,20 @@ For iOS, you will need to do a search by entering **"opensea"** in the search ba
 
 ![](../.gitbook/assets/Opensea\(1\).png)
 
-Access the OpenSea website and click the **"Connect"** button at the top right.\
-Select **"WalletConnect",** then tap **"Select Wallet"** and click **"Yes, I want"** button.
+Access the OpenSea website and click the **"Connect"** button at the top right.
 
-<figure><img src="../.gitbook/assets/Opensea(2).png" alt=""><figcaption></figcaption></figure>
+A wallet connection request will automatically be triggered by the OpenSea website.\
+Check the account information to be connected and click the **"Connect"** button to link your D'CENT Wallet to the dApp site.
+
+To complete the wallet connection, a signature request will be initiated.\
+Click the **"Sign in"** button, then verify with fingerprint or PIN in your wallet to finish the connection process.
+
+<figure><img src="../.gitbook/assets/Opensea(2) (2).png" alt=""><figcaption></figcaption></figure>
 
 OpenSea supports connections to various networks such as **Ethereum, Polygon, Base**, and **Optimism**.\
 To switch to a different network, tap the network icon at the top right, click **"Switch"**, and then select the desired network.
 
-![](../.gitbook/assets/Opensea\(3\).png)
+![](<../.gitbook/assets/Opensea(3) (1).png>)
 
 ## Connecting from PC (Using WalletConnect)
 
@@ -36,7 +41,7 @@ Open the D'CENT mobile app and tap the **QR code scan icon** at the top of the *
 Starting from D'CENT Mobile App version **v7.6.2 or higher**, you can also connect via the **"My Wallet"** tab using WalletConnect.
 {% endhint %}
 
-![](../.gitbook/assets/Opensea\(6\).png)
+![](<../.gitbook/assets/Opensea(6) (1).png>)
 
 For more details on how to use WalletConnect, please refer to the user guide below.
 
