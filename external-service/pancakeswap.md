@@ -14,7 +14,7 @@ This is guidance on how to use PancakeSwap which is a DeFi service based on Bina
 
 First, create an account of Binance Smart Chain.
 
-<div align="left"><img src="../.gitbook/assets/Pancakeswap(1).png" alt=""></div>
+<div align="left"><img src="../.gitbook/assets/Pancakeswap(1) (1).png" alt=""></div>
 
 **1)** Click **"Add account `+`"** button in the **"My Wallet"** tab
 
@@ -26,7 +26,7 @@ First, create an account of Binance Smart Chain.
 
 In order to use Binance Smart Chain based dapp services, switch the network to Binance Smart Chain.
 
-<div align="left"><img src="../.gitbook/assets/Pancakeswap(2).png" alt="" width="563"></div>
+<div align="left"><img src="../.gitbook/assets/Pancakeswap(2) (1).png" alt=""></div>
 
 **1)** Click **"Network(🌐)"** icon in the **"Discovery"** tab.
 
@@ -34,20 +34,18 @@ In order to use Binance Smart Chain based dapp services, switch the network to B
 
 ## Move to PancakeSwap site
 
-<div align="left"><img src="../.gitbook/assets/Pancakeswap(3).png" alt="" width="563"></div>
+<div align="left"><img src="../.gitbook/assets/Pancakeswap(3) (1).png" alt=""></div>
 
 **1)** Enter the URL([**https://pancakeswap.finance/**](https://pancakeswap.finance/)) of PancakeSwap in the input field in the **"Discovery"** tab.
 
-**2)** You can also use **"Bookmark"** feature to save the site as a shortcut for the next access.
+**2)** You can add a site to your favorites by clicking the **More (⋮) button** at the bottom of the **"Discovery"** tab and selecting **"Add to Favorites."**
 
 ## Connect Wallet
 
-<div align="left"><img src="../.gitbook/assets/Pancakeswap(4).png" alt=""></div>
+<div align="left"><img src="../.gitbook/assets/Pancakeswap(4) (1).png" alt=""></div>
 
 **1)** In order to connect D'CENT wallet with PancakeSwap, please click **"Connect"** button
 
-**2)** Choose **"Metamask"** in the wallet list.
+**2)** When the PancakeSwap site requests a wallet connection, check the account to be connected and click the **"Connect"** button.
 
-**3)** Select the **"Yes, I want"** button and connect your wallet.
-
-D'CENT wallet's dapp browser uses the Web3 interface to interact with dapp service as same as Metamask does. This means you can choose Metamask in the list, but you are actually using D'CENT Wallet to connect with the dapp services.
+**3)** You will see that your D'CENT Wallet is successfully connected to the PancakeSwap site.
