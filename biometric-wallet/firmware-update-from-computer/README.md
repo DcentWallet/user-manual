@@ -57,17 +57,17 @@ If you are ready, click [**here**](https://fwu.dcentwallet.com/) to go to the Fi
 
 **2)** When the browser prompts a connection popup, click the D'CENT device and click **"Connect"** button.&#x20;
 
-<figure><img src="../../.gitbook/assets/firmware-01 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/firmware-01 (4).png" alt=""><figcaption></figcaption></figure>
 
 If the connected **Biometric Wallet** is already running the latest firmware version, the following screen will be displayed.
 
-<div align="left"><figure><img src="../../.gitbook/assets/check-firmware.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/check-firmware (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 **3)** Click the **"Start the update"** button.
 
 **4)** Click the **"Reboot to bootloader mode"** button. Biometric Wallet is automatically rebooting into bootloader mode.
 
-<figure><img src="../../.gitbook/assets/firmware-02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/firmware-02 (2).png" alt=""><figcaption></figcaption></figure>
 
 When entering bootloader mode, the following screen appears on the display of the Biometric Wallet.
 
@@ -77,13 +77,13 @@ When entering bootloader mode, the following screen appears on the display of th
 
 **6)** When the browser prompts a connection popup, click the D'CENT device and click **"Connect"** button.&#x20;
 
-<figure><img src="../../.gitbook/assets/firmware-03 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/firmware-03 (3).png" alt=""><figcaption></figcaption></figure>
 
 **7)** Firmware update from the webpage will take approximately 3 minutes to reach 100%. Please wait.&#x20;
 
 **8)** From the Biometric Wallet, you can also check the progress of firmware update.
 
-<div align="left"><img src="../../.gitbook/assets/firmware-04.png" alt=""></div>
+<div align="left"><img src="../../.gitbook/assets/firmware-04 (2).png" alt=""></div>
 
 ### Completing the firmware update
 
@@ -93,7 +93,7 @@ When the firmware update is completed, the Biometric Wallet will automatically r
 Depending on the firmware version of the **Biometric Wallet**, the update process may need to be performed twice in succession.
 {% endhint %}
 
-<div align="left"><figure><img src="../../.gitbook/assets/firmware-05.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/firmware-05 (2).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 Now you can check the latest firmware information by running the D’CENT mobile app and connecting the Biometric Wallet.
 
