@@ -69,7 +69,7 @@ You can connect your cold wallet to the D'CENT mobile app via Bluetooth using th
 
 **2)** A **"Search Device"** popup will appear, displaying the **Device ID(`D'CENT-iD-<numbers or letters>`)** of the cold walle&#x74;**.**&#x20;
 
-If you have multiple cold wallets, please refer to [**this guide**](./#how-to-check-the-device-id-when-you-have-multiple-cold-wallets) to check the device ID of each wallet.
+Please refer to [**this guide**](./#how-to-check-the-device-id) on how to check the device ID of your cold wallet.
 
 {% hint style="warning" %}
 If the device ID of your cold wallet does not appear in the **"Search Device"** popup, please make sure that **Bluetooth is enabled** in your Android phone’s settings. If you're unsure how to access the Bluetooth menu, please refer to [**this guide**](./#android-phone-bluetooth-settings).
@@ -92,23 +92,17 @@ If you prefer **not to use Bluetooth**, you can also connect your **cold wallet 
 
 Now, you can tap the **"Add Account"** button to add the necessary **coin accounts**. For detailed instructions on **adding coin accounts**, click [**here**](../../mobile-app/create-account/).
 
-### **How to Check the Device ID When You Have Multiple Cold Wallets**
+### **How to Check the Device ID**
 
-Each biometric cold wallet has a unique device ID. If you have multiple cold wallets, you can check the device ID of each device using the following steps.
+Each biometric cold wallet has a unique device ID. You can check the device ID of each device using the following steps.
 
-<div align="left"><figure><img src="../../.gitbook/assets/그림1 (9).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Android-8.png" alt=""><figcaption></figcaption></figure></div>
 
 **1) Turn on the cold wallet**, authenticate using your **fingerprint or PIN**, then navigate to the **"Settings"** menu and press **"OK"** button.
 
-**2) Select the "Bluetooth" menu** and press  **"OK"** button.
+**2) Select the "Device Info." menu** and press  **"OK"** button.
 
-<div align="left"><figure><img src="../../.gitbook/assets/그림2 (10).png" alt="" width="375"><figcaption></figcaption></figure></div>
-
-**3)** Choose **"Android**" menu and press  **"OK"** button.
-
-**4)** On the cold wallet screen, the **Device ID(`D'CENT-iD-<numbers or letters>`)** will be displayed above the message "Connecting...".
-
-**After checking the device ID, make sure to press the Back (↩) button on your cold wallet to return to the previous screen.**
+**3)** On the Device Info screen, the **Device ID(`D'CENT-iD-<numbers or letters>`)** will be displayed&#x20;
 
 
 
