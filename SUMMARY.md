@@ -44,7 +44,7 @@
 * [How to create a coin account](mobile-app/create-account/README.md)
   * [How to add a custom token account](mobile-app/create-account/how-to-add-a-custom-token-account.md)
   * [How to remove (hide) a coin account](mobile-app/create-account/how-to-remove-hide-a-coin-account.md)
-  * [How to add a custom path BTC account](mobile-app/create-account/how-to-add-a-custom-path-btc-account.md)
+  * [How to add a custom path account](mobile-app/create-account/how-to-add-a-custom-path-account.md)
 * [Mobile App "Settings" menu](mobile-app/mobile-app-setting-menu/README.md)
   * [Manage All Wallets](mobile-app/mobile-app-setting-menu/manage-all-wallets/README.md)
     * [Biometric Wallet](mobile-app/mobile-app-setting-menu/manage-all-wallets/biometric-wallet.md)

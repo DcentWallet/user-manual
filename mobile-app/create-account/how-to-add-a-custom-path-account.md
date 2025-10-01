@@ -1,19 +1,21 @@
-# How to add a custom path BTC account
+# How to add a custom path account
 
 This guide details the instructions for adding a custom path BTC account.
 
-<div align="left"><figure><img src="../../.gitbook/assets/1 (19).jpg" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/custompath-01.png" alt=""><figcaption></figcaption></figure></div>
 
 **1)** Tap on **"Settings" tab**.
 
 **2)** Scroll down and tap **"Laboratory"**.
 
-**3)** Enable **"Custom Path Accounts"**.
+**3)** Enable **"Custom Path Account"**.
 
-<figure><img src="../../.gitbook/assets/2 (23).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/custompath-02.png" alt=""><figcaption></figcaption></figure>
 
 **4)** Navigate to the **"My Wallet"** tab and tap the **"Add Account`+` "** button.
 
 **5)** Search for BTC and select the entry with a number appended to BTC **(e.g., BTC - 5757)**.
 
 **6)** Name your account (optional) to complete the account addition.
+
+Likewise, you can also add custom path accounts for networks such as ETH or BNB.

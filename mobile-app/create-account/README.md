@@ -4,7 +4,7 @@
 
 From the **"My Wallet"** tab, click the **"Add account`+` "** button to create an account.
 
-<div align="left"><figure><img src="../../.gitbook/assets/1 (16).jpg" alt="" width="376"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Addaccount-01.png" alt="" width="365"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 In the case of using the **Biometric Wallet mode**, your Biometric Wallet must also be connect in order to create an account.
@@ -29,26 +29,26 @@ Click the [**"Crypto Asset Request"**](https://docs.google.com/forms/d/e/1FAIpQL
 
 ### When trying to add a token account without the fee account
 
-To create token accounts such as ERC20, BEP20, RRC20, and KCT, the corresponding mainnet account must be created first.
+To create token accounts such as **ERC20, BEP20, RRC20,** and **KCT**, the corresponding mainnet account must be created first.
 
 * To create ERC20 token account: Ethereum account is required
 * To create BEP20 token account: Binance smart chain account is required
 * To create RRC20 token account: RSK account is required
 * To create KCT token account: Kaia account is required
 
-<div align="left"><figure><img src="../../.gitbook/assets/4 (9).jpg" alt="" width="376"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Addaccount-02.png" alt="" width="365"><figcaption></figcaption></figure></div>
 
 ## Set Account Name
 
-After selecting the coin / token to add, please set the account name. If you click the **“Create”** button without entering a name, the default name will be displayed. The account name is the nickname for the account, and it is displayed in the account information of the mobile app and also on the Biometric Wallet.
+After selecting the coin / token to add, please set the account name. If you click the **“Add account”** button without entering a name, the default name will be displayed. The account name is the nickname for the account, and it is displayed in the account information of the mobile app and also on the Biometric Wallet.
 
-<div align="left"><figure><img src="../../.gitbook/assets/5 (6).jpg" alt="" width="376"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Addaccount-03.png" alt="" width="365"><figcaption></figcaption></figure></div>
 
 ## Account created successfully
 
 When the account creation is completed, your account will appear on the **"My Wallet"** tab screen. The account balance information is retrieved from the blockchain network.
 
-<div align="left"><figure><img src="../../.gitbook/assets/6 (5).jpg" alt="" width="376"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Addaccount-04.png" alt="" width="365"><figcaption></figcaption></figure></div>
 
 Now you can try SEND or RECEIVE from your account.
 
