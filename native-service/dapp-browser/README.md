@@ -136,7 +136,7 @@ You can see how to switch blockchain network of dapp-browser in the below link.
 
 ## Listed Services
 
-As of **September, 2025,** following services are listed. For detailed information on each services, please visit the services sites.
+As of **October, 2025,** following services are listed. For detailed information on each services, please visit the services sites.
 
 * **Buy Cryptocurrency**\
   **Topper** ([https://app.topperpay.com](https://app.topperpay.com/)), **MoonPay** ([https://www.moonpay.io/](https://www.moonpay.io/)), **Simplex** ([https://buy.simplex.com/](https://buy.simplex.com/)) : Buy crypto using your payment or credit card
@@ -161,5 +161,7 @@ As of **September, 2025,** following services are listed. For detailed informati
 * **Skate Staking** ([https://amm.skatechain.org/stake](https://amm.skatechain.org/stake)) : A Dapp service that allows you to stake SKATE tokens through a multichain-native staking mechanism to contribute to network security and earn rewards.
 * **Intract Quests** ([https://quest.intract.io/](https://quest.intract.io/)) : A quest-based platform where users can interact with various Web3 projects and earn rewards.
 * **Doppler Finance** ([https://dcent.doppler.finance](https://dcent.doppler.finance)) : A DeFi service on XRPL that offers a deposit and yield protocol designed to provide stable returns.
+* **Musikhan** ([https://line.khans.io/en](https://line.khans.io/en)) : Play on MusiKhan and step into the future of K-POP and RWA.
+* **Stake WCT** ([https://staking.walletconnect.network/](https://staking.walletconnect.network/)) : Stake to earn rewards, participate in governance and support the future decentralization of the network.
 
 Many more great services will get added to the list over time.
