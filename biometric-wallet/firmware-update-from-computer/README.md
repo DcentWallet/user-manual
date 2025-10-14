@@ -57,7 +57,7 @@ If you are ready, click [**here**](https://fwu.dcentwallet.com/) to go to the Fi
 
 **2)** When the browser prompts a connection popup, click the D'CENT device and click **"Connect"** button.&#x20;
 
-<figure><img src="../../.gitbook/assets/firmware-01 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/firmware-01.png" alt=""><figcaption></figcaption></figure>
 
 If the connected **Biometric Wallet** is already running the latest firmware version, the following screen will be displayed.
 
