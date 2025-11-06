@@ -120,7 +120,7 @@ Starting from Mobile App version **v5.3.1**, for assets that use **Ethereum-form
 
 If you restore a wallet using a mnemonic code from an external wallet but find that the address is different and assets are not visible, you may need to enable the **Custom Path Account** feature and manually add the corresponding **"Vendor Lock-In"** account.
 
-For detailed instructions on **Vendor Lock-In accounts**, click [**here**](https://userguide.dcentwallet.com/mobile-app/create-account).
+For detailed instructions on **Vendor Lock-In accounts**, click [**here**](https://userguide.dcentwallet.com/mobile-app/create-account/how-to-add-a-custom-path-account#add-a-vendor-lock-in-account).
 
 ## Change App Wallet Name
 
