@@ -174,7 +174,6 @@ For any inquiries regarding service usage, please first check the answers in our
 * [ChangeNow](https://support.changenow.io/hc/en-us)
 * [Changelly](https://support.changelly.com/en/support/home)
 * [1inch](https://help.1inch.io/en/)
-* [OKX Swap / Cross Chain](https://www.okx.com/help)
 * [Exolix](https://exolix.com/contact)
 * [ButterSwap](https://docs.butterswap.me/contact)
 * [SushiSwap](mailto://Truda@sushi.com)
