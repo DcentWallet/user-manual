@@ -1,8 +1,12 @@
 # Multi-Wallet Feature
 
-Starting from **D'CENT Mobile App version 7.5.1**, the **"Multi-Wallet"** feature is now available.
+{% hint style="warning" %}
+This guide is based on **D’CENT mobile app version 8.0.0**.
 
-With this new feature, you can easily manage different wallet modes—**Biometric Wallet, Card Wallet**, and **App Wallet**—as well as **multiple Cold Wallets(Biometric Wallet, Card Wallet)** directly from the updated My Wallet tab.
+**Please update the D'CENT mobile app to the latest version before using it.**
+{% endhint %}
+
+The **Multi-Wallet feature** allows **you to easily manage multiple cold wallets (Biometric Wallets and Card Wallets) and App Wallets on a single mobile phone.** For example, you can manage 2 Biometric Wallets, 3 Card Wallets, and 2 App Wallets all from one phone.
 
 To use the Multi-Wallet feature, **please update your D'CENT Mobile App to the latest version.**
 
@@ -50,15 +54,15 @@ If **App Wallet** is selected, it will be displayed as **"App Wallet".**
 
 
 
-## Managing Multiple Cold Wallets
+## Managing Multiple Wallets
 
-If multiple **cold wallets (Biometric or Card Wallets)** are registered on a single mobile device, you can quickly switch between them using the **“Wallet Management” button**.
+If **multiple** **wallets (Biometric, Card Wallets or App Wallets)** are registered on a single mobile device, you can quickly switch between them using the **“Wallet Management” button**.
 
 <div align="left"><figure><img src="../.gitbook/assets/MultiWallet-7.png" alt=""><figcaption></figcaption></figure></div>
 
 **1)** Tap the **"Wallet Management button"** at the top left corner of the **"My Wallet"** tab.
 
-**2)** From the list of registered wallets, select the **Cold Wallet(Biometric or Card Wallets)** you want to switch to.
+**2)** From the list of registered wallets, select the **Cold Wallet(Biometric, Card Wallets or App Wallets)** you want to switch to.
 
 <div align="left"><figure><img src="../.gitbook/assets/MultiWallet-8.png" alt=""><figcaption></figcaption></figure></div>
 
@@ -68,11 +72,7 @@ If multiple **cold wallets (Biometric or Card Wallets)** are registered on a sin
 
 
 
-For reference, when multiple cold wallets are registered, you can distinguish them by the **Device ID** (for Biometric Wallets) and **Wallet address** (for Card Wallets).
-
-<div align="left"><figure><img src="../.gitbook/assets/MultiWallet-9.png" alt=""><figcaption></figcaption></figure></div>
-
-Also, you can manage your cold wallets more efficiently by **changing the device name** based on each wallet’s purpose or owner.
+Also, you can manage your wallets more efficiently by **changing the wallet name** based on each wallet’s purpose or owner.
 
 (e.g., **Wallet01, BTConly, MyAssets, ETHwallet**, etc.)
 
@@ -80,5 +80,26 @@ For detailed instructions, please refer to the user guide below.
 
 * [**How to Change the Device Name of a Biometric Wallet**](https://userguide.dcentwallet.com/mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/biometric-wallet#check-device-information)
 * [**How to Change the Card Name**](https://userguide.dcentwallet.com/mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/card-wallet#card-info)
+* [**How to Change the App Wallet Name**](https://userguide.dcentwallet.com/mobile-app/mobile-app-setting-menu/manage-all-wallets/software-wallet#change-app-wallet-name)
 
 <div align="left"><figure><img src="../.gitbook/assets/MultiWallet-10.png" alt=""><figcaption></figcaption></figure></div>
+
+
+
+## Deleting Wallets
+
+**Starting from version 8.1.0 of the D'CENT mobile app**, you can now delete any registered wallet directly within the app. This feature allows you to remove unused wallets for better management.
+
+You can access the delete option by tapping the **"More (⋮) button"** in the **"Settings"** tab or by selecting the wallet you want to delete from the **Manage All Wallets** menu.
+
+<figure><img src="../.gitbook/assets/멀티월렛-eng11.png" alt=""><figcaption></figcaption></figure>
+
+The warning message shown when deleting a wallet differs depending on the wallet type (Biometric Wallet, Card Wallet, or App Wallet).
+
+<figure><img src="../.gitbook/assets/멀티월렛-eng12.png" alt=""><figcaption></figcaption></figure>
+
+**Please refer to the guide below before deleting a wallet to avoid potential asset loss:**
+
+* **Biometric Wallet**: After deleting, **you can reconnect the cold wallet via Bluetooth**, and all previously used accounts will be restored automatically.
+* **Card Wallet**: After deleting, you can re-scan the card to register it again, **but you must manually re-add any previously used accounts** to recover assets.
+* **App Wallet**: **Before deleting, make sure your mnemonic phrase is backed up.** Without a backup, your wallet and assets cannot be recovered. To recover, use the **Import Wallet** feature and enter the backed-up mnemonic phrase, then re-add your previous accounts.

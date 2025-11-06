@@ -1,5 +1,11 @@
 # App Wallet (Software)
 
+{% hint style="warning" %}
+This guide is based on **D’CENT mobile app version 8.0.0**.
+
+**Please update the D'CENT mobile app to the latest version before using it.**
+{% endhint %}
+
 ## Using the App Wallet
 
 You can start using the App Wallet by selecting **"Mobile App Wallet"** when you first launch the D'CENT mobile app after installation.
@@ -66,7 +72,7 @@ Starting from D’CENT Mobile App version **v8.1.0**, the **Multi App Wallet** f
 You can add a new App Wallet by selecting **"Add App Wallet" > "Create New Wallet"**, or import an existing wallet by selecting **"Import Wallet"** and entering the mnemonic phrase.
 
 {% hint style="warning" %}
-**Note:** You can add up to 100 App Wallets using the Multi App Wallet feature.
+**Note:** You can add **up to 100 App Wallets** using the Multi App Wallet feature.
 {% endhint %}
 
 ### Import Wallet
