@@ -1,7 +1,7 @@
 # App Wallet (Software)
 
 {% hint style="warning" %}
-This guide is based on **D’CENT mobile app version 8.0.0**.
+This guide is based on **D’CENT mobile app version 8.1.0**.
 
 **Please update the D'CENT mobile app to the latest version before using it.**
 {% endhint %}
