@@ -1,8 +1,12 @@
 # Card Wallet (All-in-One Wallet)
 
+{% hint style="warning" %}
+This guide is based on **D’CENT mobile app version 8.1.0**.
+{% endhint %}
+
 When your **Card Wallet** is connected, clicking the **More (⋮) button** in the **Settings** tab will display the following menu, as shown in the image.
 
-<figure><img src="../../../.gitbook/assets/Setting-21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Setting-21 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Scan new card
 
@@ -10,7 +14,7 @@ You can change the Card Wallet you want to use through the **"Scan new card"** m
 
 Click the **"Scan new card"** menu and tag the another Card Wallet.
 
-<figure><img src="../../../.gitbook/assets/Setting-22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Setting-22 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Change Card PIN
 
@@ -22,7 +26,7 @@ You can change the **6-digit PIN** of your currently used Card Wallet in the **�
 
 Please follow the steps below to change your PIN:
 
-<div align="left"><figure><img src="../../../.gitbook/assets/Setting-23.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/Setting-23 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 **1)** Select the **“Change Card PIN”** menu.
 
@@ -54,7 +58,7 @@ You can create a **backup image** of your Card Wallet to prepare for cases where
 **Creating a backup is strongly recommended to protect your assets.**
 {% endhint %}
 
-<div align="left"><figure><img src="../../../.gitbook/assets/Setting-25.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/Setting-25 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Click [**here**](https://userguide.dcentwallet.com/card-wallet/dcent-backup-card-wallet-recovery/step-2-create-backup-image) for detailed instructions on how to back up your Card Wallet.
 
@@ -66,7 +70,7 @@ If your Card Wallet is lost, damaged, or locked after 10 or more failed PIN atte
 **A Backup Card is required to perform the recovery.**
 {% endhint %}
 
-<div align="left"><figure><img src="../../../.gitbook/assets/Setting-26.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/Setting-26 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Click [**here**](https://userguide.dcentwallet.com/card-wallet/dcent-backup-card-wallet-recovery/step-3-recover-backup-image) for detailed instructions on how to recover your Card Wallet.
 
@@ -77,4 +81,14 @@ If a backup card is scanned, the message **"This is a backup card."** will be di
 
 And you can change the card name displayed in the **"My Wallet"** tab.
 
-<figure><img src="../../../.gitbook/assets/Setting-27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Setting-27 (1).png" alt=""><figcaption></figcaption></figure>
+
+## Delete Card
+
+**Starting from version 8.1.0 of the D'CENT mobile app**, a **"Delete Card"** menu is available for removing registered card wallets. This feature allows you to delete unused cold wallets directly within the mobile app for better wallet management.
+
+Deleting the card from the app **does not delete any of the private keys associated to the wallet accounts** you have created. You can re-scan the card to register it again, **but you must manually re-add any previously used accounts** to recover assets.
+
+When you tap the "Delete" button, you will be prompted to authenticate with either your **6-digit mobile app password or biometric verification** to proceed.
+
+<figure><img src="../../../.gitbook/assets/Setting-29.png" alt=""><figcaption></figcaption></figure>

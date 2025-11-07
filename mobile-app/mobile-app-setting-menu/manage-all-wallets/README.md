@@ -1,7 +1,7 @@
 # Manage All Wallets
 
 {% hint style="warning" %}
-This guide is based on **D’CENT mobile app version 8.0.0**.
+This guide is based on **D’CENT mobile app version 8.1.0**.
 {% endhint %}
 
 The **Manage All Wallets** menu allows you to easily manage all wallets registered in a single D’CENT mobile app.
@@ -28,7 +28,7 @@ For instructions on how to add each type of wallet, please refer to the user gui
 When you click the **More (⋮) button** next to a registered wallet, a management menu will appear.\
 From this menu, you can view and configure additional information related to the selected wallet, such as **firmware details**, **backup and recovery**, and more.
 
-<figure><img src="../../../.gitbook/assets/Setting-16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Setting-16 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Menu composition for each mode
 
