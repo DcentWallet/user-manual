@@ -1,5 +1,6 @@
 ---
 description: Send and Receive Monacoin (MONA)
+hidden: true
 ---
 
 # How to use MONA account
