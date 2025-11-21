@@ -71,7 +71,7 @@ From the Seed Check menu, you can check whether the mnemonic code (24 words or 2
 [25th-word-the-passphrase.md](25th-word-the-passphrase.md)
 {% endcontent-ref %}
 
-## Language Menu <a href="#undefined-2" id="undefined-2"></a>
+## Language Menu
 
 You can change the language used on the Biometric Wallet.
 
@@ -79,9 +79,8 @@ You can change the language used on the Biometric Wallet.
 
 **Language support : English, Korean, Chinese, Japanese, Spanish**
 
-## Device Info Menu <a href="#undefined-3" id="undefined-3"></a>
+## Device Info Menu
 
-You can check the Biometric Wallet device information from this menu.\
-
+You can check the Biometric Wallet device information from this menu.<br>
 
 <div align="left"><img src="../../.gitbook/assets/image (26).png" alt=""></div>
