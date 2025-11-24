@@ -84,7 +84,7 @@ Now, you can tap the **"Add Account"** button to add the necessary **coin accoun
 
 Each biometric cold wallet has a unique device ID. You can check the device ID of each device using the following steps.
 
-<div align="left"><figure><img src="../../.gitbook/assets/iOS-8 (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/iOS-8 (2).png" alt=""><figcaption></figcaption></figure></div>
 
 **1) Turn on the cold wallet**, authenticate using your **fingerprint or PIN**, then navigate to the **"Settings"** menu and press **"OK"** button.
 
