@@ -61,7 +61,9 @@ If the permission popup does not appear, or if you accidentally clicked the **â€
 
 **First, turn on the cold wallet, unlock using your fingerprint or PIN authentication.**
 
-You can connect your cold wallet to the D'CENT mobile app via Bluetooth using the following steps.
+<div align="left"><figure><img src="../../.gitbook/assets/unlock_wallet_eng.png" alt=""><figcaption></figcaption></figure></div>
+
+**You can connect your cold wallet to the D'CENT mobile app via Bluetooth using the following steps.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/Android-5.png" alt=""><figcaption></figcaption></figure></div>
 
@@ -96,7 +98,7 @@ Now, you can tap the **"Add Account"** button to add the necessary **coin accoun
 
 Each biometric cold wallet has a unique device ID. You can check the device ID of each device using the following steps.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Android-8.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Android-8 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 **1) Turn on the cold wallet**, authenticate using your **fingerprint or PIN**, then navigate to the **"Settings"** menu and press **"OK"** button.
 

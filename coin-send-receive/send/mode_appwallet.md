@@ -28,8 +28,7 @@ By setting it to **"Fast"** and paying more fees, it is likely that the processi
 
 **3)** Once you have set the amount and fee, click the **"Next"** button.
 
-**4)** Check if the transaction details displayed on the screen are correct and click the **"Send"** button.\
-
+**4)** Check if the transaction details displayed on the screen are correct and click the **"Send"** button.<br>
 
 ### Final confirmation from your App Wallet
 

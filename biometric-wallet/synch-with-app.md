@@ -26,4 +26,4 @@ Check whether there is a history of ever been synchronized with the Biometric Wa
 \
 **2)** Create an account that is not registered in the mobile app among the account information available from the Biometric Wallet. \
 \
-**3)** If you have account information in the Biometric Wallet, the existing accounts will be retrieved even if you delete the mobile app and reinstall it. \
+**3)** If you have account information in the Biometric Wallet, the existing accounts will be retrieved even if you delete the mobile app and reinstall it. <br>

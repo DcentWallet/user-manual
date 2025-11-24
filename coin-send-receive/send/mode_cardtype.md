@@ -15,8 +15,7 @@ To use the Card Wallet, the NFC function must be enabled from the settings of th
 * Press **"QR Scan"** to operate the camera and scan an address in QR code format.
 * Click **"Paste"** to enter the copied address.
 
-**3)** When the address is entered, click the **"Next"** button.\
-
+**3)** When the address is entered, click the **"Next"** button.<br>
 
 ### Enter the amount to send and set the fee
 

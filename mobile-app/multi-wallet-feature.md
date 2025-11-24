@@ -29,8 +29,7 @@ For instructions on how to add each type of wallet, please refer to the user gui
 * [**Biometric Wallet (Android)**](https://userguide.dcentwallet.com/biometric-wallet/android-connect)
 * [**Biometric Wallet (iPhone)**](https://userguide.dcentwallet.com/biometric-wallet/iphone-connect)
 * [**Card Wallet (All-in-One Wallet)**](https://userguide.dcentwallet.com/card-wallet/intro/set-up-your-all-in-one-wallet#set-up-the-all-in-one-wallet)
-* [**App Wallet (Software)**](https://userguide.dcentwallet.com/mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/software-wallet)\
-
+* [**App Wallet (Software)**](https://userguide.dcentwallet.com/mobile-app/mobile-app-setting-menu/mobile-app-dcent-walletmode/software-wallet)<br>
 
 ## **Changing to Another Wallet**
 

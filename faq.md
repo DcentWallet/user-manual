@@ -79,10 +79,8 @@ However, for an Ethereum transaction, a pending transaction can be canceled by s
 
 ## Ripple (XRP) remittance is not working. What are the precautions when sending to an Exchange?
 
-* After the transfer, the remaining balance in your account must be at least 10 XRP.  \
-
-* Balance before remittance-(remittance amount + commission)> = 10 XRP. \
-
+* After the transfer, the remaining balance in your account must be at least 10 XRP.  <br>
+* Balance before remittance-(remittance amount + commission)> = 10 XRP. <br>
 * Many exchanges require a Destination Tag when depositing XRP as an exchange. When sending money to an exchange, please make sure that the Destination Tag is required before sending money. If you do not fill in the Tag, your money may get lost forever or it may take a very long time for the Exchange to recover your fund.&#x20;
 
 ## Why is the remaining 10 XRP in my wallet not transferrable?
@@ -93,12 +91,9 @@ However, for an Ethereum transaction, a pending transaction can be canceled by s
 
 In most cases, it is the case that you entered the address incorrectly or it takes a long time due to low transaction fee paid.
 
-* If you received a coin, please check it on the mobile app.\
-
-* Try refreshing the account balances while remaining on the "Account" tab. Pull down the screen and release to refresh.\
-
-* Try searching the address from Block Explorer and check if the SEND / RECEIVE was successful.\
-
+* If you received a coin, please check it on the mobile app.<br>
+* Try refreshing the account balances while remaining on the "Account" tab. Pull down the screen and release to refresh.<br>
+* Try searching the address from Block Explorer and check if the SEND / RECEIVE was successful.<br>
   * You can search for "bitcoin explorer", "ethereum explorer", or "XRP explorer" in the search engine.\
     &#x20;
   * Usually, the following block explorers are used:\
@@ -108,12 +103,9 @@ In most cases, it is the case that you entered the address incorrectly or it tak
 
 ## I created many accounts but, now only few of them are actually used. Can't I only see the accounts that I want to see?
 
-* D'CENT Biometric Wallet shows all supported coins. \
-
-* The mobile app uses a method of adding an account, so please only add the account you actually use. If you added a lot of accounts for testing, you can delete all the account information by following the instruction as below. \
-
-  * To delete all accounts information on Biometric Wallet, go to \[Setting] -> \[Security] -> \[Delete Account].\
-
+* D'CENT Biometric Wallet shows all supported coins. <br>
+* The mobile app uses a method of adding an account, so please only add the account you actually use. If you added a lot of accounts for testing, you can delete all the account information by following the instruction as below. <br>
+  * To delete all accounts information on Biometric Wallet, go to \[Setting] -> \[Security] -> \[Delete Account].<br>
   * Re-add only the accounts you want to see from the mobile app.
 
 {% hint style="info" %}
@@ -132,8 +124,7 @@ For Android phones, you can use it by connecting with an OTG cable. Please click
 
 Since the D'CENT Biometric Wallet does not have internet network function, it is necessary to communicate with external software to transfer coins. We recommend using the D'CENT mobile app.
 
-* [iPhone app download ](https://apps.apple.com/kr/app/dcent-hardware-wallet/id1447206611)\
-
+* [iPhone app download ](https://apps.apple.com/kr/app/dcent-hardware-wallet/id1447206611)<br>
 * [Android app download](https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet)
 
 ## How secure is D'CENT Wallet? What features are included to enhance security?
@@ -142,10 +133,8 @@ D'CENT Wallet is a product made by top experts who have long worked in cryptogra
 \
 The following is a brief introduction to security considerations.
 
-* Using smart card security chip (credit card and bank sector certified for security) for secure key storage and secure processing of transaction signing \
-
-* Fingerprint algorithm is mounted on the smart card to process fingerprint information only within the security chip\
-
+* Using smart card security chip (credit card and bank sector certified for security) for secure key storage and secure processing of transaction signing <br>
+* Fingerprint algorithm is mounted on the smart card to process fingerprint information only within the security chip<br>
 * Proprietary Secure OS
 
 D'CENT Biometric Wallet has been subjected to security inspection by a third-party professionals in security auditing, and you can check the contents [here](https://medium.com/dcentwallet/coinspect-audit-of-the-dcent-wallet-b8a6cf50cfa4).&#x20;
@@ -163,10 +152,8 @@ Firmware update usually takes around 5 minutes. It may take up to 10 minutes. If
 
 Although highly unlike for D'CENT (IoTrust) to stop the wallet service, but if that situation ever happens, you will be able to continue managing your assets in the following ways.&#x20;
 
-* Customers manage assets by transferring funds to another wallets other than D'CENT.\
-
-* D'CENT will release the mobile app or software to the public for anyone to use or modify if the service is stopped.\
-
+* Customers manage assets by transferring funds to another wallets other than D'CENT.<br>
+* D'CENT will release the mobile app or software to the public for anyone to use or modify if the service is stopped.<br>
 * We are continually promoting integration with other popular software wallets. Customers will be offered a variety of options to choose from among several alternatives. &#x20;
 
 ## Is there a way for my family to access my wallet if I die or no longer able to manage my wallet for any other reasons?
@@ -174,8 +161,7 @@ Although highly unlike for D'CENT (IoTrust) to stop the wallet service, but if t
 The main information that allows managing your wallet are password, fingerprint, and recovery card. In case of emergency, you can manage it in the following way.&#x20;
 
 * Share recovery words&#x20;
-  * If you have shared the recovery word with your family, your family can use them to recover the assets.\
-
+  * If you have shared the recovery word with your family, your family can use them to recover the assets.<br>
 * Enroll second fingerprint&#x20;
   * You can enroll up to 2 fingerprints on the Biometric Wallet. If the second fingerprint is registered in the hardware, it can be used to unlock and access the funds inside.&#x20;
 
