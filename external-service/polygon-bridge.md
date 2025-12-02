@@ -1,5 +1,6 @@
 ---
 hidden: true
+noIndex: true
 ---
 
 # How to use Polygon Bridge

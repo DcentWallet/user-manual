@@ -1,5 +1,6 @@
 ---
 hidden: true
+noIndex: true
 ---
 
 # How to mint NFTs based on Polygon network using Opensea
