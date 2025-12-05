@@ -178,6 +178,8 @@ For any inquiries regarding service usage, please first check the answers in our
 * [ButterSwap](https://docs.butterswap.me/contact)
 * [SushiSwap](mailto://Truda@sushi.com)
 * [SwapScanner](mailto://contact@swapscanner.io)
+* [LiFi](https://discord.gg/jumperexchange)
+* [Rubic](https://docs.rubic.finance/contacts/support)
 {% endhint %}
 
 {% hint style="danger" %}
