@@ -2,7 +2,7 @@
 
 Swap service allows you to quickly and easily exchange one cryptocurrency for another.
 
-D'CENT Wallet's Swap service enables seamless crypto exchanges across various blockchains. To facilitate this, it integrates with aggregators such as 1inch, OKX, ChangeNOW, and Changelly.
+D'CENT Wallet's Swap service enables seamless crypto exchanges across various blockchains. To facilitate this, it integrates with aggregators such as 1inch, ChangeNOW, and Changelly.
 
 One of the key advantages of D'CENT Swap is that it provides bridging, cross-chain swaps, and regular swaps all within a single interface. For example, you can swap USDT on the Ethereum network for USDT on the Polygon network effortlessly.
 
