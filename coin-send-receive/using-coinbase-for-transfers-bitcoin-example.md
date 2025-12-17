@@ -69,7 +69,7 @@ From Coinbase, you can check the history of Recent Transactions. If the status i
 To send cryptocurrency to your D'CENT wallet account, you need to know the address. \
 From the mobile, press the '**Receive**' button to see the account address.
 
-<div align="left"><img src="broken-reference" alt=""></div>
+<div align="left"><img src="/broken/files/6E5yk5pVrHj1H2ZbFU8s" alt=""></div>
 
 There are 2 options to copy your account address(in hex form):\
 Option1) **Copy** - this will copy the address for pasting it to a message or email.\
