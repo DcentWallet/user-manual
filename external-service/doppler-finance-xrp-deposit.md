@@ -1,3 +1,8 @@
+---
+hidden: true
+noIndex: true
+---
+
 # Doppler Finance - XRP Deposit
 
 {% hint style="danger" %}
