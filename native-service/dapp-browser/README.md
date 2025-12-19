@@ -175,8 +175,8 @@ As of **December, 2025,** following services are listed. For detailed informatio
 * **Musikhan** ([https://line.khans.io/en](https://line.khans.io/en)) : Play on MusiKhan and step into the future of K-POP and RWA.
 * **Stake WCT** ([https://staking.walletconnect.network/](https://staking.walletconnect.network/)) : Stake to earn rewards, participate in governance and support the future decentralization of the network.
 * **SynFutures** ([https://oyster.synfutures.com/#/market  ](https://oyster.synfutures.com/#/market)) : A decentralized derivatives marketplace for everything from crypto to NFTs and Bitcoin hash rates.
-*   **MOMO.FUN** ([https://www.momo.fun/    ](https://www.momo.fun/)) : MOMO.FUN is the world’s first Meme + DeFi platform powered by AI Agent
+* **MOMO.FUN** ([https://www.momo.fun/  ](https://www.momo.fun/)) : MOMO.FUN is the world’s first Meme + DeFi platform powered by AI Agent
 
-    <br>
+
 
 Many more great services will get added to the list over time.
