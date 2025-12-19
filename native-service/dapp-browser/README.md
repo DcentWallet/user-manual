@@ -136,12 +136,12 @@ You can see how to switch blockchain network of dapp-browser in the below link.
 
 ## Listed Services
 
-As of **October, 2025,** following services are listed. For detailed information on each services, please visit the services sites.
+As of **December, 2025,** following services are listed. For detailed information on each services, please visit the services sites.
 
 * **Buy Cryptocurrency**\
   **Topper** ([https://app.topperpay.com](https://app.topperpay.com/)), **MoonPay** ([https://www.moonpay.io/](https://www.moonpay.io/)), **Simplex** ([https://buy.simplex.com/](https://buy.simplex.com/)) : Buy crypto using your payment or credit card
 * **Metamask Integreation** ([https://qrbase.dcentwallet.com/](https://qrbase.dcentwallet.com/)) : EVM compatible address in the D'CENT Wallet can be connected with the Metamask
-* **Astar portal** ([https://portal.astar.network/](https://portal.astar.network/)) : The official application service for using everything offered by Astar Network, including staking, cross-chain asset transfers, and bridges
+* **Astar portal** ([https://portal.astar.network/](https://portal.astar.network/)) : Astar Portal is the official Astar Network application for using everything that Astar Network offers.
 * **FTSO Portal** ([https://ftsoportal.com/](https://ftsoportal.com/)) : A service that allows users to delegate vote power to their preferred FTSO provider and earn rewards
 * **KLAYswap** ([https://klayswap.com/](https://klayswap.com/)) : Kaia-based DeFi service that allows for token exchange based on liquidity pool and deposit and staking through liquidity mining
 * **SwapScanner** ([https://swapscanner.io/ko](https://swapscanner.io/ko)) : A service that swap exchange token through major DEX aggregators and earns interest through cryptocurrency deposit
@@ -158,9 +158,12 @@ As of **October, 2025,** following services are listed. For detailed information
 * **OpenSea** ([https://opensea.io/](https://opensea.io/)) : NFT market place for Collectibles, Game items, Digital Arts, and more.
 * **Rarible** ([https://rarible.com/](https://rarible.com/)) : A creator-centered NFT marketplace service that allows you to easily create, buy, and sell items such as works of art and game items as NFTs.
 * **KaiaPotter** ([https://kaiapotter.hashkey.cloud/#/?inApp=true](https://kaiapotter.hashkey.cloud/#/?inApp=true)) : A service that allows you to stake KAIA in a simple and safe way developed by Hashquark
-* **Skate Staking** ([https://amm.skatechain.org/stake](https://amm.skatechain.org/stake)) : A Dapp service that allows you to stake SKATE tokens through a multichain-native staking mechanism to contribute to network security and earn rewards.
 * **Intract Quests** ([https://quest.intract.io/](https://quest.intract.io/)) : A quest-based platform where users can interact with various Web3 projects and earn rewards.
 * **Musikhan** ([https://line.khans.io/en](https://line.khans.io/en)) : Play on MusiKhan and step into the future of K-POP and RWA.
 * **Stake WCT** ([https://staking.walletconnect.network/](https://staking.walletconnect.network/)) : Stake to earn rewards, participate in governance and support the future decentralization of the network.
+* **SynFutures** ([https://oyster.synfutures.com/#/market  ](https://oyster.synfutures.com/#/market)) : A decentralized derivatives marketplace for everything from crypto to NFTs and Bitcoin hash rates.
+*   **MOMO.FUN** ([https://www.momo.fun/    ](https://www.momo.fun/)) : MOMO.FUN is the world’s first Meme + DeFi platform powered by AI Agent
+
+    <br>
 
 Many more great services will get added to the list over time.
