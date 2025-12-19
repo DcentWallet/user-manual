@@ -52,7 +52,7 @@ Added favorites can be found in the **“Favorite”** section of the **Discover
 
 ## **Supported Networks**
 
-As of **September, 2025**, following networks are supported on D'CENT wallet's dapp-browser. More networks will be added overtime.
+As of **December, 2025**, following networks are supported on D'CENT wallet's dapp-browser. More networks will be added overtime.
 
 You can see how to switch blockchain network of dapp-browser in the below link.
 
@@ -67,6 +67,7 @@ You can see how to switch blockchain network of dapp-browser in the below link.
 * Polygon
 * RSK
 * Kaia
+* Kaia Legacy
 * Tron
 * XDC Network
 * Avalanche C-Chain
@@ -82,6 +83,7 @@ You can see how to switch blockchain network of dapp-browser in the below link.
 * HECO
 * Celo
 * Cronos Chain
+* Energy Web Chain
 * OEC
 * Kaia-EVM
 * Oasys Games
@@ -111,6 +113,14 @@ You can see how to switch blockchain network of dapp-browser in the below link.
 * Story Network
 * Camp Mainnet
 * Humanity Protocol
+* JuChain
+* Sophon
+* MemeCore
+* Plume
+* Monad
+* opBNB
+* XPLAVerse
+* RIPPLE XRPL
 
 ### Testnet
 
@@ -133,6 +143,9 @@ You can see how to switch blockchain network of dapp-browser in the below link.
 * Monad Testnet
 * Edu Chain Testnet
 * XRPL EVM Testnet
+* Injective Testnet
+* Stable Testnet
+* XRP-TESTNET
 
 ## Listed Services
 
