@@ -2,54 +2,67 @@
 
 ### Supported Network List
 
-As of Aug 2025, the following blockchain networks are currently supported for the swap service. Additional blockchain networks are planned to be supported in the future.
+As of Dec 2025, the following blockchain networks are currently supported for the swap service. Additional blockchain networks are planned to be supported in the future.
 
-| Blockchain          | Supported Tokens                                         |
-| ------------------- | -------------------------------------------------------- |
-| Arbitrum One        | All Tokens                                               |
-| Avalanche C-Chain   | All Tokens                                               |
-| Base                | All Tokens                                               |
-| Binance Smart Chain | All Tokens                                               |
-| Cronos              | All Tokens                                               |
-| Ethereum            | All Tokens                                               |
-| Fantom Opera        | All Tokens                                               |
-| Gnosis              | All Tokens                                               |
-| Kaia                | All Tokens                                               |
-| OKX Chain           | All Tokens                                               |
-| Optimism            | All Tokens                                               |
-| Polygon             | All Tokens                                               |
-| SOLANA              | All Tokens                                               |
-| Algorand            | Algorand (ALGO), USD Coin (Algorand), Opulous (Algorand) |
-| Bitcoin             | Bitcoin (BTC)                                            |
-| Bitcoin Cash        | Bitcoin Cash (BCH)                                       |
-| Cardano             | Cardano (ADA)                                            |
-| Celo                | Celo (CELO), Celo Dollar (cUSD), Tether USD (USDT)       |
-| Conflux             | Conflux (CFX)                                            |
-| Constellation       | Constellation (DAG)                                      |
-| Cosmos              | Atom (ATOM)                                              |
-| Coreum              | Coreum (COREUM)                                          |
-| Dash                | Dash (DASH)                                              |
-| DigiByte            | DigiByte (DGB)                                           |
-| Dogecoin            | Dogecoin (DOGE)                                          |
-| eCash               | eCash (XEC)                                              |
-| Ethereum Classic    | Ethereum Classic (ETC)                                   |
-| Fantom Opera        | Fantom (FTM)                                             |
-| Filecoin            | Filecoin (FIL)                                           |
-| Filecoin EVM        | Filecoin (FIL)                                           |
-| Flare Network       | Flare Network (FLR)                                      |
-| Hedera Hashgraph    | Hedera Hashgraph (HBAR)                                  |
-| Horizen             | Horizen (ZEN)                                            |
-| Litecoin            | Litecoin (LTC)                                           |
-| NEAR Protocol       | NEAR (NEAR), Tether USD (USDT)                           |
-| MAP Protocol        | MAP Protocol (MAPO)                                      |
-| Polkadot            | Polkadot (DOT)                                           |
-| Ravencoin           | Ravencoin (RVN)                                          |
-| RSK Smart Bitcoin   | Rootstock Infrastructure Framework (RIF)                 |
-| Stacks              | Stacks (STX)                                             |
-| Stellar             | Stellar Lumen (XLM), USD Coin (USDC), Velo (VELO)        |
-| Tezos               | Tezos (XTZ)                                              |
-| TRON                | TRON (TRX)                                               |
-| VeChain             | VeChain (VET)                                            |
-| XDC (XinFin)        | XDC (XDC)                                                |
-| XRPL                | XRPL (XRP), Sologenic (SOLO)                             |
-| Zcash               | Zcash (ZEC)                                              |
+| Blockchain          | Supported Tokens                                                                                                                                                                                                      |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Arbitrum One        | All Tokens                                                                                                                                                                                                            |
+| Astar EVM           | All Tokens                                                                                                                                                                                                            |
+| Avalanche C-Chain   | All Tokens                                                                                                                                                                                                            |
+| Base                | All Tokens                                                                                                                                                                                                            |
+| Berachain           | All Tokens                                                                                                                                                                                                            |
+| Binance Smart Chain | All Tokens                                                                                                                                                                                                            |
+| Boba                | All Tokens                                                                                                                                                                                                            |
+| Cronos              | All Tokens                                                                                                                                                                                                            |
+| Ethereum            | All Tokens                                                                                                                                                                                                            |
+| Fantom Opera        | All Tokens                                                                                                                                                                                                            |
+| Gnosis              | All Tokens                                                                                                                                                                                                            |
+| Gravity Alpha       | All Tokens                                                                                                                                                                                                            |
+| Harmony             | All Tokens                                                                                                                                                                                                            |
+| HyperEVM            | All Tokens                                                                                                                                                                                                            |
+| Kaia                | All Tokens                                                                                                                                                                                                            |
+| Manta Pacific       | All Tokens                                                                                                                                                                                                            |
+| MAP Protocol        | All Tokens                                                                                                                                                                                                            |
+| Monad Mainnet       | All Tokens                                                                                                                                                                                                            |
+| OKX Chain           | All Tokens                                                                                                                                                                                                            |
+| Optimism            | All Tokens                                                                                                                                                                                                            |
+| Polygon             | All Tokens                                                                                                                                                                                                            |
+| Plume               | All Tokens                                                                                                                                                                                                            |
+| Scroll              | All Tokens                                                                                                                                                                                                            |
+| SOLANA              | All Tokens                                                                                                                                                                                                            |
+| Sonic               | All Tokens                                                                                                                                                                                                            |
+| Soneium             | All Tokens                                                                                                                                                                                                            |
+| Sophon              | All Tokens                                                                                                                                                                                                            |
+| XDC (XinFin)        | All Tokens                                                                                                                                                                                                            |
+| Algorand            | Algorand (ALGO), USD Coin (Algorand), Opulous (Algorand)                                                                                                                                                              |
+| Bitcoin             | Bitcoin (BTC)                                                                                                                                                                                                         |
+| Bitcoin Cash        | Bitcoin Cash (BCH)                                                                                                                                                                                                    |
+| Cardano             | Cardano (ADA)                                                                                                                                                                                                         |
+| Celo                | Celo (CELO), Celo Dollar (cUSD), Tether USD (USDT)                                                                                                                                                                    |
+| Conflux             | Conflux (CFX)                                                                                                                                                                                                         |
+| Constellation       | Constellation (DAG)                                                                                                                                                                                                   |
+| Cosmos              | Atom (ATOM)                                                                                                                                                                                                           |
+| Coreum              | Coreum (COREUM)                                                                                                                                                                                                       |
+| Dash                | Dash (DASH)                                                                                                                                                                                                           |
+| DigiByte            | DigiByte (DGB)                                                                                                                                                                                                        |
+| Dogecoin            | Dogecoin (DOGE)                                                                                                                                                                                                       |
+| eCash               | eCash (XEC)                                                                                                                                                                                                           |
+| Ethereum Classic    | Ethereum Classic (ETC)                                                                                                                                                                                                |
+| Fantom Opera        | Fantom (FTM)                                                                                                                                                                                                          |
+| Filecoin            | Filecoin (FIL)                                                                                                                                                                                                        |
+| Filecoin EVM        | Filecoin (FIL)                                                                                                                                                                                                        |
+| Flare Network       | Flare Network (FLR)                                                                                                                                                                                                   |
+| Hedera Hashgraph    | Hedera Hashgraph (HBAR)                                                                                                                                                                                               |
+| Horizen             | Horizen (ZEN)                                                                                                                                                                                                         |
+| Litecoin            | Litecoin (LTC)                                                                                                                                                                                                        |
+| NEAR Protocol       | NEAR (NEAR), Tether USD (USDT)                                                                                                                                                                                        |
+| Polkadot            | Polkadot (DOT)                                                                                                                                                                                                        |
+| Ravencoin           | Ravencoin (RVN)                                                                                                                                                                                                       |
+| RSK Smart Bitcoin   | Rootstock Infrastructure Framework (RIF)                                                                                                                                                                              |
+| Stacks              | Stacks (STX)                                                                                                                                                                                                          |
+| Stellar             | Stellar Lumen (XLM), USD Coin (USDC), Velo (VELO), Stronghold Token (SHX), Mobius (MOBI), Wirex Token (WXT)                                                                                                           |
+| Tezos               | Tezos (XTZ)                                                                                                                                                                                                           |
+| TRON                | TRON (TRX), Tether (USDT), USDD (USDD), TrueUSD (TUSD), JUST (JST), BitTorrent (BTT), Sun (SUN), APENFT (NFT), Sundog (SUNDOG), HTX (HTX), Bitcoin (BTC), WINk (WIN), Puss (PUSS), Sugar Boy (SUGAR), Suncat (SUNCAT) |
+| VeChain             | VeChain (VET), Hacken (HAI)                                                                                                                                                                                           |
+| XRPL                | XRPL (XRP), Sologenic (SOLO), PHNIX (PHNIX)                                                                                                                                                                           |
+| Zcash               | Zcash (ZEC)                                                                                                                                                                                                           |
