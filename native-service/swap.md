@@ -19,7 +19,7 @@ One of the key advantages of D'CENT Swap is that it provides bridging, cross-cha
 
 **2)** When you access the Swap service, a screen will appear where you can select the **From token (the token you are sending)** and the **To token (the token you will receive)**.
 
-<div align="left"><figure><img src="../.gitbook/assets/Swap-02.png" alt="" width="388"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/Swap-02 (1).png" alt="" width="388"><figcaption></figcaption></figure></div>
 
 
 
