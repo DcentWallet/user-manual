@@ -68,7 +68,6 @@ You can see how to switch blockchain network of dapp-browser in the below link.
 * RSK
 * Kaia
 * Kaia Legacy
-* Tron
 * XDC Network
 * Avalanche C-Chain
 * Songbird Canary-Network
@@ -129,7 +128,6 @@ You can see how to switch blockchain network of dapp-browser in the below link.
 * RSK Testnet
 * Flare Testnet Coston
 * Kaia Testnet Kairos
-* Tron Testnet Shasta
 * XDC Testnet APOTHEM
 * Harmony Testnet
 * Orbit Chain Testnet
