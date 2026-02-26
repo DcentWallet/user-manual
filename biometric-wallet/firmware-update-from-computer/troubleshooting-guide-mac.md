@@ -16,18 +16,17 @@ From the bootloader mode, you can try updating the firmware to recover your Biom
 
 In rare cases, Mac OS system fails to recognize the D’CENT wallet even though it was recognized before. This issue can be solved by checking the following in the system's settings.
 
-**1)** Go to About This Mac > Overview > System Report\
+&#x20;Go to About This Mac > Overview > System Report\
 Look under Hardware > USB > See if D'CENT is shown as in the picture below
 
 ![](<../../.gitbook/assets/fw-update-mac-os_01 (1).png>)
 
-**2)** Go to System Preferences > Security & Privacy\
-Check to see that System Events box is ticked on for the D'CENT Bridge
 
-![](../../.gitbook/assets/fw-update-mac-os_02.png)
 
 {% hint style="warning" %}
 If the Biometric Wallet is still not recognized, the issue may be caused by a faulty USB charging cable or a problem with the USB port on your PC.
+
+
 
 Please try using a different USB charging cable, switching to another USB port on your PC, or connecting to a different PC. When changing the USB charging cable, make sure it supports data transfer.
 {% endhint %}
