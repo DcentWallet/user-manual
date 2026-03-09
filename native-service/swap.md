@@ -180,6 +180,7 @@ For any inquiries regarding service usage, please first check the answers in our
 * [SwapScanner](mailto://contact@swapscanner.io)
 * [LiFi](https://discord.gg/jumperexchange)
 * [Rubic](https://docs.rubic.finance/contacts/support)
+* [Uniswap](https://support.uniswap.org/hc/en-us)
 {% endhint %}
 
 {% hint style="danger" %}
